@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Python | Monolith149 Daily]]></title>
-  <link href="http://10.0.0.23/octopress//blog/categories/python/atom.xml" rel="self"/>
-  <link href="http://10.0.0.23/octopress//"/>
-  <updated>2013-06-08T04:57:07-04:00</updated>
-  <id>http://10.0.0.23/octopress//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-06-08T05:08:27-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Try Some Code Using Gist]]></title>
-    <link href="http://10.0.0.23/octopress//blog/2013/05/18/try-some-code-using-gist/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code-using-gist/"/>
     <updated>2013-05-18T06:47:00-04:00</updated>
-    <id>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code-using-gist</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code-using-gist</id>
     <content type="html"><![CDATA[<p>Okay, now let&rsquo;s give this Gist thing a spin.  This is the same code
 but the sample is generated using a Gist repo from Github.</p>
 
@@ -30,9 +30,9 @@ maybe it&rsquo;s because I was using a private Gist.</p>
   
   <entry>
     <title type="html"><![CDATA[Try Some Code]]></title>
-    <link href="http://10.0.0.23/octopress//blog/2013/05/18/try-some-code/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code/"/>
     <updated>2013-05-18T06:21:00-04:00</updated>
-    <id>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code</id>
     <content type="html"><![CDATA[<p>Here&rsquo;s an example of a bit of code.  I was writing a Pong Python
 example that was being used in a class.</p>
 

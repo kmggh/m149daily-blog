@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://10.0.0.23/octopress//sitemap.xml 
+Sitemap: http://kmggh.github.io/m149daily-blog//sitemap.xml 

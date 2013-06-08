@@ -1,83 +1,93 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/firts-octopress-blog-post/</loc>
+        <loc>
+            http://kmggh.github.io/m149daily-blog//blog/2013/05/18/firts-octopress-blog-post/
+        </loc>
         <lastmod>2013-05-18T00:54:06-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/not-bad/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/not-bad/</loc>
         <lastmod>2013-05-18T00:54:26-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code/</loc>
         <lastmod>2013-05-18T06:23:15-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code-using-gist/</loc>
+        <loc>
+            http://kmggh.github.io/m149daily-blog//blog/2013/05/18/try-some-code-using-gist/
+        </loc>
         <lastmod>2013-05-18T07:03:59-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/a-90-second-image-of-m13/</loc>
+        <loc>
+            http://kmggh.github.io/m149daily-blog//blog/2013/05/18/a-90-second-image-of-m13/
+        </loc>
         <lastmod>2013-05-18T10:26:46-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/05/18/helioseismology-from-kepler/</loc>
+        <loc>
+            http://kmggh.github.io/m149daily-blog//blog/2013/05/18/helioseismology-from-kepler/
+        </loc>
         <lastmod>2013-05-18T10:52:43-04:00</lastmod>
     </url>
     <url>
         <loc>
-            http://10.0.0.23/octopress//blog/2013/06/06/determine-company-culture-in-an-interview/
+            http://kmggh.github.io/m149daily-blog//blog/2013/06/06/determine-company-culture-in-an-interview/
         </loc>
         <lastmod>2013-06-06T23:04:40-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/06/06/what-happened-to-down-time/</loc>
+        <loc>
+            http://kmggh.github.io/m149daily-blog//blog/2013/06/06/what-happened-to-down-time/
+        </loc>
         <lastmod>2013-06-06T23:10:53-04:00</lastmod>
     </url>
     <url>
         <loc>
-            http://10.0.0.23/octopress//blog/2013/06/06/three-storm-chasers-among-13-killed/
+            http://kmggh.github.io/m149daily-blog//blog/2013/06/06/three-storm-chasers-among-13-killed/
         </loc>
         <lastmod>2013-06-06T23:29:00-04:00</lastmod>
     </url>
     <url>
         <loc>
-            http://10.0.0.23/octopress//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/
+            http://kmggh.github.io/m149daily-blog//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/
         </loc>
         <lastmod>2013-06-06T23:57:29-04:00</lastmod>
     </url>
     <url>
         <loc>
-            http://10.0.0.23/octopress//blog/2013/06/08/there-is-no-such-word-as-performant/
+            http://kmggh.github.io/m149daily-blog//blog/2013/06/08/there-is-no-such-word-as-performant/
         </loc>
         <lastmod>2013-06-08T03:52:41-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/06/08/tornado-ef-rating/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/tornado-ef-rating/</loc>
         <lastmod>2013-06-08T04:10:28-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/2013/06/08/tatooine-ruins/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/tatooine-ruins/</loc>
         <lastmod>2013-06-08T04:33:23-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//</loc>
         <lastmod>2013-06-08T04:33:23-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//robots.txt</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//robots.txt</loc>
         <lastmod>2013-05-18T00:31:28-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//blog/archives/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//blog/archives/</loc>
         <lastmod>2013-06-08T04:33:23-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//about/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//about/</loc>
         <lastmod>2013-05-18T10:28:40-04:00</lastmod>
     </url>
     <url>
-        <loc>http://10.0.0.23/octopress//copyright/</loc>
+        <loc>http://kmggh.github.io/m149daily-blog//copyright/</loc>
         <lastmod>2013-05-18T07:22:11-04:00</lastmod>
     </url>
 </urlset>
