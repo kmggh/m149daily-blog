@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
+  <link href="http://10.0.0.23/octopress//blog/categories/astronomy/atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/octopress//"/>
+  <updated>2013-06-08T04:33:32-04:00</updated>
+  <id>http://10.0.0.23/octopress//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Helioseismology from Kepler]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/helioseismology-from-kepler/"/>
+    <updated>2013-05-18T10:40:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/helioseismology-from-kepler</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Helioseismology_pmode1.png"></p>
+
+<p>In light of the Kepler space observatory&rsquo;s malfunction, which may
+bring the mission to an early end, here&rsquo;s <a href="http://www.skyandtelescope.com/news/119467819.html">a nice overview of some of
+Kepler&rsquo;s contribution to stellar astrophysics from Sky and Telescope</a>.</p>
+
+<p><em>Image credit: Stanford University</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A 90-Second Image of M13]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/a-90-second-image-of-m13/"/>
+    <updated>2013-05-18T10:21:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/a-90-second-image-of-m13</id>
+    <content type="html"><![CDATA[<p>From <a href="https://twitter.com/makapala/status/335737083350097920">@makapala</a></p>
+
+<blockquote><p><a href="http://twitter.com/darkskyman">@darkskyman</a> took this 90 second snap
+of M13 at @TheAstroCamp a few weeks back
+<a href="http://flic.kr/p/ehSg4U">http://flic.kr/p/ehSg4U</a></p></blockquote>
+
+<p>Amazing!  90 seconds!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: interviews | Monolith149 Daily]]></title>
+  <link href="http://10.0.0.23/octopress//blog/categories/interviews/atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/octopress//"/>
+  <updated>2013-06-08T04:33:32-04:00</updated>
+  <id>http://10.0.0.23/octopress//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Determine Company Culture in an Interview]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/06/06/determine-company-culture-in-an-interview/"/>
+    <updated>2013-06-06T22:58:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/06/06/determine-company-culture-in-an-interview</id>
+    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/mashable/status/342195772823056384">@Mashable</a></p>
+
+<p><a href="http://mashable.com/2013/06/05/determine-company-culture/">Article</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blogging | Monolith149 Daily]]></title>
+  <link href="http://10.0.0.23/octopress//blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/octopress//"/>
+  <updated>2013-06-08T04:33:32-04:00</updated>
+  <id>http://10.0.0.23/octopress//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Not Bad!]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/not-bad/"/>
+    <updated>2013-05-18T00:51:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/not-bad</id>
+    <content type="html"><![CDATA[<p>This isn&rsquo;t bad at all.  The default look and feel is pretty nice, actually.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Octopress Blog Post]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/firts-octopress-blog-post/"/>
+    <updated>2013-05-18T00:39:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/firts-octopress-blog-post</id>
+    <content type="html"><![CDATA[<p>Well, yep, this is my first blog post using Octopress and Markdown,
+which I think this is supposed to be.</p>
+
+<p>It should have paragraphs and even sections.</p>
+
+<h2>Section 2</h2>
+
+<p>I&rsquo;m just thinking about other blogging platforms.  This one <em>might</em> be
+worth considering.</p>
+]]></content>
+  </entry>
+  
+</feed>

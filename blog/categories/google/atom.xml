@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: google, | Monolith149 Daily]]></title>
+  <link href="http://10.0.0.23/octopress//blog/categories/google/atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/octopress//"/>
+  <updated>2013-06-08T04:33:32-04:00</updated>
+  <id>http://10.0.0.23/octopress//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Google Authenticator for SSH Two-Factor Authentication]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/"/>
+    <updated>2013-06-06T23:20:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Google-Authenticator.png"></p>
+
+<p><a href="http://scottlinux.com/2013/06/02/use-google-authenticator-for-two-factor-ssh-authentication-in-linux/">Use Google Authenticator For Two-Factor SSH Authentication in
+Linux</a> at scottlinux.com.</p>
+]]></content>
+  </entry>
+  
+</feed>

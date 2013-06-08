@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Python | Monolith149 Daily]]></title>
+  <link href="http://10.0.0.23/octopress//blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/octopress//"/>
+  <updated>2013-06-08T04:33:32-04:00</updated>
+  <id>http://10.0.0.23/octopress//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Try Some Code Using Gist]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/try-some-code-using-gist/"/>
+    <updated>2013-05-18T06:47:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code-using-gist</id>
+    <content type="html"><![CDATA[<p>Okay, now let&rsquo;s give this Gist thing a spin.  This is the same code
+but the sample is generated using a Gist repo from Github.</p>
+
+<p><em>I embedded the gist reference here but I don&rsquo;t know how to quote it properly.</em></p>
+
+<p>How does that look?  Result:  It didn&rsquo;t work.  I&rsquo;m not sure why.
+maybe it&rsquo;s because I was using a private Gist.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Try Some Code]]></title>
+    <link href="http://10.0.0.23/octopress//blog/2013/05/18/try-some-code/"/>
+    <updated>2013-05-18T06:21:00-04:00</updated>
+    <id>http://10.0.0.23/octopress//blog/2013/05/18/try-some-code</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s an example of a bit of code.  I was writing a Pong Python
+example that was being used in a class.</p>
+
+<p>``` python
+class Position(Vector):
+  &ldquo;&rdquo;&ldquo;The x, y position of an object.&rdquo;&ldquo;&rdquo;</p>
+
+<p>class Velocity(Vector):
+  &ldquo;&rdquo;&ldquo;The x, y velocity components of an object.&rdquo;&ldquo;&rdquo;</p>
+
+<p>class Ball(object):
+  &ldquo;&rdquo;&ldquo;A ball with a position and velocity.&rdquo;&ldquo;&rdquo;</p>
+
+<p>  def <strong>init</strong>(self, pos, vel):</p>
+
+<pre><code>"""Initialize the position and velocity."""
+
+self.pos = pos
+self.vel = vel
+</code></pre>
+
+<p>  def move(self, deltat):</p>
+
+<pre><code>"""Move the ball over a period of delta t."""
+
+self.pos.x += self.vel.x * deltat
+self.pos.y += self.vel.y * deltat
+</code></pre>
+
+<p>```</p>
+]]></content>
+  </entry>
+  
+</feed>
