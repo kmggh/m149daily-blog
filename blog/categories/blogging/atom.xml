@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-06-09T22:54:38-04:00</updated>
+  <updated>2013-06-10T06:47:29-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -22,8 +22,7 @@
 
 <p>Okay, it&rsquo;s apparently once again time to take the leap.  I&rsquo;m moving
 Monolith149 Daily from Blogger, where it&rsquo;s lived since May of 2006.
-The new home is a combination of writing posts in Markdown, created by
-John Gruber at Daring Fireball, on a local
+Its new home is a combination of writing posts in Markdown on a local
 machine, generating a static blog using Octopress, and publishing the
 blog on Github Pages.</p>
 
@@ -31,112 +30,120 @@ blog on Github Pages.</p>
 
 
 <p>I&rsquo;ve enjoyed the convenience of editing in Blogger and posting on
-Blogspot.  However, increasing concerns over never knowing what Google
-might do without warning, along with Google&rsquo;s new goal to &ldquo;organize
-the world&rsquo;s information and make it exclusively available to logged-in
-users on Google Plus,&rdquo; I&rsquo;ve felt a growing urge to move my data back
-home.</p>
+Blogspot.  However, with Google&rsquo;s incessant and sometimes tone deaf
+push toward Google Plus, and other concerns about my data there, I&rsquo;ve
+felt a growing urge to make a change.</p>
 
 <p>In spite of that, I&rsquo;m still an avid and nearly hourly user of Google&rsquo;s
-vast supply of services and apps. I&rsquo;ve used Gmail from the beginning,
-and I still enjoy Google documents and app engine.</p>
+vast supply of services and apps such as Gmail and documents.</p>
 
 <h2>So Far</h2>
 
 <p>Before the last move to Blogger in 2006, I was using Blosxom which was
-also a text-file-based source system.  Blosxom was a Perl program (as
-I recall) that generated the web pages on the fly, dynamically, from
-the text sources.  It ran on Monolith, which was my desktop computer
-for along time, and was also my web server.  That&rsquo;s because this was
-in the &ldquo;old days&rdquo; when the university didn&rsquo;t have a firewall and <em>all</em>
-of the desktop computers were on the Internet.  (Along with all you&rsquo;d
-expect to follow).</p>
+also a text-file-based source system.  As I recall, Blosxom was a Perl
+program that dynamically generated web pages on the fly from the text
+sources.  It ran on Monolith, which was my desktop computer for a long
+time, and was also my web server.  That&rsquo;s because this was in the &ldquo;old
+days&rdquo; when the university didn&rsquo;t have a firewall and <em>all</em> of the
+desktop computers were on the Internet.  That arrangement also
+resulted in all you&rsquo;d expect to follow.</p>
 
-<p>Blosxom began to bog down as the number of posts and years grew.  In
-addition, it seemed wise then to move my personal blog to a more
-personal place that was &ldquo;my own,&rdquo; if you could define a blog on
-Blogspot that way.</p>
+<p>Blosxom began to bog down as the years and number of posts grew. It
+also seemed wise then to move my personal blog to a place that didn&rsquo;t
+belong to my employer.</p>
 
-<p>When I began blogging (I recently wrote about the <a href="http://monolith149daily.blogspot.com/2011/09/nine-years-ago.html">ninth</a> and <a href="http://monolith149daily.blogspot.com/2012/12/ten-years-of-blogging.html">tenth</a>
-anniversaries) back in 2002, I was writing the blogs on Blogger and keeping the
+<p>Back in 2002 when I began blogging (I recently wrote about the
+<a href="http://monolith149daily.blogspot.com/2011/09/nine-years-ago.html">ninth</a>
+and
+<a href="http://monolith149daily.blogspot.com/2012/12/ten-years-of-blogging.html">tenth</a>
+anniversaries), I was writing the blogs on Blogger and keeping the
 source there.  But I ftp-published them back to my desktop, Monolith,
 where they were served from.</p>
 
-<p>Lately there&rsquo;s been a lot of buzz from bloggers, and people who look
-like bloggers, about Markdown.  I finally dipped into Markdown a bit
-when I began experimenting with using Github.  From my point of view,
-it&rsquo;s nearly the same as many wiki markup schemes that have been around
-for a long time, so it&rsquo;s very easy.</p>
+<h2>A New Text Age</h2>
+
+<p>Lately, there&rsquo;s been a lot of buzz from bloggers, and people who look
+like bloggers, about Markdown. It&rsquo;s a simple text mark up language
+created by John Gruber.  I finally dipped into Markdown a bit when I
+began experimenting with Github.  From my point of view, it&rsquo;s nearly
+the same as many wiki markup schemes that have been around for a long
+time.  It&rsquo;s both very easy and familiar.</p>
 
 <p>I miss some of the ability to do things like adjust text size, change
-fonts, etc.  But, the trade off is that the original content is in a
-source language that should be, in theory, easy to move over to other
-systems and homes in the future.  And in the worst case, it&rsquo;s pretty
-simple, readable text anyway.  You can just preserve the source files
-and have a useful record of what I write and post.</p>
+fonts, etc.  However, it seems to be a fair trade for a format that&rsquo;s
+easy to move in the future.  Even in the worst case, Markdown is just
+simple, readable text.  The source files themselves provide a useful
+record.</p>
 
 <h2>Octopress</h2>
 
 <p>Then I somehow heard about Octopress.  At first I was a little put off
-by some work required to install and set up yet another software
-package with dependencies and such.  I did have to fiddle around with
-Ruby versions on an Ubuntu 12.04 LTS system, and deal with something
-called Gems and bundles.  I&rsquo;ve been happy enough with Perl and Python
-over the years to not feel the need to dive into Ruby.</p>
+by the work required to install and set up yet another software
+package with dependencies that had to be worked out.  It did require
+fiddling around with Ruby versions on an Ubuntu 12.04 LTS system and
+dealing with something called Gems and bundles.  I&rsquo;ve been happy
+enough with Perl and Python over the years to never feel the need to
+dive into Ruby.</p>
 
-<p>I got it all set up and working.  It took some more reading and
-experimenting to get various customizations working.  I wasn&rsquo;t happy with
-the default fonts for article titles&mdash;they were way too big and heavy.</p>
+<p>Once it was all set up and working, it took more reading and
+experimenting to get various customizations working.  For example, the
+default fonts for article titles were way too big and heavy for my
+taste.  It was actually quite easy to make those changes once I&rsquo;d
+sorted it out.</p>
 
 <h2>Publishing</h2>
 
-<p>Finally, there was the question of where to publish.  I looked at
-Amazon S3 which is excellent for putting up a static site.  However,
-there wasn&rsquo;t a tool provided by AWS itself to upload or update a
-hierarchy of files.  There were external tools and I could write my
-own code, but I was a little hesitant to have to keep up with some of
-those smaller open source projects.</p>
+<p>Finally, there was the question of where to publish.  There&rsquo;s Amazon
+S3 which is excellent for putting up a static site.  However, there
+was not an AWS tool for uploading and updating a hierarchy of files.
+There are several external tools and I could certainly write my own
+code, but I didn&rsquo;t want to go down those roads.</p>
 
 <p>I briefly looked at Dropbox.  There are some reasonably
-well-established services that will serve out a Dropbox folder as a web
-site, so it&rsquo;s not an unreasonable choice.</p>
+well-established services that will serve out a Dropbox folder as a
+web site, making it a viable choice.</p>
 
-<p>However, in the end, I landed on an unexpected delight, Github Pages.
-Octopress highly recommends Github Pages for publishing.  I&rsquo;m
-comfortable enough with Git, now that I use it at work every day, and
-with Github itself.  Github Pages is a wonderful service that allows
-publishing a static web site for free.  Actually, they have support for
-layout and content generation that I didn&rsquo;t really look into.</p>
+<p>However, in the end I landed on an unexpected delight: Github Pages.
+Octopress actually recommends Github Pages.  I had recently become
+very comfortable with using Git and Github.  Github Pages is a
+wonderful service that allows publishing a static web site for free.
+They even have support for layout and content generation.</p>
 
-<p>It was quite easy and straightforward to set up the repo and publish
-the Octopress-generated pages to it.</p>
+<p>It was quite easy and straightforward to set up the Github repo and
+before you&rsquo;d know it, I was able to add, commit and push the blog.</p>
 
 <h2>Concerns</h2>
 
-<p>The one thing that has worried me the most about this new arrangement
-is the heavier lifting required to actually get posts up.  Would that
-be enough extra friction to impede posting? Writing the text is easy,
-but there are a few steps required to publish.  Granted, Octopress
-actually has some built-in automation for one-command deployment of
-new content.  I haven&rsquo;t ensured that it&rsquo;s all set up and working, and
-made sure I&rsquo;ve dealt with any assumptions it makes. Maybe I&rsquo;ll get to
-that at some point.</p>
+<p>The one thing that has worried me the most the seemingly heavier
+lifting required to actually get posts up.  Would that add enough
+friction to impede posting? Writing the text is easy, but then follow
+the several steps required to publish.  Granted, Octopress actually
+has some built-in automation for one-command deployment of new
+content, but I haven&rsquo;t adopted its approach yet.  Actually, it can
+probably be boiled down to one or two simple shell aliases.</p>
+
+<p>And really, when I think about it, I had to do a lot of switching
+between HTML and rich text modes in Blogger to write even a simple
+post.  Adding an image to a blog entry was about the same amount of
+work as Octopress requires.  So maybe there&rsquo;s not as much friction as
+I&rsquo;d feared.</p>
 
 <h2>Finally</h2>
 
-<p>One thing I&rsquo;ll continue, which I began in recent years, is not
-hesitating to use the blog for tweet-length posts and link sharing.
-When it became clear that Twitter severely limited users' ability to
-retrieve an archive of their tweets, I moved away from putting any
-important content on Twitter to posting it on the blog and letting
-Feedburner echo it to my Twitter account.  Earlier this year, Twitter
-finally added the ability to retrieve your complete archive.</p>
+<p>So, here I am, starting Chapter Four of my blogging life.  I&rsquo;ll
+continue to write little tweet-length posts and post simple shared
+links.  When it became clear a few years ago that Twitter severely
+limited users' ability to retrieve an archive of their tweets, I moved
+away from originating any important content on Twitter and focused
+solely on blogging it.  From there, Feedburner echoed it to my Twitter
+account.  Earlier this year, Twitter finally added the ability to
+retrieve a complete archive of tweets.</p>
 
-<p>So, here I am, starting Chapter Four of my blogging endeavor.  There
-will probably continue to be some style adjustments and changes as I
-go along and who knows, there is likely to be another move sometime in
-the future.  It will be interesting to see how long the investment in
-Markdown source holds up.</p>
+<p>There will inevitably be some style adjustments and changes and, who
+knows, there may even be yet another leap sometime down the road.  You
+can probably count on it.  When that time comes, it will be
+interesting to see how long the investment in Markdown source holds
+up.</p>
 
 <h2>Resources</h2>
 
@@ -151,6 +158,8 @@ Markdown source holds up.</p>
 <li><a href="http://www.slate.com/articles/technology/future_tense/2013/04/life_without_google_when_my_account_was_suspended_i_felt_like_i_d_been_dumped.html">Slate article by Tienlon Ho</a></li>
 </ul>
 
+
+<p><em>Updated 10 Jun 2013 6:47</em></p>
 ]]></content>
   </entry>
   
