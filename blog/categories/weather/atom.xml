@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: weather | Monolith149 Daily]]></title>
+  <title><![CDATA[Category: weather, | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/weather/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-06-12T08:41:02-04:00</updated>
+  <updated>2013-06-13T12:56:29-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -14,27 +14,28 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Tornado EF Rating]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/tornado-ef-rating/"/>
-    <updated>2013-06-08T03:56:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/tornado-ef-rating</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/1280px-F5_tornado_Elie_Manitoba_2007.jpg"></p>
+    <title type="html"><![CDATA[O2 from the Ocean?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean/"/>
+    <updated>2013-06-08T12:01:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/745225main_image04292013_250m_1024-768.jpg"></p>
 
-<p>How is the EF rating of a tornado determined?<br/>
-See <a href="http://www.crh.noaa.gov/arx/efscale.php">The Enhanced Fujita Scale</a></p>
+<p>From <a href="https://twitter.com/earthskyscience/status/343396224805777409">@earthskyscience</a></p>
 
-<p><em>Image credit: Category F5 tornado (upgraded from initial estimate of
-F4) viewed from the southeast as it approached Elie, Manitoba on
-Friday, June 22nd, 2007.  Justin1569 at en.wikipedia</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Three Storm Chasers Among 13 Killed]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/06/three-storm-chasers-among-13-killed/"/>
-    <updated>2013-06-06T23:15:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/06/three-storm-chasers-among-13-killed</id>
-    <content type="html"><![CDATA[<p>By Oklahoma tornadoes.  <a href="http://in.reuters.com/article/2013/06/02/us-usa-tornadoes-idINBRE94T10N20130602">Reuters article</a></p>
+<p><a href="http://earthsky.org/earth/how-much-do-oceans-add-to-worlds-oxygen">How much do oceans add to world’s oxygen?</a></p>
+
+<blockquote><p>Scientists agree that there’s oxygen from ocean plants in every breath
+we take. Most of this oxygen comes from tiny ocean plants – called
+phytoplankton – that live near the water’s surface and drift with the
+currents. Like all plants, they photosynthesize – that is, they use
+sunlight and carbon dioxide to make food. A byproduct of
+photosynthesis is oxygen.</p>
+
+<p>Scientists believe that phytoplankton contribute between 50 to 85
+percent of the oxygen in Earth’s atmosphere. They aren’t sure because
+it’s a tough thing to calculate.</p></blockquote>
+
+<p><em>Image credit: <a href="http://www.nasa.gov/multimedia/imagegallery/image_feature_2499.html">NASA GFSC</a></em></p>
 ]]></content>
   </entry>
   
