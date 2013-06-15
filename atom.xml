@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-06-13T13:05:46-04:00</updated>
+  <updated>2013-06-15T00:28:55-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A critical look at the new Mac Pro]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro/"/>
+    <updated>2013-06-15T00:17:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130615.Mac.Pro.png"></p>
+
+<p>Via <a href="https://twitter.com/arstechnica/status/344493459735994368">@arstechnica</a></p>
+
+<p>At <a href="http://arstechnica.com/apple/2013/06/a-critical-look-at-the-new-mac-pro/">Ars Technica</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Stormy Night]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night/"/>
+    <updated>2013-06-14T06:55:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130614_Storm_Reports.gif"></p>
+
+<p>Storm reports from the NOAA <a href="http://www.spc.noaa.gov/climo/reports/today.html">Storm Prediction Center</a>.</p>
+
+<p><a href="http://www.weather.com/news/big-storm-threat-possible-derecho-20130612">Storms State-by-State</a> from The Weather Channel.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Updated Tornado and Severe Thunderstorm Forecast]]></title>
@@ -403,36 +429,6 @@ Linux</a> at scottlinux.com.</p>
     <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/mashable/status/342195772823056384">@Mashable</a></p>
 
 <p><a href="http://mashable.com/2013/06/05/determine-company-culture/">Article</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Helioseismology from Kepler]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/05/18/helioseismology-from-kepler/"/>
-    <updated>2013-05-18T10:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/helioseismology-from-kepler</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Helioseismology_pmode1.png"></p>
-
-<p>In light of the Kepler space observatory&rsquo;s malfunction, which may
-bring the mission to an early end, here&rsquo;s <a href="http://www.skyandtelescope.com/news/119467819.html">a nice overview of some of
-Kepler&rsquo;s contribution to stellar astrophysics from Sky and Telescope</a>.</p>
-
-<p><em>Image credit: Stanford University</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A 90-Second Image of M13]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/05/18/a-90-second-image-of-m13/"/>
-    <updated>2013-05-18T10:21:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/a-90-second-image-of-m13</id>
-    <content type="html"><![CDATA[<p>From <a href="https://twitter.com/makapala/status/335737083350097920">@makapala</a></p>
-
-<blockquote><p><a href="http://twitter.com/darkskyman">@darkskyman</a> took this 90 second snap
-of M13 at @TheAstroCamp a few weeks back
-<a href="http://flic.kr/p/ehSg4U">http://flic.kr/p/ehSg4U</a></p></blockquote>
-
-<p>Amazing!  90 seconds!</p>
 ]]></content>
   </entry>
   

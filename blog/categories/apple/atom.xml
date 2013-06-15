@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: apple, | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-06-15T00:28:55-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A critical look at the new Mac Pro]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro/"/>
+    <updated>2013-06-15T00:17:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130615.Mac.Pro.png"></p>
+
+<p>Via <a href="https://twitter.com/arstechnica/status/344493459735994368">@arstechnica</a></p>
+
+<p>At <a href="http://arstechnica.com/apple/2013/06/a-critical-look-at-the-new-mac-pro/">Ars Technica</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
