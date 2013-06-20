@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: calendar, | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calendar/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-06-20T15:46:22-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice/"/>
+    <updated>2013-06-20T15:35:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice</id>
+    <content type="html"><![CDATA[<p>Happy summer solstice tonight at 1:04 AM EDT.</p>
+
+<p>Fri 2013-06-21 05:04:00 -0000<br/>
+Fri 2013-06-21 01:04:00 -0400<br/>
+Thu 2013-06-20 23:04:00 -0700</p>
+]]></content>
+  </entry>
+  
+</feed>
