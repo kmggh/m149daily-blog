@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-06-20T15:46:22-04:00</updated>
+  <updated>2013-06-22T08:10:26-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Electronically Stored Program 65 Years Ago]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago/"/>
+    <updated>2013-06-22T07:41:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Williams-tube.jpg" title="" ></p>
+
+<p>Via <a href="https://twitter.com/slashdot/status/348387564174065665">@slashdot</a>.</p>
+
+<p>Sixty-five Years Ago, Manchester&rsquo;s &lsquo;Baby&rsquo; Ran Electronically Stored Program. <a href="http://hardware.slashdot.org/story/13/06/22/0247220/65-years-ago-manchesters-baby-ran-electronically-stored-program?utm_source=slashdot&amp;utm_medium=twitter">Posting at Slashdot</a>.</p>
+
+<blockquote><p>&ldquo;as the Manchester Small Scale Experimental Machine aka &lsquo;Baby&rsquo; became
+the world&rsquo;s first computer to run an electronically stored program on
+June 21, 1948. The &lsquo;Baby&rsquo; was developed by Frederic C. Williams, Tom
+Kilburn and Geoff Tootill at the University of Manchester.</p></blockquote>
+
+<p>From <a href="http://www.computer50.org/kgill/williams/williams.html">The Williams Tube</a> maintained by Brian Napper at the
+University of Manchester.</p>
+
+<blockquote><p>By March 1947 Tom Kilburn had discovered a different and better method
+of storing information, more suited to storing a large number of bits
+on the same tube. By November 1947 they had succeeded in storing 2048
+bits for a period of hours, having investigated a number of variations
+on storing a set of bits (dot-dash, dash-dot, defocus-focus,
+focus-defocus).</p>
+
+<p>The general principle behind the storage of binary information was to
+plant charge in one of two different ways at an array of spots on a
+CRT using standard techniques. The type of charge at any spot,
+representing a 0 or 1, could be sensed by a metal pick-up plate on the
+outside of the CRT screen, thus &ldquo;reading&rdquo; the &ldquo;value&rdquo; of the
+spot. However, the charge dissipated very quickly, so values were
+preserved indefinitely by continuously reading their value and
+resetting the charge as appropriate to the value.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>When in Autumn 1947 the group had successfully stored 2048 digits,
+they had the problem of proving that the store would operate
+successfully inside a computer. They could only alter bits at the rate
+of around 1 a second, which was 100,000 times slower than the store&rsquo;s
+capability. In the end they decided that the simplest way to test that
+the CRT storage system was suitable for use in computers was to build
+a small computer round it. So the way was clear for the construction
+of the SSEM, the &ldquo;Baby&rdquo;, &ldquo;to subject the system to the most searching
+test possible.&rdquo; The Baby was therefore built to show that
+Williams-Kilburn CRT Stores could work dynamically in a working
+computer, and to demonstrate the feasibility of building a much larger
+machine using them. That it also was the first machine to realise the
+stored-program computer, and prove its feasibility was a secondary
+consideration.</p></blockquote>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130622_Manchester_Computers.jpg" title="" ></p>
+
+<p><em>Image: <a href="http://www.reginaldtiangha.com/cpsc509/williams.htm">Williams, Crawley and McPherson admiring the implementation
+of the Williams Tube in an IBM 701</a> in 1953 image from Early British
+Computers by Simon H. Lavington</em></p>
+
+<p><em>Top Image: <a href="http://commons.wikimedia.org/wiki/File:Williams-tube.jpg">A Williams tube. CC 2.0</a>.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
@@ -471,20 +533,6 @@ it’s a tough thing to calculate.</p></blockquote>
     <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/mashable/status/343391063987331073">@mashable</a></p>
 
 <p><a href="http://mashable.com/2013/06/08/leave-your-job/">8 Signs It&rsquo;s Time to Leave Your Job</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A long time ago on Sesame Street]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/sesame-street-original-cast/"/>
-    <updated>2013-06-08T11:29:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/sesame-street-original-cast</id>
-    <content type="html"><![CDATA[<p>Retweet from <a href="https://twitter.com/GuyKawasaki/status/343388340759977984">@GuyKawasaki</a></p>
-
-<p><a href="http://holykaw.alltop.com/a-long-time-ago-on-sesame-street-photo-of-the-original-cast-video?tu3=1">Photo of the original cast</a> [video]</p>
-
-<p>I was sort of past &ldquo;kid&rdquo; when Sesame Street began, but some folks may
-enjoy this nostalgia.</p>
 ]]></content>
   </entry>
   
