@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: twitter | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/twitter/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-06-25T23:17:20-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Football Stadium]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium/"/>
+    <updated>2013-06-25T22:55:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/june2013-concept-aerial.jpg" title="n" ></p>
+
+<p>The plans for the crazy new Falcons stadium were approved.  <a href="http://ftw.usatoday.com/2013/06/the-plans-for-the-crazy-falcons-stadium-were-approved/">Article</a> from USA Today.</p>
+
+<blockquote><p>There is a giant, 360-degree, LED Twitter feed going around the top
+of the stadium.</p></blockquote>
+
+<p>Hmm.</p>
+
+<p><img class="center" src="/postimages/june2013-concept-southclub-cityview.jpg"></p>
+
+<p><em>Images credit: <a href="http://atlantafalcons.com/">AtlantaFalcons.com</a></em></p>
+]]></content>
+  </entry>
+  
+</feed>

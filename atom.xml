@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-06-22T08:10:26-04:00</updated>
+  <updated>2013-06-25T23:17:20-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The UNIX Tree]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree/"/>
+    <updated>2013-06-25T23:06:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130625_Ritchie_Thompson.jpg" title="" ></p>
+
+<blockquote><p>Welcome to the <a href="http://minnie.tuhs.org/cgi-bin/utree.pl">Unix Tree</a>. Here you can browse the source code and
+manuals of various old versions of Unix. For every file, you can
+also find related files from other versions: this can help show how
+the different versions of Unix are related. Most of the Unix
+versions below come from the <a href="http://www.tuhs.org/wiki/Unix_Archive_Sites">Unix Archive</a>.</p></blockquote>
+
+<p><em>Image: Dennis Ritchie and Ken Thompson at a pretty well maxed out DEC
+ PDP11 computer and two Teletype model 33 terminals.
+ <a href="http://www.flickr.com/photos/9479603@N02/3311745151/">PanelSwitchman at Flickr. CC BY-NC-ND 2.0</a></em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Football Stadium]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium/"/>
+    <updated>2013-06-25T22:55:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/june2013-concept-aerial.jpg" title="n" ></p>
+
+<p>The plans for the crazy new Falcons stadium were approved.  <a href="http://ftw.usatoday.com/2013/06/the-plans-for-the-crazy-falcons-stadium-were-approved/">Article</a> from USA Today.</p>
+
+<blockquote><p>There is a giant, 360-degree, LED Twitter feed going around the top
+of the stadium.</p></blockquote>
+
+<p>Hmm.</p>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/june2013-concept-southclub-cityview.jpg"></p>
+
+<p><em>Images credit: <a href="http://atlantafalcons.com/">AtlantaFalcons.com</a></em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How Does a Vacuum Coffee Pot Work?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/how-does-a-vacuum-coffee-pot-work/"/>
+    <updated>2013-06-25T22:46:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/how-does-a-vacuum-coffee-pot-work</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/640px-Yama_Vac_Pot.JPG"></p>
+
+<p>[VIDEO] <a href="http://www.youtube.com/watch?v=FxIs2GVsqgY">http://www.youtube.com/watch?v=FxIs2GVsqgY</a></p>
+
+<p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Yama_Vac_Pot.JPG">Proshot04. CC by 3.0</a>.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Daft Pianists]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/daft-pianists/"/>
+    <updated>2013-06-25T06:41:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/daft-pianists</id>
+    <content type="html"><![CDATA[<p>Cdza cover Daft Punk&rsquo;s &ldquo;Get Lucky.&rdquo; [VIDEO]  <a href="https://www.youtube.com/watch?v=Wf68FTYoGKQ">https://www.youtube.com/watch?v=Wf68FTYoGKQ</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Electronically Stored Program 65 Years Ago]]></title>
@@ -28,6 +89,9 @@
 the world&rsquo;s first computer to run an electronically stored program on
 June 21, 1948. The &lsquo;Baby&rsquo; was developed by Frederic C. Williams, Tom
 Kilburn and Geoff Tootill at the University of Manchester.</p></blockquote>
+
+<!-- more -->
+
 
 <p>From <a href="http://www.computer50.org/kgill/williams/williams.html">The Williams Tube</a> maintained by Brian Napper at the
 University of Manchester.</p>
@@ -327,212 +391,6 @@ Foundation.</em></p>
     <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/GuyKawasaki/status/343636222155055104">@GuyKawasaki</a></p>
 
 <p>Home sweet silo: The perfect home for a nuclear family <a href="http://is.gd/Y4vICl">http://is.gd/Y4vICl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Leaping To A New Blogging Platform]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/leaping-to-a-new-blogging-platform/"/>
-    <updated>2013-06-08T13:29:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/leaping-to-a-new-blogging-platform</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/octopress-logo.png"></p>
-
-<p>Okay, it&rsquo;s apparently once again time to take the leap.  I&rsquo;m moving
-Monolith149 Daily from Blogger, where it&rsquo;s lived since May of 2006.
-Its new home is a combination of writing posts in Markdown on a local
-machine, generating a static blog using Octopress, and publishing the
-blog on Github Pages.</p>
-
-<!-- more -->
-
-
-<p>I&rsquo;ve enjoyed the convenience of editing in Blogger and posting on
-Blogspot.  However, with Google&rsquo;s incessant and sometimes tone deaf
-push toward Google Plus, and other concerns about my data there, I&rsquo;ve
-felt a growing urge to make a change.</p>
-
-<p>In spite of that, I&rsquo;m still an avid and nearly hourly user of Google&rsquo;s
-vast supply of services and apps such as Gmail and documents.</p>
-
-<h2>So Far</h2>
-
-<p>Before the last move to Blogger in 2006, I was using Blosxom which was
-also a text-file-based source system.  As I recall, Blosxom was a Perl
-program that dynamically generated web pages on the fly from the text
-sources.  It ran on Monolith, which was my desktop computer for a long
-time, and was also my web server.  That&rsquo;s because this was in the &ldquo;old
-days&rdquo; when the university didn&rsquo;t have a firewall and <em>all</em> of the
-desktop computers were on the Internet.  That arrangement also
-resulted in all you&rsquo;d expect to follow.</p>
-
-<p>Blosxom began to bog down as the years and number of posts grew. It
-also seemed wise then to move my personal blog to a place that didn&rsquo;t
-belong to my employer.</p>
-
-<p>Back in 2002 when I began blogging (I recently wrote about the
-<a href="http://monolith149daily.blogspot.com/2011/09/nine-years-ago.html">ninth</a>
-and
-<a href="http://monolith149daily.blogspot.com/2012/12/ten-years-of-blogging.html">tenth</a>
-anniversaries), I was writing the blogs on Blogger and keeping the
-source there.  But I ftp-published them back to my desktop, Monolith,
-where they were served from.</p>
-
-<h2>A New Text Age</h2>
-
-<p>Lately, there&rsquo;s been a lot of buzz from bloggers, and people who look
-like bloggers, about Markdown. It&rsquo;s a simple text mark up language
-created by John Gruber.  I finally dipped into Markdown a bit when I
-began experimenting with Github.  From my point of view, it&rsquo;s nearly
-the same as many wiki markup schemes that have been around for a long
-time.  It&rsquo;s both very easy and familiar.</p>
-
-<p>I miss some of the ability to do things like adjust text size, change
-fonts, etc.  However, it seems to be a fair trade for a format that&rsquo;s
-easy to move in the future.  Even in the worst case, Markdown is just
-simple, readable text.  The source files themselves provide a useful
-record.</p>
-
-<h2>Octopress</h2>
-
-<p>Then I somehow heard about Octopress.  At first I was a little put off
-by the work required to install and set up yet another software
-package with dependencies that had to be worked out.  It did require
-fiddling around with Ruby versions on an Ubuntu 12.04 LTS system and
-dealing with something called Gems and bundles.  I&rsquo;ve been happy
-enough with Perl and Python over the years to never feel the need to
-dive into Ruby.</p>
-
-<p>Once it was all set up and working, it took more reading and
-experimenting to get various customizations working.  For example, the
-default fonts for article titles were way too big and heavy for my
-taste.  It was actually quite easy to make those changes once I&rsquo;d
-sorted it out.</p>
-
-<h2>Publishing</h2>
-
-<p>Finally, there was the question of where to publish.  There&rsquo;s Amazon
-S3 which is excellent for putting up a static site.  However, there
-was not an AWS tool for uploading and updating a hierarchy of files.
-There are several external tools and I could certainly write my own
-code, but I didn&rsquo;t want to go down those roads.</p>
-
-<p>I briefly looked at Dropbox.  There are some reasonably
-well-established services that will serve out a Dropbox folder as a
-web site, making it a viable choice.</p>
-
-<p>However, in the end I landed on an unexpected delight: Github Pages.
-Octopress actually recommends Github Pages.  I had recently become
-very comfortable with using Git and Github.  Github Pages is a
-wonderful service that allows publishing a static web site for free.
-They even have support for layout and content generation.</p>
-
-<p>It was quite easy and straightforward to set up the Github repo and
-before you&rsquo;d know it, I was able to add, commit and push the blog.</p>
-
-<h2>Concerns</h2>
-
-<p>The one thing that has worried me the most the seemingly heavier
-lifting required to actually get posts up.  Would that add enough
-friction to impede posting? Writing the text is easy, but then follow
-the several steps required to publish.  Granted, Octopress actually
-has some built-in automation for one-command deployment of new
-content, but I haven&rsquo;t adopted its approach yet.  Actually, it can
-probably be boiled down to one or two simple shell aliases.</p>
-
-<p>And really, when I think about it, I had to do a lot of switching
-between HTML and rich text modes in Blogger to write even a simple
-post.  Adding an image to a blog entry was about the same amount of
-work as Octopress requires.  So maybe there&rsquo;s not as much friction as
-I&rsquo;d feared.</p>
-
-<h2>Finally</h2>
-
-<p>So, here I am, starting Chapter Four of my blogging life.  I&rsquo;ll
-continue to write little tweet-length posts and post simple shared
-links.  When it became clear a few years ago that Twitter severely
-limited users&#8217; ability to retrieve an archive of their tweets, I moved
-away from originating any important content on Twitter and focused
-solely on blogging it.  From there, Feedburner echoed it to my Twitter
-account.  Earlier this year, Twitter finally added the ability to
-retrieve a complete archive of tweets.</p>
-
-<p>There will inevitably be some style adjustments and changes and, who
-knows, there may even be yet another leap sometime down the road.  You
-can probably count on it.  When that time comes, it will be
-interesting to see how long the investment in Markdown source holds
-up.</p>
-
-<h2>Resources</h2>
-
-<ul>
-<li><a href="http://monolith149daily.blogspot.com/">Previous Monolith149 Daily</a></li>
-<li><a href="http://octopress.org/">Octopress</a></li>
-<li><a href="http://blogger.com/">Blogger</a></li>
-<li><a href="http://daringfireball.net/projects/markdown/">Markdown and Daring Fireball</a></li>
-<li><a href="http://blosxom.sourceforge.net/">Blosxom</a></li>
-<li><a href="http://pages.github.com/">Github Pages</a></li>
-<li><a href="https://blog.twitter.com/2012/your-twitter-archive">Your Twitter Archive</a></li>
-<li><a href="http://www.slate.com/articles/technology/future_tense/2013/04/life_without_google_when_my_account_was_suspended_i_felt_like_i_d_been_dumped.html">Slate article by Tienlon Ho</a></li>
-</ul>
-
-
-<p><em>Updated 10 Jun 2013 6:47</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zynga Lays off 18% of It's Workforce]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/zynga-lays-of-18-percent-of-its-workforce/"/>
-    <updated>2013-06-08T12:12:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/zynga-lays-of-18-percent-of-its-workforce</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Draw-Something-Free-Icon.png"></p>
-
-<p>Via <a href="https://twitter.com/TechCrunch/status/343398909328113665">@TechCrunch</a></p>
-
-<p>Zynga Confirms That It’s Cutting 520 Employees (18% Of Workforce), Says It Will Save $70M-$80M <a href="http://techcrunch.com/2013/06/03/zynga-global-layoffs/">Article at TechCrunch</a></p>
-
-<p>And</p>
-
-<p>Zynga Shuts Down OMGPOP One Year After Acquiring It For $200M  <a href="http://techcrunch.com/2013/06/04/zynga-shuts-down-omgpop-one-year-after-acquiring-it-for-200m/">Article</a></p>
-
-<p>So no more <em>Draw Something</em>?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[O2 from the Ocean?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean/"/>
-    <updated>2013-06-08T12:01:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/745225main_image04292013_250m_1024-768.jpg"></p>
-
-<p>From <a href="https://twitter.com/earthskyscience/status/343396224805777409">@earthskyscience</a></p>
-
-<p><a href="http://earthsky.org/earth/how-much-do-oceans-add-to-worlds-oxygen">How much do oceans add to world’s oxygen?</a></p>
-
-<blockquote><p>Scientists agree that there’s oxygen from ocean plants in every breath
-we take. Most of this oxygen comes from tiny ocean plants – called
-phytoplankton – that live near the water’s surface and drift with the
-currents. Like all plants, they photosynthesize – that is, they use
-sunlight and carbon dioxide to make food. A byproduct of
-photosynthesis is oxygen.</p>
-
-<p>Scientists believe that phytoplankton contribute between 50 to 85
-percent of the oxygen in Earth’s atmosphere. They aren’t sure because
-it’s a tough thing to calculate.</p></blockquote>
-
-<p><em>Image credit: <a href="http://www.nasa.gov/multimedia/imagegallery/image_feature_2499.html">NASA GFSC</a></em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Signs It's Time to Leave Your Job]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/signs-its-time-to-leave-your-job/"/>
-    <updated>2013-06-08T11:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/signs-its-time-to-leave-your-job</id>
-    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/mashable/status/343391063987331073">@mashable</a></p>
-
-<p><a href="http://mashable.com/2013/06/08/leave-your-job/">8 Signs It&rsquo;s Time to Leave Your Job</a></p>
 ]]></content>
   </entry>
   

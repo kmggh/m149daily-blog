@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: computing, | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-06-25T23:17:20-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The UNIX Tree]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree/"/>
+    <updated>2013-06-25T23:06:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130625_Ritchie_Thompson.jpg" title="" ></p>
+
+<blockquote><p>Welcome to the <a href="http://minnie.tuhs.org/cgi-bin/utree.pl">Unix Tree</a>. Here you can browse the source code and
+manuals of various old versions of Unix. For every file, you can
+also find related files from other versions: this can help show how
+the different versions of Unix are related. Most of the Unix
+versions below come from the <a href="http://www.tuhs.org/wiki/Unix_Archive_Sites">Unix Archive</a>.</p></blockquote>
+
+<p><em>Image: Dennis Ritchie and Ken Thompson at a pretty well maxed out DEC
+ PDP11 computer and two Teletype model 33 terminals.
+ <a href="http://www.flickr.com/photos/9479603@N02/3311745151/">PanelSwitchman at Flickr. CC BY-NC-ND 2.0</a></em></p>
+]]></content>
+  </entry>
+  
+</feed>
