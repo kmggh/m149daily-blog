@@ -9,8 +9,8 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Via @universetoday Behind the Scenes at Kitt Peak Observatory: What is an Observing Run Really Like?
-by Shannon Hall Kitt Peak used to be the &hellip;">
+  <meta name="description" content="As storage grows exponentially, it&rsquo;s getting harder to keep up with
+the specification of data capacity and other big numbers. Even with &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +82,67 @@ by Shannon Hall Kitt Peak used to be the &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big Numbers</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-07-13T12:28:00-04:00" pubdate data-updated="true">Sat 13 Jul 2013  12:28 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>As storage grows exponentially, it&rsquo;s getting harder to keep up with
+the specification of data capacity and other big numbers.   Even with
+kilobytes (KB), megabytes (MB), terabytes (TB), etc., by the time we
+get to petabytes (PB), exabytes (EB) and zettabytes (ZB), we&rsquo;ve long
+lost any sense of relative size.</p>
+
+<p>I&rsquo;m proposing a notation called K-Factor (KF), which is a size
+converted to base-1024.  Another way of saying it is it represents how
+many factors of 1024, factors of K, are multiplied together.  The
+K-Factor of a value is just the integer part of it&rsquo;s log-base-1024
+value.  It&rsquo;s easier than it sounds.</p>
+
+<p>So, we&rsquo;d then have this.</p>
+
+<p><img class="center" src="/m149daily-blog/postimages/kf_table.png" title="" ></p>
+
+<p>And then we can cruise on beyond to 9 KF, 10 KF, etc.</p>
+
+<p>Using KF, you might specify a 2-TB disk as a  2-4KF disk and 4 GB of
+RAM as 4 3KF.  Storage space of 16 petabytes would be 16 5KF.</p>
+
+<p>As usual, one would have to recall that a <em>difference</em> between two
+sizes of 1 KF would mean a factor of 1024 larger, a difference of 2 KF
+would be roughly a factor of a million, 3 KF a billion, etc.</p>
+
+<p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -494,44 +555,6 @@ yawn-inducing boredom and outright annoyance.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/18/fear-and-loathing-of-silicon-valley/">Fear and Loathing of Silicon Valley</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-18T05:12:00-04:00" pubdate data-updated="true">Tue 18 Jun 2013  05:12 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Via <a href="https://twitter.com/HNTweets/status/346905127430520833">@HNTweets</a></p>
-
-<p><a href="http://techcrunch.com/2013/06/18/no-sympathy-for-the-devil/">Fear And Loathing OF Silicon Valley</a> by Alexia Tsotsis of TechCrunch.</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/2/">&larr; Older</a>
@@ -555,6 +578,10 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big Numbers</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2013/06/26/whats-an-observing-run-really-like/">What&#8217;s an Observing Run Really Like?</a>
       </li>
     
@@ -568,10 +595,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2013/06/25/new-football-stadium/">New Football Stadium</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2013/06/25/how-does-a-vacuum-coffee-pot-work/">How Does a Vacuum Coffee Pot Work?</a>
       </li>
     
   </ul>
