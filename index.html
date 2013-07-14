@@ -112,29 +112,29 @@ the specification of data capacity and other big numbers. Even with &hellip;">
 
 
   <div class="entry-content"><p>As storage grows exponentially, it&rsquo;s getting harder to keep up with
-the specification of data capacity and other big numbers.   Even with
+the specification of data capacity and other big numbers.  Even with
 kilobytes (KB), megabytes (MB), terabytes (TB), etc., by the time we
-get to petabytes (PB), exabytes (EB) and zettabytes (ZB), we&rsquo;ve long
-lost any sense of relative size.</p>
+get to petabytes (PB), exabytes (EB), zettabytes (ZB), and yottabytes
+(YB), we&rsquo;ve long lost any sense of relative size.</p>
 
 <p>I&rsquo;m proposing a notation called K-Factor (KF), which is a size
-converted to base-1024.  Another way of saying it is it represents how
+converted to base-1024, i.e., it represents how
 many factors of 1024, factors of K, are multiplied together.  The
 K-Factor of a value is just the integer part of it&rsquo;s log-base-1024
 value.  It&rsquo;s easier than it sounds.</p>
 
-<p>So, we&rsquo;d then have this.</p>
-
 <p><img class="center" src="/m149daily-blog/postimages/kf_table.png" title="" ></p>
 
-<p>And then we can cruise on beyond to 9 KF, 10 KF, etc.</p>
+<p>With such a notation in hand, we can cruise on beyond to 9 KF, 10 KF,
+etc.</p>
 
 <p>Using KF, you might specify a 2-TB disk as a  2-4KF disk and 4 GB of
 RAM as 4 3KF.  Storage space of 16 petabytes would be 16 5KF.</p>
 
 <p>As usual, one would have to recall that a <em>difference</em> between two
 sizes of 1 KF would mean a factor of 1024 larger, a difference of 2 KF
-would be roughly a factor of a million, 3 KF a billion, etc.</p>
+would be roughly a factor of a million (1024<sup>2</sup>), 3 KF approximately a
+billion, etc.</p>
 
 <p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
 </div>
