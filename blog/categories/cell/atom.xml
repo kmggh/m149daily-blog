@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cell | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cell/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-08-05T07:00:05-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
+    <updated>2013-08-05T06:40:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/opensignal_android.png" title="" ></p>
+
+<p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
