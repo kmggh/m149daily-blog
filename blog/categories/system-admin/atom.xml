@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: system_admin | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/system-admin/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-08-14T08:01:28-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Go for System Admins]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins/"/>
+    <updated>2013-08-14T07:44:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins</id>
+    <content type="html"><![CDATA[<p>John E. Vincent on blog dot lusi talks about trying out Go.</p>
+
+<p><a href="http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/">Go for System Administrators</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-08-05T07:00:05-04:00</updated>
+  <updated>2013-08-14T08:01:28-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NGC 2014 and NGC 2020]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/ngc-2014-and-ngc-2020/"/>
+    <updated>2013-08-14T07:53:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/ngc-2014-and-ngc-2020</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/ngc2014-2020.jpg" title="" ></p>
+
+<p>Usually when you see a blue nebula in an image, it&rsquo;s a reflection
+nebula where primarily dust is reflecting star light.  In this case
+NGC 2020 is apparently an emission nebula with ionized hydrogen
+causing most of the blue glow.</p>
+
+<blockquote><p>The pink-tinged cloud on the right, NGC 2014, is a glowing cloud of
+mostly hydrogen gas. It contains a cluster of hot young stars. The
+energetic radiation from these new stars strips electrons from the
+atoms within the surrounding hydrogen gas, ionising it and producing a
+characteristic red glow.</p>
+
+<p>In addition to this strong radiation, massive young stars also produce
+powerful stellar winds that eventually cause the gas around them to
+disperse and stream away. To the left of the main cluster, a single
+brilliant and very hot star [2] seems to have started this process,
+creating a cavity that appears encircled by a bubble-like structure
+called NGC 2020. The distinctive blueish colour of this rather
+mysterious object is again created by radiation from the hot star —
+this time by ionising oxygen instead of hydrogen.</p></blockquote>
+
+<p><a href="http://www.eso.org/public/news/eso1335/">Press Release by the ESO</a></p>
+
+<p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Two_very_different_glowing_gas_clouds_in_the_Large_Magellanic_Cloud_ESO.jpg">European Southern Observatory CC-BY-3.0</a>.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Go for System Admins]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins/"/>
+    <updated>2013-08-14T07:44:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins</id>
+    <content type="html"><![CDATA[<p>John E. Vincent on blog dot lusi talks about trying out Go.</p>
+
+<p><a href="http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/">Go for System Administrators</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Opera vs. Chrome?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome/"/>
+    <updated>2013-08-14T07:28:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Opera-icon-high-res.png"></p>
+
+<p>Chrome has gotten so slow and uses so much memory.  I downloaded the
+lastest Opera this morning and tried it on Gmail and Picasaweb.  It
+was much faster and left a lot more free memory!  When composing a
+message in Gmail I didn&rsquo;t notice any loss of functionality.</p>
+
+<p>Chrome was so fast and a joy to use when it was new.  What has
+happened to Chrome?  And why?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
@@ -391,45 +452,6 @@ limited understanding of what the relevant government agencies
 actually do, based on public information.</p>
 
 <p><em>Image credit: <a href="http://www.flickr.com/photos/mr_t_in_dc/3234940911/">Mr. T in DC on Flickr. CC BY-ND 2.0.</a></em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A critical look at the new Mac Pro]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro/"/>
-    <updated>2013-06-15T00:17:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/15/a-critical-look-at-the-new-mac-pro</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130615.Mac.Pro.png"></p>
-
-<p>Via <a href="https://twitter.com/arstechnica/status/344493459735994368">@arstechnica</a></p>
-
-<p>At <a href="http://arstechnica.com/apple/2013/06/a-critical-look-at-the-new-mac-pro/">Ars Technica</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stormy Night]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night/"/>
-    <updated>2013-06-14T06:55:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130614_Storm_Reports.gif"></p>
-
-<p>Storm reports from the NOAA <a href="http://www.spc.noaa.gov/climo/reports/today.html">Storm Prediction Center</a>.</p>
-
-<p><a href="http://www.weather.com/news/big-storm-threat-possible-derecho-20130612">Storms State-by-State</a> from The Weather Channel.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Updated Tornado and Severe Thunderstorm Forecast]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast/"/>
-    <updated>2013-06-13T13:02:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130613MikeSmith.png"></p>
-
-<p>Via <a href="https://twitter.com/USWeatherExpert/status/345222835515559937">@USWeatherExpert</a></p>
-
-<p>At <a href="http://meteorologicalmusings.blogspot.com/2013/06/updated-tornado-and-severe-thunderstorm.html?spref=tw">Mike Smith Enterprises Blog: Updated Tornado and Severe Thunderstorm Forecast</a></p>
 ]]></content>
   </entry>
   
