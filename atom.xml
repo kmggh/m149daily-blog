@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-08-14T08:01:28-04:00</updated>
+  <updated>2013-08-17T05:25:19-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More KF]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/17/more-kf/"/>
+    <updated>2013-08-17T04:57:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/17/more-kf</id>
+    <content type="html"><![CDATA[<p>A less-awkward usage occurred to me yesterday for the KF notation.
+Instead of referring to four gigbytes (4 GB) as &ldquo;4 3-KF&rdquo; use &ldquo;4 KF3&rdquo;.
+So the scheme becomes KB = KF1, MG = KF2, GB = KF3, TB = KF4, PB = KF5,
+and so on.</p>
+
+<p>Early microcomputers had a maximum memory of 64 KF1.  The early IBM PC
+architecture had 640 KF1 of useable memory when there was 1 KF2 of
+RAM.</p>
+
+<p>It hasn&rsquo;t been that long ago that 512 KF2 or even 640 KF2 were common
+in modern PCs.  Today several KF3 are common and 10 or 20 KF3 in big
+servers.</p>
+
+<p>Now it&rsquo;s not uncommon for a home user to have one or several KF4 of
+disk space.</p>
+
+<p>Corporate data stores can easily span several KF5 and get into the
+KF6.  Reports of data resources in the KF7 realm are starting to surface..</p>
+
+<p>Original post: <a href="http://kmggh.github.io/m149daily-blog//blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big
+Numbers</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Plus as a Blogging Platform]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/17/google-plus-as-a-blogging-platform/"/>
+    <updated>2013-08-17T04:40:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/17/google-plus-as-a-blogging-platform</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/gplus_blogging.png"></p>
+
+<p>Mike Elgan posts (on G+) &ldquo;Google+ is one of the 15 best blogging
+platforms, according to <em>The Next Web</em>.&rdquo;</p>
+
+<p>LOL!  What&rsquo;s funny about this statement is that I can&rsquo;t even think of
+five blogging plaforms.  At least that are still relevant, e.g.,
+leaving out Movable Type (which I really enjoyed) and LiveJournal.</p>
+
+<p>Further, after looking at the article on <a href="http://thenextweb.com/apps/2013/08/16/best-blogging-services/">The Next Web</a>, I
+think the above headline overstates their case.</p>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/thenextweb_blogs.png"></p>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/thenextweb_gplus.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NGC 2014 and NGC 2020]]></title>
@@ -71,6 +123,12 @@ message in Gmail I didn&rsquo;t notice any loss of functionality.</p>
 
 <p>Chrome was so fast and a joy to use when it was new.  What has
 happened to Chrome?  And why?</p>
+
+<p>[<em>Update Sat 2013-08-17 05:19:34 -0400: Just to be clear, I haven&rsquo;t
+actually switched to using Opera.  I still use Chrome as my primary
+browser. However, as a minimalist, I like simple, clean and fast.
+I&rsquo;ll give Chrome a &ldquo;clean,&rdquo; but I don&rsquo;t think it&rsquo;s simple or fast
+now.</em>]</p>
 ]]></content>
   </entry>
   
@@ -422,36 +480,6 @@ by Brian Stelter at the New York Times.</p>
 
 <p>Weekend read: Want a job? Stop complaining and start solving someone
 else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Best Emulators]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/16/best-emulators/"/>
-    <updated>2013-06-16T22:22:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/16/best-emulators</id>
-    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/HNTweets/status/339627174913011712">@HNTweets</a></p>
-
-<p><a href="http://www.digitaltrends.com/gaming/best-emulators/">NES, SNES, Genesis, N64, and more.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[PRISM]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/15/prism/"/>
-    <updated>2013-06-15T13:55:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/15/prism</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130615prism.jpg"></p>
-
-<p>Via <a href="https://twitter.com/SAI/status/345902162984972289">@SAI</a></p>
-
-<p><a href="http://www.businessinsider.com/prism-is-just-the-start-of-nsa-spying-2013-6">This AP article</a> by Stephen Braun, Anne Flaherty, Jack Gillum, and Matt
-Apuzo,  seems to be the most reasonable and seemingly responsible report
-on PRISM that I&rsquo;ve seen yet.  It seems to be pretty much in line with my own
-limited understanding of what the relevant government agencies
-actually do, based on public information.</p>
-
-<p><em>Image credit: <a href="http://www.flickr.com/photos/mr_t_in_dc/3234940911/">Mr. T in DC on Flickr. CC BY-ND 2.0.</a></em></p>
 ]]></content>
   </entry>
   
