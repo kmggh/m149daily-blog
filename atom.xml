@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-08-17T05:25:19-04:00</updated>
+  <updated>2013-08-17T14:28:15-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nova Delphini 2013]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/17/nova-delphini-2013/"/>
+    <updated>2013-08-17T14:07:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/17/nova-delphini-2013</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s a nova in Delphinus.</p>
+
+<p><img class="src" src="http://kmggh.github.io/m149daily-blog//postimages/astro_bob_nova_del.jpg"></p>
+
+<p>From <a href="http://astrobob.areavoices.com/2013/08/14/new-bright-nova-erupts-in-delphinus-grab-your-binoculars/">Astro Bob</a></p>
+
+<blockquote><p>Earlier today Japanese amateur astronomer Koichi Itagaki photographed
+a new bright nova in the constellation Delphinus (del-FYE-nuss). At
+the time it was a little below the naked eye limit (6.8 magnitude) but
+it’s since risen to around 6. That means observers with dark skies can
+see our new guest without optical aid. And if you don’t have dark
+skies, don’t worry. You’ll spot the star in any pair of binoculars.</p></blockquote>
+
+<p><img class="src" src="http://kmggh.github.io/m149daily-blog//postimages/pnv-del.jpg"></p>
+
+<h2>From CBAT announcements</h2>
+
+<blockquote><p>2013 08 14.952
+Photometry: B=6.72, V=6.66, R=6.32, B-V=+0.06 (a Hipparcos reference
+star), remotely using 0.43-m f/6.8 astrograph + CCD (RAS
+observatory, Nerpio, Spain, I89). Observer T. Yusa, Osaki, Japan.</p></blockquote>
+
+<h2>References</h2>
+
+<ul>
+<li><a href="https://twitter.com/PTTU/status/367879669481095169">@PTTU</a></li>
+<li><a href="http://www.cbat.eps.harvard.edu/unconf/followups/J20233073+2046041.html">IAU Central Bureau of Astronomical Telegrams</a></li>
+<li><a href="http://www.skyandtelescope.com/observing/home/Bright-Nova-in-Delphinus-219631281.html">Sky and Telescope</a></li>
+<li><a href="http://www.space.com/22385-star-explosion-nova-delphini-2013-photos.html">Space.com</a></li>
+<li><a href="http://www.universetoday.com/104192/update-on-the-bright-nova-delphini-2013-plus-a-gallery-of-images-from-our-readers/">Update form Universe Today</a></li>
+<li><a href="http://www.aavso.org/lcg/plot?auid=000-BLC-933&amp;starname=NOVA%20DEL%202013&amp;lastdays=30&amp;start=2456518.157746227&amp;stop=2456531.157746227&amp;obscode=&amp;obscode_symbol=2&amp;obstotals=yes&amp;calendar=calendar&amp;forcetics=&amp;grid=on&amp;visual=on&amp;r=on&amp;bband=on&amp;v=on&amp;pointsize=1&amp;width=800&amp;height=450&amp;mag1=&amp;mag2=&amp;mean=&amp;vmean=">AAVSO Light Curve</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More KF]]></title>
@@ -468,18 +509,6 @@ by Brian Stelter at the New York Times.</p>
 <p><a href="http://virtualpants.com/post/53248259631/buying-the-new-macbook-air">Buying the new MacBook Air</a> at Virtual Pants.</p>
 
 <p><em>Image credit: <a href="http://www.flickr.com/photos/pahudson/5128395154/">Paul Hudson at Flickr</a>.  CC by 2.0.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Want a job?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/16/want-a-job/"/>
-    <updated>2013-06-16T23:16:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/16/want-a-job</id>
-    <content type="html"><![CDATA[<p>Via Quartz <a href="https://twitter.com/qz/status/346462368924049411">@qz</a></p>
-
-<p>Weekend read: Want a job? Stop complaining and start solving someone
-else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
 ]]></content>
   </entry>
   
