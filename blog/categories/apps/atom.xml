@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: phones, | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/phones/atom.xml" rel="self"/>
+  <title><![CDATA[Category: apps | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apps/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
   <updated>2013-08-20T06:22:11-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
@@ -80,17 +80,6 @@ quite a bit.</p>
 <li>UTC Time</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
-    <updated>2013-08-05T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/opensignal_android.png" title="" ></p>
-
-<p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>
 ]]></content>
   </entry>
   

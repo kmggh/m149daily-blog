@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-08-18T05:40:21-04:00</updated>
+  <updated>2013-08-20T06:22:11-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Top Five Phone Apps]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps/"/>
+    <updated>2013-08-20T05:55:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps</id>
+    <content type="html"><![CDATA[<p>I heard Clayton Morris on this weekend&rsquo;s
+<a href="http://twit.tv/show/this-week-in-tech/419">TWIT</a> about the poll
+question &ldquo;What are your top five phone apps?&rdquo;</p>
+
+<p>I was wondering about my answer.  Well, let me take out my phone and
+have a look.</p>
+
+<p>I&rsquo;ll assume the calling app (the little phone handset) doesn&rsquo;t count.
+I&rsquo;m not sure about the Clock app counts either.  If it did, it would
+be near the top, too.</p>
+
+<p>Trying to sort some of the apps on my home screens by most used, I
+come up with.</p>
+
+<ol>
+<li>Clock</li>
+<li>Text msg</li>
+<li>Chrome browser</li>
+<li>Weather/News Gadget</li>
+<li>Gmail</li>
+<li>Dogg Catcher</li>
+<li>RadarScope</li>
+<li>Youtube</li>
+<li>Google Maps</li>
+<li>Twitter</li>
+<li>Amazon MP3 Player</li>
+<li>Camera</li>
+<li>Gallery</li>
+<li>Phone call</li>
+</ol>
+
+
+<p>If I remove what came on the pure Google Android OS (Currently 4.2.2),
+and focus on the apps I downloaded from the app store, then that
+leaves the following.</p>
+
+<ol>
+<li>RadarScope</li>
+<li>Dogg Catcher</li>
+<li>Twitter</li>
+<li>Email Me</li>
+<li>Amazon MP3 Player</li>
+</ol>
+
+
+<p>Runners up which <em>might</em> actually belong on this list, but I&rsquo;m not
+really sure which I truly use the most over others.  I use them all
+quite a bit.</p>
+
+<ul>
+<li>Instapaper</li>
+<li>Kindle Reader</li>
+<li>AK Notepad</li>
+<li>RPN Calculator</li>
+<li>Grocery IQ</li>
+<li>Plants vs. Zombies</li>
+<li>Search Light</li>
+<li>Roku Remote</li>
+<li>Poly Clock</li>
+<li>UTC Time</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Smalltalk runtime in the browser]]></title>
@@ -505,17 +575,6 @@ by Brian Stelter at the New York Times.</p>
 <a href="https://twitter.com/mediagazer/status/346901541212520449">@mediagazer</a></p>
 
 <p><em>Image credit: <a href="http://www.flickr.com/photos/davidberkowitz/4260784467/">David Berkowitz on Flickr</a>.  CC by 2.0.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fear and loathing of Silicon Valley]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/18/fear-and-loathing-of-silicon-valley/"/>
-    <updated>2013-06-18T05:12:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/18/fear-and-loathing-of-silicon-valley</id>
-    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/HNTweets/status/346905127430520833">@HNTweets</a></p>
-
-<p><a href="http://techcrunch.com/2013/06/18/no-sympathy-for-the-devil/">Fear And Loathing OF Silicon Valley</a> by Alexia Tsotsis of TechCrunch.</p>
 ]]></content>
   </entry>
   
