@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: browsers | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/browsers/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-08-23T08:47:41-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Opera vs. Chrome Part II]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/23/opera-vs-chrome-part-ii/"/>
+    <updated>2013-08-23T08:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/23/opera-vs-chrome-part-ii</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130823_chrome_mem2.png"></p>
+
+<p><img class="center" src="/postimages/20130823_opera_mem2.png"></p>
+
+<p>Here&rsquo;s a comparison of Opera and Chrome memory with just three or four
+tabs open.  (This is <em>not</em> a careful test).</p>
+
+<p>In this case, Chrome is using 621 MB (612 KF2) of real memory
+vs. Opera&rsquo;s 458 MB (458 KF2).</p>
+]]></content>
+  </entry>
+  
+</feed>
