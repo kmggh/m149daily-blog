@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-08-23T08:47:41-04:00</updated>
+  <updated>2013-09-04T05:33:12-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,93 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GeorgiaWeather.net]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net/"/>
+    <updated>2013-09-04T05:01:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/gawx1.png"></p>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/gawx2.png"></p>
+
+<p>A friend recently told me about
+<a href="http://georgiaweather.net/">georgiaweather.net</a>.</p>
+
+<blockquote><p>The Georgia Automated Environmental Monitoring Network was established
+in 1991 by the College of Agricultural and Environmental Sciences of
+the University of Georgia. The objective of the AEMN is to collect
+reliable weather information for agricultural and environmental
+applications. Each station monitors air temperature, relative
+humidity, rainfall, solar radiation, wind speed, wind direction, soil
+temperature at 2, 4, and 8 inch depths, atmospheric pressure, and soil
+moisture every 1 second. Data are summarized at 15 minute intervals
+and at midnight a daily summary is calculated. A microcomputer at the
+Georgia Experiment Station initiates telephone calls to each station
+periodically and downloads the recorded data. The data are processed
+immediately and disseminated via the world wide web.</p></blockquote>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/gawx3.png"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Friday Moon Shot]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/04/friday-moon-shot/"/>
+    <updated>2013-09-04T04:37:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/04/friday-moon-shot</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/663539main_wallops-minotaurv-wideangle_br.jpg"></p>
+
+<p>Via <a href="https://twitter.com/PTTU/status/375137266101780481">@PTTU</a></p>
+
+<p><a href="http://www.space.com/22635-american-minotaur-5-rocket-launch-debut.html">New American Rocket Making Launch Debut with Friday Moon Shot</a>
+By Mike Wall, Senior Writer at Space.com</p>
+
+<blockquote><p>A Minotaur V rocket will carry NASA&rsquo;s Lunar Atmosphere and Dust
+Environment Explorer spacecraft (LADEE) on its maiden launch, which is
+slated to take place Friday at 11:27 p.m. EDT (0327 GMT) from the
+space agency&rsquo;s Wallops Flight Facility in Virginia.</p>
+
+<p>The first three stages of the Minotaur V (and the Minotaur IV) are
+solid rocket motors recycled from decommissioned Peacekeeper
+intercontinental ballistic missiles. The fourth and fifth stages are
+commercial Star motors, which are also flight-proven, [<em>Wallops
+launch manager Doug</em>] Voss said.</p>
+
+<p>The $280 million LADEE mission aims to study lunar dust and the moon&rsquo;s
+wispy atmosphere from orbit using three science instruments.</p>
+
+<p>[Space.com] Editor&rsquo;s note: Weather permitting, Friday&rsquo;s launch
+ could be visible across wide regions of the U.S. East Coast.</p></blockquote>
+
+<!-- more -->
+
+
+<h2>What is LADEE</h2>
+
+<p>From NASA:</p>
+
+<blockquote><p>NASA&rsquo;s Lunar Atmosphere and Dust Environment Explorer (LADEE) is a
+robotic mission that will orbit the moon to gather detailed
+information about the lunar atmosphere, conditions near the surface
+and environmental influences on lunar dust. A thorough understanding
+of these characteristics will address long-standing unknowns, and help
+scientists understand other planetary bodies as well.</p>
+
+<p>The LADEE spacecraft&rsquo;s modular common spacecraft bus, or body, is an
+innovative way of transitioning away from custom designs and toward
+multi-use designs and assembly-line production, which could
+drastically reduce the cost of spacecraft development, just as the
+Ford Model T did for automobiles. NASA&rsquo;s Ames Research Center
+designed, developed, built and tested the spacecraft.</p></blockquote>
+
+<h2>References</h2>
+
+<p><a href="http://www.nasa.gov/mission_pages/ladee/main/index.html#.UibyumTlVZ8">NASA LADEE Mission</a><br></p>
+
+<p><em>Image Credit: NASA Wallops/Jackie Adkins</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Opera vs. Chrome Part II]]></title>
@@ -453,84 +540,6 @@ of the stadium.</p></blockquote>
     <updated>2013-06-25T06:41:00-04:00</updated>
     <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/daft-pianists</id>
     <content type="html"><![CDATA[<p>Cdza cover Daft Punk&rsquo;s &ldquo;Get Lucky.&rdquo; [VIDEO]  <a href="https://www.youtube.com/watch?v=Wf68FTYoGKQ">https://www.youtube.com/watch?v=Wf68FTYoGKQ</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Electronically Stored Program 65 Years Ago]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago/"/>
-    <updated>2013-06-22T07:41:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Williams-tube.jpg" title="" ></p>
-
-<p>Via <a href="https://twitter.com/slashdot/status/348387564174065665">@slashdot</a>.</p>
-
-<p>Sixty-five Years Ago, Manchester&rsquo;s &lsquo;Baby&rsquo; Ran Electronically Stored Program. <a href="http://hardware.slashdot.org/story/13/06/22/0247220/65-years-ago-manchesters-baby-ran-electronically-stored-program?utm_source=slashdot&amp;utm_medium=twitter">Posting at Slashdot</a>.</p>
-
-<blockquote><p>&ldquo;as the Manchester Small Scale Experimental Machine aka &lsquo;Baby&rsquo; became
-the world&rsquo;s first computer to run an electronically stored program on
-June 21, 1948. The &lsquo;Baby&rsquo; was developed by Frederic C. Williams, Tom
-Kilburn and Geoff Tootill at the University of Manchester.</p></blockquote>
-
-<!-- more -->
-
-
-<p>From <a href="http://www.computer50.org/kgill/williams/williams.html">The Williams Tube</a> maintained by Brian Napper at the
-University of Manchester.</p>
-
-<blockquote><p>By March 1947 Tom Kilburn had discovered a different and better method
-of storing information, more suited to storing a large number of bits
-on the same tube. By November 1947 they had succeeded in storing 2048
-bits for a period of hours, having investigated a number of variations
-on storing a set of bits (dot-dash, dash-dot, defocus-focus,
-focus-defocus).</p>
-
-<p>The general principle behind the storage of binary information was to
-plant charge in one of two different ways at an array of spots on a
-CRT using standard techniques. The type of charge at any spot,
-representing a 0 or 1, could be sensed by a metal pick-up plate on the
-outside of the CRT screen, thus &ldquo;reading&rdquo; the &ldquo;value&rdquo; of the
-spot. However, the charge dissipated very quickly, so values were
-preserved indefinitely by continuously reading their value and
-resetting the charge as appropriate to the value.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>When in Autumn 1947 the group had successfully stored 2048 digits,
-they had the problem of proving that the store would operate
-successfully inside a computer. They could only alter bits at the rate
-of around 1 a second, which was 100,000 times slower than the store&rsquo;s
-capability. In the end they decided that the simplest way to test that
-the CRT storage system was suitable for use in computers was to build
-a small computer round it. So the way was clear for the construction
-of the SSEM, the &ldquo;Baby&rdquo;, &ldquo;to subject the system to the most searching
-test possible.&rdquo; The Baby was therefore built to show that
-Williams-Kilburn CRT Stores could work dynamically in a working
-computer, and to demonstrate the feasibility of building a much larger
-machine using them. That it also was the first machine to realise the
-stored-program computer, and prove its feasibility was a secondary
-consideration.</p></blockquote>
-
-<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130622_Manchester_Computers.jpg" title="" ></p>
-
-<p><em>Image: <a href="http://www.reginaldtiangha.com/cpsc509/williams.htm">Williams, Crawley and McPherson admiring the implementation
-of the Williams Tube in an IBM 701</a> in 1953 image from Early British
-Computers by Simon H. Lavington</em></p>
-
-<p><em>Top Image: <a href="http://commons.wikimedia.org/wiki/File:Williams-tube.jpg">A Williams tube. CC 2.0</a>.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice/"/>
-    <updated>2013-06-20T15:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice</id>
-    <content type="html"><![CDATA[<p>Happy summer solstice tonight at 1:04 AM EDT.</p>
-
-<p>Fri 2013-06-21 05:04:00 +0000<br/>
-Fri 2013-06-21 01:04:00 -0400<br/>
-Thu 2013-06-20 23:04:00 -0700</p>
 ]]></content>
   </entry>
   
