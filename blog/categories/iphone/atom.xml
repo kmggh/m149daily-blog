@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: phones, | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/phones/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iphone | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/iphone/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
   <updated>2013-09-30T00:21:10-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
@@ -150,89 +150,6 @@ update on what I think about the progress.</p>
 <li>Something I haven&rsquo;t thought of.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Top Five Phone Apps]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps/"/>
-    <updated>2013-08-20T05:55:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/homescreen_1.png" title="" ></p>
-
-<p>I heard Clayton Morris on this weekend&rsquo;s
-<a href="http://twit.tv/show/this-week-in-tech/419">TWIT</a> about the poll
-question &ldquo;What are your top five phone apps?&rdquo;</p>
-
-<p>I was wondering about my answer.  Well, let me take out my phone and
-have a look.</p>
-
-<p>I&rsquo;ll assume the calling app (the little phone handset) doesn&rsquo;t count.
-I&rsquo;m not sure about the Clock app counts either.  If it did, it would
-be near the top, too.</p>
-
-<p>Trying to sort some of the apps on my home screens by most used, I
-come up with.</p>
-
-<ol>
-<li>Clock</li>
-<li>Text msg</li>
-<li>Chrome browser</li>
-<li>Weather/News Gadget</li>
-<li>Gmail</li>
-<li>Dogg Catcher</li>
-<li>RadarScope</li>
-<li>Youtube</li>
-<li>Google Maps</li>
-<li>Twitter</li>
-<li>Amazon MP3 Player</li>
-<li>Camera</li>
-<li>Gallery</li>
-<li>Phone call</li>
-</ol>
-
-
-<p>If I remove what came on the pure Google Android OS (Currently 4.2.2),
-and focus on the apps I downloaded from the app store, then that
-leaves the following.</p>
-
-<ol>
-<li>RadarScope</li>
-<li>Dogg Catcher</li>
-<li>Twitter</li>
-<li>Email Me</li>
-<li>Amazon MP3 Player</li>
-</ol>
-
-
-<p>Runners up which <em>might</em> actually belong on this list, but I&rsquo;m not
-really sure which I truly use the most over others.  I use them all
-quite a bit.</p>
-
-<ul>
-<li>Instapaper</li>
-<li>Kindle Reader</li>
-<li>AK Notepad</li>
-<li>RPN Calculator</li>
-<li>Grocery IQ</li>
-<li>Plants vs. Zombies</li>
-<li>Search Light</li>
-<li>Roku Remote</li>
-<li>Poly Clock</li>
-<li>UTC Time</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
-    <updated>2013-08-05T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/opensignal_android.png" title="" ></p>
-
-<p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>
 ]]></content>
   </entry>
   
