@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: comets | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/comets/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-11-24T00:30:33-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Comet ISON C/2012 S1]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1/"/>
+    <updated>2013-11-24T00:03:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1</id>
+    <content type="html"><![CDATA[<p>From EarthSky</p>
+
+<blockquote><p>Comet ISON, anticipated by skywatchers for more than a year, is
+brightening fast just days from its fateful hairpin swing on November
+28 around the broiling surface of the sun. The comet is now a
+greenish-white fuzzy “star” in binoculars, low in the east-southeast
+at the beginning of dawn. Telescopic photos are showing it with a
+long, ribbony tail. The comet has flared with unexpected outbursts of
+gas and dust three times already this month.</p></blockquote>
+
+<h2>References</h2>
+
+<p><a href="http://earthsky.org/science-wire/comet-ison-brightening-fast-as-its-moment-of-truth-nears">Comet ISON brightening fast as its moment of truth nears</a><a href="https://twitter.com/earthskyscience/status/403314232701091840">via @earthskyscience</a><br>
+<a href="http://www.observatorij.org/cobs/images/latest-lightcurve.png">Latest Light Curve</a><br>
+<a href="http://spaceweathergallery.com/indiv_upload.php?upload_id=90223&amp;PHPSESSID=34o31mq8nus0r94icsrtd1mh73">Image by Bob Lukasik from Brasstown Bald 2103-11-20</a><br>
+<a href="http://www.isoncampaign.org/karl/updated-ison-encke-movie">ISON Encke Movie</a><br>
+<a href="http://www.isoncampaign.org/karl/ison-encke-mercury-home">ISON, Encke, Mercury and Home by Karl Battams</a></p>
+]]></content>
+  </entry>
+  
+</feed>

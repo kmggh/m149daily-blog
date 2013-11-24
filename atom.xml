@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-10-11T07:52:47-04:00</updated>
+  <updated>2013-11-24T00:30:33-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Comet ISON C/2012 S1]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1/"/>
+    <updated>2013-11-24T00:03:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1</id>
+    <content type="html"><![CDATA[<p>From EarthSky</p>
+
+<blockquote><p>Comet ISON, anticipated by skywatchers for more than a year, is
+brightening fast just days from its fateful hairpin swing on November
+28 around the broiling surface of the sun. The comet is now a
+greenish-white fuzzy “star” in binoculars, low in the east-southeast
+at the beginning of dawn. Telescopic photos are showing it with a
+long, ribbony tail. The comet has flared with unexpected outbursts of
+gas and dust three times already this month.</p></blockquote>
+
+<h2>References</h2>
+
+<p><a href="http://earthsky.org/science-wire/comet-ison-brightening-fast-as-its-moment-of-truth-nears">Comet ISON brightening fast as its moment of truth nears</a><a href="https://twitter.com/earthskyscience/status/403314232701091840">via @earthskyscience</a><br>
+<a href="http://www.observatorij.org/cobs/images/latest-lightcurve.png">Latest Light Curve</a><br>
+<a href="http://spaceweathergallery.com/indiv_upload.php?upload_id=90223&amp;PHPSESSID=34o31mq8nus0r94icsrtd1mh73">Image by Bob Lukasik from Brasstown Bald 2103-11-20</a><br>
+<a href="http://www.isoncampaign.org/karl/updated-ison-encke-movie">ISON Encke Movie</a><br>
+<a href="http://www.isoncampaign.org/karl/ison-encke-mercury-home">ISON, Encke, Mercury and Home by Karl Battams</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Evernote Encryption]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/15/evernote-encryption/"/>
+    <updated>2013-11-15T09:32:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/15/evernote-encryption</id>
+    <content type="html"><![CDATA[<p>Nice!  Evernote let&rsquo;s you encrypt the text in a note!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[M103 The Christmas Tree Cluster]]></title>
@@ -1042,32 +1076,6 @@ actually switched to using Opera.  I still use Chrome as my primary
 browser. However, as a minimalist, I like simple, clean and fast.
 I&rsquo;ll give Chrome a &ldquo;clean,&rdquo; but I don&rsquo;t think it&rsquo;s simple or fast
 now.</em>]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
-    <updated>2013-08-05T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/opensignal_android.png" title="" ></p>
-
-<p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Georgia Tech's Massive Open Online Course]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/georgia-techs-massive-open-online-course/"/>
-    <updated>2013-08-05T05:33:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/georgia-techs-massive-open-online-course</id>
-    <content type="html"><![CDATA[<p><img class="centered" src="http://kmggh.github.io/m149daily-blog//postimages/gatech.jpg" title="" ></p>
-
-<p><a href="http://mobile.slate.com/articles/technology/technology/2013/07/georgia_tech_s_computer_science_mooc_the_super_cheap_master_s_degree_that.html?fb_ref=sm_fb_share_toolbar&amp;original_referrer=http%3A%2F%2Ft.co%2FDDa79FtxK5">The MOOC That Roared</a>  How Georgia Tech’s new, super-cheap online master’s degree could radically change American higher education.
-By Gabriel Kahn at Slate.</p>
-
-<p><em>Image credit: Steam engine at Georgia Tech with the Tech Tower in the
- background by Max Veers, 2007.  CC-BY-SA 2.5.</em></p>
 ]]></content>
   </entry>
   
