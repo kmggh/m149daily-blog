@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-11-24T17:16:00-05:00</updated>
+  <updated>2013-11-29T14:39:00-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
+    <updated>2013-11-29T14:24:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/comet_ison_postp.png"></p>
+
+<p>Reports are starting to come in regarding what happened to Comet ISON
+C/2012 S1 after passing the perihelion of its orbit.</p>
+
+<p>From
+<a href="https://twitter.com/astroengine/status/406342402706665472">@astroengine</a>
+and <a href="https://twitter.com/discovery_space/status/406342053455347712">@discovery_space</a>:
+ <a href="http://news.discovery.com/space/astronomy/comet-ison-barely-survives-thanksgiving-solar-roast-131129.htm">Comet ISON Barely Survives Thanksgiving Solar
+ Roast</a><br></p>
+
+<p>Update from NASA CIOC: <a href="http://www.isoncampaign.org/karl/schroedingers-comet">Schrödinger&rsquo;s Comet</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More Comet ISON]]></title>
@@ -1057,17 +1077,6 @@ this time by ionising oxygen instead of hydrogen.</p></blockquote>
 <p><a href="http://www.eso.org/public/news/eso1335/">Press Release by the ESO</a></p>
 
 <p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Two_very_different_glowing_gas_clouds_in_the_Large_Magellanic_Cloud_ESO.jpg">European Southern Observatory CC-BY-3.0</a>.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go for System Admins]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins/"/>
-    <updated>2013-08-14T07:44:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/go-for-system-admins</id>
-    <content type="html"><![CDATA[<p>John E. Vincent on blog dot lusi talks about trying out Go.</p>
-
-<p><a href="http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/">Go for System Administrators</a></p>
 ]]></content>
   </entry>
   
