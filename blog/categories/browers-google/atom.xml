@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: browers,google | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/browers-google/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-12-01T19:48:43-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Opera vs. Chrome?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome/"/>
+    <updated>2013-08-14T07:28:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Opera-icon-high-res.png"></p>
+
+<p>Chrome has gotten so slow and uses so much memory.  I downloaded the
+lastest Opera this morning and tried it on Gmail and Picasaweb.  It
+was much faster and left a lot more free memory!  When composing a
+message in Gmail I didn&rsquo;t notice any loss of functionality.</p>
+
+<p>Chrome was so fast and a joy to use when it was new.  What has
+happened to Chrome?  And why?</p>
+
+<p>[<em>Update Sat 2013-08-17 05:19:34 -0400: Just to be clear, I haven&rsquo;t
+actually switched to using Opera.  I still use Chrome as my primary
+browser. However, as a minimalist, I like simple, clean and fast.
+I&rsquo;ll give Chrome a &ldquo;clean,&rdquo; but I don&rsquo;t think it&rsquo;s simple or fast
+now.</em>]</p>
+]]></content>
+  </entry>
+  
+</feed>

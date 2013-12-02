@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
+  <title><![CDATA[Category: astronomy, | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-11-29T14:39:00-05:00</updated>
+  <updated>2013-12-01T19:48:43-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -14,134 +14,66 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Nova Delphini 2013]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/17/nova-delphini-2013/"/>
-    <updated>2013-08-17T14:07:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/17/nova-delphini-2013</id>
-    <content type="html"><![CDATA[<p>There&rsquo;s a nova in Delphinus.</p>
+    <title type="html"><![CDATA[What's An Observing Run Really Like?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/26/whats-an-observing-run-really-like/"/>
+    <updated>2013-06-26T05:50:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/26/whats-an-observing-run-really-like</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130626_Kitt_Peak.jpg" title="" ></p>
 
-<p><img class="src" src="/postimages/astro_bob_nova_del.jpg"></p>
+<p>Via <a href="https://twitter.com/universetoday/status/349191149413609474">@universetoday</a></p>
 
-<p>From <a href="http://astrobob.areavoices.com/2013/08/14/new-bright-nova-erupts-in-delphinus-grab-your-binoculars/">Astro Bob</a></p>
+<p><a href="http://www.universetoday.com/103082/behind-the-scenes-at-kitt-peak-observatory-what-is-an-observing-run-really-like/">Behind the Scenes at Kitt Peak Observatory: What is an Observing Run Really Like?</a>
+by Shannon Hall</p>
 
-<blockquote><p>Earlier today Japanese amateur astronomer Koichi Itagaki photographed
-a new bright nova in the constellation Delphinus (del-FYE-nuss). At
-the time it was a little below the naked eye limit (6.8 magnitude) but
-it’s since risen to around 6. That means observers with dark skies can
-see our new guest without optical aid. And if you don’t have dark
-skies, don’t worry. You’ll spot the star in any pair of binoculars.</p></blockquote>
+<p>Kitt Peak used to be the premier US observatory.  Even though there
+are much larger telescopes and sites now, yet it remains an impressive
+place.</p>
 
-<p><img class="src" src="/postimages/pnv-del.jpg"></p>
-
-<h2>From CBAT announcements</h2>
-
-<blockquote><p>2013 08 14.952
-Photometry: B=6.72, V=6.66, R=6.32, B-V=+0.06 (a Hipparcos reference
-star), remotely using 0.43-m f/6.8 astrograph + CCD (RAS
-observatory, Nerpio, Spain, I89). Observer T. Yusa, Osaki, Japan.</p></blockquote>
-
-<p>In the <a href="http://www.universetoday.com/104192/update-on-the-bright-nova-delphini-2013-plus-a-gallery-of-images-from-our-readers/">Update from Universe Today</a>:</p>
-
-<blockquote><p>Since showing itself on August 14, 2013, a bright nova in the
-constellation Delphinus — now officially named Nova Delphini 2013 —
-has brightened even more. As of this writing, the nova is at magnitude
-4.4 to 4.5, meaning that for the first time in years, there is a nova
-visible to the naked eye — if you have a dark enough sky. Even better,
-use binoculars or a telescope to see this “new star” in the sky.</p></blockquote>
-
-<h2>References</h2>
-
-<ul>
-<li><a href="https://twitter.com/PTTU/status/367879669481095169">@PTTU</a></li>
-<li><a href="http://www.cbat.eps.harvard.edu/unconf/followups/J20233073+2046041.html">IAU Central Bureau of Astronomical Telegrams</a></li>
-<li><a href="http://www.skyandtelescope.com/observing/home/Bright-Nova-in-Delphinus-219631281.html">Sky and Telescope</a></li>
-<li><a href="http://www.space.com/22385-star-explosion-nova-delphini-2013-photos.html">Space.com</a></li>
-<li><a href="http://www.universetoday.com/104192/update-on-the-bright-nova-delphini-2013-plus-a-gallery-of-images-from-our-readers/">Update from Universe Today</a></li>
-<li><a href="http://www.aavso.org/lcg/plot?auid=000-BLC-933&amp;starname=NOVA%20DEL%202013&amp;lastdays=30&amp;start=2456518.157746227&amp;stop=2456531.157746227&amp;obscode=&amp;obscode_symbol=2&amp;obstotals=yes&amp;calendar=calendar&amp;forcetics=&amp;grid=on&amp;visual=on&amp;r=on&amp;bband=on&amp;v=on&amp;pointsize=1&amp;width=800&amp;height=450&amp;mag1=&amp;mag2=&amp;mean=&amp;vmean=">AAVSO Light Curve</a></li>
-</ul>
-
+<blockquote><p>This is my third trip to Kitt Peak, but my first chance to observe
+on the Mayall 4-meter telescope. The first thing to know about the
+4-meter is that it is a colossal maze. Literally.  There are 16
+stories of rooms, now obsolete and out of date, before reaching the
+base of the telescope itself.</p></blockquote>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[NGC 2014 and NGC 2020]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/ngc-2014-and-ngc-2020/"/>
-    <updated>2013-08-14T07:53:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/ngc-2014-and-ngc-2020</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/ngc2014-2020.jpg" title="" ></p>
+    <title type="html"><![CDATA[What Was That Super Moon?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/26/what-was-that-super-moon/"/>
+    <updated>2013-06-26T05:25:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/26/what-was-that-super-moon</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130626_Super_moon.jpg"></p>
 
-<p>Usually when you see a blue nebula in an image, it&rsquo;s a reflection
-nebula where primarily dust is reflecting star light.  In this case
-NGC 2020 is apparently an emission nebula with ionized hydrogen
-causing most of the blue glow.</p>
+<p>Via <a href="https://twitter.com/universetoday/status/348480134908612608">@universetoday</a></p>
 
-<blockquote><p>The pink-tinged cloud on the right, NGC 2014, is a glowing cloud of
-mostly hydrogen gas. It contains a cluster of hot young stars. The
-energetic radiation from these new stars strips electrons from the
-atoms within the surrounding hydrogen gas, ionising it and producing a
-characteristic red glow.</p>
+<p><a href="http://www.universetoday.com/102763/what-is-a-super-moon/?utm_content=buffer6915b&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">What is a Super Moon?</a></p>
 
-<p>In addition to this strong radiation, massive young stars also produce
-powerful stellar winds that eventually cause the gas around them to
-disperse and stream away. To the left of the main cluster, a single
-brilliant and very hot star [2] seems to have started this process,
-creating a cavity that appears encircled by a bubble-like structure
-called NGC 2020. The distinctive blueish colour of this rather
-mysterious object is again created by radiation from the hot star —
-this time by ionising oxygen instead of hydrogen.</p></blockquote>
+<p>David Dickinson does an excellent job of explaining the so-called
+super moon along with a nice bit of lunar orbital mechanics and
+effects.</p>
 
-<p><a href="http://www.eso.org/public/news/eso1335/">Press Release by the ESO</a></p>
+<p>The bottom line is that it&rsquo;s not that big a deal.  You probably can&rsquo;t
+tell the difference by looking at the moon.  The weather and other
+local conditions, along with whether the moon is rising or high in the
+sky, have a much greater effect on what you see.</p>
 
-<p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Two_very_different_glowing_gas_clouds_in_the_Large_Magellanic_Cloud_ESO.jpg">European Southern Observatory CC-BY-3.0</a>.</em></p>
+<p>The news buzz of the &ldquo;super moon&rdquo; also causes more people to stop
+and take a moment to look at the moon.  Then they notice, &ldquo;Wow!  That
+thing really is big and bright in the sky!&rdquo;  That&rsquo;s a nice thing that
+astronomers generally just to more often anyway.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice/"/>
-    <updated>2013-06-20T15:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice</id>
-    <content type="html"><![CDATA[<p>Happy summer solstice tonight at 1:04 AM EDT.</p>
+    <title type="html"><![CDATA[Mercury farthest from sun on 12 June]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/12/mercury-farthest-from-sun-on-12-june/"/>
+    <updated>2013-06-12T08:37:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/12/mercury-farthest-from-sun-on-12-june</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Mercury_13june12_430.jpg" title="" ></p>
 
-<p>Fri 2013-06-21 05:04:00 +0000<br/>
-Fri 2013-06-21 01:04:00 -0400<br/>
-Thu 2013-06-20 23:04:00 -0700</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Messier Monday: M86]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/12/messier-monday-m86/"/>
-    <updated>2013-06-12T08:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/12/messier-monday-m86</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Messier_object_086.jpg" title="" ></p>
+<p>Via <a href="https://twitter.com/earthskyscience/status/344794904645480448">@earthskyscience</a></p>
 
-<p>Via <a href="https://twitter.com/PTTU/status/344310629806514177">@PTTU</a>&mdash;
-Portal to the Universe.</p>
-
-<p>Messier Monday: The Most Blueshifted Messier Object, M86 <a href="http://bit.ly/166KXqA">bit.ly/166KXqA</a></p>
-
-<p><em>Image credit: Atlas Image [or Atlas Image mosaic] Obtained as part of
-the Two Micron All Sky Survey (2MASS), a joint Project of the
-University of Massachusetts and the Infrared Processing and Analysis
-Center / California Institute of Technology, funded by the National
-Aeronautics and Space Administration and the National Science
-Foundation.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Helioseismology from Kepler]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/05/18/helioseismology-from-kepler/"/>
-    <updated>2013-05-18T10:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/05/18/helioseismology-from-kepler</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Helioseismology_pmode1.png"></p>
-
-<p>In light of the Kepler space observatory&rsquo;s malfunction, which may
-bring the mission to an early end, here&rsquo;s <a href="http://www.skyandtelescope.com/news/119467819.html">a nice overview of some of
-Kepler&rsquo;s contribution to stellar astrophysics from Sky and Telescope</a>.</p>
-
-<p><em>Image credit: Stanford University</em></p>
+<p>Mercury farthest from sun on sky’s dome on June 12.  <a href="http://earthsky.org/tonight/mercury-at-greatest-evening-elongation-from-sun-on-june-12">Article at EarthSky</a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: astronomy,calendar | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy-calendar/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2013-12-01T19:48:43-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Autumnal Equinox!]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/21/happy-autumnal-equinox/"/>
+    <updated>2013-09-21T23:39:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/21/happy-autumnal-equinox</id>
+    <content type="html"><![CDATA[<p>On Sunday afternoon at 16:44 EDT.</p>
+
+<p>Sun 2013-09-22 20:44:00 +0000
+Sun 2013-09-22 16:44:00 -0400</p>
+
+<p>(Times are to the nearest minute).</p>
+]]></content>
+  </entry>
+  
+</feed>
