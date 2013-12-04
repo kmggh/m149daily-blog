@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-12-01T19:48:43-05:00</updated>
+  <updated>2013-12-04T06:00:07-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Smalltalk runtime in the browser]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/18/smalltalk-runtime-in-the-browser/"/>
+    <updated>2013-08-18T05:33:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/18/smalltalk-runtime-in-the-browser</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/amber.png"></p>
+
+<p>Via <a href="https://twitter.com/HNTweets/status/367911066203729920">@HNTweets</a></p>
+
+<p>Smalltalk runtime in the browser: <a href="http://amber-lang.net/">http://amber-lang.net/</a> Comments: <a href="https://news.ycombinator.com/item?id=6216539">https://news.ycombinator.com/item?id=6216539</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The UNIX Tree]]></title>

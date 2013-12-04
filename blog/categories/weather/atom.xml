@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: weather, | Monolith149 Daily]]></title>
+  <title><![CDATA[Category: weather | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/weather/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-12-01T19:48:43-05:00</updated>
+  <updated>2013-12-04T06:00:07-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GeorgiaWeather.net]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net/"/>
+    <updated>2013-09-04T05:01:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/gawx3.png"></p>
+
+<p>A friend recently told me about
+<a href="http://georgiaweather.net/">georgiaweather.net</a>.</p>
+
+<!-- More -->
+
+
+<p><img class="center" src="/postimages/gawx1.png"></p>
+
+<blockquote><p>The Georgia Automated Environmental Monitoring Network was established
+in 1991 by the College of Agricultural and Environmental Sciences of
+the University of Georgia. The objective of the AEMN is to collect
+reliable weather information for agricultural and environmental
+applications. Each station monitors air temperature, relative
+humidity, rainfall, solar radiation, wind speed, wind direction, soil
+temperature at 2, 4, and 8 inch depths, atmospheric pressure, and soil
+moisture every 1 second. Data are summarized at 15 minute intervals
+and at midnight a daily summary is calculated. A microcomputer at the
+Georgia Experiment Station initiates telephone calls to each station
+periodically and downloads the recorded data. The data are processed
+immediately and disseminated via the world wide web.</p></blockquote>
+
+<p><img class="center" src="/postimages/gawx2.png"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Stormy Night]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night/"/>
+    <updated>2013-06-14T06:55:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130614_Storm_Reports.gif"></p>
+
+<p>Storm reports from the NOAA <a href="http://www.spc.noaa.gov/climo/reports/today.html">Storm Prediction Center</a>.</p>
+
+<p><a href="http://www.weather.com/news/big-storm-threat-possible-derecho-20130612">Storms State-by-State</a> from The Weather Channel.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Updated Tornado and Severe Thunderstorm Forecast]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast/"/>
+    <updated>2013-06-13T13:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130613MikeSmith.png"></p>
+
+<p>Via <a href="https://twitter.com/USWeatherExpert/status/345222835515559937">@USWeatherExpert</a></p>
+
+<p>At <a href="http://meteorologicalmusings.blogspot.com/2013/06/updated-tornado-and-severe-thunderstorm.html?spref=tw">Mike Smith Enterprises Blog: Updated Tornado and Severe Thunderstorm Forecast</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Significant Severe Weather Threat today]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today/"/>
+    <updated>2013-06-13T12:42:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130613wx.png" title="" ></p>
+
+<p>Via <a href="https://twitter.com/wxbrad/status/345216731297492994">@wxbrad</a> in NC.
+Be watchful in GA.</p>
+
+<p><a href="http://youtu.be/dmOH6gUp_KI">Video</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[O2 from the Ocean?]]></title>

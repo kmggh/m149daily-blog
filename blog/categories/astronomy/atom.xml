@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: astronomy, | Monolith149 Daily]]></title>
+  <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-12-01T19:48:43-05:00</updated>
+  <updated>2013-12-04T06:00:07-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -14,66 +14,153 @@
 
   
   <entry>
-    <title type="html"><![CDATA[What's An Observing Run Really Like?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/26/whats-an-observing-run-really-like/"/>
-    <updated>2013-06-26T05:50:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/26/whats-an-observing-run-really-like</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130626_Kitt_Peak.jpg" title="" ></p>
+    <title type="html"><![CDATA[Possible Massive Black Hole Duo]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/04/possible-massive-black-hole-duo/"/>
+    <updated>2013-12-04T05:26:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/04/possible-massive-black-hole-duo</id>
+    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/physorg_com/status/408160199460270081">@physorg_com</a> <a href="http://phys.org/news/2013-12-massive-black-hole-duo-sighting.html">Massive black hole duo: Possible sighting by WISE</a></p>
 
-<p>Via <a href="https://twitter.com/universetoday/status/349191149413609474">@universetoday</a></p>
+<blockquote><p>Astronomers have spotted what appear to be two supermassive black
+holes at the heart of a remote galaxy, circling each other like dance
+partners. The incredibly rare sighting was made with the help of
+NASA&rsquo;s Wide-field Infrared Survey Explorer, or WISE.</p></blockquote>
 
-<p><a href="http://www.universetoday.com/103082/behind-the-scenes-at-kitt-peak-observatory-what-is-an-observing-run-really-like/">Behind the Scenes at Kitt Peak Observatory: What is an Observing Run Really Like?</a>
-by Shannon Hall</p>
+<p>&hellip;</p>
 
-<p>Kitt Peak used to be the premier US observatory.  Even though there
-are much larger telescopes and sites now, yet it remains an impressive
-place.</p>
+<blockquote><p>It is these close-knit black holes, also called black hole binaries,
+that have been the hardest to find. The objects are usually too small
+to be resolved even by powerful telescopes. Only a few strong
+candidates have been identified to date, all relatively nearby. The
+new WISE J233237.05-505643.5 is a new candidate, and located much
+farther away, at 3.8 billion light-years from Earth.</p>
 
-<blockquote><p>This is my third trip to Kitt Peak, but my first chance to observe
-on the Mayall 4-meter telescope. The first thing to know about the
-4-meter is that it is a colossal maze. Literally.  There are 16
-stories of rooms, now obsolete and out of date, before reaching the
-base of the telescope itself.</p></blockquote>
+<p>Radio images with the Australian Telescope Compact Array were key to
+identifying the dual nature of WISE J233237.05-505643.5. Supermassive
+black holes at the cores of galaxies typically shoot out
+pencil-straight jets, but, in this case, the jet showed a zigzag
+pattern. According to the scientists, a second massive black hole
+could, in essence, be pushing its weight around to change the shape of
+the other black hole&rsquo;s jet.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>&ldquo;We note some caution in interpreting this mysterious system,&rdquo; said
+Daniel Stern of JPL, a co-author of the study. &ldquo;There are several
+extremely unusual properties to this system, from the multiple radio
+jets to the Gemini data, which indicate a highly perturbed disk of
+accreting material around the black hole, or holes. Two merging black
+holes, which should be a common event in the universe, would appear to
+be simplest explanation to explain all the current observations.&rdquo;</p></blockquote>
+
+<h2>References</h2>
+
+<p><a href="http://iopscience.iop.org/0004-637X/779/1/41/pdf/0004-637X_779_1_41.pdf">WISE J233237.05–505643.5: A Double-peaked, Broad-lined Active Galactic Nucleus with a Spiral-shaped Radio Morphology</a>, Chao-Wei Tsai et al. 2013 ApJ 779 41<br>
+<a href="http://arxiv.org/abs/1310.2257">Paper at arXiv</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What Was That Super Moon?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/26/what-was-that-super-moon/"/>
-    <updated>2013-06-26T05:25:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/26/what-was-that-super-moon</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130626_Super_moon.jpg"></p>
+    <title type="html"><![CDATA[ISON Sans Nucleus]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus/"/>
+    <updated>2013-12-01T19:15:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus</id>
+    <content type="html"><![CDATA[<p>Quoting from the <a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a>:</p>
 
-<p>Via <a href="https://twitter.com/universetoday/status/348480134908612608">@universetoday</a></p>
+<blockquote><p>Dan Green of the International Astronomical Union&rsquo;s Central Bureau for
+Astronomical Telegrams published a long summary (Electronic Telegram
+No. 3731) early today. Excerpts:</p>
 
-<p><a href="http://www.universetoday.com/102763/what-is-a-super-moon/?utm_content=buffer6915b&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">What is a Super Moon?</a></p>
+<blockquote><p>The comet&rsquo;s nucleus apparently disrupted near perihelion, with the
+comet&rsquo;s head fading from perhaps a peak brightness of visual mag –2
+some hours before perihelion to well below mag +1 before
+perihelion. M. Knight, Lowell Observatory&hellip; [adds] that the brightest
+feature in the coma faded steadily after perihelion from about mag 3.1
+in a 95"-radius aperture when the comet first appeared from behind the
+SOHO coronagraph occulting disk on Nov. 28.92 to about mag 6.5 on
+Nov. 29.98&hellip;..</p>
 
-<p>David Dickinson does an excellent job of explaining the so-called
-super moon along with a nice bit of lunar orbital mechanics and
-effects.</p>
+<p>K.Battams, Naval Research Laboratory, writes that, based on the most
+recent LASCO C3 images (Nov. 30.912 UT) &hellip; what remains is very
+diffuse, largely transparent to background stars, and fading; it
+appears that basically a cloud of dust remains&hellip;.</p>
 
-<p>The bottom line is that it&rsquo;s not that big a deal.  You probably can&rsquo;t
-tell the difference by looking at the moon.  The weather and other
-local conditions, along with whether the moon is rising or high in the
-sky, have a much greater effect on what you see.</p>
+<p>Z.Sekanina, Jet Propulsion Laboratory &hellip; finds that the comet&rsquo;s
+production of dust terminated about 3 hours before perihelion&hellip;</p>
 
-<p>The news buzz of the &ldquo;super moon&rdquo; also causes more people to stop
-and take a moment to look at the moon.  Then they notice, &ldquo;Wow!  That
-thing really is big and bright in the sky!&rdquo;  That&rsquo;s a nice thing that
-astronomers generally just to more often anyway.</p>
+<p>The strong forward-scattering effect (phase angles near 120-130 deg)
+has tempered the rate of post-perihelion fading of the comet, but the
+merciless inverse-square power law of increasing heliocentric distance
+is necessarily the dominant factor in the comet&rsquo;s forthcoming gradual
+disappearance&hellip;</p></blockquote></blockquote>
+
+<p><a href="http://groups.yahoo.com/neo/groups/comets-ml/conversations/messages/22839">CBET 3731 via Yahoo Groups</a></p>
+
+<p><a href="http://www.slate.com/blogs/bad_astronomy/2013/12/01/comet_ison_post_mortem.html">A post mortem by Phil Plait</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Mercury farthest from sun on 12 June]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/12/mercury-farthest-from-sun-on-12-june/"/>
-    <updated>2013-06-12T08:37:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/12/mercury-farthest-from-sun-on-12-june</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Mercury_13june12_430.jpg" title="" ></p>
+    <title type="html"><![CDATA[Whither ISON]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison/"/>
+    <updated>2013-11-30T19:41:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison</id>
+    <content type="html"><![CDATA[<p>From CIOC (the NASA <a href="http://www.isoncampaign.org/karl/a-trail-of-questions">Comet ISON Observing Campaign</a>):</p>
 
-<p>Via <a href="https://twitter.com/earthskyscience/status/344794904645480448">@earthskyscience</a></p>
+<blockquote><p>Will it be naked eye visible? When? How bright?</p>
 
-<p>Mercury farthest from sun on sky’s dome on June 12.  <a href="http://earthsky.org/tonight/mercury-at-greatest-evening-elongation-from-sun-on-june-12">Article at EarthSky</a></p>
+<p>This is definitely the toughest question but also the most
+frequent. We still don&rsquo;t know if it will be naked eye but based on its
+current brightness in the LASCO images &ndash; which is around magnitude +5
+and fading &ndash; it does seem unlikely that there will be much to see in
+the night sky. I suspect that some of the outstanding
+astrophotographers around the world will be able to get something, but
+I doubt it will be as spectacular as before perihelion. I hope I&rsquo;m
+wrong though.</p></blockquote>
+
+<p><a href="http://www.skyandtelescope.com/observing/ataglance">Sky and Telescope</a><br></p>
+
+<p><a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a><br></p>
+
+<p><a href="http://www.isoncampaign.org/karl/a-trail-of-questions">ISON Campaign: A Trail of Questions</a><br></p>
+
+<p><a href="http://www.universetoday.com/106832/zombie-ison-behaving-like-a-comet-stunned-astronomers-say/">Universe Today</a><br></p>
+
+<p><a href="http://apod.nasa.gov/apod/ap131130.html">APOD</a><br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
+    <updated>2013-11-29T14:24:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/comet_ison_postp.png"></p>
+
+<p>Reports are starting to come in regarding what happened to Comet ISON
+C/2012 S1 after passing the perihelion of its orbit.</p>
+
+<p>From
+<a href="https://twitter.com/astroengine/status/406342402706665472">@astroengine</a>
+and <a href="https://twitter.com/discovery_space/status/406342053455347712">@discovery_space</a>:
+ <a href="http://news.discovery.com/space/astronomy/comet-ison-barely-survives-thanksgiving-solar-roast-131129.htm">Comet ISON Barely Survives Thanksgiving Solar
+ Roast</a><br></p>
+
+<p>Update from NASA CIOC: <a href="http://www.isoncampaign.org/karl/schroedingers-comet">Schrödinger&rsquo;s Comet</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More Comet ISON]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/24/more-comet-ison/"/>
+    <updated>2013-11-24T17:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/24/more-comet-ison</id>
+    <content type="html"><![CDATA[<p>More news and mostly images of Comet ISON C/2012 S1.</p>
+
+<p><a href="https://twitter.com/earthskyscience/status/404265533240930304">Today&rsquo;s Image form @EarthSky</a>.<br>
+<a href="https://twitter.com/chrislintott/status/404698473317928960">Will Gater picture via @chrislintott</a>
+<a href="https://twitter.com/willgater/status/404643457924210689">Picture via @willgater</a><br>
+<a href="https://twitter.com/chrislintott/status/404684115506909184">And Another via @chrislintott</a><br>
+<a href="https://twitter.com/SungrazerComets/status/404282911290953728">From @SungrazerComets</a><br></p>
 ]]></content>
   </entry>
   

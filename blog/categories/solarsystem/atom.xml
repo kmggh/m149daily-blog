@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: solarsystem, | Monolith149 Daily]]></title>
+  <title><![CDATA[Category: solarsystem | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/solarsystem/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2013-11-29T14:39:00-05:00</updated>
+  <updated>2013-12-04T06:00:07-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ISON Sans Nucleus]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus/"/>
+    <updated>2013-12-01T19:15:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus</id>
+    <content type="html"><![CDATA[<p>Quoting from the <a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a>:</p>
+
+<blockquote><p>Dan Green of the International Astronomical Union&rsquo;s Central Bureau for
+Astronomical Telegrams published a long summary (Electronic Telegram
+No. 3731) early today. Excerpts:</p>
+
+<blockquote><p>The comet&rsquo;s nucleus apparently disrupted near perihelion, with the
+comet&rsquo;s head fading from perhaps a peak brightness of visual mag –2
+some hours before perihelion to well below mag +1 before
+perihelion. M. Knight, Lowell Observatory&hellip; [adds] that the brightest
+feature in the coma faded steadily after perihelion from about mag 3.1
+in a 95"-radius aperture when the comet first appeared from behind the
+SOHO coronagraph occulting disk on Nov. 28.92 to about mag 6.5 on
+Nov. 29.98&hellip;..</p>
+
+<p>K.Battams, Naval Research Laboratory, writes that, based on the most
+recent LASCO C3 images (Nov. 30.912 UT) &hellip; what remains is very
+diffuse, largely transparent to background stars, and fading; it
+appears that basically a cloud of dust remains&hellip;.</p>
+
+<p>Z.Sekanina, Jet Propulsion Laboratory &hellip; finds that the comet&rsquo;s
+production of dust terminated about 3 hours before perihelion&hellip;</p>
+
+<p>The strong forward-scattering effect (phase angles near 120-130 deg)
+has tempered the rate of post-perihelion fading of the comet, but the
+merciless inverse-square power law of increasing heliocentric distance
+is necessarily the dominant factor in the comet&rsquo;s forthcoming gradual
+disappearance&hellip;</p></blockquote></blockquote>
+
+<p><a href="http://groups.yahoo.com/neo/groups/comets-ml/conversations/messages/22839">CBET 3731 via Yahoo Groups</a></p>
+
+<p><a href="http://www.slate.com/blogs/bad_astronomy/2013/12/01/comet_ison_post_mortem.html">A post mortem by Phil Plait</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Whither ISON]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison/"/>
+    <updated>2013-11-30T19:41:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison</id>
+    <content type="html"><![CDATA[<p>From CIOC (the NASA <a href="http://www.isoncampaign.org/karl/a-trail-of-questions">Comet ISON Observing Campaign</a>):</p>
+
+<blockquote><p>Will it be naked eye visible? When? How bright?</p>
+
+<p>This is definitely the toughest question but also the most
+frequent. We still don&rsquo;t know if it will be naked eye but based on its
+current brightness in the LASCO images &ndash; which is around magnitude +5
+and fading &ndash; it does seem unlikely that there will be much to see in
+the night sky. I suspect that some of the outstanding
+astrophotographers around the world will be able to get something, but
+I doubt it will be as spectacular as before perihelion. I hope I&rsquo;m
+wrong though.</p></blockquote>
+
+<p><a href="http://www.skyandtelescope.com/observing/ataglance">Sky and Telescope</a><br></p>
+
+<p><a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a><br></p>
+
+<p><a href="http://www.isoncampaign.org/karl/a-trail-of-questions">ISON Campaign: A Trail of Questions</a><br></p>
+
+<p><a href="http://www.universetoday.com/106832/zombie-ison-behaving-like-a-comet-stunned-astronomers-say/">Universe Today</a><br></p>
+
+<p><a href="http://apod.nasa.gov/apod/ap131130.html">APOD</a><br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
+    <updated>2013-11-29T14:24:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/comet_ison_postp.png"></p>
+
+<p>Reports are starting to come in regarding what happened to Comet ISON
+C/2012 S1 after passing the perihelion of its orbit.</p>
+
+<p>From
+<a href="https://twitter.com/astroengine/status/406342402706665472">@astroengine</a>
+and <a href="https://twitter.com/discovery_space/status/406342053455347712">@discovery_space</a>:
+ <a href="http://news.discovery.com/space/astronomy/comet-ison-barely-survives-thanksgiving-solar-roast-131129.htm">Comet ISON Barely Survives Thanksgiving Solar
+ Roast</a><br></p>
+
+<p>Update from NASA CIOC: <a href="http://www.isoncampaign.org/karl/schroedingers-comet">Schrödinger&rsquo;s Comet</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More Comet ISON]]></title>
@@ -50,226 +140,6 @@ gas and dust three times already this month.</p></blockquote>
 <a href="http://spaceweathergallery.com/indiv_upload.php?upload_id=90223&amp;PHPSESSID=34o31mq8nus0r94icsrtd1mh73">Image by Bob Lukasik from Brasstown Bald 2103-11-20</a><br>
 <a href="http://www.isoncampaign.org/karl/updated-ison-encke-movie">ISON Encke Movie</a><br>
 <a href="http://www.isoncampaign.org/karl/ison-encke-mercury-home">ISON, Encke, Mercury and Home by Karl Battams</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How Do We Know When Voyager Reaches Interstellar Space?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/14/how-do-we-know-when-voyager-reaches-interstellar-space/"/>
-    <updated>2013-09-14T19:44:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/14/how-do-we-know-when-voyager-reaches-interstellar-space</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/voyager_pia17462main_8k.jpg"></p>
-
-<p><a href="http://www.jpl.nasa.gov/news/news.php?release=2013-278">From the Jet Propulsion Laboratory</a>.</p>
-
-<blockquote><p>Whether and when NASA&rsquo;s Voyager 1 spacecraft, humankind&rsquo;s most distant
-object, broke through to interstellar space, the space between stars,
-has been a thorny issue. For the last year, claims have surfaced every
-few months that Voyager 1 has &ldquo;left our solar system.&rdquo; Why has the
-Voyager team held off from saying the craft reached interstellar space
-until now?</p></blockquote>
-
-<!-- More -->
-
-
-<p>&hellip;</p>
-
-<blockquote><p>Then on April 9, 2013, it happened: Voyager 1&rsquo;s plasma wave instrument
-picked up local plasma oscillations. Scientists think they probably
-stemmed from a burst of solar activity from a year before, a burst
-that has become known as the St. Patrick&rsquo;s Day Solar Storms. The
-oscillations increased in pitch through May 22 and indicated that
-Voyager was moving into an increasingly dense region of plasma. This
-plasma had the signatures of interstellar plasma, with a density more
-than 40 times that observed by Voyager 2 in the heliosheath.</p>
-
-<p>Gurnett and Kurth began going through the recent data and found a
-fainter, lower-frequency set of oscillations from Oct. 23 to Nov. 27,
-2012. When they extrapolated back, they deduced that Voyager had first
-encountered this dense interstellar plasma in August 2012, consistent
-with the sharp boundaries in the charged particle and magnetic field
-data on August 25.</p>
-
-<p>Stone called three meetings of the Voyager team. They had to decide
-how to define the boundary between our solar bubble and interstellar
-space and how to interpret all the data Voyager 1 had been sending
-back. There was general agreement Voyager 1 was seeing interstellar
-plasma, based on the results from Gurnett and Kurth, but the sun still
-had influence. One persisting sign of solar influence, for example,
-was the detection of outside particles hitting Voyager from some
-directions more than others. In interstellar space, these particles
-would be expected to hit Voyager uniformly from all directions.</p></blockquote>
-
-<p><img class="center" src="/postimages/voyger_pia17046-640.jpg"></p>
-
-<blockquote><p>&ldquo;In the end, there was general agreement that Voyager 1 was indeed
-outside in interstellar space,&rdquo; Stone said. &ldquo;But that location comes
-with some disclaimers &ndash; we&rsquo;re in a mixed, transitional region of
-interstellar space. We don&rsquo;t know when we&rsquo;ll reach interstellar space
-free from the influence of our solar bubble.&rdquo;</p>
-
-<p>So, would the team say Voyager 1 has left the solar system? Not
-exactly &ndash; and that&rsquo;s part of the confusion. Since the 1960s, most
-scientists have defined our solar system as going out to the Oort
-Cloud, where the comets that swing by our sun on long timescales
-originate. That area is where the gravity of other stars begins to
-dominate that of the sun. It will take about 300 years for Voyager 1
-to reach the inner edge of the Oort Cloud and possibly about 30,000
-years to fly beyond it. Informally, of course, &ldquo;solar system&rdquo;
-typically means the planetary neighborhood around our sun. Because of
-this ambiguity, the Voyager team has lately favored talking about
-interstellar space, which is specifically the space between each
-star&rsquo;s realm of plasma influence.</p></blockquote>
-
-<p><em>Image credits: NASA/JPL-Caltech</em></p>
-
-<h2>Other articles</h2>
-
-<p><a href="http://www.universetoday.com/104717/its-official-voyager-1-is-now-in-interstellar-space/">It’s Official: Voyager 1 Is Now In Interstellar Space</a> in Universe Today</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thirty Years Since We Watched Voyager on TV]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/14/thirty-years-since-voyager/"/>
-    <updated>2013-09-14T08:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/14/thirty-years-since-voyager</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130914_saturn.jpg"></p>
-
-<p><em>[This is a re-post of a blog post I first wrote and posted in
- 2010-11-12 in <a href="http://monolith149daily.blogspot.com/2010/11/thirty-years-since-we-watched-voyager.html">Monolith149 Daily</a>.
- I&rsquo;ve made some slight edits to the text.]</em></p>
-
-<p>I was the director of the planetarium at the time and had received a
-letter from NASA that they were broadcasting live coverage of the
-Voyager 1 encounter via satellite.</p>
-
-<!-- More -->
-
-
-<p>When I was a kid, reading library books about the solar system, there
-would often be a chapter at the end of the book on the Grand Tour of
-the Planets.  A favorable alignment of the four gas giants, Jupiter,
-Saturn, Uranus and Neptune, would allow a single spacecraft to visit
-each of them using gravitational assist, in the distant future of the
-1980s.</p>
-
-<p>Fast-forward to 1977, either 5 Sep 1977 (Voyager 2) or 20 Aug 1977
-(Voyager 1), I forget which.* It&rsquo;s morning and I&rsquo;m lying on the sofa
-after being at the museum&rsquo;s observatory all night.  I&rsquo;m watching the
-Voyager spacecraft launch on TV.  With those launches, the Grand Tour
-became a reality and Voyager 2 visited all four planets.</p>
-
-<p>However, it was Voyager 1 that visited Jupiter and Saturn first.  The
-spacecraft stole some of Jupiter&rsquo;s orbital momentum, causing Jupiter
-to fall just a little bit toward the sun, as it accelerated on to
-Saturn</p>
-
-<p>The event was going to happen on 12 Nov 1980.  There was no NASA
-channel at the time so I had to call the local cable operator (Cox)
-and ask them to tune into the particular satellite and transponder
-that NASA had arranged and to feed the coverage out over a spare
-channel on their cable plant.  It took some convincing since they were
-reluctant to actually commit a channel, even for a one-time event.  In
-the end, I think I ended up talking to a guy in a control shack,
-probably running their dish farm, who impressed me as not wanting to
-be bothered with events from other planets.  My memory is that I never
-got an absolute firm commitment but something more like a shaky okay
-which was more than a little worrisome.</p>
-
-<p>Next, it was necessary to find a video tape recorder and it turned out
-there was one I could borrow from the board of education.  I drove
-down to their dusty equipment warehouse to pick it up.  Or maybe it
-was just the road by the warehouse that was dusty.  It was an old
-&frac34;-inch U-Matic machine, a video cassette size frequently used
-by TV stations in those days.  The &frac12;-in cassettes were just starting
-to become popular as the VHS vs. Betamax battle was raging.</p>
-
-<p>We hauled the recorder over to the house of one of our staff members'
-parents to record the coverage since they had cable.  The encounter
-was in the middle of the day and several of the planetarium staff were
-crowded into their den, watching the show.</p>
-
-<p>It was a heady time indeed as we watched those black and white
-pictures scroll slowly in because the data download rates from the
-space probe were slower than the modems of the time.  Of course they
-were not digitally post-processed yet&mdash;they were pretty raw
-images&mdash;so there were just the beginning hints of some of the amazing
-sites to come.  The coverage cameras showed ecstatic scientists
-watching the same images appear on their control room monitors and
-there were several interviews with Ed Stone, Carl Sagan and others who
-were seeing their own life-long fantasies come true.</p>
-
-<p>Sometimes you suddenly arrive at those moments when you get goosebumps
-and a lump in your throat, when you know you&rsquo;re experiencing pinnacle
-achievements in human history.  This was one of them.</p>
-
-<p>As the pictures crawled in, I believe it was possible, even in those
-first images, to see the spokes in the rings, the braided F-ring, and
-some of the other jaw-dropping, never-imagined features of Saturn
-up-close.</p>
-
-<p>After recording the fly-by, we borrowed a TV from one of the local TV
-shops.  It was just a standard 19-in, or slightly larger, CRT.  We set
-it up in the planetarium and opened to the public for a replay of the
-&ldquo;live&rdquo; Voyager-Saturn encounter.  I remember we had a bit of
-difficulty because the video tape recorder had a separate RF
-modulator, the size of a small, chunky game cartridge, that had to be
-physically plugged into the back of the machine before we could get a
-signal to the TV.</p>
-
-<p>I guess we had enough lead time to advertise the event using the usual
-TV and newspaper avenues because there was a pretty good turnout.
-There were college professors, amateur astronomers and many other
-enthusiastic folks from the community who were just as thrilled
-as the crew at JPL to see these first images coming back from the
-ringed planet, even though our replay was delayed by hours.</p>
-
-<p>As I recall there were encounter events over two or three days as
-Voyager flew by some of Saturn&rsquo;s moons and made its way across
-Saturn&rsquo;s &ldquo;miniature solar system,&rdquo; so we had probably two and possibly
-three nights of replay.</p>
-
-<p>Today Voyager 1 is over 115 AU (astronomical units) from the Sun.  By
-definition, the Earth is 1 AU from the Sun.  Pluto is, on average, about 40
-AU distant.  Voyager 1 is the most distant, active spacecraft in the solar
-system and it&rsquo;s still collecting and transmitting data.</p>
-
-<p>&ldquo;In four to six years, Voyager 1 is expected to cross beyond the
-heliosheath, the outer layer of the bubble around our solar system
-that is composed of ionized atoms streaming outward from our sun,&rdquo;
-reports a news release from NASA this past October [2010].</p>
-
-<p>We&rsquo;ve come a long way from those solar system books from the library,
-written in days when artists never even thought to include clouds when
-illustrating the Earth as seen from space.  I&rsquo;ve been amazed to see so
-many of those funny but always awe-inspiring artist&rsquo;s conceptions come
-to reality.  It will be fascinating to see which ones come next.</p>
-
-<p align="center">
-*&nbsp;*&nbsp;*
-</p>
-
-
-<p>It was just past the turn of the century and I&rsquo;d never thought about
-it before even after a couple of years or so.  It was a friend who
-pointed out to me that the two vehicles sitting in our driveway were a
-Voyager and a Saturn.</p>
-
-<p>__________<br>
-* No that&rsquo;s not a typo.  Due to the solar system and mission mechanics
-involved, Voyager 2 was actually launched before Voyager 1.</p>
-
-<p><em>Image Credit</em></p>
-
-<p><em>Ghostly Spokes in the Rings</em></p>
-
-<p><em>Scientists first saw these somewhat wedge-shaped, transient clouds of tiny particles known as “spokes” in images from NASA&rsquo;s Voyager spacecraft. They dubbed these features in Saturn&rsquo;s B ring “spokes” because they looked like bicycle spokes. An electrostatic charge, the way static electricity on Earth can raise the hair on your arms, appears to be levitating tiny ring particles above the ring plane, but scientists are still figuring out how the particles get that charge as they analyze images from NASA&rsquo;s Cassini spacecraft.</em></p>
-
-<p><em>The image on the left was obtained by Voyager 2 on Aug. 22, 1981. The
-image on the right was obtained by Cassini on Nov. 2, 2008.</em></p>
-
-<p><em>Image credit: NASA/JPL and NASA/JPL/SSI</em></p>
 ]]></content>
   </entry>
   
