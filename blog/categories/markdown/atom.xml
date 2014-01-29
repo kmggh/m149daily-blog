@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: markdown | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-01-28T23:11:12-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Quote Marks]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks/"/>
+    <updated>2014-01-28T23:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks</id>
+    <content type="html"><![CDATA[<p>I think for nearly 30 years I&rsquo;ve used TeX style quoting for double
+quotes in anything I wrote using ASCII text.</p>
+
+<pre><code> ``Quoted text.''
+</code></pre>
+
+<p>Now that I&rsquo;ve adopted Markdown for nearly anything that I enter as
+ASCII that&rsquo;s intended to be English text (probably rich text), I&rsquo;ve
+also, finally, decided to use the double-quote character.  It&rsquo;s true
+that the ASCII double quote doesn&rsquo;t explicitly specify whether a left-
+or right-double quote is intended, but the implication is usually
+clear enough and (hopefully) rendering code is now smart enough to do
+the &ldquo;right thing.&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
