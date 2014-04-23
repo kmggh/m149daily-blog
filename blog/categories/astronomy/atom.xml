@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-01-28T23:11:12-05:00</updated>
+  <updated>2014-04-23T04:11:56-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Milky Way and Lighthouse]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse/"/>
+    <updated>2014-03-01T14:39:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/milky_way_lighthouse.png"></p>
+
+<p>This is a beautiful picture by <a href="https://twitter.com/nickventonphoto/status/393430064433352704/">Nick Venton Photo</a>.</p>
+
+<p><a href="https://twitter.com/nickventonphoto">@nickventonphoto</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Supernova! SN2014J]]></title>
@@ -175,26 +188,6 @@ wrong though.</p></blockquote>
 <p><a href="http://www.universetoday.com/106832/zombie-ison-behaving-like-a-comet-stunned-astronomers-say/">Universe Today</a><br></p>
 
 <p><a href="http://apod.nasa.gov/apod/ap131130.html">APOD</a><br></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
-    <updated>2013-11-29T14:24:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/comet_ison_postp.png"></p>
-
-<p>Reports are starting to come in regarding what happened to Comet ISON
-C/2012 S1 after passing the perihelion of its orbit.</p>
-
-<p>From
-<a href="https://twitter.com/astroengine/status/406342402706665472">@astroengine</a>
-and <a href="https://twitter.com/discovery_space/status/406342053455347712">@discovery_space</a>:
- <a href="http://news.discovery.com/space/astronomy/comet-ison-barely-survives-thanksgiving-solar-roast-131129.htm">Comet ISON Barely Survives Thanksgiving Solar
- Roast</a><br></p>
-
-<p>Update from NASA CIOC: <a href="http://www.isoncampaign.org/karl/schroedingers-comet">Schrödinger&rsquo;s Comet</a></p>
 ]]></content>
   </entry>
   

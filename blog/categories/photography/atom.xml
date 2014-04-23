@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: photography | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/photography/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-04-23T04:11:56-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Milky Way and Lighthouse]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse/"/>
+    <updated>2014-03-01T14:39:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/milky_way_lighthouse.png"></p>
+
+<p>This is a beautiful picture by <a href="https://twitter.com/nickventonphoto/status/393430064433352704/">Nick Venton Photo</a>.</p>
+
+<p><a href="https://twitter.com/nickventonphoto">@nickventonphoto</a></p>
+]]></content>
+  </entry>
+  
+</feed>
