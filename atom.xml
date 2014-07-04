@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-06-22T07:19:46-04:00</updated>
+  <updated>2014-07-04T06:24:14-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Farewell to Orkut]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/07/04/farewell-to-orkut/"/>
+    <updated>2014-07-04T06:08:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/07/04/farewell-to-orkut</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/orkut.png"></p>
+
+<p>I received an email from Google, well it says from Orkut, last night
+with the subject line &ldquo;A Farewell to Orkut.&rdquo;</p>
+
+<blockquote><p>After ten years of sparking conversations and forging connections, we
+have decided it&rsquo;s time for us to start saying goodbye to Orkut. Over
+the past decade, YouTube, Blogger and Google+ have taken off, with
+communities springing up in every corner of the world. Because the
+growth of these communities has outpaced Orkut&rsquo;s growth, we&rsquo;ve decided
+to focus our energy and resources on making these other social
+platforms as amazing as possible for everyone who uses them.</p></blockquote>
+
+<p>The anecdotal evidence I&rsquo;ve heard from friends with connections in
+Brazil is that most Orkut users have abandoned it for the dreaded
+Facebook.  Somehow I don&rsquo;t expect they&rsquo;ve all moved over to Blogger and
+Google plus.</p>
+
+<p>In my case, I never used Orkut other than to set up an account and log
+on a couple of times.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Summer Solstice]]></title>
@@ -812,151 +840,6 @@ update on what I think about the progress.</p>
 <li>Something I haven&rsquo;t thought of.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Foucault Pendulum]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/22/the-foucault-pendulum/"/>
-    <updated>2013-09-22T06:37:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/22/the-foucault-pendulum</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20130922_Berry_Pendulum.jpg"></p>
-
-<p>The old planetarium adjoined the science hall of the museum and
-the center piece exhibit there was a Foucault pendulum.  It was a
-wonderful demonstration of the rotation of the earth.  The planetarium
-office was on the third floor and also attached to the side of the
-cylindrical section of the building containing the planetarium.  It
-was my office until I moved into a brand new, below ground suite of
-staff offices beneath the exhibit halls.  The interesting thing was
-that the pendulum was suspended from the ceiling of that third floor
-office.  Yes, the room had an opening in the floor, appropriately
-surrounded by a rail for safety.</p>
-
-<p>One of the Google Doodles for this past week was the Foucault
-pendulum.  I looked at it a day or so after it was on the main search
-page.  I didn&rsquo;t look at any of the explanations it might have linked
-to, but it reminded me of trying to explain the pendulum to folks in
-the exhibit hall.  The time it takes the pendulum to apparently rotate
-is a very difficult concept and I&rsquo;ve been trying to think of a good
-way to explain it for many decades.  Over the past few years, I think
-I finally hit upon a reasonable and understandable explanation.</p>
-
-<p><em>Image credit: Foucault pendulum at Berry College in Rome, Georgia
-by <a href="http://www.flickr.com/photos/courtneymcgough/2318810863/">Courney McGough</a>
-CC BY-NC-ND 2.0. Note, this is not the particular pendulum discussed in this
-post.</em></p>
-
-<!-- More -->
-
-
-<h2>The Easy Part</h2>
-
-<p>Basically, the Foucault pendulum demonstrates that the earth is
-rotating.  A pendulum always tries to swing in the same direction.
-Imagine holding a pendulum over a rotating phonograph record (that&rsquo;s a
-vinyl record, you know, music, for you young folk).  Also imagine
-placing your favorite, tiny action figure near the outside of the
-record.  To the little figure, it will look like the pendulum,
-swinging constantly in the same direction, is rotating, changing it&rsquo;s
-direction.  That proves the record is turning.  This is how a Foucault
-pendulum would behave at the North Pole and it&rsquo;s simple to understand.</p>
-
-<p>However, things are different at the equator.  Imagine starting a
-pendulum at the equator swinging north-south.  Now as the earth
-rotates, the pendulum can continue to happily swing north and south
-without any change in it&rsquo;s direction, all the way around the course
-of a day.  The pendulum itself would be traveling <em>around</em> the earth,
-but not <em>rotating</em>, relative to the ground beneath it, as it went.</p>
-
-<h2>The Weird Part</h2>
-
-<p>So the pendulum would appear to rotate once every 24 hours at the
-pole, but at the equator it would never rotate, it would take infinite
-time.  What&rsquo;s worse, between the two extremes it takes longer and
-longer to rotate as one moves from the pole to lower latitudes.</p>
-
-<p>In Atlanta, for example, at about 34 degrees latitude, the pendulum
-would take about 43 hours to go around once.  How can that be since
-the earth rotates in 24 hours?</p>
-
-<h2>Try Driving</h2>
-
-<p>Imagine the earth as a smooth sphere, no mountains or oceans, like a
-globe.  And imagine you&rsquo;re going to drive around the earth in a car.
-To make it interesting, we&rsquo;ll drive fast enough to make it around the
-earth in 24 hours.  At the equator, this is easy.  We point the car
-east and take off an 1000 miles per hour, or so.</p>
-
-<p>What about 34 degrees above the equator?  There, we want to drive
-along a parallel line, a parallel of latitude.  If we point our car
-east and set off straight ahead, we won&rsquo;t follow the parallel.
-Instead the car will follow a great circle (like a tilted equator).
-It will cross the real equator &frac14; of the way around, hit 34 degrees
-<em>south</em> latitude on the opposite side, and arrive again at it&rsquo;s
-starting point.</p>
-
-<p>To follow the parallel at 34 degrees, we have to turn the steering
-wheel slightly to the left to stay on track.  Aircraft and ship&rsquo;s
-pilots understand this.  Usually they like to travel along great
-circles.</p>
-
-<p>So if we cut our steering wheel to the left a little and drove at an
-appropriate speed, we&rsquo;d make it around the parallel in 24 hours.  Now,
-what if we took the car off of the earth-sized sphere and set it down
-on an infinite plane?  With the steering wheel cut to the left that
-same amount and traveling at the speed we used before, how long would
-it take the car to drive around in a circle?  The answer is about the
-43 hours it took the Foucault pendulum to go around.</p>
-
-<p>Well, think about it.  If we took our car from the equator, with it&rsquo;s
-steering wheel pointed straight ahead, it wouldn&rsquo;t go around in a
-circle at all.  It would just drive off toward infinity.</p>
-
-<p>For what it&rsquo;s worth, our car at the north pole would have to turn the
-steering almost 90 degrees to the left and drive in donuts around the
-pole.  In that case, just like the pendulum, the car would go around
-in about 24 hours on the plane, if we drove (in this case very slowly)
-at a speed to make it around the pole in 24 hours.</p>
-
-<h2>Moving vs. Turning</h2>
-
-<p>Notice that as the car is farther north, it&rsquo;s driving more slowly but
-turning more.  That&rsquo;s what&rsquo;s really going on here.  At the equator,
-you really don&rsquo;t turn <em>about a vertical axis</em> at all.  You head off
-toward the east as if you&rsquo;re standing on a moving sidewalk.  Sure,
-you&rsquo;re turning about the earth&rsquo;s axis, but not around your <em>own</em> axis
-pointed straight up.  At the equator it&rsquo;s all moving and no turning.</p>
-
-<p>At the pole, it&rsquo;s all turning but no moving.  You don&rsquo;t move or you&rsquo;d
-leave the pole.  As you go from the equator to the pole, your motion
-around the earth becomes more a turning motion and less a moving
-motion.  You can tell there&rsquo;s less &ldquo;moving&rdquo; because the parallels are
-smaller and smaller.  You don&rsquo;t have as far to go.</p>
-
-<p>For the mathematical types, the time it takes the pendulum to rotate
-is 24 hours divided by the sine of the latitude.</p>
-
-<h2>That Crazy World of Geometry</h2>
-
-<p>This is just one example of how much trouble we get into if we leave
-the comfortable world of Euclid&rsquo;s plane geometry and try to do things
-in a crazy world of say a sphere or saddle-shape.  And that&rsquo;s just for
-a two-dimensional surface (of sorts).  If you get into other
-geometries in three and more dimensions, then you&rsquo;re in the crazy
-world that Einstein and his successors used to explain gravity purely
-in terms of geometry&mdash;no forces needed.</p>
-
-<h2>Back in the exhibit hall</h2>
-
-<p>Each morning I&rsquo;d manually start the massive pendulum on it&rsquo;s
-three-story cable swinging north-south.  Later in the day, it&rsquo;s
-direction would have visibly changed.  Traditionally, an exhibit will
-have little blocks that the pendulum can knock over as it changes
-direction.  It&rsquo;s good enough to show that the earth truly is rotating
-without understanding all of the above.  And it&rsquo;s pretty clever,
-really, to be able to show such a large effect with such a simple
-experiment.</p>
 ]]></content>
   </entry>
   
