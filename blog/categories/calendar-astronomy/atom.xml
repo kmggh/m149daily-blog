@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: calendar,astronomy | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calendar-astronomy/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-10-01T08:42:37-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Autumnal Equinox 2014!]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/09/23/happy-autumnal-equinox-2014/"/>
+    <updated>2014-09-23T04:43:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/09/23/happy-autumnal-equinox-2014</id>
+    <content type="html"><![CDATA[<p>Happy autumnal equinox at 22:29 EDT on Mon 2014-09-22!</p>
+
+<p>Mon 2014-09-22 22:29:00 -0400<br>
+Tue 2014-09-23 02:29:00 +0000</p>
+]]></content>
+  </entry>
+  
+</feed>
