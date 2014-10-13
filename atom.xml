@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-12T23:47:36-04:00</updated>
+  <updated>2014-10-13T06:13:43-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Homebrew Cray 1-A]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/13/homebrew-cray-1-a/"/>
+    <updated>2014-10-13T05:51:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/13/homebrew-cray-1-a</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/cray-1a.jpg"></p>
+
+<p>Day 3.1</p>
+
+<p>From <a href="https://twitter.com/newsycombinator/status/521571606536417281">Hacker News @newsycombinator</a></p>
+
+<p>A <a href="http://www.chrisfenton.com/homebrew-cray-1a/">Homebrew Cray-1A</a> by
+chrisfenton.com!</p>
+
+<p><em>Image credit: by <a href="https://www.flickr.com/photos/stiefkind/43091218/">Wolfgang Stief</a> CC BY-NC-ND 2.0.  (No this is not the home brew Cray from the article).</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spell Checking with Gmail]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/13/spell-checking-with-gmail/"/>
+    <updated>2014-10-13T05:44:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/13/spell-checking-with-gmail</id>
+    <content type="html"><![CDATA[<p>Day 3</p>
+
+<p>I&rsquo;m not going to make <em>all</em> of these posts about blogging but, while
+still on the subject, here&rsquo;s a simple blogging tip.  I use Gmail for spell
+checking.</p>
+
+<p>The fact is that I do this just about any time I need good spell
+checking.  Ironically, Google documents&#8217; spell checking is lacking so
+I even use this approach for them. (At least that used to be the
+case).</p>
+
+<p>First, open a new message in a Compose window but don&rsquo;t add any
+recipients.  After all, you don&rsquo;t want to accidentally send your text
+to someone.  Next, just past the text, say a whole document into the
+window and check.  As you find misspelled words, go back and edit the
+original.  When finished, just click the trash can icon in the compose
+window to discard the message.</p>
+
+<p>For anyone who points out that Gmail spell checking isn&rsquo;t perfect
+either, yeah, I know.  It&rsquo;s been the best I&rsquo;ve found over the years,
+though.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress After 512 Days]]></title>
@@ -598,56 +645,6 @@ disappearance&hellip;</p></blockquote></blockquote>
 <p><a href="http://groups.yahoo.com/neo/groups/comets-ml/conversations/messages/22839">CBET 3731 via Yahoo Groups</a></p>
 
 <p><a href="http://www.slate.com/blogs/bad_astronomy/2013/12/01/comet_ison_post_mortem.html">A post mortem by Phil Plait</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Whither ISON]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison/"/>
-    <updated>2013-11-30T19:41:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison</id>
-    <content type="html"><![CDATA[<p>From CIOC (the NASA <a href="http://www.isoncampaign.org/karl/a-trail-of-questions">Comet ISON Observing Campaign</a>):</p>
-
-<blockquote><p>Will it be naked eye visible? When? How bright?</p>
-
-<p>This is definitely the toughest question but also the most
-frequent. We still don&rsquo;t know if it will be naked eye but based on its
-current brightness in the LASCO images &ndash; which is around magnitude +5
-and fading &ndash; it does seem unlikely that there will be much to see in
-the night sky. I suspect that some of the outstanding
-astrophotographers around the world will be able to get something, but
-I doubt it will be as spectacular as before perihelion. I hope I&rsquo;m
-wrong though.</p></blockquote>
-
-<p><a href="http://www.skyandtelescope.com/observing/ataglance">Sky and Telescope</a><br></p>
-
-<p><a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a><br></p>
-
-<p><a href="http://www.isoncampaign.org/karl/a-trail-of-questions">ISON Campaign: A Trail of Questions</a><br></p>
-
-<p><a href="http://www.universetoday.com/106832/zombie-ison-behaving-like-a-comet-stunned-astronomers-say/">Universe Today</a><br></p>
-
-<p><a href="http://apod.nasa.gov/apod/ap131130.html">APOD</a><br></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
-    <updated>2013-11-29T14:24:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/comet_ison_postp.png"></p>
-
-<p>Reports are starting to come in regarding what happened to Comet ISON
-C/2012 S1 after passing the perihelion of its orbit.</p>
-
-<p>From
-<a href="https://twitter.com/astroengine/status/406342402706665472">@astroengine</a>
-and <a href="https://twitter.com/discovery_space/status/406342053455347712">@discovery_space</a>:
- <a href="http://news.discovery.com/space/astronomy/comet-ison-barely-survives-thanksgiving-solar-roast-131129.htm">Comet ISON Barely Survives Thanksgiving Solar
- Roast</a><br></p>
-
-<p>Update from NASA CIOC: <a href="http://www.isoncampaign.org/karl/schroedingers-comet">Schrödinger&rsquo;s Comet</a></p>
 ]]></content>
   </entry>
   
