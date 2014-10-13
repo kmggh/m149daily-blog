@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-12T23:26:11-04:00</updated>
+  <updated>2014-10-12T23:47:36-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -32,7 +32,7 @@ short, ~tweet-length updates.</p>
 
 <p>I like Octopress a lot.  The best part is writing in Markdown which
 means my source files are all plain text and I have a copy of all of
-them, so the blog is already in my posession and easily read without
+them, so the blog is already in my possession and easily read without
 any software or publishing.</p>
 
 <p>The Octopress scripts are easy to use.  Right now I run a new_post
@@ -58,14 +58,14 @@ basically and, as the site grows, it&rsquo;s taking a while to do a generate
 now.  Okay, it takes 25 seconds but it seems like a long while.</p>
 
 <p>As the archive grows to be years long, I believe it will become a big
-unweidly.  It would be better if there was a way to segment off pieces
+unweildy.  It would be better if there was a way to segment off pieces
 of the archive, e.g., each year, so you don&rsquo;t end up regenerating it
 all every time.</p>
 
 <p>I&rsquo;m actually pretty sure there is a way to do this, I&rsquo;ll just have to
 dig it up when there&rsquo;s time.</p>
 
-<p>See <a href="daily.monolith149.com/blog/2013/06/08/leaping-to-a-new-blogging-platform/">Leaping to a New Blogging Platform</a></p>
+<p>See <a href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/leaping-to-a-new-blogging-platform/">Leaping to a New Blogging Platform</a></p>
 ]]></content>
   </entry>
   
