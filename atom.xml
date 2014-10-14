@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-13T06:13:43-04:00</updated>
+  <updated>2014-10-14T06:48:17-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twelve Years]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/14/twelve-years/"/>
+    <updated>2014-10-14T06:03:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/14/twelve-years</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Sun_Ultra_5_front.jpg"></p>
+
+<p>Day 4</p>
+
+<p><em>&ldquo;Occasional reports on what in the world I’m doing. You can read here
+to find out what I’ve been working on and how it’s going. There might
+be clues about what I’m thinking. New things learned will also appear.&rdquo;</em></p>
+
+<p>I&rsquo;m really not going to make all of these posts about blogging, I
+promise.  However, I thought I should note this blog is now in it&rsquo;s
+12th year.  I always miss the anniversary but it was this past month.
+The first post was on Mon 2002-09-16 00:29 -0400.</p>
+
+<p>In the beginning the posts were nearly all work-related reports on
+what I was working on.  Then I began to include other topics I found
+interesting such as astronomy and computing.</p>
+
+<p>The first posts were written on Blogger, then still owned by Pyra
+Labs, co-founded by Ev Williams who later was a co-founder of Twitter.
+Google eventually bought Blogger.  I wrote the posts on Blogger but used
+it&rsquo;s ftp publishing feature to push the generated pages back to my
+desktop workstation, Monolith.</p>
+
+<p>Monolith had an Apache web server running on it, upgraded from the
+original NCSA HTTP server software at some point.  The computer had
+originally been a NeXTstation then later it&rsquo;s soul had been migrated
+to a Sun SPARC 5 workstation.  By this time, when the blog began in
+2002, I think it might have been upgraded to a Sun Ultra 5 but I don&rsquo;t
+recall the models and timeline precisely.</p>
+
+<p>From Blogger, I migrated to Bloxom, then back to Blogger, fully hosted
+at Blogspot, then recently to Octopress.  The pre-Octopress blog is
+still on-line.</p>
+
+<p><a href="http://monolith149daily.blogspot.com/2011/09/nine-years-ago.html">Nine Years Ago</a><br />
+<a href="http://monolith149daily.blogspot.com/2012/12/ten-years-of-blogging.html">Ten Years of Blogging</a></p>
+
+<p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Sun_Ultra_5_front.jpg">Thomas Kaiser</a> CC BY-SA 3.0</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Homebrew Cray 1-A]]></title>
@@ -605,46 +651,6 @@ be simplest explanation to explain all the current observations.&rdquo;</p></blo
 
 <p><a href="http://iopscience.iop.org/0004-637X/779/1/41/pdf/0004-637X_779_1_41.pdf">WISE J233237.05–505643.5: A Double-peaked, Broad-lined Active Galactic Nucleus with a Spiral-shaped Radio Morphology</a>, Chao-Wei Tsai et al. 2013 ApJ 779 41<br>
 <a href="http://arxiv.org/abs/1310.2257">Paper at arXiv</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ISON Sans Nucleus]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus/"/>
-    <updated>2013-12-01T19:15:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus</id>
-    <content type="html"><![CDATA[<p>Quoting from the <a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a>:</p>
-
-<blockquote><p>Dan Green of the International Astronomical Union&rsquo;s Central Bureau for
-Astronomical Telegrams published a long summary (Electronic Telegram
-No. 3731) early today. Excerpts:</p>
-
-<blockquote><p>The comet&rsquo;s nucleus apparently disrupted near perihelion, with the
-comet&rsquo;s head fading from perhaps a peak brightness of visual mag –2
-some hours before perihelion to well below mag +1 before
-perihelion. M. Knight, Lowell Observatory&hellip; [adds] that the brightest
-feature in the coma faded steadily after perihelion from about mag 3.1
-in a 95&#8221;-radius aperture when the comet first appeared from behind the
-SOHO coronagraph occulting disk on Nov. 28.92 to about mag 6.5 on
-Nov. 29.98&hellip;..</p>
-
-<p>K.Battams, Naval Research Laboratory, writes that, based on the most
-recent LASCO C3 images (Nov. 30.912 UT) &hellip; what remains is very
-diffuse, largely transparent to background stars, and fading; it
-appears that basically a cloud of dust remains&hellip;.</p>
-
-<p>Z.Sekanina, Jet Propulsion Laboratory &hellip; finds that the comet&rsquo;s
-production of dust terminated about 3 hours before perihelion&hellip;</p>
-
-<p>The strong forward-scattering effect (phase angles near 120-130 deg)
-has tempered the rate of post-perihelion fading of the comet, but the
-merciless inverse-square power law of increasing heliocentric distance
-is necessarily the dominant factor in the comet&rsquo;s forthcoming gradual
-disappearance&hellip;</p></blockquote></blockquote>
-
-<p><a href="http://groups.yahoo.com/neo/groups/comets-ml/conversations/messages/22839">CBET 3731 via Yahoo Groups</a></p>
-
-<p><a href="http://www.slate.com/blogs/bad_astronomy/2013/12/01/comet_ison_post_mortem.html">A post mortem by Phil Plait</a></p>
 ]]></content>
   </entry>
   
