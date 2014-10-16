@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-15T09:02:00-04:00</updated>
+  <updated>2014-10-16T07:04:28-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Github Side]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side/"/>
+    <updated>2014-10-16T06:39:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 6</a></p>
+
+<p>On Day 1 (the same Day 6 link above) I said I&rsquo;d write a script.  The
+script is called <strong>blog_post.py</strong> and is, of course, in Python 2.7.
+When I post a blog on Octopress it basically consists of these steps.</p>
+
+<ol>
+<li>Run the <strong>new_post</strong> command to create a file.</li>
+<li>Edit the file to write the post with Emacs, using the Markdown language.</li>
+<li>Save the file.</li>
+<li>Generate the blog with a <strong>generate</strong> command which updates the
+entire static site meaning all of the HTML, CSS, image and other files
+used to create the website.</li>
+<li>Copy all of those files to a Github directory.</li>
+<li>Add, commit and push the Github directory up to Github.</li>
+</ol>
+
+
+<p>The script currently handles the first three steps and all I have to
+do is specify the title on the command line.  The remaining steps are
+still manual but I plan to add an automatic version of them, or at
+least a more-automated version, to the script.</p>
+
+<p>For as much posting as I&rsquo;ve been doing lately, making it this much
+more convenient is more important than normal.</p>
+
+<p>Some of you might point out that much of this automation is already
+built into Octopress.  I think the fact that I want to deviate from
+the out-of-the-box functionality it provide means it&rsquo;s easier just to
+write a program in Python I can maintain rather than learning how to
+hack the Octopress system.</p>
+
+<p>Speaking of Github, it&rsquo;s the third leg of my switch to Octopress and
+Markdown.  It&rsquo;s turned out to be a great hosting solution.  It&rsquo;s free,
+reliable, and performs well.  Uploading is super efficient, too, of
+course.</p>
+
+<p><a href="http://octopress.org/">Octopress</a><br />
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a><br />
+<a href="https://pages.github.com/">Github Pages</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fear the Flashlight?]]></title>
@@ -29,6 +77,8 @@ seriously should you take this?</p>
 <p>There&rsquo;s nothing particularly dangerous about flashlight apps however
 there is a general danger to be cautious of when you install <em>any</em>
 apps on your phone.  That&rsquo;s the real lesson to take away here.</p>
+
+<p><em>Image credit: by <a href="https://www.flickr.com/photos/blakespot/3030107334/">Blake Patterson</a> CC BY 2.0.</em></p>
 
 <!-- More -->
 
@@ -124,8 +174,6 @@ lost convenience.  Probably.</p>
 the bottom of the screen) so you can uninstall one if you have it.</p>
 
 <p><a href="http://www.snopes.com/computer/internet/flashlight.asp">Flash and Grab at snopes.com</a></p>
-
-<p><em>Image credit: by <a href="https://www.flickr.com/photos/blakespot/3030107334/">Blake Patterson</a> CC BY 2.0.</em></p>
 ]]></content>
   </entry>
   
@@ -672,55 +720,6 @@ that the ASCII double quote doesn&rsquo;t explicitly specify whether a left-
 or right-double quote is intended, but the implication is usually
 clear enough and (hopefully) rendering code is now smart enough to do
 the &ldquo;right thing.&rdquo;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Supernova! SN2014J]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/01/25/supernova-sn2014j/"/>
-    <updated>2014-01-25T11:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/01/25/supernova-sn2014j</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/supernova.jpg"></p>
-
-<p>For the first time since SN1987A there&rsquo;s a nearby supernova and this
-one was apparently caught during it&rsquo;s brightness increase.</p>
-
-<p><a href="http://www.space.com/24369-supernova-star-explosion-amateur-photos.html">Space.com</a><br>
-<a href="http://www.cbat.eps.harvard.edu/unconf/followups/J09554214+6940260.html">IAU Central Bureau for Astronomical
-Telegrams: PSN
-J09554214+6940260</a><br>
-<a href="http://www.cnn.com/2014/01/24/opinion/urry-exploding-supernova">Nicely written article by Meg Urry at
-CNN.com</a><br></p>
-
-<p>From Meg Urry&rsquo;s article:</p>
-
-<blockquote><p>Type Ia supernovae have happened in our galactic neighborhood only
-three times in the last 80 years.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>The reason Type Ia supernovae are special is their
-uniformity. Basically, they all explode at about the same mass, so
-they are all roughly equally luminous. Better understanding the
-physics of that explosion and the effect of local galactic environment
-will make Type Ia supernovae even better “standard candles” and
-improve our understanding of the properties of dark energy and the
-cosmological evolution of the universe. The more data we can get, and
-the closer the supernova, the better the calibration.</p></blockquote>
-
-<p><a href="http://www.ucl.ac.uk/maps-faculty/maps-news-publication/maps1405">Discovery story from University College
-London</a><br></p>
-
-<p><a href="http://en.wikipedia.org/wiki/Type_Ia_supernova">Wikipedia article on Type Ia Supernovae</a></p>
-
-<p>Why is this supernova J only 21 days into January, i.e, the 10th
-supernova so var this year?   From the International Astronomical
-Union (IAU)
-<a href="http://www.cbat.eps.harvard.edu/lists/RecentSupernovae.html">here&rsquo;s the list</a>
-of discoveries so far.</p>
-
-<p><em>Image credit: UCL/University of London Observatory/Steve Fossey/Ben
- Cooke/Guy Pollack/Matthew Wilde/Thomas Wright (CC BY 3.0)</em></p>
 ]]></content>
   </entry>
   
