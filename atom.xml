@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-16T07:04:28-04:00</updated>
+  <updated>2014-10-17T07:54:14-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Mac Mini, iPad, and More]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/17/new-mac-mini/"/>
+    <updated>2014-10-17T07:50:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/17/new-mac-mini</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 7</a></p>
+
+<p>From <a href="http://www.theverge.com/2014/10/16/6989443/apple-ipad-mac-event-8-most-important-things">The Verge, &ldquo;The 8 most important announcements from the Apple iPad and Mac event&rdquo;</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Github Side]]></title>
@@ -699,27 +710,6 @@ slightly different speeds, then it would take a really long time, much
 longer than the 90 minutes.  And, if they are going in the same
 direction, the speed of impact is much lower, just the difference in
 their speeds.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quote Marks]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks/"/>
-    <updated>2014-01-28T23:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks</id>
-    <content type="html"><![CDATA[<p>I think for nearly 30 years I&rsquo;ve used TeX style quoting for double
-quotes in anything I wrote using ASCII text.</p>
-
-<pre><code> ``Quoted text.''
-</code></pre>
-
-<p>Now that I&rsquo;ve adopted Markdown for nearly anything that I enter as
-ASCII that&rsquo;s intended to be English text (probably rich text), I&rsquo;ve
-also, finally, decided to use the double-quote character.  It&rsquo;s true
-that the ASCII double quote doesn&rsquo;t explicitly specify whether a left-
-or right-double quote is intended, but the implication is usually
-clear enough and (hopefully) rendering code is now smart enough to do
-the &ldquo;right thing.&rdquo;</p>
 ]]></content>
   </entry>
   
