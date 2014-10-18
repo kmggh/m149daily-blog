@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: maps | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/maps/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-10-18T11:38:42-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Great Divide]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide/"/>
+    <updated>2014-10-18T11:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/dark_site_map.png"></p>
+
+<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 8</a></p>
+
+<p>Recently some article about an upcoming astronomical event, I don&rsquo;t
+recall which one, referred to the web site
+<a href="http://darksitefinder.com/">darksitefinder.com</a> and the typical light
+pollution maps there.  The maps illustrate the light being emitted
+from the earth, mostly man-made, light that is strongly reflected back
+from the atmosphere that illuminates the night sky, obscuring the view
+of distant, astronomical objects.  But I noticed something that hadn&rsquo;t
+caught my eye before.</p>
+
+<!-- More -->
+
+
+<p>There was a very distinct line separating densely populated areas from
+the eastern continental United States from the west.  Sure, I know the
+West is more sparsely populated, at least until you get to the West
+Coast, but I didn&rsquo;t know the dividing line dropped off so sharply.
+The illumination levels correlate pretty well with population so this
+is population density we&rsquo;re seeing here in nearly all cases.</p>
+
+<p>The drop off edge doesn&rsquo;t quite match anything I can think of.  It&rsquo;s
+not aligned with the Mississippi or any river really, or other
+geologic feature, or a shift in climate or moisture.  There are cases
+of all of those near the line but they don&rsquo;t quite match.  Some don&rsquo;t
+match by a long shot.  I wondered if it might be a major north-south
+railway that the last wall of cities there lies along.  That might be
+but then you&rsquo;d still have to ask why the railroad ran along that
+line.</p>
+
+<p>There&rsquo;s no historical boundary that corresponds either, that I&rsquo;ve been
+able to find so far.</p>
+
+<p>There must be something going on here.  Some global characteristic of
+the continental U.S. that&rsquo;s larger than the growth and development of
+little independent population centers.  A sharp line like that doesn&rsquo;t
+imply independence.  (To be clear, I mean in the mathematical, process
+sense).</p>
+
+<p><img class="center" src="/postimages/darksite_close.png"></p>
+
+<p>I&rsquo;m also fascinated by the rectangle of cities that Atlanta lies
+in. The shape of Atlanta&rsquo;s light blob reveals the three fingers of
+growth to the north along the I-75, Georgia 400, and I-85 corridors.</p>
+
+<p>The bottom side of the rectangle is Montgomery, Columbus, Macon, and
+Augusta.  The top side is Huntsville, Chattanooga, and Asheville.
+Huntsville, Birmingham, and Montgomery make the west edge.  Asheville,
+Greenville-Spartanburg, and Augusta make the east edge.</p>
+
+<p>Knoxville is almost part of the northern edge but is stretched up
+north, because it follows I-75 I think.</p>
+
+<p>The population flow from Atlanta to Greenville-Spartanburg, Charlotte,
+Greensboro, and Raleigh-Durham is fairly prominent.</p>
+
+<p>You can also see the dark skies (the blue area) of Eastern Georgia
+between Atlanta and Augusta.  That&rsquo;s the location both of Georgia
+State&rsquo;s Hard Labor Creek observatory and the Deer Lick Astronomy
+Village.  In sad contrast, notice how little dark sky is left in the
+North Georgia Mountains north of Atlanta.</p>
+]]></content>
+  </entry>
+  
+</feed>

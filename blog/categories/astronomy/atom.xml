@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-17T08:18:15-04:00</updated>
+  <updated>2014-10-18T11:38:42-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Great Divide]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide/"/>
+    <updated>2014-10-18T11:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/dark_site_map.png"></p>
+
+<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 8</a></p>
+
+<p>Recently some article about an upcoming astronomical event, I don&rsquo;t
+recall which one, referred to the web site
+<a href="http://darksitefinder.com/">darksitefinder.com</a> and the typical light
+pollution maps there.  The maps illustrate the light being emitted
+from the earth, mostly man-made, light that is strongly reflected back
+from the atmosphere that illuminates the night sky, obscuring the view
+of distant, astronomical objects.  But I noticed something that hadn&rsquo;t
+caught my eye before.</p>
+
+<!-- More -->
+
+
+<p>There was a very distinct line separating densely populated areas from
+the eastern continental United States from the west.  Sure, I know the
+West is more sparsely populated, at least until you get to the West
+Coast, but I didn&rsquo;t know the dividing line dropped off so sharply.
+The illumination levels correlate pretty well with population so this
+is population density we&rsquo;re seeing here in nearly all cases.</p>
+
+<p>The drop off edge doesn&rsquo;t quite match anything I can think of.  It&rsquo;s
+not aligned with the Mississippi or any river really, or other
+geologic feature, or a shift in climate or moisture.  There are cases
+of all of those near the line but they don&rsquo;t quite match.  Some don&rsquo;t
+match by a long shot.  I wondered if it might be a major north-south
+railway that the last wall of cities there lies along.  That might be
+but then you&rsquo;d still have to ask why the railroad ran along that
+line.</p>
+
+<p>There&rsquo;s no historical boundary that corresponds either, that I&rsquo;ve been
+able to find so far.</p>
+
+<p>There must be something going on here.  Some global characteristic of
+the continental U.S. that&rsquo;s larger than the growth and development of
+little independent population centers.  A sharp line like that doesn&rsquo;t
+imply independence.  (To be clear, I mean in the mathematical, process
+sense).</p>
+
+<p><img class="center" src="/postimages/darksite_close.png"></p>
+
+<p>I&rsquo;m also fascinated by the rectangle of cities that Atlanta lies
+in. The shape of Atlanta&rsquo;s light blob reveals the three fingers of
+growth to the north along the I-75, Georgia 400, and I-85 corridors.</p>
+
+<p>The bottom side of the rectangle is Montgomery, Columbus, Macon, and
+Augusta.  The top side is Huntsville, Chattanooga, and Asheville.
+Huntsville, Birmingham, and Montgomery make the west edge.  Asheville,
+Greenville-Spartanburg, and Augusta make the east edge.</p>
+
+<p>Knoxville is almost part of the northern edge but is stretched up
+north, because it follows I-75 I think.</p>
+
+<p>The population flow from Atlanta to Greenville-Spartanburg, Charlotte,
+Greensboro, and Raleigh-Durham is fairly prominent.</p>
+
+<p>You can also see the dark skies (the blue area) of Eastern Georgia
+between Atlanta and Augusta.  That&rsquo;s the location both of Georgia
+State&rsquo;s Hard Labor Creek observatory and the Deer Lick Astronomy
+Village.  In sad contrast, notice how little dark sky is left in the
+North Georgia Mountains north of Atlanta.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Venus and Jupiter Super Close Conjunction]]></title>
@@ -108,52 +179,6 @@ of discoveries so far.</p>
 
 <p><em>Image credit: UCL/University of London Observatory/Steve Fossey/Ben
  Cooke/Guy Pollack/Matthew Wilde/Thomas Wright (CC BY 3.0)</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Possible Massive Black Hole Duo]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/04/possible-massive-black-hole-duo/"/>
-    <updated>2013-12-04T05:26:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/04/possible-massive-black-hole-duo</id>
-    <content type="html"><![CDATA[<p>Via <a href="https://twitter.com/physorg_com/status/408160199460270081">@physorg_com</a> <a href="http://phys.org/news/2013-12-massive-black-hole-duo-sighting.html">Massive black hole duo: Possible sighting by WISE</a></p>
-
-<blockquote><p>Astronomers have spotted what appear to be two supermassive black
-holes at the heart of a remote galaxy, circling each other like dance
-partners. The incredibly rare sighting was made with the help of
-NASA&rsquo;s Wide-field Infrared Survey Explorer, or WISE.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>It is these close-knit black holes, also called black hole binaries,
-that have been the hardest to find. The objects are usually too small
-to be resolved even by powerful telescopes. Only a few strong
-candidates have been identified to date, all relatively nearby. The
-new WISE J233237.05-505643.5 is a new candidate, and located much
-farther away, at 3.8 billion light-years from Earth.</p>
-
-<p>Radio images with the Australian Telescope Compact Array were key to
-identifying the dual nature of WISE J233237.05-505643.5. Supermassive
-black holes at the cores of galaxies typically shoot out
-pencil-straight jets, but, in this case, the jet showed a zigzag
-pattern. According to the scientists, a second massive black hole
-could, in essence, be pushing its weight around to change the shape of
-the other black hole&rsquo;s jet.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>&ldquo;We note some caution in interpreting this mysterious system,&rdquo; said
-Daniel Stern of JPL, a co-author of the study. &ldquo;There are several
-extremely unusual properties to this system, from the multiple radio
-jets to the Gemini data, which indicate a highly perturbed disk of
-accreting material around the black hole, or holes. Two merging black
-holes, which should be a common event in the universe, would appear to
-be simplest explanation to explain all the current observations.&rdquo;</p></blockquote>
-
-<h2>References</h2>
-
-<p><a href="http://iopscience.iop.org/0004-637X/779/1/41/pdf/0004-637X_779_1_41.pdf">WISE J233237.05–505643.5: A Double-peaked, Broad-lined Active Galactic Nucleus with a Spiral-shaped Radio Morphology</a>, Chao-Wei Tsai et al. 2013 ApJ 779 41<br>
-<a href="http://arxiv.org/abs/1310.2257">Paper at arXiv</a></p>
 ]]></content>
   </entry>
   
