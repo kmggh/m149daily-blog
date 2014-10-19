@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-18T11:38:42-04:00</updated>
+  <updated>2014-10-19T06:59:59-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Systemd]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd/"/>
+    <updated>2014-10-19T06:35:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 9.1</a></p>
+
+<p>There seems to be quite a controversy brewing over systemd.  I was
+reading the debianfork.org site this morning and also the Wikipedia
+page.  It seems to be a case of the old UNIX-way vs. a new,
+re-engineered way of the functionality of the <em>init(8)</em>
+process/program and how system booting and startup are managed.</p>
+
+<p>I haven&rsquo;t dug into this enough yet to understand all of the details of
+the arguments.  The Wikipedia page makes it look like people with
+names I know were, at least initially, agin it.</p>
+
+<p>I currently favor the Linux 12.04 Server edition and I&rsquo;ll probably be
+looking to upgrade to 16.04 at some point.  Will I be looking at some
+alternative, new fork of Linux by then?  Or will I even be looking at
+Linux at all?  That&rsquo;s a good question.  I may have two or three Mac
+Minis by then and that will be it.  It could happen.  System
+administration eventually gets old.</p>
+
+<p>Mark Shuttleworth, the chief of Ubuntu, stamped the Debian decision on
+2014-02-14 to go forward with Systemd.  I&rsquo;m not encouraged that his
+post title begins with the word &ldquo;losing.&rdquo;</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Systemd">Systemd on Wikipedia</a><br />
+<a href="http://debianfork.org">debianfork.org</a><br />
+<a href="http://www.markshuttleworth.com/archives/1316">&ldquo;Losing graciously&rdquo; by Mark Shuttleworth</a><br />
+<a href="http://www.zdnet.com/linus-torvalds-and-others-on-linuxs-systemd-7000033847/">&ldquo;Linus Torvalds and others on Linux&rsquo;s systemd&rdquo; by By Steven
+J. Vaughan-Nichols on ZD Net</a><br />
+<a href="http://lwn.net/Articles/572805/">&ldquo;Which init system for Debian?&rdquo; by Jonathan Corbet on lwn.net, 2014-11-05</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Southern lights and the Milky Way]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/19/southern-lights-and-the-milky-way/"/>
+    <updated>2014-10-19T06:30:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/19/southern-lights-and-the-milky-way</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 9</a></p>
+
+<p>Over Lake Mavora in New Zealand
+Credit: L. Ladbrook <a href="https://www.flickr.com/photos/flyfishingsouthland/15384952107/">https://www.flickr.com/photos/flyfishingsouthland/15384952107/</a> … #aurora</p>
+
+<p>I&rsquo;m going to try embedding this tweet.</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>Southern lights &amp; the <a href="https://twitter.com/hashtag/MilkyWay?src=hash">#MilkyWay</a> over Lake Mavora in New Zealand &#10;Credit: L. Ladbrook <a href="https://t.co/UE0SpIa8fJ">https://t.co/UE0SpIa8fJ</a> <a href="https://twitter.com/hashtag/aurora?src=hash">#aurora</a> <a href="http://t.co/Zhk52FhpzH">pic.twitter.com/Zhk52FhpzH</a></p>&mdash; Observing Space (@ObservingSpace) <a href="https://twitter.com/ObservingSpace/status/523772837983555584">October 19, 2014</a></blockquote>
+
+
+<script async src="http://kmggh.github.io/m149daily-blog///platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Great Divide]]></title>
@@ -613,32 +672,6 @@ That&rsquo;s screen one and I only use three screens of apps that are about
     <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//images/observing_space.png"></p>
 
 <p>From <a href="https://twitter.com/observingspace/status/457048425553342465">@ObservingSpace</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Milky Way and Lighthouse]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse/"/>
-    <updated>2014-03-01T14:39:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/milky-way-and-lighthouse</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/milky_way_lighthouse.png"></p>
-
-<p>This is a beautiful picture by <a href="https://twitter.com/nickventonphoto/status/393430064433352704/">Nick Venton Photo</a>.</p>
-
-<p><a href="https://twitter.com/nickventonphoto">@nickventonphoto</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Lost Art of the Saturn V]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/the-lost-art-of-the-saturn-v/"/>
-    <updated>2014-03-01T14:30:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/the-lost-art-of-the-saturn-v</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/saturn-v-cutaway.jpg"></p>
-
-<p>Wow!  This is an amazing site and article by Amy Shira Teitel.</p>
-
-<p><a href="http://amyshirateitel.com/2011/04/03/the-lost-art-of-the-saturn-v/">The Lost Art of the Saturn V</a></p>
 ]]></content>
   </entry>
   

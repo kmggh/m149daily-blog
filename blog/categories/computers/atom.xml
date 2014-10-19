@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computers | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computers/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-18T11:38:42-04:00</updated>
+  <updated>2014-10-19T06:59:59-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Systemd]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd/"/>
+    <updated>2014-10-19T06:35:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 9.1</a></p>
+
+<p>There seems to be quite a controversy brewing over systemd.  I was
+reading the debianfork.org site this morning and also the Wikipedia
+page.  It seems to be a case of the old UNIX-way vs. a new,
+re-engineered way of the functionality of the <em>init(8)</em>
+process/program and how system booting and startup are managed.</p>
+
+<p>I haven&rsquo;t dug into this enough yet to understand all of the details of
+the arguments.  The Wikipedia page makes it look like people with
+names I know were, at least initially, agin it.</p>
+
+<p>I currently favor the Linux 12.04 Server edition and I&rsquo;ll probably be
+looking to upgrade to 16.04 at some point.  Will I be looking at some
+alternative, new fork of Linux by then?  Or will I even be looking at
+Linux at all?  That&rsquo;s a good question.  I may have two or three Mac
+Minis by then and that will be it.  It could happen.  System
+administration eventually gets old.</p>
+
+<p>Mark Shuttleworth, the chief of Ubuntu, stamped the Debian decision on
+2014-02-14 to go forward with Systemd.  I&rsquo;m not encouraged that his
+post title begins with the word &ldquo;losing.&rdquo;</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Systemd">Systemd on Wikipedia</a><br />
+<a href="http://debianfork.org">debianfork.org</a><br />
+<a href="http://www.markshuttleworth.com/archives/1316">&ldquo;Losing graciously&rdquo; by Mark Shuttleworth</a><br />
+<a href="http://www.zdnet.com/linus-torvalds-and-others-on-linuxs-systemd-7000033847/">&ldquo;Linus Torvalds and others on Linux&rsquo;s systemd&rdquo; by By Steven
+J. Vaughan-Nichols on ZD Net</a><br />
+<a href="http://lwn.net/Articles/572805/">&ldquo;Which init system for Debian?&rdquo; by Jonathan Corbet on lwn.net, 2014-11-05</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Mac Mini, iPad, and More]]></title>
