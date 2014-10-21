@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-20T09:29:11-04:00</updated>
+  <updated>2014-10-21T08:15:00-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Short Form Blogging]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging/"/>
+    <updated>2014-10-21T08:12:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 11.1</a></p>
+
+<p>Gina Trapani&rsquo;s post on <a href="http://scribbling.net/2014/10/16/short-form-blogging/">Short Form Blogging</a> on Scribbling.net precisely
+captures my own current approach to blogging almost perfectly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Twelve Years]]></title>
@@ -164,29 +176,6 @@ that the ASCII double quote doesn&rsquo;t explicitly specify whether a left-
 or right-double quote is intended, but the implication is usually
 clear enough and (hopefully) rendering code is now smart enough to do
 the &ldquo;right thing.&rdquo;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google Plus as a Blogging Platform]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/17/google-plus-as-a-blogging-platform/"/>
-    <updated>2013-08-17T04:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/17/google-plus-as-a-blogging-platform</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/gplus_blogging.png"></p>
-
-<p>Mike Elgan posts (on G+) &ldquo;Google+ is one of the 15 best blogging
-platforms, according to <em>The Next Web</em>.&rdquo;</p>
-
-<p>LOL!  What&rsquo;s funny about this statement is that I can&rsquo;t even think of
-five blogging plaforms.  At least that are still relevant, e.g.,
-leaving out Movable Type (which I really enjoyed) and LiveJournal.</p>
-
-<p>Further, after looking at the article on <a href="http://thenextweb.com/apps/2013/08/16/best-blogging-services/">The Next Web</a>, I
-think the above headline overstates their case.</p>
-
-<p><img class="center" src="/postimages/thenextweb_blogs.png"></p>
-
-<p><img class="center" src="/postimages/thenextweb_gplus.png"></p>
 ]]></content>
   </entry>
   
