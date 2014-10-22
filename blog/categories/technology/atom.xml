@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technology | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-10-22T04:38:59-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Whither the Self-Driving Car?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car/"/>
+    <updated>2014-10-22T04:20:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 12</a></p>
+
+<p>Lee Gomes writes in Slate The autonomous Google car may never actually
+happen.</p>
+
+<blockquote><p>For starters, the Google car was able to do so much more than its
+predecessors in large part because the company had the resources to do
+something no other robotic car research project ever could:  develop
+an ingenious but extremely expensive mapping system.  These maps
+contain the exact three-dimensional location of streetlights, stop
+signs, crosswalks, lane markings, and every other crucial aspect of a
+roadway.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>&hellip;the maps necessary for the Google car are an order of magnitude
+more complicated [than Google Maps].</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>To create them, a dedicated vehicle outfitted with a bank of sensors
+first makes repeated passes scanning the roadway to be mapped.  The
+data is <em>[sic]</em> then downloaded, with every square foot of the
+landscape pored over by both humans and computers to make sure that
+all-important real-world objects have been captured.  This complete
+map gets loaded into the car&rsquo;s memory before a journey, and because
+it knows from the map about the location of many stationary objects,
+it&rsquo;s computer&mdash;essentially a generic PC running Ubuntu Linux&mdash;can
+devote more of its energies to tracking moving objects, like other
+cars.</p></blockquote>
+
+<p><a href="http://www.slate.com/articles/technology/technology/2014/10/google_self_driving_car_it_may_never_actually_happen.html">Driving in Circles by Lee Gomes in Slate</a></p>
+]]></content>
+  </entry>
+  
+</feed>

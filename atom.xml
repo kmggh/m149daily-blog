@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-21T08:15:00-04:00</updated>
+  <updated>2014-10-22T04:38:59-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Whither the Self-Driving Car?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car/"/>
+    <updated>2014-10-22T04:20:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 12</a></p>
+
+<p>Lee Gomes writes in Slate The autonomous Google car may never actually
+happen.</p>
+
+<blockquote><p>For starters, the Google car was able to do so much more than its
+predecessors in large part because the company had the resources to do
+something no other robotic car research project ever could:  develop
+an ingenious but extremely expensive mapping system.  These maps
+contain the exact three-dimensional location of streetlights, stop
+signs, crosswalks, lane markings, and every other crucial aspect of a
+roadway.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>&hellip;the maps necessary for the Google car are an order of magnitude
+more complicated [than Google Maps].</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>To create them, a dedicated vehicle outfitted with a bank of sensors
+first makes repeated passes scanning the roadway to be mapped.  The
+data is <em>[sic]</em> then downloaded, with every square foot of the
+landscape pored over by both humans and computers to make sure that
+all-important real-world objects have been captured.  This complete
+map gets loaded into the car&rsquo;s memory before a journey, and because
+it knows from the map about the location of many stationary objects,
+it&rsquo;s computer&mdash;essentially a generic PC running Ubuntu Linux&mdash;can
+devote more of its energies to tracking moving objects, like other
+cars.</p></blockquote>
+
+<p><a href="http://www.slate.com/articles/technology/technology/2014/10/google_self_driving_car_it_may_never_actually_happen.html">Driving in Circles by Lee Gomes in Slate</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Short Form Blogging]]></title>
@@ -647,34 +687,6 @@ the Beehive Cluster open cluster of stars.</p>
 <p><em>Image: Jupiter and Venus from Atlanta at Mon 2014-08-18 05:54:00
  -0400 (5:54 EDT).  The planets are below Castor and Pollux in Gemini.
  Image from Stellarium.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Farewell to Orkut]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/07/04/farewell-to-orkut/"/>
-    <updated>2014-07-04T06:08:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/07/04/farewell-to-orkut</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/orkut.png"></p>
-
-<p>I received an email from Google, well it says from Orkut, last night
-with the subject line &ldquo;A Farewell to Orkut.&rdquo;</p>
-
-<blockquote><p>After ten years of sparking conversations and forging connections, we
-have decided it&rsquo;s time for us to start saying goodbye to Orkut. Over
-the past decade, YouTube, Blogger and Google+ have taken off, with
-communities springing up in every corner of the world. Because the
-growth of these communities has outpaced Orkut&rsquo;s growth, we&rsquo;ve decided
-to focus our energy and resources on making these other social
-platforms as amazing as possible for everyone who uses them.</p></blockquote>
-
-<p>The anecdotal evidence I&rsquo;ve heard from friends with connections in
-Brazil is that most Orkut users have abandoned it for the dreaded
-Facebook.  Somehow I don&rsquo;t expect they&rsquo;ve all moved over to Blogger and
-Google plus.</p>
-
-<p>In my case, I never used Orkut other than to set up an account and log
-on a couple of times.</p>
 ]]></content>
   </entry>
   
