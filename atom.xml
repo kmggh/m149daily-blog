@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-22T04:38:59-04:00</updated>
+  <updated>2014-10-23T06:10:43-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu/"/>
+    <updated>2014-10-23T06:08:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 13.1</a></p>
+
+<p><a href="http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king/">Ten years of Ubuntu: How Linux’s beloved newcomer became its criticized king</a>.  Ars looks back at the decade in Ubuntu, from Warty Warthog to 25 million users worldwide, by Scott Gilbertson at Ars Technica.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google's New Gmail Inbox]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox/"/>
+    <updated>2014-10-23T05:48:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 13</a></p>
+
+<p>Google is now making available to all users, albeit by invitation only
+for now, Inbox, it&rsquo;s new Gmail app.</p>
+
+<p>I&rsquo;ve barely seen it but initially I&rsquo;m a bit skeptical.  There&rsquo;s a
+focus on automatically bundling  your email for you and managing todo
+lists.  I already manage my email with a strong and extensive set of
+filters and I manage todo lists and things like that via my
+implementation of David Allen&rsquo;s GTD.  So I&rsquo;m probably not an intended
+user.</p>
+
+<p>It will probably look compelling.  One thing I do like are email-like
+systems where the messages look more like short messages in a chat
+session rather than email.  When I think about this as a good idea
+and then look back at Gmail, it really already goes a long way in that
+direction.  The messages in a conversation are nicely minimal.</p>
+
+<p>Inbox also seems to have a little floating circle, in this case a red
+dot. This little floating circle, that is both highly annoying and in
+the way as far as I&rsquo;m concerned, seems to be a popular gimmick lately.
+Witness the little chat circle in Facebook&rsquo;s mobile apps.</p>
+
+<p>I&rsquo;m being highly critical of software I&rsquo;ve never even seen, so I may
+be wrong about Inbox.  I do like the idea of an even nicer and somehow
+simpler email application but I want full control over what&rsquo;s
+happening.  And I don&rsquo;t need a new Gmail.  It&rsquo;s actually nearly
+perfect already.  I fear that ongoing attempts to move it forward will
+begin to degrade what I like about Gmail.</p>
+
+<p><a href="http://www.theverge.com/2014/10/22/7041227/google-inbox-hands-on-this-feels-like-the-future-of-email">Using Google Inbox: this feels like the future of email</a> at the Verge.<br />
+<a href="http://readwrite.com/2014/10/22/google-inbox-deconstructing-email">Google May Be About To Blow Up Email With Its &ldquo;Inbox&rdquo; App</a> at Readwrite.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Whither the Self-Driving Car?]]></title>
@@ -651,42 +702,6 @@ sentences.  Yes, we did learn this in school and it was a lot of fun.</p>
 began.</p>
 
 <p><em>Image credit: CC BY-SA 3.0 Merit Network, Inc.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Autumnal Equinox 2014!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/09/23/happy-autumnal-equinox-2014/"/>
-    <updated>2014-09-23T04:43:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/09/23/happy-autumnal-equinox-2014</id>
-    <content type="html"><![CDATA[<p>Happy autumnal equinox at 22:29 EDT on Mon 2014-09-22!</p>
-
-<p>Mon 2014-09-22 22:29:00 -0400<br>
-Tue 2014-09-23 02:29:00 +0000</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Venus and Jupiter Super Close Conjunction]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/08/17/venus-and-jupiter-super-close-conjunction/"/>
-    <updated>2014-08-17T20:48:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/08/17/venus-and-jupiter-super-close-conjunction</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/jupiter_venus.png"></p>
-
-<p>Tomorrow morning Mon 2014-08-18, the two brightest planets, Jupiter
-and Venus, will be about 1/3 of a degree apart.  That&rsquo;s 20 arc
-minutes.  This is extremely &ldquo;close&rdquo; on the sky for two planets and
-will be a spectacular sight to see.</p>
-
-<p>Not only will they be close together but they will also be near M44
-the Beehive Cluster open cluster of stars.</p>
-
-<p>Sky and Telescope Article:  <a href="http://www.skyandtelescope.com/astronomy-news/observing-news/venus-and-jupiter-spectacle-august-18-08132014/?et_mid=687137&amp;rid=247480049">Close Venus-Jupiter Conjunction on August
-18th</a> by Bob King from August 13, 2014.</p>
-
-<p><em>Image: Jupiter and Venus from Atlanta at Mon 2014-08-18 05:54:00
- -0400 (5:54 EDT).  The planets are below Castor and Pollux in Gemini.
- Image from Stellarium.</em></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: email | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/email/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-10-23T06:10:43-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Google's New Gmail Inbox]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox/"/>
+    <updated>2014-10-23T05:48:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 13</a></p>
+
+<p>Google is now making available to all users, albeit by invitation only
+for now, Inbox, it&rsquo;s new Gmail app.</p>
+
+<p>I&rsquo;ve barely seen it but initially I&rsquo;m a bit skeptical.  There&rsquo;s a
+focus on automatically bundling  your email for you and managing todo
+lists.  I already manage my email with a strong and extensive set of
+filters and I manage todo lists and things like that via my
+implementation of David Allen&rsquo;s GTD.  So I&rsquo;m probably not an intended
+user.</p>
+
+<p>It will probably look compelling.  One thing I do like are email-like
+systems where the messages look more like short messages in a chat
+session rather than email.  When I think about this as a good idea
+and then look back at Gmail, it really already goes a long way in that
+direction.  The messages in a conversation are nicely minimal.</p>
+
+<p>Inbox also seems to have a little floating circle, in this case a red
+dot. This little floating circle, that is both highly annoying and in
+the way as far as I&rsquo;m concerned, seems to be a popular gimmick lately.
+Witness the little chat circle in Facebook&rsquo;s mobile apps.</p>
+
+<p>I&rsquo;m being highly critical of software I&rsquo;ve never even seen, so I may
+be wrong about Inbox.  I do like the idea of an even nicer and somehow
+simpler email application but I want full control over what&rsquo;s
+happening.  And I don&rsquo;t need a new Gmail.  It&rsquo;s actually nearly
+perfect already.  I fear that ongoing attempts to move it forward will
+begin to degrade what I like about Gmail.</p>
+
+<p><a href="http://www.theverge.com/2014/10/22/7041227/google-inbox-hands-on-this-feels-like-the-future-of-email">Using Google Inbox: this feels like the future of email</a> at the Verge.<br />
+<a href="http://readwrite.com/2014/10/22/google-inbox-deconstructing-email">Google May Be About To Blow Up Email With Its &ldquo;Inbox&rdquo; App</a> at Readwrite.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: linux | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-22T04:38:59-04:00</updated>
+  <updated>2014-10-23T06:10:43-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu/"/>
+    <updated>2014-10-23T06:08:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 13.1</a></p>
+
+<p><a href="http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king/">Ten years of Ubuntu: How Linux’s beloved newcomer became its criticized king</a>.  Ars looks back at the decade in Ubuntu, from Warty Warthog to 25 million users worldwide, by Scott Gilbertson at Ars Technica.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Systemd]]></title>
