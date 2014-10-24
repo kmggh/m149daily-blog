@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-23T06:10:43-04:00</updated>
+  <updated>2014-10-24T08:33:18-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fall Colors at Cherokee NC]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/24/fall-colors-at-cherokee-nc/"/>
+    <updated>2014-10-24T08:30:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/24/fall-colors-at-cherokee-nc</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 14</a></p>
+
+<p>From <a href="https://twitter.com/wxbrad/status/525623053393207296">@wxbrad</a>.</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>RT Fall colors at Cherokee, NC&#8230; photo from <a href="https://twitter.com/SandersWX">@sanderswx</a> <a href="http://t.co/Wjpsfl4AXe">pic.twitter.com/Wjpsfl4AXe</a></p>&mdash; Brad Panovich (@wxbrad) <a href="https://twitter.com/wxbrad/status/525623053393207296">October 24, 2014</a></blockquote>
+
+
+<script async src="http://kmggh.github.io/m149daily-blog///platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>
@@ -688,20 +705,6 @@ mind for a particular day I&rsquo;ll have those to fall back on.</p>
 sentences.  Yes, we did learn this in school and it was a lot of fun.</p>
 
 <p><a href="http://www.huffingtonpost.com/2014/10/01/diagram-sentence-grammar_n_5908462.html">This Old Grammar Trick Still Works! How To Diagram A Sentence</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A History of the Internet]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet/"/>
-    <updated>2014-10-01T08:19:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/NSFNET-backbone-T3.png"></p>
-
-<p><a href="http://www.inetdaemon.com/tutorials/internet/history.shtml">History of the Internet</a> at InetDaemon.com is a brief and nice account of how the Internet
-began.</p>
-
-<p><em>Image credit: CC BY-SA 3.0 Merit Network, Inc.</em></p>
 ]]></content>
   </entry>
   
