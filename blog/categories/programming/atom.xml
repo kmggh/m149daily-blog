@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-24T09:09:12-04:00</updated>
+  <updated>2014-10-25T07:39:42-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,114 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Python]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/25/learning-python/"/>
+    <updated>2014-10-25T06:14:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/25/learning-python</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 15</a></p>
+
+<p>What&rsquo;s the best way to learn the Python programming language?  I think
+the on-line tutorial at python.org is the fastest but it works best if
+Python isn&rsquo;t your first language.</p>
+
+<!-- More -->
+
+
+<h2>Backing Up</h2>
+
+<p>I think Python is nearly the perfect language.  Okay, it&rsquo;s not really
+perfect, but it&rsquo;s as close as any I can think of.  There are other
+languages that might be better for some extreme, specialized cases
+(which will not seem extreme or specialized to anyone who works on
+them every day) such as very low-level system programming, programs
+where performance is critical, maybe very large corporate software
+systems (though I&rsquo;d claim Python still holds it&rsquo;s own here), as just a
+few examples.</p>
+
+<p>However, even in those instances, Python does okay.</p>
+
+<p>There are languages for other ways of thinking about programming like
+the functional languages Haskell, LISP, etc.</p>
+
+<p>What&rsquo;s great about Python is that it&rsquo;s short, clear, easy to write
+once you get the hang of it, very easy to read, and it can handle
+programs that range from short little scripts to very large, complex
+systems.</p>
+
+<h2>If You&rsquo;ve Programmed Before</h2>
+
+<p>If you&rsquo;ve written programs before, in any programming language, then
+you&rsquo;ll probably be fine using the on-line tutorial for Python.  It&rsquo;s
+free and on-line at Python&rsquo;s own website,
+<a href="https://docs.python.org/2/tutorial/">https://docs.python.org/2/tutorial/</a>.</p>
+
+<p>Start with chapter 1, then do 2-4.  Then skip to chapter 7 with more
+input/output.  After than follow up with 5.  You can add the
+additional chapters later, as you either need to or are interested.</p>
+
+<h2>If You&rsquo;re a Beginner</h2>
+
+<p>I can&rsquo;t say I&rsquo;ve found any beginning books that I&rsquo;ve looked at and
+thought, &ldquo;Yes!  That&rsquo;s the ideal Python book for a beginning
+programmer.&rdquo;  I am completely convinced that Python is the best
+language for learning to program since Pascal.</p>
+
+<p>The book <em>Learn Python the Hard Way</em> Third Edition by Zed A. Shaw,
+Addison-Wesley Professional, 2013, seems pretty good and complete, but
+it seems slow and plodding to me.  That approach may be perfect for
+you.  Pace is always relative.  The book is free on-line, available as
+a PDF you can download, or you can buy the on-line version and get the
+accompanying videos or buy the regular book.</p>
+
+<p>There seem to be thousands of vidoes teaching you Python on Youtube.
+As far as I&rsquo;ve looked, I&rsquo;ve not found one that I like.  There are many
+that are okay, but none that I&rsquo;ve bothered to write the URL down for.</p>
+
+<p>The book <em>Learning Python</em> Fifth Edition by Mark Lutz, O'Reilly Media,
+2013 is 1600 pages! It&rsquo;s hard for me to understand how you could make
+a book on Python that long and I have looked it over.  I&rsquo;m not saying
+it&rsquo;s not a good book, it&rsquo;s apparently complete and I believe it
+includes exercises and the new Python 3 version.  Still, wow!</p>
+
+<p>If you&rsquo;re a beginner, I think I&rsquo;d still say take a look at Python&rsquo;s
+on-line tutorial and see if it works for you.  Try all of the
+examples.  If you run into any trouble, go to one of these other
+books for that part or look for some videos on Youtube on the specific
+topic.  Then go back and carry on with the tutorial.</p>
+
+<h2>What About Java?</h2>
+
+<p>And what about Java as a first language?  Well, here&rsquo;s the traditional
+first program that prints out &ldquo;Hello, World!&rdquo; in Java:</p>
+
+<pre><code>public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+</code></pre>
+
+<p>Compare the same program in Python.</p>
+
+<pre><code>print "Hello, World!"
+</code></pre>
+
+<p>Now, I understand why the Java program looks they way it does and
+there are valid reasons for it&rsquo;s verbosity and what&rsquo;s going on there.
+However, I&rsquo;ve used Python in many large programs and haven&rsquo;t missed
+the features of Java even once (knock on wood).  I will admit, though,
+that I&rsquo;m strangely drawn to Java. I remember when it first came on the
+scene. I don&rsquo;t dislike it.  I&rsquo;ve just never found a use for it other
+than interacting with systems or services that only support Java.</p>
+
+<h2>References</h2>
+
+<p><a href="https://docs.python.org/2/tutorial/">The Python Tutorial</a><br />
+<a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Python vs. Javascript]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-24T09:09:12-04:00</updated>
+  <updated>2014-10-25T07:39:42-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Half Way]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/25/half-way/"/>
+    <updated>2014-10-25T07:07:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/25/half-way</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 15.1</a></p>
+
+<p>Well, I&rsquo;m half way to having blogged for 30 days straight.  It&rsquo;s
+required keeping up with it but I&rsquo;ve enjoyed it so far.  The fact that
+I&rsquo;ve thrown some re-tweets and link postings in there helps.  I like
+the mid-length blogging ideas and those really fit my thinking.
+Short, quick posts that say something you want to say are fine!</p>
+
+<p>Some other takers of the 30 day challenge have been reflecting
+mid-way.</p>
+
+<p><a href="http://om.co/2014/10/24/swing-scratch/">Om Malik</a><br />
+<a href="http://cdevroe.com/blog/10224/blogging-is-back">Colin Devroe</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Short Form Blogging]]></title>
@@ -155,27 +176,6 @@ mind for a particular day I&rsquo;ll have those to fall back on.</p>
 <a href="http://om.co/2014/10/05/30-days-of-blogging/">Om Malik &ndash; 30 Days of Blogging</a><br />
 <a href="http://ma.tt/2014/10/streak/">Matt Mullenweg &ndash; Streak</a><br />
 <a href="https://twitter.com/cdevroe/status/504630581117063169">Colin Devroe on Twitter</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quote Marks]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks/"/>
-    <updated>2014-01-28T23:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks</id>
-    <content type="html"><![CDATA[<p>I think for nearly 30 years I&rsquo;ve used TeX style quoting for double
-quotes in anything I wrote using ASCII text.</p>
-
-<pre><code> ``Quoted text.''
-</code></pre>
-
-<p>Now that I&rsquo;ve adopted Markdown for nearly anything that I enter as
-ASCII that&rsquo;s intended to be English text (probably rich text), I&rsquo;ve
-also, finally, decided to use the double-quote character.  It&rsquo;s true
-that the ASCII double quote doesn&rsquo;t explicitly specify whether a left-
-or right-double quote is intended, but the implication is usually
-clear enough and (hopefully) rendering code is now smart enough to do
-the &ldquo;right thing.&rdquo;</p>
 ]]></content>
   </entry>
   
