@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-27T23:16:17-04:00</updated>
+  <updated>2014-10-28T06:37:08-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Programming Languages]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/28/programming-languages/"/>
+    <updated>2014-10-28T05:27:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/28/programming-languages</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 18</a></p>
+
+<p>I recently made a list of the program&rsquo;s I&rsquo;ve written that I&rsquo;d consider
+my favorites.  Then I made a list of the programming languages I had
+used.  I think the result would qualify as a list of my favorite
+programming languages.</p>
+
+<ul>
+<li>FORTRAN</li>
+<li>BASIC</li>
+<li>SNOBOL</li>
+<li>Pascal</li>
+<li>C</li>
+<li>Objective-C</li>
+<li>Perl</li>
+<li>Python</li>
+</ul>
+
+
+<p>I&rsquo;m pretty sure I&rsquo;ve written more code over the years in Perl and
+Python.  I&rsquo;m not sure which would be in the lead at this point.</p>
+
+<p>Two other languages, Smalltalk and LISP, are languages I really enjoy
+but only in an occasional, recreational sense.  I&rsquo;ve never found either to be
+useful for anything very practical.  However, it&rsquo;s a joy to write pure
+object-oriented code in the wondrous Smalltalk-80-based environment of
+Squeak.  Similarly, it&rsquo;s a thrill to write pure functional programs in
+LISP, using Racket Scheme.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learning Python]]></title>
