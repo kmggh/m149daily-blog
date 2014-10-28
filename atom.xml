@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-26T11:19:07-04:00</updated>
+  <updated>2014-10-27T23:16:17-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Centaurus A]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/27/centaurus-a/"/>
+    <updated>2014-10-27T23:10:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/27/centaurus-a</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/centaurus_a.jpg"></p>
+
+<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 17</a></p>
+
+<p>From the <a href="http://www.nasa.gov/mission_pages/chandra/multimedia/galaxy-centaurusA.html#.VE8I1It4oU8">NASA Chandra</a> pages.</p>
+
+<blockquote><p>Centaurus A is the fifth brightest galaxy in the sky &mdash; making it an
+ideal target for amateur astronomers &mdash; and is famous for the dust
+lane across its middle and a giant jet blasting away from the
+supermassive black hole at its center. Cen A is an active galaxy about
+12 million light years from Earth.</p></blockquote>
+
+<p><em>Image credit: X-ray: NASA/CXC/SAO; Optical: Rolf Olsen; Infrared:
+ NASA/JPL-Caltech.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fascinating Satellite Images]]></title>
@@ -717,35 +739,6 @@ still on-line.</p>
 chrisfenton.com!</p>
 
 <p><em>Image credit: by <a href="https://www.flickr.com/photos/stiefkind/43091218/">Wolfgang Stief</a> CC BY-NC-ND 2.0.  (No this is not the home brew Cray from the article).</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spell Checking with Gmail]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/13/spell-checking-with-gmail/"/>
-    <updated>2014-10-13T05:44:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/13/spell-checking-with-gmail</id>
-    <content type="html"><![CDATA[<p>Day 3</p>
-
-<p>I&rsquo;m not going to make <em>all</em> of these posts about blogging but, while
-still on the subject, here&rsquo;s a simple blogging tip.  I use Gmail for spell
-checking.</p>
-
-<p>The fact is that I do this just about any time I need good spell
-checking.  Ironically, Google documents&#8217; spell checking is lacking so
-I even use this approach for them. (At least that used to be the
-case).</p>
-
-<p>First, open a new message in a Compose window but don&rsquo;t add any
-recipients.  After all, you don&rsquo;t want to accidentally send your text
-to someone.  Next, just past the text, say a whole document into the
-window and check.  As you find misspelled words, go back and edit the
-original.  When finished, just click the trash can icon in the compose
-window to discard the message.</p>
-
-<p>For anyone who points out that Gmail spell checking isn&rsquo;t perfect
-either, yeah, I know.  It&rsquo;s been the best I&rsquo;ve found over the years,
-though.</p>
 ]]></content>
   </entry>
   
