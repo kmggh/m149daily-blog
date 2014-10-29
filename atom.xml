@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-28T06:37:08-04:00</updated>
+  <updated>2014-10-29T09:14:54-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The 19-Inch Rack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack/"/>
+    <updated>2014-10-29T08:31:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/19-in-rack.png" title="" ></p>
+
+<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 19</a></p>
+
+<p>Last night, while driving home, I stopped at an intersection where
+work was being done on the traffic signals.  Looking at the open
+control box I suddenly realized it was just a 19-inch rack inside the
+silver box.  I think I even saw a network switch in there and a
+surprising number of mounted devices.  That makes sense.</p>
+
+<p>I&rsquo;ve worked around the standard 19-in racks in data centers for a long
+time.  Even before that, when I was in school, it was common for a
+physics lab to have a row of several 19-in racks.  They were usually
+filled with instruments, controllers and maybe even an occasional
+computer though microcomputers, small enough to fit in a rack, were
+just beginning to appear on the scene.</p>
+
+<p>Even large telescopes will have the standard racks mounted right on
+the back of the telescope, like the 120-inch telescope here at the
+Lick Observatory on Mount Hamilton.</p>
+
+<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/lick-120.jpg"></p>
+
+<p>Where did they begin?  An on-line article &ldquo;Audio-Video Equipment
+Racks&rdquo; credits Westinghouse.</p>
+
+<blockquote><p>The origins of rack mounting dates to the days of industrialist George
+Westinghouse way back in 1890. Westinghouse had first designed
+19-inch shelving to house relay gear used in his railroad
+industry. Eventually, early telephone companies also adopted this
+19-inch width.</p></blockquote>
+
+<p>For that reason they are sometimes called &ldquo;relay racks.&rdquo;  Wikipedia
+says the relay rack name came from telephony and then appeared in
+railroad signaling by 1911.</p>
+
+<p>The Electronic Industries Alliance (EIA) &ldquo;standardized them in its
+310-D standard, first published in 1965.&rdquo;  That standard included the
+1.75-in rack space height and the 19-in width (482.6 mm).</p>
+
+<p>Wikipedia says,</p>
+
+<blockquote><p>The 19-inch rack format with rack-units of 1.75 inches and holes
+tapped for 12-24 screws with alternating spacings of 1.25 inches and
+0.5 inch was an established standard by 1934. The EIA standard was
+revised again in 1992 to comply with the 1988 public law 100-418,
+setting the standard U as 44.5mm (15.9mm + 15.9mm + 12.7mm), making
+each &ldquo;U&rdquo; officially 1.752 inches.</p></blockquote>
+
+<p><a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/19-inch_rack.html">19-inch rack</a> at Princeton.edu/~achaney.<br />
+<a href="http://www.practical-home-theater-guide.com/equipment-racks-1.html">Audio-Video Equipment Racks &ndash; Part 1</a> in the Practical Home Theatre Guide.<br />
+<a href="http://en.wikipedia.org/wiki/19-inch_rack">19-in Rack</a> on Wikipedia.</p>
+
+<p><em>Photo credit: US National Oceanic and Atmospheric Administration.<br />
+Lick photo: by the author.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Inbox: First Impression]]></title>
@@ -663,122 +726,6 @@ course.</p>
 <p><a href="http://octopress.org/">Octopress</a><br />
 <a href="http://daringfireball.net/projects/markdown/">Markdown</a><br />
 <a href="https://pages.github.com/">Github Pages</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fear the Flashlight?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/15/fear-the-flashlight/"/>
-    <updated>2014-10-15T08:12:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/15/fear-the-flashlight</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/iphone_apps_sphere.jpg"></p>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 5</a></p>
-
-<p>Should you fear your flashlight?  There&rsquo;s been a story going around
-about the security threat of flashlight apps on your phone.  How
-seriously should you take this?</p>
-
-<p>There&rsquo;s nothing particularly dangerous about flashlight apps however
-there is a general danger to be cautious of when you install <em>any</em>
-apps on your phone.  That&rsquo;s the real lesson to take away here.</p>
-
-<p><em>Image credit: by <a href="https://www.flickr.com/photos/blakespot/3030107334/">Blake Patterson</a> CC BY 2.0.</em></p>
-
-<!-- More -->
-
-
-<p></p>
-
-<p>Snopes reports there was one app developer in 2013 that settled a
-complaint with the Federal Trade Commission because the app was
-collecting information to use for ad targeting.</p>
-
-<h2>The Lesson</h2>
-
-<p>You give apps various permissions to access various types of data and
-devices on your phone when you install them.  You have to give the
-permission&mdash;both iPhone and Android will ask you when you install a
-new app, or I believe the iPhone will sometimes ask when the app wants
-to do something, i.e., it wants to access your location data.</p>
-
-<p>One problem is the access and questions tend to be an all-or-nothing
-type of question.  If my weather radar app wants to report on my
-current location, it wants to access the GPS.  An email app will want
-to access all of my contacts information.</p>
-
-<p>One that really annoys me are apps that want to access all of the
-contacts information so they can &ldquo;find my friends&rdquo; on their service.
-I always refuse those.</p>
-
-<p>If an app wants to do one little thing, the only choice is to ask for
-access to that whole part of your phone.  You can see the problem.  If
-they divided access rights up into little slices, like &ldquo;access your
-current GPS location but not your past location history&rdquo;, there&rsquo;d be
-such a long list of permissions people would just ignore them.</p>
-
-<p>But most of us just ignore them anyway.  By now, most people just
-click &ldquo;Oh okay&rdquo; and carry on.</p>
-
-<h2>Here&rsquo;s What I Do</h2>
-
-<ul>
-<li><p>I only get apps from the app store!  (The App Store for the iPhone
-and the Google play store for Android).</p></li>
-<li><p>I try to get some indication of how reputable the app developer is.
-Have 10,000 downloaded it or just 20?  Are the reviews good?  Have I
-heard of the developer or company before?  (Usually not).  Do they
-have other apps in the store or just this one?  Does their
-description and web site look professional or like a school project?</p></li>
-<li><p>When apps ask for permission, if there&rsquo;s a choice, i.e., the app can
-be used with or without it, I try to understand why it wants that
-permission before I grant it.  If it wants access to my contact list
-I never grant it because it&rsquo;s not my business to give away <em>your</em>
-name, phone number and email address.  I usually will grant GPS
-access.  Camera or microphone access had better have something to do
-with what that the app is for.</p></li>
-</ul>
-
-
-<p>The Apple App Store has strict policies about what apps they accept
-and there is a review process that each app goes through.  The Google
-play store is also supposed to be constantly checking their apps
-though they are reputedly not as strict on admitting apps, but
-presumably check them for security concerns.</p>
-
-<p>If enough people have downloaded and use an app, then it&rsquo;s more likely
-that any mischief has been discovered and reported.</p>
-
-<h2>The Important Caveat</h2>
-
-<p>However, none of these steps are guarantees that you won&rsquo;t get malware
-on your phone.  There are clever attackers who can get past all of the
-above checks, at least for a while before they are discovered.  For
-that reason I don&rsquo;t use any critically important apps on my phone like
-banking, etc.  I just don&rsquo;t use a phone for those.  And I&rsquo;m very
-cautious about what I log into from my phone even using the web.  I
-favor using LTE instead of an unknown, public wifi service.</p>
-
-<p>Fortunately most apps now use HTTPS, SSL for secure connections.</p>
-
-<p>I also just don&rsquo;t install many apps.  I mean I just don&rsquo;t install
-willy nilly every app I see, hear about or someone recommends.  It has
-to be something I have an interest in or an actual use for.</p>
-
-<h2>Balance</h2>
-
-<p>In the end you&rsquo;re trying to strike a balance between convenience,
-features, and function vs. security.  We could replace our front door
-with a three-inch steel door and drag concrete Jersey barriers in
-front of the house, but that would be too much security for too much
-lost convenience.  Probably.</p>
-
-<h2>Final P.S.</h2>
-
-<p>The iPhone has it&rsquo;s own built-in flashlight since IOS 7 (drag up from
-the bottom of the screen) so you can uninstall one if you have it.</p>
-
-<p><a href="http://www.snopes.com/computer/internet/flashlight.asp">Flash and Grab at snopes.com</a></p>
 ]]></content>
   </entry>
   
