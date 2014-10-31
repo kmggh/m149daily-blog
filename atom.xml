@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-10-29T09:14:54-04:00</updated>
+  <updated>2014-10-31T05:53:43-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,99 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SQRL!]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl/"/>
+    <updated>2014-10-31T05:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 21</a></p>
+
+<p>For several months now Steve Gibson of GRC.com and Security Now has
+been working on a new authentication protocol he named SQRL, the
+Secure Quick Reliable Login.  On his web site he describes what
+happens when you log into a site, say Amazon, using SQRL (assuming
+Amazon adopted it).</p>
+
+<p>The website displays a QR code, described as a &ldquo;SQRL code,&rdquo; beside the
+usual userid and password login prompt.</p>
+
+<blockquote><ul>
+<li>The user can tap or click directly on the SQRL code to login, or
+launch their smartphone&rsquo;s SQRL app, and scan the QR code.</li>
+<li>For verification, SQRL displays the domain name contained in the
+SQRL code.</li>
+<li>After verifying the domain, the user permits the SQRL app to
+authenticate their identity.</li>
+<li>Leaving the login information blank, the user clicks the “Log in”
+button&hellip; and is logged in.</li>
+</ul>
+</blockquote>
+
+<p>The approach is highly secure, difficult to attack, easy to implement,
+and easy to use.  He describes details at his site.</p>
+
+<p>This is an elegant solution to the problems that come from dealing
+with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
+
+<p><a href="https://www.grc.com/sqrl/sqrl.htm">SQRL at GRC.com</a><br />
+<a href="http://twit.tv/show/security-now">Security Now</a><br />
+<a href="http://twit.tv/show/security-now/424">Episode 424 on SQRL</a><br />
+<a href="http://sqrl.pl/guide/">Sqrl.pl Illustrated Guide</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Are Quasars Dying?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/are-quasars-dying/"/>
+    <updated>2014-10-30T06:26:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/are-quasars-dying</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 20.1</a></p>
+
+<p>From <a href="http://www.dailygalaxy.com/my_weblog/2014/10/are-quasars-dying-at-the-farthest-reaches-of-the-universe.html">The Daily Galaxy</a>.</p>
+
+<blockquote><p>&ldquo;We have been able to confirm that, indeed, apart from the highly
+energetic and rapidly evolving quasars, there is another population
+that evolves slowly. This population of quasars appears to follow the
+quasar main sequence discovered by Sulentic and colleagues in
+2000. There does not even seem to be a strong relation between this
+type of quasars, which we see in our environment and those &lsquo;monsters&rsquo;
+that started to glow more than ten billion years ago&rdquo;, says Ascensión
+del Olmo another IAA-CSIC researcher taking part in the study.</p>
+
+<p>They have, nonetheless, found differences in this population of quiet
+quasars. &ldquo;The local quasars present a higher proportion of heavy
+elements such as aluminium, iron or magnesium, than the distant
+relatives, which most likely reflects enrichment by the birth and
+death of successive generations of stars,&rdquo; says Jack W. Sulentic
+(IAA-CSIC). &ldquo;This result is an excellent example of the new
+perspectives on the universe which the new 10 meter-class of
+telescopes such as GTC are yielding,&rdquo; the researcher concludes.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rocket Explodes]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes/"/>
+    <updated>2014-10-30T06:16:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
+
+<p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
+
+<p>The Orbital Sciences Antares rocket&hellip;</p>
+
+<blockquote><p>&hellip;flying cargo to the International Space Station
+exploded just 14 seconds after lift-off last night, creating a
+spectacular fireball and shockwave as the fully fuelled rocket crashed
+back down onto its launch pad.</p>
+
+<p>No one was hurt when the uncrewed spacecraft was destroyed, but the
+loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
+Corporation of Dulles, Virginia, to build confidence in its ability to
+supply ISS cargo services to NASA.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The 19-Inch Rack]]></title>
@@ -654,78 +747,6 @@ between Atlanta and Augusta.  That&rsquo;s the location both of Georgia
 State&rsquo;s Hard Labor Creek observatory and the Deer Lick Astronomy
 Village.  In sad contrast, notice how little dark sky is left in the
 North Georgia Mountains north of Atlanta.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why You Should Keep a Journal]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/17/why-you-should-keep-a-journal/"/>
-    <updated>2014-10-17T08:03:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/17/why-you-should-keep-a-journal</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 7.1</a></p>
-
-<p>From Lifehacker, &ldquo;<a href="http://lifehacker.com/why-you-should-keep-a-journal-and-how-to-start-yours-1547057185">Why You Should Keep a Journal (and How to Start Yours)</a>.&rdquo;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Mac Mini, iPad, and More]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/17/new-mac-mini/"/>
-    <updated>2014-10-17T07:50:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/17/new-mac-mini</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 7</a></p>
-
-<p>From Jason Snell at his new site, Six Colors, &ldquo;<a href="http://sixcolors.com/post/2014/10/apples-ipadmac-event-first-thoughts/">Apple’s iPad/Mac event: First thoughts</a>.&rdquo;</p>
-
-<p>From <a href="http://www.theverge.com/2014/10/16/6989443/apple-ipad-mac-event-8-most-important-things">The Verge, &ldquo;The 8 most important announcements from the Apple iPad and Mac event&rdquo;</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Github Side]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side/"/>
-    <updated>2014-10-16T06:39:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 6</a></p>
-
-<p>On Day 1 (the same Day 6 link above) I said I&rsquo;d write a script.  The
-script is called <strong>blog_post.py</strong> and is, of course, in Python 2.7.
-When I post a blog on Octopress it basically consists of these steps.</p>
-
-<ol>
-<li>Run the <strong>new_post</strong> command to create a file.</li>
-<li>Edit the file to write the post with Emacs, using the Markdown language.</li>
-<li>Save the file.</li>
-<li>Generate the blog with a <strong>generate</strong> command which updates the
-entire static site meaning all of the HTML, CSS, image and other files
-used to create the website.</li>
-<li>Copy all of those files to a Github directory.</li>
-<li>Add, commit and push the Github directory up to Github.</li>
-</ol>
-
-
-<p>The script currently handles the first three steps and all I have to
-do is specify the title on the command line.  The remaining steps are
-still manual but I plan to add an automatic version of them, or at
-least a more-automated version, to the script.</p>
-
-<p>For as much posting as I&rsquo;ve been doing lately, making it this much
-more convenient is more important than normal.</p>
-
-<p>Some of you might point out that much of this automation is already
-built into Octopress.  I think the fact that I want to deviate from
-the out-of-the-box functionality it provide means it&rsquo;s easier just to
-write a program in Python I can maintain rather than learning how to
-hack the Octopress system.</p>
-
-<p>Speaking of Github, it&rsquo;s the third leg of my switch to Octopress and
-Markdown.  It&rsquo;s turned out to be a great hosting solution.  It&rsquo;s free,
-reliable, and performs well.  Uploading is super efficient, too, of
-course.</p>
-
-<p><a href="http://octopress.org/">Octopress</a><br />
-<a href="http://daringfireball.net/projects/markdown/">Markdown</a><br />
-<a href="https://pages.github.com/">Github Pages</a></p>
 ]]></content>
   </entry>
   

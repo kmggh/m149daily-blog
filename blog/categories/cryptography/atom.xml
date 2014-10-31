@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cryptography | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cryptography/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-10-31T05:53:43-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SQRL!]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl/"/>
+    <updated>2014-10-31T05:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 21</a></p>
+
+<p>For several months now Steve Gibson of GRC.com and Security Now has
+been working on a new authentication protocol he named SQRL, the
+Secure Quick Reliable Login.  On his web site he describes what
+happens when you log into a site, say Amazon, using SQRL (assuming
+Amazon adopted it).</p>
+
+<p>The website displays a QR code, described as a &ldquo;SQRL code,&rdquo; beside the
+usual userid and password login prompt.</p>
+
+<blockquote><ul>
+<li>The user can tap or click directly on the SQRL code to login, or
+launch their smartphone&rsquo;s SQRL app, and scan the QR code.</li>
+<li>For verification, SQRL displays the domain name contained in the
+SQRL code.</li>
+<li>After verifying the domain, the user permits the SQRL app to
+authenticate their identity.</li>
+<li>Leaving the login information blank, the user clicks the “Log in”
+button&hellip; and is logged in.</li>
+</ul>
+</blockquote>
+
+<p>The approach is highly secure, difficult to attack, easy to implement,
+and easy to use.  He describes details at his site.</p>
+
+<p>This is an elegant solution to the problems that come from dealing
+with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
+
+<p><a href="https://www.grc.com/sqrl/sqrl.htm">SQRL at GRC.com</a><br />
+<a href="http://twit.tv/show/security-now">Security Now</a><br />
+<a href="http://twit.tv/show/security-now/424">Episode 424 on SQRL</a><br />
+<a href="http://sqrl.pl/guide/">Sqrl.pl Illustrated Guide</a></p>
+]]></content>
+  </entry>
+  
+</feed>
