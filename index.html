@@ -9,8 +9,8 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Day 28 A final thought, but the most important one. Now I&rsquo;ll tell you the most important secret about telescopes and
-observing, the thing that& &hellip;">
+  <meta name="description" content="Day 29 I finally did something I&rsquo;ve meant to do for a while. I configured
+emacs to automatically use text-mode and auto-fill-mode for Markdown &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +82,63 @@ observing, the thing that& &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/08/text-mode-and-auto-fill-mode/">Text Mode and Auto Fill Mode</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-11-08T04:45:00-05:00" pubdate data-updated="true">Sat  8 Nov 2014  04:45 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 29</a></p>
+
+<p>I finally did something I&rsquo;ve meant to do for a while.  I configured
+emacs to automatically use text-mode and auto-fill-mode for Markdown
+files.  Markdown files end in either <strong>.markdown</strong> or <strong>.md</strong> in my
+experience so far.  These blog posts are written in Markdown.</p>
+
+<p>Since text-mode and auto-fill-mode weren&rsquo;t automatic, I had to execute
+them manually using <strong>M-x</strong> (that&rsquo;s the ESC key followed by &ldquo;x&rdquo; in
+emacs) everytime I opened one of those files, e.g., to write a blog
+post.</p>
+
+<p>Adding the following lines to my <strong>.emacs</strong> file in the home directory
+fixed this.</p>
+
+<pre><code>;;; Add markdown files to text-mode.
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . text-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . text-mode))
+
+;;; Make auto-fill-mode the default for text-mode.
+(add-hook 'text-mode-hook 'turn-on-auto-fill)
+</code></pre>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -600,56 +657,6 @@ telescopes such as GTC are yielding,&rdquo; the researcher concludes.</p></block
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/10/30/rocket-explodes/">Rocket Explodes</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-10-30T06:16:00-04:00" pubdate data-updated="true">Thu 30 Oct 2014  06:16 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
-
-<p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
-
-<p>The Orbital Sciences Antares rocket&hellip;</p>
-
-<blockquote><p>&hellip;flying cargo to the International Space Station
-exploded just 14 seconds after lift-off last night, creating a
-spectacular fireball and shockwave as the fully fuelled rocket crashed
-back down onto its launch pad.</p>
-
-<p>No one was hurt when the uncrewed spacecraft was destroyed, but the
-loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
-Corporation of Dulles, Virginia, to build confidence in its ability to
-supply ISS cargo services to NASA.</p></blockquote>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/2/">&larr; Older</a>
@@ -673,6 +680,10 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2014/11/08/text-mode-and-auto-fill-mode/">Text Mode and Auto Fill Mode</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2014/11/07/buying-a-telescope-part-4/">Buying a Telescope - Part 4</a>
       </li>
     
@@ -686,10 +697,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2014/11/04/farewell-tom-magliozzi-1937-2014/">Farewell Tom Magliozzi 1937-2014</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2014/11/03/buying-a-telescope-part-2b/">Buying a Telescope - Part 2b</a>
       </li>
     
   </ul>

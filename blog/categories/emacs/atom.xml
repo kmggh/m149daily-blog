@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: emacs | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/emacs/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2014-11-08T23:38:49-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Text Mode and Auto Fill Mode]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode/"/>
+    <updated>2014-11-08T04:45:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 29</a></p>
+
+<p>I finally did something I&rsquo;ve meant to do for a while.  I configured
+emacs to automatically use text-mode and auto-fill-mode for Markdown
+files.  Markdown files end in either <strong>.markdown</strong> or <strong>.md</strong> in my
+experience so far.  These blog posts are written in Markdown.</p>
+
+<p>Since text-mode and auto-fill-mode weren&rsquo;t automatic, I had to execute
+them manually using <strong>M-x</strong> (that&rsquo;s the ESC key followed by &ldquo;x&rdquo; in
+emacs) everytime I opened one of those files, e.g., to write a blog
+post.</p>
+
+<p>Adding the following lines to my <strong>.emacs</strong> file in the home directory
+fixed this.</p>
+
+<pre><code>;;; Add markdown files to text-mode.
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . text-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . text-mode))
+
+;;; Make auto-fill-mode the default for text-mode.
+(add-hook 'text-mode-hook 'turn-on-auto-fill)
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
