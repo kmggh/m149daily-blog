@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-08T23:38:49-05:00</updated>
+  <updated>2014-11-08T23:43:50-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers/"/>
+    <updated>2014-11-08T23:41:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 29.1</a></p>
+
+<p>Matt Cutts also has taken on the 30-day blogging challenge.  He&rsquo;s
+doing it for the month of November.</p>
+
+<p><a href="https://www.mattcutts.com/blog/30-day-challenge-write-every-day/">30 day challenge: writing every day</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Half Way]]></title>
@@ -145,37 +159,6 @@ all every time.</p>
 dig it up when there&rsquo;s time.</p>
 
 <p>See <a href="/blog/2013/06/08/leaping-to-a-new-blogging-platform/">Leaping to a New Blogging Platform</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blogging for 30 Days]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/"/>
-    <updated>2014-10-11T07:25:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days</id>
-    <content type="html"><![CDATA[<p>Day 1</p>
-
-<p>I heard it mentioned by Gina Trapani on <em>This Week in Google</em> on
-Twit.tv.  There&rsquo;s a challenge going around to blog for 30 days
-straight but not on weekends.  She credited it to Om Malik.  He
-credited the idea to Matt Mullenweg and he credited it to a challenge
-from Colin Devroe, ironically on Twitter.</p>
-
-<p>I&rsquo;ve blogged off and on for over 12 years now and I&rsquo;ve really slacked
-off lately so the thought of posting more has already been on my
-mind.  I&rsquo;m already not following the challenge because, well, it&rsquo;s the
-weekend. But I&rsquo;ll see what I can do for 30 days.</p>
-
-<p>Just minutes ago, I sat down and almost instantly brainstormed about 20
-topics that were already on my mind.  If there&rsquo;s nothing new on my
-mind for a particular day I&rsquo;ll have those to fall back on.</p>
-
-<p>The next thing I&rsquo;ll do, I think, is write a script.</p>
-
-<p><a href="http://twit.tv/show/this-week-in-google/270">This Week in Google #270</a><br />
-<a href="http://om.co/2014/10/05/30-days-of-blogging/">Om Malik &ndash; 30 Days of Blogging</a><br />
-<a href="http://ma.tt/2014/10/streak/">Matt Mullenweg &ndash; Streak</a><br />
-<a href="https://twitter.com/cdevroe/status/504630581117063169">Colin Devroe on Twitter</a><br /></p>
 ]]></content>
   </entry>
   

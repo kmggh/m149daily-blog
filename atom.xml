@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-08T23:38:49-05:00</updated>
+  <updated>2014-11-08T23:43:50-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers/"/>
+    <updated>2014-11-08T23:41:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers</id>
+    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 29.1</a></p>
+
+<p>Matt Cutts also has taken on the 30-day blogging challenge.  He&rsquo;s
+doing it for the month of November.</p>
+
+<p><a href="https://www.mattcutts.com/blog/30-day-challenge-write-every-day/">30 day challenge: writing every day</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Text Mode and Auto Fill Mode]]></title>
@@ -1016,17 +1030,6 @@ than interacting with systems or services that only support Java.</p>
 
 <script async src="http://kmggh.github.io/m149daily-blog///platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu/"/>
-    <updated>2014-10-23T06:08:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 13.1</a></p>
-
-<p><a href="http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king/">Ten years of Ubuntu: How Linux’s beloved newcomer became its criticized king</a>.  Ars looks back at the decade in Ubuntu, from Warty Warthog to 25 million users worldwide, by Scott Gilbertson at Ars Technica.</p>
 ]]></content>
   </entry>
   
