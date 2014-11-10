@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-08T23:43:50-05:00</updated>
+  <updated>2014-11-09T22:15:15-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IOS 8.1]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/"/>
+    <updated>2014-11-09T21:53:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20141109_iPhone">
+<a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 30</a></p>
+
+<p>Today I upgraded to IOS 8.1 with no trouble and it&rsquo;s working well so
+far.</p>
+
+<p>I am one of those users who doesn&rsquo;t have the 5-GB or so of space on my
+iPhone to do an over-the-air upgrade.  In spite of that, you can do an
+upgrade without needing the space if you connect your iPhone to your
+Mac (or Windows?) running iTunes and use iTunes to do the upgrade.  It
+does the downloading and expansion of files on your desktop machine
+then installs the upgrade over the USB cable.</p>
+
+<p>The upgrade/install went without any trouble and it took almost
+exactly 36 minutes it predicted.</p>
+
+<p>I&rsquo;ve not used it too much.  So far, all the apps look and work the
+same as in IOS 7.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
@@ -1013,23 +1039,6 @@ than interacting with systems or services that only support Java.</p>
 
 <p><a href="https://docs.python.org/2/tutorial/">The Python Tutorial</a><br />
 <a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fall Colors at Cherokee NC]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/24/fall-colors-at-cherokee-nc/"/>
-    <updated>2014-10-24T08:30:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/24/fall-colors-at-cherokee-nc</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 14</a></p>
-
-<p>From <a href="https://twitter.com/wxbrad/status/525623053393207296">@wxbrad</a>.</p>
-
-<blockquote class="twitter-tweet" lang="en"><p>RT Fall colors at Cherokee, NC&#8230; photo from <a href="https://twitter.com/SandersWX">@sanderswx</a> <a href="http://t.co/Wjpsfl4AXe">pic.twitter.com/Wjpsfl4AXe</a></p>&mdash; Brad Panovich (@wxbrad) <a href="https://twitter.com/wxbrad/status/525623053393207296">October 24, 2014</a></blockquote>
-
-
-<script async src="http://kmggh.github.io/m149daily-blog///platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ]]></content>
   </entry>
   

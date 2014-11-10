@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-08T23:43:50-05:00</updated>
+  <updated>2014-11-09T22:15:15-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IOS 8.1]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/"/>
+    <updated>2014-11-09T21:53:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20141109_iPhone">
+<a href="/blog/2014/10/11/blogging-for-30-days/">Day 30</a></p>
+
+<p>Today I upgraded to IOS 8.1 with no trouble and it&rsquo;s working well so
+far.</p>
+
+<p>I am one of those users who doesn&rsquo;t have the 5-GB or so of space on my
+iPhone to do an over-the-air upgrade.  In spite of that, you can do an
+upgrade without needing the space if you connect your iPhone to your
+Mac (or Windows?) running iTunes and use iTunes to do the upgrade.  It
+does the downloading and expansion of files on your desktop machine
+then installs the upgrade over the USB cable.</p>
+
+<p>The upgrade/install went without any trouble and it took almost
+exactly 36 minutes it predicted.</p>
+
+<p>I&rsquo;ve not used it too much.  So far, all the apps look and work the
+same as in IOS 7.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Mac Mini, iPad, and More]]></title>
@@ -337,21 +363,6 @@ update on what I think about the progress.</p>
 <li>Something I haven&rsquo;t thought of.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Very Helpful Apple Salesperson Helped Me Save $750]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50/"/>
-    <updated>2013-06-18T00:03:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130618_macbook_air.jpg" title="" ></p>
-
-<p>Via <a href="https://twitter.com/HNTweets/status/346834662091534336">@HNTweets</a></p>
-
-<p><a href="http://virtualpants.com/post/53248259631/buying-the-new-macbook-air">Buying the new MacBook Air</a> at Virtual Pants.</p>
-
-<p><em>Image credit: <a href="http://www.flickr.com/photos/pahudson/5128395154/">Paul Hudson at Flickr</a>.  CC by 2.0.</em></p>
 ]]></content>
   </entry>
   
