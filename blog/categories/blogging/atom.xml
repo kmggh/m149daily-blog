@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-10T05:13:04-05:00</updated>
+  <updated>2014-11-10T06:58:47-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,95 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[After Blogging for 30 Days]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/10/after-blogging-for-30-days/"/>
+    <updated>2014-11-10T05:17:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/10/after-blogging-for-30-days</id>
+    <content type="html"><![CDATA[<p>Well, It&rsquo;s now day 31 and I&rsquo;ve finished the <a href="/blog/2014/10/11/blogging-for-30-days/">30-day challenge</a> to blog for 30
+days.  The original challenge that I read didn&rsquo;t include weekends but I
+went ahead and blogged straight through since there&rsquo;s actually more
+time to write on the weekend than during the week.</p>
+
+<p>I did manage to put a post up every day with the exception of day 23.
+I wrote the day 22 and 23 entries on day 22 using my Kindle HD Fire,
+Draft and Dropbox and didn&rsquo;t actually post them until day 24.  I
+didn&rsquo;t actually do any writing on day 23.  I&rsquo;ll leave it to the 30-day
+blogging judges to decide how to count that.</p>
+
+<p>Some posts were long, some were medium length, some had pictures and
+links, some were only a link, a couple were basically just
+&ldquo;re-tweets.&rdquo;</p>
+
+<p>Reflecting on the experience I&rsquo;m amazed at how short 30 days is.  It
+doesn&rsquo;t seem like there are 30+ posts and it felt like a much shorter
+time.  But then, 30 days, months, years do seem to go by super-fast
+lately.</p>
+
+<p>I enjoyed the freedom of not hesitating to write the short,
+tweet-length posts and then working on the longer ones when I had
+something to say.  I didn&rsquo;t work hard to find pictures to add but only
+used them when I felt they were appropriate or needed.  Just writing
+words was okay and that freedom made it fun and doable.</p>
+
+<p>The thing I liked the least about the experience was the quality of my
+writing which I think is considerably decreased from what it used to
+be.  I could have put more effort into better writing but I was just
+getting some words down.  In essense, I was publishing maybe the
+second draft of what I wrote, but not a &ldquo;final draft.&rdquo;  That was the
+most dissatisfying part.  I got into the habit of writing but maybe
+not writing well or at least better. Maybe that will be the next
+challenge I take on, to write at least as well as I think I used to.</p>
+
+<p>Another result of all of this blogging was a better work flow.  I
+fixed my process by smoothing out lot of friction in the steps I take
+to post.  I wrote a fully-automated script so I can locally publish
+the blog (I actually do proof read entries there, spell check and see
+how they look), and then push the update to public on Github with a
+single command.  I fixed emacs to automatically go into text mode and
+made some changes on Github to make pushing easier.</p>
+
+<p>One of the lessons other bloggers shared as they were doing this
+process was the appropriateness of the mid-length post.  That means
+it&rsquo;s okay to write more than a tweet but less than a long essay.
+That&rsquo;s part of the life-blood of journaling.  Sometimes you just pen a
+brief entry but that&rsquo;s enough to stake out that day.  Being able to go
+beyond 140 characters is a chief advantage that puts blogging above
+tweeting while keeping the ability to write as little as desired.</p>
+
+<p>I&rsquo;ve come to enjoy writing in Markdown even more.  It&rsquo;s simple to use
+and, in the end, I have a completely readable and portable collection
+of text files that aren&rsquo;t tied to a particular platform or site.  I
+can take this site anywhere now.</p>
+
+<p>One down side is that I&rsquo;m running up against the performance of
+Octopress.  At this very point it takes 35 seconds of wall clock time
+to generate the site.  That&rsquo;s not bad but it seems like a long wait in
+computer &ldquo;waiting for a command to finish&rdquo; time.  I think I need to
+look into breaking off the archives into a separate site or section so
+they are generated independently.  Most of the archive, all of it
+really, is static at this point and shouldn&rsquo;t need to be regenerated
+for every post.  However, there would be some tricks in blending it in
+to the main site, e.g., so that search covers the whole site including
+archives.  It might be as simple as a different repo on Github and
+posting it as a separate site with a different name but the exact same
+look and feel.  There&rsquo;s more research, thinking and maybe
+experimenting to do here.</p>
+
+<p>So what next?  I&rsquo;m not going to focus on making sure I post something
+every day.  I think I&rsquo;ll keep blogging more than I was for a while.
+I&rsquo;m definitely going to take advantage of the freedom to blog anyway
+way I wish, long or short, elaborate or trivially simple.  I&rsquo;m going
+to read more blogs by other folks that have taken up the challenge and
+try to benefit from their lessons learned.</p>
+
+<p>When I started the 30 days, I brainstormed a nice long list of post
+ideas in just a few minuts. After managing to cover a lot of them and
+adding ideas through the month, amazingly, the list doesn&rsquo;t seem
+any shorter.  There&rsquo;s still a lot to write about!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
@@ -103,62 +192,6 @@ still on-line.</p>
 <a href="http://monolith149daily.blogspot.com/2012/12/ten-years-of-blogging.html">Ten Years of Blogging</a></p>
 
 <p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Sun_Ultra_5_front.jpg">Thomas Kaiser</a> CC BY-SA 3.0</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress After 512 Days]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/12/octopress-after-512-days/"/>
-    <updated>2014-10-12T23:10:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/12/octopress-after-512-days</id>
-    <content type="html"><![CDATA[<p>Day 2</p>
-
-<p>Well, I was supposed to report back in on how it&rsquo;s been going with
-Octopress after using it a while.  It&rsquo;s now been 512 days, or one year
-and 147 days, or about 17 months which is about one year and five
-months.</p>
-
-<p>It&rsquo;s basically been going okay.  The process isn&rsquo;t bad.  I put up
-posts now and then with varying frequency.  Some are &ldquo;full&rdquo; posts with
-picture and permission, some are occasionally long, and some are
-short, ~tweet-length updates.</p>
-
-<p>I like Octopress a lot.  The best part is writing in Markdown which
-means my source files are all plain text and I have a copy of all of
-them, so the blog is already in my possession and easily read without
-any software or publishing.</p>
-
-<p>The Octopress scripts are easy to use.  Right now I run a new_post
-command to create a file, edit the file with Emacs, then re-generate
-the blog and finally push the changes up to Github which is where I
-publish it.</p>
-
-<p>Adding an image is hardly more difficult than it was with Blogger.  I
-have to download the image and get it into the machine I&rsquo;m writing
-on.  Then it&rsquo;s just copying the image to a source directory in the
-blog tree and adding one line to the Markdown file.</p>
-
-<p>Yesterday, on Saturday I wrote the beginning of a Python script to
-automate running those commands.  So far it handles it all up to
-running Emacs on the created file.  Next will come updating the git
-repo locally then pushing up the changes.</p>
-
-<p>The biggest down side at the moment is that the archives are organized
-in the single page view by date and year, but they aren&rsquo;t physically
-organized in the real file tree.  Also there&rsquo;s no way to segment the
-blog into archive pieces.  Generate, I think, rebuilds the whole site
-basically and, as the site grows, it&rsquo;s taking a while to do a generate
-now.  Okay, it takes 25 seconds but it seems like a long while.</p>
-
-<p>As the archive grows to be years long, I believe it will become a big
-unweildy.  It would be better if there was a way to segment off pieces
-of the archive, e.g., each year, so you don&rsquo;t end up regenerating it
-all every time.</p>
-
-<p>I&rsquo;m actually pretty sure there is a way to do this, I&rsquo;ll just have to
-dig it up when there&rsquo;s time.</p>
-
-<p>See <a href="/blog/2013/06/08/leaping-to-a-new-blogging-platform/">Leaping to a New Blogging Platform</a></p>
 ]]></content>
   </entry>
   
