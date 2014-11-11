@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-10T06:58:47-05:00</updated>
+  <updated>2014-11-11T05:43:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rosetta]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta/"/>
+    <updated>2014-11-11T05:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/NAVCAM_top_10_at_10_km_3_node_full_image_2.jpg"></p>
+
+<p>From the ESA web site.</p>
+
+<blockquote><p>Rosetta is a cornerstone mission to chase, go into orbit around, and
+land on a comet. It is studying the Jupiter-family comet
+67P/Churyumov-Gerasimenko with a combination of remote sensing and in
+situ measurements. The spacecraft arrived at the comet on 6 August
+2014 following a 10-year journey through the Solar System. Between
+August and November, the spacecraft has been orbiting the comet and
+gathering data to characterise the environment and the comet
+nucleus. On 12 November 2014, Rosetta&rsquo;s lander Philae will be deployed
+to the surface. Philae carries a suite of instruments for imaging and
+sampling the comet nucleus. The Rosetta orbiter will track the comet
+through perihelion (August 2015), examining its behaviour before,
+during and after.</p></blockquote>
+
+<p>[SIC]:  I saw a pronunciation guide for Philae that said &ldquo;fee-lay.&rdquo;
+This is wrong.  The pronunciation rhymes with eye-lee, or &ldquo;highly.&rdquo;
+Whenever you see ae, it rhymes with ee as in leek.  For example,
+Caesar.  And yes, the UNIX-famous word &ldquo;daemon&rdquo; is pronounced
+precisely and exactly like demon. Other pronunciations are wrong.
+(<a href="http://www.merriam-webster.com/dictionary/philae">Merriam-Webster</a>,
+<a href="http://en.wikipedia.org/wiki/Philae">Wikipedia</a>).</p>
+
+<p><a href="http://sci.esa.int/rosetta/">ESA Rosetta Site</a><br />
+<a href="http://sci.esa.int/rosetta/2279-summary/">Summary</a><br />
+<a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Top_10_at_10_km">Top 10 images from 10 km</a><br />
+<a href="http://earthsky.org/space/watch-wednesdays-comet-landing-live-online">EarthSky &ndash; Watch Wednesday’s comet landing live online</a><br /></p>
+
+<p><em>Image: ESA/Rosetta/NAVCAM – CC BY-SA IGO 3.0</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Buying a Telescope - Part 3]]></title>
@@ -326,117 +365,6 @@ only write them and then post them later.  So, in fact, I didn&rsquo;t
 actually do any of the work on this post on day 23.</em></p>
 
 <p><a href="http://telescope.com/">Orion telescope.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Buying a Telescope - Part 1]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/01/buying-a-telescope-part-1/"/>
-    <updated>2014-11-01T10:07:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/01/buying-a-telescope-part-1</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 22</a></p>
-
-<p>Back in the planetarium days I was frequently asked about buying a
-telescope, especially around Christmas.  Over the decades since then
-people still ask me from time to time and still ask more often around
-Christmas.  I had a pretty well-formulated answer eventually and I&rsquo;ve
-written it up a number of times.  (I&rsquo;m not sure if I know where any of
-those old write ups are).</p>
-
-<p>We&rsquo;ll start with the basics, what&rsquo;s important when it comes to
-telescopes:   aperture, mounting and portability.</p>
-
-<!-- More -->
-
-
-<p>Note that magnification, computers and electronics, and accessories
-aren&rsquo;t on the list.</p>
-
-<h2>Aperture</h2>
-
-<p>When it comes to telescopes, aperture is more important than anything
-else.  Like a bucket in rain, a telescope&rsquo;s most important job is
-capturing light raining down from stars, galaxies, planets, etc.
-Light carries information and the more light that&rsquo;s gathered the more
-you can see.  This is why the next big observatory is always about how
-large the aperture of the next telescope is going to be.  In my early
-years, the 200-inch Hale Telescope on Mount Palomar was the largest.
-These days we call it the five-meter telescope.  Now we have the E-ELT
-European Extremely Large Telescope in the queue at 39 meters.</p>
-
-<p>The aperture is simply the diameter of the main lens (on the front) or
-the main mirror (in the back) of the telescope.</p>
-
-<p>In the past, most amateur astronomers might have a six- or massive
-eight-inch telescope.  A 12- or 16-inch was truly gigantic.  Now, it&rsquo;s
-not uncommon for an amateur to have a 24- or 30-inch telescope.  The
-10- and 12-inch apertures are not uncommon.</p>
-
-<p>Basically you should get the largest aperture you can afford, that has
-a sturdy, stable mounting and is portable enough to use.  That last
-part is the trick.</p>
-
-<h2>Mounting</h2>
-
-<p>After the aperture, the next important feature is the mounting.  A
-good mounting should be sturdy and solid.   If a telescope shakes,
-even a tiny, barely perceptable amount, it degrades the image.</p>
-
-<p>I know of no better example of this than binoculars.  It&rsquo;s a great joy
-to take a nice pair of binoculars out and look at the sky.  But put
-them on a camera tripod and it&rsquo;s like you suddenly switched to HD.
-More details suddenly become visible.  It&rsquo;s because our hand-holding
-always shakes at least a tiny amount and it&rsquo;s enough to make a
-difference.</p>
-
-<p>A good mounting should also be easy to set up.  Some equatorial
-mountings seem like they take 30 mintues to assemble.  Some Dobsonian
-mounts take about 10 seconds.</p>
-
-<p>The mounting should also make it easy to move the telescope smoothly
-to point it at the objects you want to observe.  It should easily stay
-where you point it.</p>
-
-<h2>Portability</h2>
-
-<p>I can&rsquo;t tell you how many times I&rsquo;ve given all of this information to
-people, answered their questions, and hear from them that they finally
-got their new telescope!  Then later I find out they&rsquo;ve only used it
-one or two times and then not since.  Often never.</p>
-
-<p>Many, maybe even most telescopes are bought and only used once or
-twice and then abandoned.  One implication of this is that there&rsquo;s a
-huge supply of nearly new, &ldquo;used&rdquo; telescopes if one could only find
-them.</p>
-
-<p>I&rsquo;ll address another aspect of this try-and-abandon problem later, but
-a huge factor is portability.  The basic rule is, the less a telescope
-weighs the more it gets used.  Smaller is better in this sense,
-exactly the opposite of aperture.  Having the nicest, big telescope
-doesn&rsquo;t do anything for your observing hobby if you never want to take
-it out and set it up.  On the other hand, a smaller telescope that
-lets you grab and go is an instrument you&rsquo;ll use.  That makes it more
-enjoyable regardless of what it&rsquo;s aperture is.</p>
-
-<p>For this reason, it&rsquo;s a good idea to try before you buy.</p>
-
-<p>I truly love my 10-inch Dobsonian telescope.  It will always be my
-favorite.  However, sometimes I find that I hesitate to take it with
-me.  I find myself thinking I wouldn&rsquo;t mind something more like a
-six-inch Dobsonian, purely for portability, convenience, and my back.</p>
-
-<h2>Next</h2>
-
-<p>In Part Two I&rsquo;ll make actual recommendations and in Part Three cover
-some details about other things I&rsquo;ve alluded to.</p>
-
-<h2>Colophon</h2>
-
-<p>I wrote this and the Part 2a posts while away from home using a Amazon
-Kindle Fire HD, the Amazon Basics Bluetooth keyboard, Draft software,
-and saved the files to Dropbox.  I currently don&rsquo;t have a set up for
-posting when not at home so I just wrote the entries and posted them
-when I returned.</p>
 ]]></content>
   </entry>
   

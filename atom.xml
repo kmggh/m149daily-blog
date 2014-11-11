@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-10T06:58:47-05:00</updated>
+  <updated>2014-11-11T05:43:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rosetta]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta/"/>
+    <updated>2014-11-11T05:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/NAVCAM_top_10_at_10_km_3_node_full_image_2.jpg"></p>
+
+<p>From the ESA web site.</p>
+
+<blockquote><p>Rosetta is a cornerstone mission to chase, go into orbit around, and
+land on a comet. It is studying the Jupiter-family comet
+67P/Churyumov-Gerasimenko with a combination of remote sensing and in
+situ measurements. The spacecraft arrived at the comet on 6 August
+2014 following a 10-year journey through the Solar System. Between
+August and November, the spacecraft has been orbiting the comet and
+gathering data to characterise the environment and the comet
+nucleus. On 12 November 2014, Rosetta&rsquo;s lander Philae will be deployed
+to the surface. Philae carries a suite of instruments for imaging and
+sampling the comet nucleus. The Rosetta orbiter will track the comet
+through perihelion (August 2015), examining its behaviour before,
+during and after.</p></blockquote>
+
+<p>[SIC]:  I saw a pronunciation guide for Philae that said &ldquo;fee-lay.&rdquo;
+This is wrong.  The pronunciation rhymes with eye-lee, or &ldquo;highly.&rdquo;
+Whenever you see ae, it rhymes with ee as in leek.  For example,
+Caesar.  And yes, the UNIX-famous word &ldquo;daemon&rdquo; is pronounced
+precisely and exactly like demon. Other pronunciations are wrong.
+(<a href="http://www.merriam-webster.com/dictionary/philae">Merriam-Webster</a>,
+<a href="http://en.wikipedia.org/wiki/Philae">Wikipedia</a>).</p>
+
+<p><a href="http://sci.esa.int/rosetta/">ESA Rosetta Site</a><br />
+<a href="http://sci.esa.int/rosetta/2279-summary/">Summary</a><br />
+<a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Top_10_at_10_km">Top 10 images from 10 km</a><br />
+<a href="http://earthsky.org/space/watch-wednesdays-comet-landing-live-online">EarthSky &ndash; Watch Wednesday’s comet landing live online</a><br /></p>
+
+<p><em>Image: ESA/Rosetta/NAVCAM – CC BY-SA IGO 3.0</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IOS Reliable Updates]]></title>
@@ -1016,28 +1055,6 @@ useful for anything very practical.  However, it&rsquo;s a joy to write pure
 object-oriented code in the wondrous Smalltalk-80-based environment of
 Squeak.  Similarly, it&rsquo;s a thrill to write pure functional programs in
 LISP, using Racket Scheme.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Centaurus A]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/27/centaurus-a/"/>
-    <updated>2014-10-27T23:10:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/27/centaurus-a</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/centaurus_a.jpg"></p>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 17</a></p>
-
-<p>From the <a href="http://www.nasa.gov/mission_pages/chandra/multimedia/galaxy-centaurusA.html#.VE8I1It4oU8">NASA Chandra</a> pages.</p>
-
-<blockquote><p>Centaurus A is the fifth brightest galaxy in the sky &mdash; making it an
-ideal target for amateur astronomers &mdash; and is famous for the dust
-lane across its middle and a giant jet blasting away from the
-supermassive black hole at its center. Cen A is an active galaxy about
-12 million light years from Earth.</p></blockquote>
-
-<p><em>Image credit: X-ray: NASA/CXC/SAO; Optical: Rolf Olsen; Infrared:
- NASA/JPL-Caltech.</em></p>
 ]]></content>
   </entry>
   
