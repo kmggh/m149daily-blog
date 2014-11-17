@@ -4,7 +4,7 @@
   <title><![CDATA[Category: internet | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-12T23:42:04-05:00</updated>
+  <updated>2014-11-17T08:53:58-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Indie Web]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web/"/>
+    <updated>2014-11-17T08:22:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web</id>
+    <content type="html"><![CDATA[<p>Since I first began the 30-day blogging challenge the indie web
+movement was on my list of topics to discus.  My thinking on
+it, and related topics, is still unsettled.  I&rsquo;ve read some and, well,
+read some more.  Kevin Marks frequently appears on the Twit network
+and particularly on <em>This Week in Google</em>, and has talked about the
+indie web on many occasions.</p>
+
+<p>Here&rsquo;s a brief and early poll on where I am so far.  I like the basic
+principle of owning all of your content.  That&rsquo;s the foundation of
+this very site, this blog.  I don&rsquo;t like strongly coupling my various
+identities across sites, not that strongly.  I prefer that they be
+weakly coupled, if at all.  I&rsquo;m not that interested in discussions,
+engagement and feedback.  At least not in the usual way they occur on
+the web.</p>
+
+<p>Microformats comprise a clever and intriguing idea.  I think there&rsquo;s value
+in this evolved approach to (this part of) the so-called semantic
+web.</p>
+
+<p>The microformats movement has eschewed email and gone to using IRC
+(Internet Relay Chat) and a wiki for their communication.  This hits
+at the communication problems that I spend a lot of my
+internet-thinking time on.  Email seems terribly inadequate in many
+ways and yet insists being the best fit for many needs, particularly
+when Gmail is used.  I agree with not using email for long messages or
+long documents&mdash;I&rsquo;ve adopted a similar approach to communication.
+(For long documents and messages I email a Google document instead of
+a long email message).</p>
+
+<p>I loathe using IRC.  That in itself is worth at least one long blog
+post.  We use it at work since I&rsquo;ve been unable to stave off the push
+by the millennials (plus or minus) there to use IRC.</p>
+
+<p>There&rsquo;s a very nice &ldquo;indie web in a box,&rdquo; With Known, which you can
+even get a hosted account with.  At first, that seems anti-indie-web,
+but it&rsquo;s all very well done.  The source is open and you can start on
+their servers then move onto your own when you wish, similar to using
+Wordpress.</p>
+
+<p>So that&rsquo;s a quick update.  There should be more to come.</p>
+
+<p><a href="http://indiewebcamp.com/">Indie Web Camp</a><br />
+<a href="http://microformats.org/">Microformats</a><br />
+<a href="http://www.kevinmarks.com/">Kevin Marks</a><br />
+<a href="http://twit.tv/">Twit.tv</a><br />
+<a href="https://withknown.com/">Known</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A History of the Internet]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-12T23:42:04-05:00</updated>
+  <updated>2014-11-17T08:53:58-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Indie Web]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web/"/>
+    <updated>2014-11-17T08:22:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web</id>
+    <content type="html"><![CDATA[<p>Since I first began the 30-day blogging challenge the indie web
+movement was on my list of topics to discus.  My thinking on
+it, and related topics, is still unsettled.  I&rsquo;ve read some and, well,
+read some more.  Kevin Marks frequently appears on the Twit network
+and particularly on <em>This Week in Google</em>, and has talked about the
+indie web on many occasions.</p>
+
+<p>Here&rsquo;s a brief and early poll on where I am so far.  I like the basic
+principle of owning all of your content.  That&rsquo;s the foundation of
+this very site, this blog.  I don&rsquo;t like strongly coupling my various
+identities across sites, not that strongly.  I prefer that they be
+weakly coupled, if at all.  I&rsquo;m not that interested in discussions,
+engagement and feedback.  At least not in the usual way they occur on
+the web.</p>
+
+<p>Microformats comprise a clever and intriguing idea.  I think there&rsquo;s value
+in this evolved approach to (this part of) the so-called semantic
+web.</p>
+
+<p>The microformats movement has eschewed email and gone to using IRC
+(Internet Relay Chat) and a wiki for their communication.  This hits
+at the communication problems that I spend a lot of my
+internet-thinking time on.  Email seems terribly inadequate in many
+ways and yet insists being the best fit for many needs, particularly
+when Gmail is used.  I agree with not using email for long messages or
+long documents&mdash;I&rsquo;ve adopted a similar approach to communication.
+(For long documents and messages I email a Google document instead of
+a long email message).</p>
+
+<p>I loathe using IRC.  That in itself is worth at least one long blog
+post.  We use it at work since I&rsquo;ve been unable to stave off the push
+by the millennials (plus or minus) there to use IRC.</p>
+
+<p>There&rsquo;s a very nice &ldquo;indie web in a box,&rdquo; With Known, which you can
+even get a hosted account with.  At first, that seems anti-indie-web,
+but it&rsquo;s all very well done.  The source is open and you can start on
+their servers then move onto your own when you wish, similar to using
+Wordpress.</p>
+
+<p>So that&rsquo;s a quick update.  There should be more to come.</p>
+
+<p><a href="http://indiewebcamp.com/">Indie Web Camp</a><br />
+<a href="http://microformats.org/">Microformats</a><br />
+<a href="http://www.kevinmarks.com/">Kevin Marks</a><br />
+<a href="http://twit.tv/">Twit.tv</a><br />
+<a href="https://withknown.com/">Known</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ray Bradbury - If Only We Had Taller Been]]></title>
@@ -26,7 +80,7 @@ arriving at Mars.  On stage with him were Arthur C. Clarke, Carl
 Sagan, Bruce Murray, and Walter Sullivan.  Bradbury read his poem, &ldquo;If
 Only We Had Taller Been.&rdquo;</p>
 
-<p>Today, on 12 November 1971, the Philae spacecraft &ldquo;docked&rdquo; with the
+<p>Today, on 12 November 2014, the Philae spacecraft &ldquo;docked&rdquo; with the
 comet 67P/Churyumov-Gerasimenko.</p>
 
 <p><a href="https://www.youtube.com/watch?v=EBtZjbTDTDk">Youtube Video &ndash; Ray Bradbury &ndash; If Only We Had Taller Been</a></p>
@@ -971,74 +1025,6 @@ each &ldquo;U&rdquo; officially 1.752 inches.</p></blockquote>
 
 <p><em>Photo credit: US National Oceanic and Atmospheric Administration.<br />
 Lick photo: by the author.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Inbox: First Impression]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression/"/>
-    <updated>2014-10-28T06:01:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 18.1</a></p>
-
-<p>I just set up Inbox on a very old, in fact my oldest, earliest, Gmail
-account.  Come to think of it, I guess that&rsquo;s appropriate in a way.
-Here, briefly, are my very first impressions.</p>
-
-<h2>Short Version</h2>
-
-<p>Inbox is like the dead mouse your cat brings to you.  Thanks but
-that&rsquo;s not exactly what I wanted and it&rsquo;s not quite useful to me,
-though I appreciate the work you&rsquo;ve done.  I may even be impressed by
-it.  It&rsquo;s true I could use something to eat right now, maybe even
-something about that size, but that isn&rsquo;t it.</p>
-
-<!-- More -->
-
-
-<h2>Slightly More Detail</h2>
-
-<p>Minimalist email messages:  Yes.  I like this idea of messages that
-can look like tweets but still, maybe, have support for long messages.
-Really, though, I think long messages should be a document that is
-emailed.</p>
-
-<p>The card thing:  Bah.  I don&rsquo;t use Google Now and I don&rsquo;t want that
-much help.</p>
-
-<p>The todo list thing: Thumbs down.  I&rsquo;m in the fifth year of my
-highly-evolved GTD system and I don&rsquo;t want help with this from my email
-program.  I don&rsquo;t mind it being there, it looks like it would be a
-great help for folks that <em>do</em> use email to manage their lives (what a
-horrible, horrible concept, though).  There needs to be some way to
-get all of those green check marks and todo-listness out of the email if you
-don&rsquo;t want to see it there.  Where&rsquo;s the OFF switch??</p>
-
-<p>The automatic grouping thing: Thumbs down again.  Similar to the
-above, I&rsquo;ve had complete control of my email with filters and labels
-for years.  I don&rsquo;t need help.  Please get your ideas of labels and
-filters out of my email!</p>
-
-<p>Finally, it&rsquo;s not really minimal.  Inbox looks minimal and simpler,
-but really it sneaks in all of the above cruft.  A program that sort
-of looked like Inbox, more minimalist than Gmail, but that didn&rsquo;t
-impose a lot of complexity and stuff in return would be worth a closer
-look.</p>
-
-<p>I expect changes to Gmail itself along these lines and maybe then
-there will be some settings switches (no doubt almost impossibly
-buried) to turn some of these &ldquo;helpful&rdquo; features off.</p>
-
-<p>And I should make clear that this is all from my personal point of
-view.  For the vast masses, Inbox may be just what folks need so I&rsquo;m
-not saying it shouldn&rsquo;t exist and may not be a huge hit.</p>
-
-<p>I&rsquo;ll find ways to keep playing with Inbox but it will be a while
-before I unleash it on the actual Gmail that I use.</p>
-
-<h2>P.S.</h2>
-
-<p>It sure looks like <a href="http://www.youtube.com/watch?v=CICMxwgm274">Mailboxapp</a> introduced some two years ago.</p>
 ]]></content>
   </entry>
   
