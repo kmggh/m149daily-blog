@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-17T08:53:58-05:00</updated>
+  <updated>2014-11-18T07:13:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,94 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Programming for Kids]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids/"/>
+    <updated>2014-11-18T06:26:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s a question that have been worrying many of us for quite a few
+years now.  How will today&rsquo;s kids learn to program?</p>
+
+<p>In the late 70s and 80s many kids were blessed with a microcomputer in
+their home that ran BASIC.  Most folks don&rsquo;t even know or remember
+that the first IBM PC booted straight up into BASIC, just like a
+Commodore 64. That&rsquo;s where they learned to program.  Those BASIC
+computers launched a whole generation of computer programmers.</p>
+
+<!-- More -->
+
+
+<p>But then, as time went on, computers no longer came with BASIC.
+Magazines no longer published programs that you had to type in, line
+by line, hopefully with an input program that gave a little checksum
+for each line to match with the checksum in the original listing.
+I&rsquo;ve thought about this for many years and the topic has been raised
+by others, even on sites like Slashdot over the years.  How will kids
+learn to program?</p>
+
+<p>Java seemed too complex for kids to really latch on to.  There were
+plenty of little learning languages here and there, but they didn&rsquo;t
+just pop up on the family computer when you turned it on&mdash;-someone had
+to go looking for them and install them.</p>
+
+<p>Some people speculated that making web pages might capture the modern
+youth&rsquo;s enthusiasm.  But (at least normal) HTML doesn&rsquo;t have the
+concept of a conditional if-then clause.  I consider that an essential
+element of programming.</p>
+
+<p>I used to think how it would be nice if there was something like a
+world, as in object-oriented MUDs, where you could program little
+objects to do conditional things.  That would be like building a web
+page or something, but you could make things &ldquo;smart&rdquo; so they responded
+to changes in their surroundings or to inputs.</p>
+
+<p>Lately I&rsquo;ve been hearing a pattern.  I&rsquo;ve heard it at least a couple
+of times and I bet it&rsquo;s happening more.  Kids are learning to program
+via the path Minecraft, Scratch, Python.</p>
+
+<p>Minecraft is a game where you can build an program objects.  And it
+does have conditionals!  Nearly every kid seems to be playing
+Minecraft.</p>
+
+<p>Scratch is a wonderful programming language based on clicking little
+objects together that do things.  It&rsquo;s the perfect programming
+paradigm for youngsters.  Scratch was developed at the MIT Media Lab.</p>
+
+<p>Finally, there&rsquo;s Python, which I consider the perfect programming
+language for a majority of purposes including a first real programming
+language.</p>
+
+<p>I think this is the perfect path.  Minecraft is wonderfully engaging
+and pretty much universally present.  Scratch has all of the
+fundamental elements you need, and it&rsquo;s still fun.  Python is
+complete, readily available, and programs can be as easy as BASIC but
+can grow into fully developed object-oriented or even functional
+applications.</p>
+
+<p>It&rsquo;s highly likely I won&rsquo;t even understand what the
+Minecraft-Scratch-Python generation produces as adults, but I&rsquo;m sure
+it will be wonderful!</p>
+
+<p><a href="http://en.wikipedia.org/wiki/BASIC">BASIC</a><br />
+<a href="https://minecraft.net/">Minecraft</a><br />
+<a href="http://scratch.mit.edu/">Scratch</a><br />
+<a href="http://monolith149daily.blogspot.com/2008/10/scratch-programming-for-kids.html">My Scratch Programming blog post, 2008-10-02</a><br />
+<a href="https://www.python.org/">Python</a><br /></p>
+
+<p>P.S.  Yes, I know that there are, in fact, many tools around for kids
+to learn from.  Even Logo and of course BASIC are still around!  They
+just aren&rsquo;t universally present by default on the home computer until
+someone puts them there.</p>
+
+<p>P.P.S.  And it&rsquo;s also true that the Raspberry Pi was intentionally
+created to fill this void with hardware that nearly any kid could
+afford and just hook to their TV and power with their phone charger.
+(You do need a keyboard and mouse).  Not coincidentally, it comes with
+Scratch and Python ready to go and can be configured to boot straight
+into those environments.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Programming Languages]]></title>
@@ -178,25 +266,6 @@ Javascript, I found this blog post by Matt Chisholm, <a href="https://blog.glyph
 <p>Via <a href="https://twitter.com/HNTweets/status/367911066203729920">@HNTweets</a></p>
 
 <p>Smalltalk runtime in the browser: <a href="http://amber-lang.net/">http://amber-lang.net/</a> Comments: <a href="https://news.ycombinator.com/item?id=6216539">https://news.ycombinator.com/item?id=6216539</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The UNIX Tree]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree/"/>
-    <updated>2013-06-25T23:06:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130625_Ritchie_Thompson.jpg" title="" ></p>
-
-<blockquote><p>Welcome to the <a href="http://minnie.tuhs.org/cgi-bin/utree.pl">Unix Tree</a>. Here you can browse the source code and
-manuals of various old versions of Unix. For every file, you can
-also find related files from other versions: this can help show how
-the different versions of Unix are related. Most of the Unix
-versions below come from the <a href="http://www.tuhs.org/wiki/Unix_Archive_Sites">Unix Archive</a>.</p></blockquote>
-
-<p><em>Image: Dennis Ritchie and Ken Thompson at a pretty well maxed out DEC
- PDP11 computer and two Teletype model 33 terminals.
- <a href="http://www.flickr.com/photos/9479603@N02/3311745151/">PanelSwitchman at Flickr. CC BY-NC-ND 2.0</a></em></p>
 ]]></content>
   </entry>
   

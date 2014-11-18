@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-17T08:53:58-05:00</updated>
+  <updated>2014-11-18T07:13:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,179 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dark and Stormy]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy/"/>
+    <updated>2014-11-18T07:09:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy</id>
+    <content type="html"><![CDATA[<p><em>While looking for earlier posts about kids and programming, I came
+across this from a 2005-02-08 post.  Someone sent this to me and I
+don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
+
+<hr />
+
+<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
+analogies and metaphors found in high school essays:</p>
+
+<ol>
+<li>Her face was a perfect oval, like a circle that had its two sides
+gently compressed by a Thigh Master.</li>
+</ol>
+
+
+<!-- More -->
+
+
+<ol>
+<li><p>His thoughts tumbled in his head, making and breaking alliances
+like underpants in a dryer without Cling Free.</p></li>
+<li><p>He spoke with the wisdom that can only come from experience, like a
+guy who went blind because he looked at a solar eclipse without one of
+those boxes with a pinhole in it and now goes around the country
+speaking at high schools about the dangers of looking at a solar
+eclipse without one of those boxes with a pinhole in it.</p></li>
+<li><p>She grew on him like she was a colony of E. coli and he was
+room-temperature Canadian beef.</p></li>
+<li><p>She had a deep, throaty, genuine laugh, like that sound a dog makes
+just before it throws up.</p></li>
+<li><p>Her vocabulary was as bad as, like, whatever.</p></li>
+<li><p>He was as tall as a six-foot-three-inch tree.</p></li>
+<li><p>The revelation that his marriage of 30 years had disintegrated
+because of his wife&rsquo;s infidelity came as a rude shock, like a
+surcharge at a formerly surcharge-free ATM.</p></li>
+<li><p>The little boat gently drifted across the pond exactly the way a
+bowling
+ball wouldn&rsquo;t.</p></li>
+<li><p>McBride fell 12 stories, hitting the pavement like a Hefty bag
+filled with vegetable soup.</p></li>
+<li><p>From the attic came an unearthly howl. The whole scene had an
+eerie, surreal quality, like when you&rsquo;re on vacation in another city
+and Jeopardy comes on at 7:00 p.m. instead of 7:30.</p></li>
+<li><p>Her hair glistened in the rain like a nose hair after a sneeze.</p></li>
+<li><p>The hailstones leaped from the pavement, just like maggots when
+you fry them in hot grease.</p></li>
+<li><p>Long separated by cruel fate, the star-crossed lovers raced across
+the grassy field toward each other like two freight trains, one having
+left Cleveland at 6:36 p.m. traveling at 55 mph, the other from Topeka
+at 4:19 p.m. at a speed of 35 mph.</p></li>
+<li><p>They lived in a typical suburban neighborhood with picket fences
+that resembled Nancy Kerrigan&rsquo;s teeth.</p></li>
+<li><p>John and Mary had never met. They were like two hummingbirds who
+had also never met.</p></li>
+<li><p>He fell for her like his heart was a mob informant and she was the
+East River.</p></li>
+<li><p>Even in his last years, Grandpappy had a mind like a steel trap,
+only one that had been left out so long, it had rusted shut.</p></li>
+<li><p>Shots rang out, as shots are wont to do.</p></li>
+<li><p>The plan was simple, like my brother-in-law Phil. But unlike Phil,
+this plan just might work.</p></li>
+<li><p>The young fighter had a hungry look, the kind you get from not
+eating for a while.</p></li>
+<li><p>He was as lame as a duck. Not the metaphorical lame duck, either,
+but a real duck that was actually lame, maybe from stepping on a land
+mine or something.</p></li>
+<li><p>The ballerina rose gracefully en pointe and extended one slender
+leg behind her, like a dog at a fire hydrant.</p></li>
+<li><p>It was an American tradition, like fathers chasing kids around
+with power tools.</p></li>
+<li><p>He was deeply in love. When she spoke, he thought he heard bells,
+as if she were a garbage truck backing up.</p></li>
+<li><p>Her eyes were like limpid pools, only they had forgotten to put in
+any pH cleanser.</p></li>
+<li><p>She walked into my office like a centipede with 98 missing legs.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Programming for Kids]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids/"/>
+    <updated>2014-11-18T06:26:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s a question that have been worrying many of us for quite a few
+years now.  How will today&rsquo;s kids learn to program?</p>
+
+<p>In the late 70s and 80s many kids were blessed with a microcomputer in
+their home that ran BASIC.  Most folks don&rsquo;t even know or remember
+that the first IBM PC booted straight up into BASIC, just like a
+Commodore 64. That&rsquo;s where they learned to program.  Those BASIC
+computers launched a whole generation of computer programmers.</p>
+
+<!-- More -->
+
+
+<p>But then, as time went on, computers no longer came with BASIC.
+Magazines no longer published programs that you had to type in, line
+by line, hopefully with an input program that gave a little checksum
+for each line to match with the checksum in the original listing.
+I&rsquo;ve thought about this for many years and the topic has been raised
+by others, even on sites like Slashdot over the years.  How will kids
+learn to program?</p>
+
+<p>Java seemed too complex for kids to really latch on to.  There were
+plenty of little learning languages here and there, but they didn&rsquo;t
+just pop up on the family computer when you turned it on&mdash;-someone had
+to go looking for them and install them.</p>
+
+<p>Some people speculated that making web pages might capture the modern
+youth&rsquo;s enthusiasm.  But (at least normal) HTML doesn&rsquo;t have the
+concept of a conditional if-then clause.  I consider that an essential
+element of programming.</p>
+
+<p>I used to think how it would be nice if there was something like a
+world, as in object-oriented MUDs, where you could program little
+objects to do conditional things.  That would be like building a web
+page or something, but you could make things &ldquo;smart&rdquo; so they responded
+to changes in their surroundings or to inputs.</p>
+
+<p>Lately I&rsquo;ve been hearing a pattern.  I&rsquo;ve heard it at least a couple
+of times and I bet it&rsquo;s happening more.  Kids are learning to program
+via the path Minecraft, Scratch, Python.</p>
+
+<p>Minecraft is a game where you can build an program objects.  And it
+does have conditionals!  Nearly every kid seems to be playing
+Minecraft.</p>
+
+<p>Scratch is a wonderful programming language based on clicking little
+objects together that do things.  It&rsquo;s the perfect programming
+paradigm for youngsters.  Scratch was developed at the MIT Media Lab.</p>
+
+<p>Finally, there&rsquo;s Python, which I consider the perfect programming
+language for a majority of purposes including a first real programming
+language.</p>
+
+<p>I think this is the perfect path.  Minecraft is wonderfully engaging
+and pretty much universally present.  Scratch has all of the
+fundamental elements you need, and it&rsquo;s still fun.  Python is
+complete, readily available, and programs can be as easy as BASIC but
+can grow into fully developed object-oriented or even functional
+applications.</p>
+
+<p>It&rsquo;s highly likely I won&rsquo;t even understand what the
+Minecraft-Scratch-Python generation produces as adults, but I&rsquo;m sure
+it will be wonderful!</p>
+
+<p><a href="http://en.wikipedia.org/wiki/BASIC">BASIC</a><br />
+<a href="https://minecraft.net/">Minecraft</a><br />
+<a href="http://scratch.mit.edu/">Scratch</a><br />
+<a href="http://monolith149daily.blogspot.com/2008/10/scratch-programming-for-kids.html">My Scratch Programming blog post, 2008-10-02</a><br />
+<a href="https://www.python.org/">Python</a><br /></p>
+
+<p>P.S.  Yes, I know that there are, in fact, many tools around for kids
+to learn from.  Even Logo and of course BASIC are still around!  They
+just aren&rsquo;t universally present by default on the home computer until
+someone puts them there.</p>
+
+<p>P.P.S.  And it&rsquo;s also true that the Raspberry Pi was intentionally
+created to fill this void with hardware that nearly any kid could
+afford and just hook to their TV and power with their phone charger.
+(You do need a keyboard and mouse).  Not coincidentally, it comes with
+Scratch and Python ready to go and can be configured to boot straight
+into those environments.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Indie Web]]></title>
@@ -939,92 +1112,6 @@ death of successive generations of stars,&rdquo; says Jack W. Sulentic
 (IAA-CSIC). &ldquo;This result is an excellent example of the new
 perspectives on the universe which the new 10 meter-class of
 telescopes such as GTC are yielding,&rdquo; the researcher concludes.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rocket Explodes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes/"/>
-    <updated>2014-10-30T06:16:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
-
-<p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
-
-<p>The Orbital Sciences Antares rocket&hellip;</p>
-
-<blockquote><p>&hellip;flying cargo to the International Space Station
-exploded just 14 seconds after lift-off last night, creating a
-spectacular fireball and shockwave as the fully fuelled rocket crashed
-back down onto its launch pad.</p>
-
-<p>No one was hurt when the uncrewed spacecraft was destroyed, but the
-loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
-Corporation of Dulles, Virginia, to build confidence in its ability to
-supply ISS cargo services to NASA.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The 19-Inch Rack]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack/"/>
-    <updated>2014-10-29T08:31:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/19-in-rack.png" title="" ></p>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 19</a></p>
-
-<p>Last night, while driving home, I stopped at an intersection where
-work was being done on the traffic signals.  Looking at the open
-control box I suddenly realized it was just a 19-inch rack inside the
-silver box.  I think I even saw a network switch in there and a
-surprising number of mounted devices.  That makes sense.</p>
-
-<p>I&rsquo;ve worked around the standard 19-in racks in data centers for a long
-time.  Even before that, when I was in school, it was common for a
-physics lab to have a row of several 19-in racks.  They were usually
-filled with instruments, controllers and maybe even an occasional
-computer though microcomputers, small enough to fit in a rack, were
-just beginning to appear on the scene.</p>
-
-<p>Even large telescopes will have the standard racks mounted right on
-the back of the telescope, like the 120-inch telescope here at the
-Lick Observatory on Mount Hamilton.</p>
-
-<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/lick-120.jpg"></p>
-
-<p>Where did they begin?  An on-line article &ldquo;Audio-Video Equipment
-Racks&rdquo; credits Westinghouse.</p>
-
-<blockquote><p>The origins of rack mounting dates to the days of industrialist George
-Westinghouse way back in 1890. Westinghouse had first designed
-19-inch shelving to house relay gear used in his railroad
-industry. Eventually, early telephone companies also adopted this
-19-inch width.</p></blockquote>
-
-<p>For that reason they are sometimes called &ldquo;relay racks.&rdquo;  Wikipedia
-says the relay rack name came from telephony and then appeared in
-railroad signaling by 1911.</p>
-
-<p>The Electronic Industries Alliance (EIA) &ldquo;standardized them in its
-310-D standard, first published in 1965.&rdquo;  That standard included the
-1.75-in rack space height and the 19-in width (482.6 mm).</p>
-
-<p>Wikipedia says,</p>
-
-<blockquote><p>The 19-inch rack format with rack-units of 1.75 inches and holes
-tapped for 12-24 screws with alternating spacings of 1.25 inches and
-0.5 inch was an established standard by 1934. The EIA standard was
-revised again in 1992 to comply with the 1988 public law 100-418,
-setting the standard U as 44.5mm (15.9mm + 15.9mm + 12.7mm), making
-each &ldquo;U&rdquo; officially 1.752 inches.</p></blockquote>
-
-<p><a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/19-inch_rack.html">19-inch rack</a> at Princeton.edu/~achaney.<br />
-<a href="http://www.practical-home-theater-guide.com/equipment-racks-1.html">Audio-Video Equipment Racks &ndash; Part 1</a> in the Practical Home Theatre Guide.<br />
-<a href="http://en.wikipedia.org/wiki/19-inch_rack">19-in Rack</a> on Wikipedia.</p>
-
-<p><em>Photo credit: US National Oceanic and Atmospheric Administration.<br />
-Lick photo: by the author.</em></p>
 ]]></content>
   </entry>
   
