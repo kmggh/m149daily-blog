@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-18T07:13:32-05:00</updated>
+  <updated>2014-11-19T08:26:14-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sudden Galaxies]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/19/sudden-galaxies/"/>
+    <updated>2014-11-19T08:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/19/sudden-galaxies</id>
+    <content type="html"><![CDATA[<blockquote><p>A team of astronomers using the Subaru Telescope&rsquo;s Suprime-Cam to
+perform the Subaru Ultra-Deep Survey for Lyman-alpha Emitters have
+looked back more than [<em>z=7</em>] to find 7 early galaxies that
+appeared quite suddenly within 700 million years of the Big Bang. The
+team, led by graduate student Akira Konno and Dr. Masami Ouchi
+(Associate Professor at the University of Tokyo&rsquo;s ICRR) was looking
+for a specific kind of galaxy called a Lyman-alpha emitter (LAE), to
+understand the role such galaxies may have played in an event called
+&ldquo;cosmic reionization&rdquo;.</p></blockquote>
+
+<p>The team looked at distant galaxies that primarily emit Lyman-alpha
+radiation, &ldquo;Lyman-alpha emitters&rdquo; or LAE, and saw fewer than expected,
+further back in time.  There&rsquo;s an apparent sudden cutoff at that
+redshift.  The redshift corresponds to a distance and time in history
+that&rsquo;s model dependent.  The standard big bang model would put this at
+about 13.1 billion years and only 700 million years after the big bang
+itself.  The cosmological-history implication is that these galaxies
+&ldquo;suddenly&rdquo; appear.</p>
+
+<p>One thing is pretty certain.  A cosmological redshift of seven
+indicates the universe was about 1/8 it&rsquo;s current size at the time the
+light they observed was emitted.  That&rsquo;s 1 / (<em>z</em> + 1).</p>
+
+<blockquote><p>According to the team&rsquo;s analysis, one reason that LAEs appeared very
+quickly is cosmic reionization. LAEs in the epoch of cosmic
+reionization became darker than the actual luminosity due to the
+presence of the neutral hydrogen fog. In the team&rsquo;s analysis of their
+observations, they suggest the possibility that the neutral fog
+filling the universe was cleared about 13.0 billion years ago and LAEs
+suddenly appeared in sight for the first time.&#8221;</p>
+
+<p>&ldquo;However, there are other possibilities to explain why LAEs appeared
+suddenly,&rdquo; said Dr. Ouchi, who is the principal investigator of this
+program. &ldquo;One is that clumps of neutral hydrogen around LAEs
+disappeared. Another is that LAEs became intrinsically bright. The
+reason of the intrinsic brightening is that the Lyman-alpha emission
+is not efficiently produced by the ionized clouds in a LAE due to the
+significant escape of ionizing photons from the galaxy. In either
+case, our discovery is an important key to understanding cosmic
+reionization and the properties of the LAEs in early universe.&rdquo;</p></blockquote>
+
+<p><a href="http://phys.org/news/2014-11-subaru-telescope-sudden-galaxies-early.html">Subaru Telescope detects sudden appearance of galaxies in the early universe at phys.org</a><br />
+<a href="http://www.icrr.u-tokyo.ac.jp/2014/11/19120001.html">Press release from ICRR</a><br />
+<a href="http://arxiv.org/pdf/1404.6066v2.pdf">PDF of paper &ldquo;Accelerated Evolution Of The Lyα Luminosity Function At z >~ 7 Revealed By The Subaru Ultra-Deep Survey For Lyα Emitters AT z = 7.3&rdquo;</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dark and Stormy]]></title>
@@ -1083,35 +1135,6 @@ with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
 <a href="http://twit.tv/show/security-now">Security Now</a><br />
 <a href="http://twit.tv/show/security-now/424">Episode 424 on SQRL</a><br />
 <a href="http://sqrl.pl/guide/">Sqrl.pl Illustrated Guide</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Are Quasars Dying?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/are-quasars-dying/"/>
-    <updated>2014-10-30T06:26:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/are-quasars-dying</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 20.1</a></p>
-
-<p>From <a href="http://www.dailygalaxy.com/my_weblog/2014/10/are-quasars-dying-at-the-farthest-reaches-of-the-universe.html">The Daily Galaxy</a>.</p>
-
-<blockquote><p>&ldquo;We have been able to confirm that, indeed, apart from the highly
-energetic and rapidly evolving quasars, there is another population
-that evolves slowly. This population of quasars appears to follow the
-quasar main sequence discovered by Sulentic and colleagues in
-2000. There does not even seem to be a strong relation between this
-type of quasars, which we see in our environment and those &lsquo;monsters&rsquo;
-that started to glow more than ten billion years ago&rdquo;, says Ascensión
-del Olmo another IAA-CSIC researcher taking part in the study.</p>
-
-<p>They have, nonetheless, found differences in this population of quiet
-quasars. &ldquo;The local quasars present a higher proportion of heavy
-elements such as aluminium, iron or magnesium, than the distant
-relatives, which most likely reflects enrichment by the birth and
-death of successive generations of stars,&rdquo; says Jack W. Sulentic
-(IAA-CSIC). &ldquo;This result is an excellent example of the new
-perspectives on the universe which the new 10 meter-class of
-telescopes such as GTC are yielding,&rdquo; the researcher concludes.</p></blockquote>
 ]]></content>
   </entry>
   
