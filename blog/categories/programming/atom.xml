@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-11-21T08:24:01-05:00</updated>
+  <updated>2014-12-10T08:03:11-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Go and Swift]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/go-and-swift/"/>
+    <updated>2014-12-10T07:57:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/go-and-swift</id>
+    <content type="html"><![CDATA[<p>Scott Rosenberg writes &ldquo;Code of Ages, Go and Swift take another step
+up the programming-language ladder.&rdquo;</p>
+
+<p><a href="https://medium.com/backchannel/my-computer-language-is-better-than-yours-58d9c9523644">From Medium</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Programming for Kids]]></title>
@@ -253,19 +265,6 @@ than interacting with systems or services that only support Java.</p>
     <content type="html"><![CDATA[<p>I&rsquo;ve been reluctantly learning some Javascript recently.  While
 looking for a good summary of a feature comparison between Python and
 Javascript, I found this blog post by Matt Chisholm, <a href="https://blog.glyphobet.net/essay/2557">A tour of the differences between JavaScript and Python</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Smalltalk runtime in the browser]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/18/smalltalk-runtime-in-the-browser/"/>
-    <updated>2013-08-18T05:33:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/18/smalltalk-runtime-in-the-browser</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/amber.png"></p>
-
-<p>Via <a href="https://twitter.com/HNTweets/status/367911066203729920">@HNTweets</a></p>
-
-<p>Smalltalk runtime in the browser: <a href="http://amber-lang.net/">http://amber-lang.net/</a> Comments: <a href="https://news.ycombinator.com/item?id=6216539">https://news.ycombinator.com/item?id=6216539</a></p>
 ]]></content>
   </entry>
   
