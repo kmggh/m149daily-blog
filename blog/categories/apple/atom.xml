@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-12-10T08:14:08-05:00</updated>
+  <updated>2014-12-21T06:00:34-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Siracusa on Swift]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
+    <updated>2014-12-20T13:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
+    <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
+10.10 article has a nice dive down into some of the details of the new
+Swift language and how it&rsquo;s compiled.  There are some impressive
+features here.</p>
+
+<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
+<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Warning: Don't Lose Your Apple ID Recovery Key]]></title>
@@ -98,57 +113,6 @@ same as in IOS 7.</p>
 <p>From Jason Snell at his new site, Six Colors, &ldquo;<a href="http://sixcolors.com/post/2014/10/apples-ipadmac-event-first-thoughts/">Apple’s iPad/Mac event: First thoughts</a>.&rdquo;</p>
 
 <p>From <a href="http://www.theverge.com/2014/10/16/6989443/apple-ipad-mac-event-8-most-important-things">The Verge, &ldquo;The 8 most important announcements from the Apple iPad and Mac event&rdquo;</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhone After Eight Months]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/06/20/iphone-after-eight-months/"/>
-    <updated>2014-06-20T06:17:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/06/20/iphone-after-eight-months</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20140620_iphone.png"></p>
-
-<p>It&rsquo;s now been eight months since I switched to the iPhone in October
-2012.  The honeymoon is over and I&rsquo;ve been chewing on the green grass
-for a while.  I can say I&rsquo;m just as happy and pleased with the the 5C
-as I was when it was new, maybe even more.</p>
-
-<p>It does everything I need or want it to do.  I have a nice set of apps
-I use daily, a simulation and a game here or there, and generally I
-can find just about anything I need in an app and it all works fine.</p>
-
-<p>I&rsquo;m still using the Gmail and the Google Maps apps for email, maps and
-navigation.  Amazon cloud player was just updated and is still my
-primary music player.  Netflix works fine but I typically use the
-Youtube app for watching videos.</p>
-
-<p>Apple&rsquo;s iMessage works great for texting with images and video with
-the rest of the family and we all have iPhones at this point.</p>
-
-<p>The camera continues to make great pictures, as expected.</p>
-
-<p>Here are some of the most recent apps of significance I&rsquo;ve added.
-Loom was bought by Dropbox who introduced an app called Carousel, so
-I&rsquo;m not using it to automatically upload and archive photos.  Carousel
-is nice as an app but there doesn&rsquo;t seem to be a correspondingly nice
-web interface other then a plain Dropbox folder with a <em>lot</em> of image
-files in it.</p>
-
-<p>I&rsquo;m not a fan of Facebook.  In fact I don&rsquo;t like it much at all.
-However, I have to say that Paper is nicely done, beautiful in some
-ways, but a little quirky sometimes.  I like it many times better than
-the regular Facebook interface because it&rsquo;s fun to use, but I ignore
-the news feed and those other screens.</p>
-
-<p>I&rsquo;ve become interested in trains lately and Trainz Driver is a fun
-simulator.</p>
-
-<p>If you compare the current image of my home screen here to the image I
-<a href="http:/m149daily-blog/blog/2013/10/07/transition-to-the-iphone/">posted back in October 2012</a>, you can see that it hasn&rsquo;t changed much.
-That&rsquo;s screen one and I only use three screens of apps that are about
-&frac12; to 2/3 full.</p>
-
-<p><em>Image: my current iPhone screen one.</em></p>
 ]]></content>
   </entry>
   

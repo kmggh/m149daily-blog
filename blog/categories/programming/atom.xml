@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-12-10T08:14:08-05:00</updated>
+  <updated>2014-12-21T06:00:34-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Siracusa on Swift]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
+    <updated>2014-12-20T13:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
+    <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
+10.10 article has a nice dive down into some of the details of the new
+Swift language and how it&rsquo;s compiled.  There are some impressive
+features here.</p>
+
+<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
+<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Go and Swift]]></title>
@@ -254,17 +269,6 @@ than interacting with systems or services that only support Java.</p>
 
 <p><a href="https://docs.python.org/2/tutorial/">The Python Tutorial</a><br />
 <a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Python vs. Javascript]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/python-vs-javascript/"/>
-    <updated>2014-03-01T14:19:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/python-vs-javascript</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve been reluctantly learning some Javascript recently.  While
-looking for a good summary of a feature comparison between Python and
-Javascript, I found this blog post by Matt Chisholm, <a href="https://blog.glyphobet.net/essay/2557">A tour of the differences between JavaScript and Python</a>.</p>
 ]]></content>
   </entry>
   
