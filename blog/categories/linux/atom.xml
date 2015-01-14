@@ -4,7 +4,7 @@
   <title><![CDATA[Category: linux | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-12-21T06:00:34-05:00</updated>
+  <updated>2015-01-14T08:18:59-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NixOS Linux]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux/"/>
+    <updated>2015-01-14T08:04:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
+approaches there.  Here&rsquo;s my awkward summar.</p>
+
+<ul>
+<li>Packages are immutable, like values in a functional language. Making configuration changes involves generating a new package.</li>
+<li>Each package instance, each version, is stored on the system in it&rsquo;s
+own directory.  Files aren&rsquo;t installed all over the place in /usr/local/lib, /usr/lib, /usr/local/bin, etc.</li>
+<li>Due to the above, aliases are much more important than search paths.</li>
+<li>Also, the dependency tree for a package is very straightforward.</li>
+<li>System configuration is via a functional language and is a single expression in one file.</li>
+<li>So you can easily boot and run any configuration, back out changes, etc.</li>
+</ul>
+
+
+<p>I installed it on a Virtual box VM and played with it briefly.  One of
+the first negative things I noticed was a ps listing.  Since each
+package instance is under a single nixos directory with a directory
+named by a long random hash, and since every running process is in a
+bin directory (or some such) in one of those, the path to any running
+program is a bear.</p>
+
+<p>I pulled down nginx.  That was easy.  But then I went to configure it
+and that&rsquo;s where I came face to face with NixOS' trade off.  You don&rsquo;t
+change files in a package.  As I understand it so far, you add code
+into the single configuration file that essentially edits, in this
+case, the nginx config file in a sort of sed-like way, and produces a
+new package instance that is used.  So a nice and simple config file
+from nginx was turned into a functional language expression that now
+requires me to go learn that language.</p>
+
+<p>I stopped at that point but I&rsquo;m still fascinated by the distribution
+and the ideas there.  There are some nice hard lines and properties of
+cleanliness here.  Once the investment is made in learning the Nix
+config language, it may be straightforward to move on and maintain
+systems.  For a simple server instance this may be something to try.</p>
+
+<p>So, I&rsquo;ll move on with it soon and see how it goes.</p>
+
+<p><a href="http://nixos.org/">Nixos.org</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>

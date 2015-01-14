@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2014-12-21T06:00:34-05:00</updated>
+  <updated>2015-01-14T08:18:59-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,135 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NixOS Linux]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux/"/>
+    <updated>2015-01-14T08:04:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
+approaches there.  Here&rsquo;s my awkward summar.</p>
+
+<ul>
+<li>Packages are immutable, like values in a functional language. Making configuration changes involves generating a new package.</li>
+<li>Each package instance, each version, is stored on the system in it&rsquo;s
+own directory.  Files aren&rsquo;t installed all over the place in /usr/local/lib, /usr/lib, /usr/local/bin, etc.</li>
+<li>Due to the above, aliases are much more important than search paths.</li>
+<li>Also, the dependency tree for a package is very straightforward.</li>
+<li>System configuration is via a functional language and is a single expression in one file.</li>
+<li>So you can easily boot and run any configuration, back out changes, etc.</li>
+</ul>
+
+
+<p>I installed it on a Virtual box VM and played with it briefly.  One of
+the first negative things I noticed was a ps listing.  Since each
+package instance is under a single nixos directory with a directory
+named by a long random hash, and since every running process is in a
+bin directory (or some such) in one of those, the path to any running
+program is a bear.</p>
+
+<p>I pulled down nginx.  That was easy.  But then I went to configure it
+and that&rsquo;s where I came face to face with NixOS&#8217; trade off.  You don&rsquo;t
+change files in a package.  As I understand it so far, you add code
+into the single configuration file that essentially edits, in this
+case, the nginx config file in a sort of sed-like way, and produces a
+new package instance that is used.  So a nice and simple config file
+from nginx was turned into a functional language expression that now
+requires me to go learn that language.</p>
+
+<p>I stopped at that point but I&rsquo;m still fascinated by the distribution
+and the ideas there.  There are some nice hard lines and properties of
+cleanliness here.  Once the investment is made in learning the Nix
+config language, it may be straightforward to move on and maintain
+systems.  For a simple server instance this may be something to try.</p>
+
+<p>So, I&rsquo;ll move on with it soon and see how it goes.</p>
+
+<p><a href="http://nixos.org/">Nixos.org</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bazaar]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar/"/>
+    <updated>2015-01-14T07:33:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar</id>
+    <content type="html"><![CDATA[<p>From looking at my development directories, it appears that it was in
+early 2008 that I moved my personal source code control system from
+CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
+about Bazaar from a coworker, John.  It was Python-based, the system
+used by Canonical for Ubuntu and I found it to work extremely well.
+Since then, for seven years now, I&rsquo;ve used it for my personal version
+management and also as a shadow version control system at work.</p>
+
+<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
+trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
+indications that Bazaar is no longer maintained and may be declining
+as a version control choice.  Maybe it was never that popular.</p>
+
+<p>Lately, Git seems to be the version control system of choice and it is
+the system I use every day for work.  I&rsquo;m wondering if I should start
+using it for my personal work.  The command set and, as they say, &ldquo;the
+workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
+That&rsquo;s probably okay.</p>
+
+<p>I already like it less because, if I want to make a branch of a
+particular version or another branch to work on, there needs to be a
+root branch of sorts, a hub to clone the other branch from.  With
+Bazaar you can just branch any branch, merge changes from it, etc.  So
+now I&rsquo;ll have to make some local hub to clone, push and pull from.
+Yech.  That seems so archaic now.</p>
+
+<p>However, I found this blog post by Jelmer Vernooij who was a primary
+developer of Bazaar.  He basically tells the complete history and also
+how it&rsquo;s finally been abandoned for the most part.  So, I guess I
+should start moving on to git.</p>
+
+<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
+Mercurial which may be worth a look.  Ah well.</p>
+
+<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
+become rare by mid-2011. In early 2012 the members of the Canonical
+Bazaar team were assigned to other projects, though we would still fix
+the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
+
+<p>During my spare time in the first 6 months of 2012 I tried to finish
+my remaining in-progress branches. After that, I thought I would see
+how it would go.</p>
+
+<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
+about it, but Git is a decent source code management system. Bazaar
+isn&rsquo;t going anywhere; no doubt there will be users for a few years to
+come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
+level I was hoping.</p></blockquote>
+
+<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How Intel Gave Stephen Hawking a Voice]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice/"/>
+    <updated>2015-01-14T07:28:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice</id>
+    <content type="html"><![CDATA[<p>From Wired by Joao Medeiros.</p>
+
+<blockquote><p>Hawking is very attached to his voice: in 1988, when Speech Plus gave
+him the new synthesizer, the voice was different so he asked them to
+replace it with the original. His voice had been created in the early
+&lsquo;80s by MIT engineer Dennis Klatt, a pioneer of text-to-speech
+algorithms. He invented the DECtalk, one of the first devices to
+translate text into speech. He initially made three voices, from
+recordings of his wife, daughter and himself. The female’s voice was
+called &ldquo;Beautiful Betty&rdquo;, the child’s &ldquo;Kit the Kid&rdquo;, and the male
+voice, based on his own, &ldquo;Perfect Paul.&rdquo; &ldquo;Perfect Paul&rdquo; is Hawking&rsquo;s
+voice.</p></blockquote>
+
+<p><a href="http://www.wired.com/2015/01/intel-gave-stephen-hawking-voice/">How Intel Gave Stephen Hawking a Voice</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Winter Solstice 2014]]></title>
@@ -656,122 +785,6 @@ exactly 36 minutes it predicted.</p>
 
 <p>I&rsquo;ve not used it too much.  So far, all the apps look and work the
 same as in IOS 7.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers/"/>
-    <updated>2014-11-08T23:41:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 29.1</a></p>
-
-<p>Matt Cutts also has taken on the 30-day blogging challenge.  He&rsquo;s
-doing it for the month of November.</p>
-
-<p><a href="https://www.mattcutts.com/blog/30-day-challenge-write-every-day/">30 day challenge: writing every day</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Text Mode and Auto Fill Mode]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode/"/>
-    <updated>2014-11-08T04:45:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 29</a></p>
-
-<p>I finally did something I&rsquo;ve meant to do for a while.  I configured
-emacs to automatically use text-mode and auto-fill-mode for Markdown
-files.  Markdown files end in either <strong>.markdown</strong> or <strong>.md</strong> in my
-experience so far.  These blog posts are written in Markdown.</p>
-
-<p>Since text-mode and auto-fill-mode weren&rsquo;t automatic, I had to execute
-them manually using <strong>M-x</strong> (that&rsquo;s the ESC key followed by &ldquo;x&rdquo; in
-emacs) everytime I opened one of those files, e.g., to write a blog
-post.</p>
-
-<p>Adding the following lines to my <strong>.emacs</strong> file in the home directory
-fixed this.</p>
-
-<pre><code>;;; Add markdown files to text-mode.
-(add-to-list 'auto-mode-alist '("\\.markdown\\'" . text-mode))
-(add-to-list 'auto-mode-alist '("\\.md\\'" . text-mode))
-
-;;; Make auto-fill-mode the default for text-mode.
-(add-hook 'text-mode-hook 'turn-on-auto-fill)
-</code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Buying a Telescope - Part 4]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/07/buying-a-telescope-part-4/"/>
-    <updated>2014-11-07T05:27:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/07/buying-a-telescope-part-4</id>
-    <content type="html"><![CDATA[<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 28</a></p>
-
-<p>A final thought, but the most important one.</p>
-
-<p>Now I&rsquo;ll tell you the most important secret about telescopes and
-observing, the thing that&rsquo;s more important than the aperture, more
-important than how sturdy the mounting is, and more important than
-portability.</p>
-
-<!-- More -->
-
-
-<p>That thing is experience.  Here are three examples.</p>
-
-<h2>Jupiter</h2>
-
-<p>With my 2.4-inch I independently discovered the planet Jupiter.  I
-pointed my telescope at a bright &ldquo;star&rdquo; rising in the East and found
-it wasn&rsquo;t a tiny, sparkling (due to the atmosphere) point like stars
-but a little, pale, white oval.  Also there were tiny &ldquo;stars&rdquo; on
-either side in a straight line.  They were the Galilean satellites
-discovered by Galileo, Io and Europa (the size of our moon) and
-Ganymede and Callisto (about the size of the planet Mercury).  Jupiter
-itself was the white oval in the middle.</p>
-
-<p>Later, I visited the planetarium and saw Jupiter for the first time in
-a 10-inch telescope.  I could see the dark belts on the cloud surface!
-Now here&rsquo;s the magic.  After that, I could always see the North and
-South Equatorial belts on Jupiter in <em>my</em> telescope.  As my mentor
-would later say, my eye had become educated.</p>
-
-<h2>M33</h2>
-
-<p>In my super-observing 20s I&rsquo;d seen many galaxies but had never
-observed the face-on galaxy in our Local Group, M33.  I&rsquo;d tried many
-times and could point a telescope right there but couldn&rsquo;t see it.
-Galaxies are very dim with a very low surface brightness.  After all,
-notice how hard it is to see our own Milky Way and we&rsquo;re inside of it!
-And M33 was not even at an angle but flat, face-on.</p>
-
-<p>Back then there was this precocious, teenage amateur in the astronomy
-club who could find the galaxy without any trouble.  At one gathering
-in the observatory, he put the 14-inch Celestron on the galaxy and for
-the first time I was able to see it!  From that time on, I had no
-trouble finding and seeing M33.</p>
-
-<h2>The 2.4</h2>
-
-<p>One night, at my parents&#8217; house, when I was in my 20s, I took my old
-2.4-inch telescope out to observe.  By that time, I was an
-experienced, star-hopping, deep-sky observer.  The finder didn&rsquo;t work
-and there was no diagonal and I had to crane my neck and look up
-through the telelscope while sitting on the ground.  I had my old
-Norton&rsquo;s Star Atlas I&rsquo;d bought as a teenager.  With that little, old,
-$30 Sears telescope I was able to find M81 and M82 galaxies in Ursa
-Major, M51 the Whirlpool Galaxy, M1 the Crab Nebula, M27 the Ring
-Nebula, and more!</p>
-
-<h2>The conclusion</h2>
-
-<p>What you see through a telescope has more to do with your personal
-experience than the telescope itself.  That means, to see things, you
-have to use the telescope!  The more you look, the more you&rsquo;ll see.
-That&rsquo;s true in a single night and it&rsquo;s true in a lifetime.</p>
 ]]></content>
   </entry>
   
