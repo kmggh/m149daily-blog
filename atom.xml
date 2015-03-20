@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-01-14T08:18:59-05:00</updated>
+  <updated>2015-03-20T05:22:19-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,236 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
+    <updated>2015-03-20T05:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
+    <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
+answer to this question with a summary of the built-in security
+features of OS X 10.10 and the additional precautions you should take.</p>
+
+<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
+Mac malware in downloaded files, and to block insecure web
+plugins. This feature is transparent to the user. Internally Apple
+calls it &ldquo;XProtect.&rdquo;</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
+built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
+default, applications and Installer packages downloaded from the
+network will only run if they&rsquo;re digitally signed by a developer with
+a certificate issued by Apple. Software certified in this way hasn&rsquo;t
+necessarily been tested by Apple, but you can be reasonably sure that
+it hasn&rsquo;t been modified by anyone other than the developer. His
+identity is known to Apple, so he could be held legally responsible if
+he distributed malware. That may not mean much if the developer lives
+in a country with a weak legal system (see below.)</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
+added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
+background when you update the OS. It checks for, and removes, malware
+that may have evaded the other protections via a Java exploit (see
+below.) MRT also runs when you install or update the Apple-supplied
+Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
+effective against known threats, but not against unknown ones. It
+notifies you if it finds malware, but otherwise there&rsquo;s no user
+interface to MRT.</p></blockquote>
+
+<p>His answer is the third one down.</p>
+
+<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Vernal Equinox]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/happy-vernal-equinox/"/>
+    <updated>2015-03-20T05:00:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/happy-vernal-equinox</id>
+    <content type="html"><![CDATA[<p>Happy vernal equinox, today at 18:45 EDT, 22:45 UTC.</p>
+
+<p>Fri 2015-03-20 18:45:00 -0400<br />
+Fri 2015-03-20 22:45:00 +0000<br /></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Equinox">Equinox</a><br />
+<a href="">Everything you need to know: September equinox</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dealing with Email]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email/"/>
+    <updated>2015-02-23T06:18:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve used email since the beginning of the early days of the
+Internet&rsquo;s explosion in the mid-80s.  It&rsquo;s gone through quite an
+evolution as has my methods of managing what is probably a massive
+flood of incoming information.  Since my methods work pretty well for
+me, I really wouldn&rsquo;t know.</p>
+
+<p>Lately I hear people either discussing how they fight their huge
+battle with email, sometimes winning and sometimes losing, and I&rsquo;m
+struck by how often they seem to miss some techniques I&rsquo;ve taken for granted
+for years now.</p>
+
+<p>In my current job I spend about 20 minutes reading email in the
+morning.  After that, all of the email labels (basically folders if
+that&rsquo;s the paradigm you use) are read, I&rsquo;m at what is sometimes called
+&ldquo;inbox zero.&rdquo;  Throughout the rest of the day, I watch for occasional
+emails from my team and the chain of people I report to.  That&rsquo;s
+basically it.  I never see an email message that I wouldn&rsquo;t want to.</p>
+
+<p>Here are the main techniques that I&rsquo;ve found success in using.</p>
+
+<!-- More -->
+
+
+<h2>Use Gmail</h2>
+
+<p>I&rsquo;ve used Gmail since it came out in 2004, both for personal and work
+email.  In all that time, I&rsquo;ve never deleted an email message.  That
+was an original idea of Gmail, you were never expected to.  Google&rsquo;s
+email service effectively deals with spam so that&rsquo;s immediately out of
+the equation.  I&rsquo;ve barely given a thought to spam in that many
+years. I don&rsquo;t check my spam folder.  There were maybe two times when
+I seemed to be missing a message and I found a false positive in
+there, but that&rsquo;s it.</p>
+
+<p>Some people seem to be mystified by or simply don&rsquo;t like the
+conversation view.  I can&rsquo;t imagine why this is.  It&rsquo;s the most
+effective and logical to view an exchange of messages.  The list of
+&ldquo;messages&rdquo; (actually conversations) in a mailbox is immediately
+shorter, you can see how many are unread by conversation, and the
+snippets show you a bit of context.</p>
+
+<p>I&rsquo;ve used or taken a careful look at most of the email programs,
+interfaces and services over it&rsquo;s history, particularly in roles of
+providing user support and also being a system administrator of email
+servers.  Please take my word for this, conversations in Gmail is the
+best way to read email.</p>
+
+<h2>Use Filters and Labels</h2>
+
+<p>I use lots of filters.  The filters themselves aren&rsquo;t terribly
+complicated.  Usually they either filter by who the email is from (one
+of my bosses), who it&rsquo;s to, typically an email list, e.g., my team,
+and sometimes the subject line.</p>
+
+<p>The filter usually skips the inbox which means the message won&rsquo;t
+appear there.  (Gmail tip:  There is no inbox.  There&rsquo;s nothing but a
+gigantic barrel of all of your email, but you typically view it by
+labels on the email. &ldquo;Inbox&rdquo; is just another label.  So is
+&ldquo;Spam&rdquo;. Etc.)  They usually go into a custom label and may be marked
+as read or not.</p>
+
+<p>When naming labels, I give them names so they are properly sorted in
+the left hand column.  Important filters start with the letter A,
+e.g., &ldquo;A Bosses&rdquo;, &ldquo;A Team&rdquo;, &ldquo;A Project XYZ.&rdquo;  The filters for those
+labels won&rsquo;t be marked as read so I can see how many unread messages
+there are from a boss, my team, on the project.</p>
+
+<p>After that come some less important labels like &ldquo;B Some Other
+Project&rdquo;, &ldquo;B Meeting X&rdquo;, etc.  Those might be unread or they might
+actually be marked as read.  They don&rsquo;t show up as bold with an
+unread count, but I can go look at that &ldquo;pile&rdquo; if I ever need to see
+what&rsquo;s been going on there.  Similarly, there are a few labels
+starting with &ldquo;C&rdquo; that are even farther down on the list.</p>
+
+<p>Below those, and probably off the screen, are labels without a special
+sorting letter in their name.  Usually all of those are marked as read
+(by the filter when the email arrives) and chances are I&rsquo;ll never look
+at them.  This is where things go like chatty notification services
+which is effectively noise.  There maybe tens of thousands of messages
+in these.  If there were some particular kinds of messages in there I
+needed so see, lost in that noise, then that means writing a more
+specific filter to put those messages in a more important label and
+leaving them unread.</p>
+
+<p>Finally, you can set each label to be shown or not.   If you mark it
+as not shown, then it won&rsquo;t even be in the left-hand list  when you
+scroll down.  At the end of the list it says &ldquo;More&rdquo; with a little
+arrow.  You click that to extend the list with the rest of the
+not-shown labels.  If there are labels of mail I don&rsquo;t even care to
+remember the existence of, I don&rsquo;t need to be reminded they are there,
+I put them in that list.  It&rsquo;s like the closet, or maybe even the
+trash heap.</p>
+
+<p>After all of the filtering is done, all that remains in my inbox is
+the general, uncategorized email, that I need to ready on a daily
+basis.  That&rsquo;s reduced down to the 20 or so messages I read each day.</p>
+
+<h2>Read Selectively</h2>
+
+<p>Now I can look at my labels in the morning and see what messages
+are there.  There are maybe 10 labels I read each morning but I don&rsquo;t
+go through each label reading messages one by one.</p>
+
+<p>I read the reporting chain label, team mail, and then typically the
+inbox next.  Note that I&rsquo;ve been a GTD advocate and user for some six
+years, so, of course, I don&rsquo;t spend more than a couple of minutes on a
+message.  If a message is a long read, or requires something to be
+done, I add an item to my Next Actions list, or some appropriate
+list.  I usually put a link back to the message in the action.</p>
+
+<p>(Gmail tip:  You can refer back to any particular conversation/message
+by copying the link from the browser.  That link will always work for
+that message.  I typically just add a word &ldquo;[Email]&rdquo; and link the
+&ldquo;Email&rdquo; part to the message so I can just click on it.)</p>
+
+<p>So I might have one or two new actions.</p>
+
+<p>(Gmail tip:  You can search using the search term &ldquo;label:<label name>
+is:unread&rdquo; to see all of the unread messages in a label.   This also
+works for seeing just the unread messages in your inbox, e.g.,
+&ldquo;label:inbox is:unread&rdquo;.  If I click on a label, the &ldquo;label:<label
+name>&rdquo; is already in the search box (because that&rsquo;s all clicking on a
+label does, it does that search).  Then, clicking in the search box
+drops down the &ldquo;is:unread&rdquo; added to it because it&rsquo;s been used before,
+so no typing is needed.</p>
+
+<p>For some chains, I just flip through the messages quickly to see what
+their content is.  If there&rsquo;s not a need to read it then or maybe
+ever, I don&rsquo;t.  This is different from just marking it as read.  I
+still open and look at each message to be sure I know what it&rsquo;s about.</p>
+
+<p>For some labels, I don&rsquo;t even do that.  I just open the label and look
+at the conversation subjects and snippets.  Often that&rsquo;s enough,
+because this label already represents reduced importance.  Then I just
+check all of the boxes by checking the one box up at the top of the
+list, go to the &ldquo;More&rdquo; menu button and select &ldquo;Mark all as read.&rdquo;
+Done for that label.</p>
+
+<p>For the rest of the day I keep my team&rsquo;s label selected and ignore
+most of the other labels, and the inbox, even though they accumulate
+new, unread messages through the day.  They&rsquo;ll be dealt with next
+morning.</p>
+
+<h2>Concluding</h2>
+
+<p>So, the basic idea is to tune the incoming email so I only see what I
+need to see, and only read what&rsquo;s important.  I&rsquo;ve found that most of
+this tuning can be done in four to six weeks of a new job, then there
+is a decreasing number of tweaks through out six months to a year.
+Beyond that, I only tweak a filter or add a label every three to six
+months probably.</p>
+
+<p>Some readers here may note that Gmail will automatically prioritize
+your messages and even sort it into major categories to help you read
+it.  I&rsquo;ve heard that these seem to work quite well.  I actually turn
+all of those features off since my email handling is already finely
+tuned.</p>
+
+<p>Note what I don&rsquo;t worry about:  mail quotas, deciding what messages to
+delete, organizing folders, spam.  Those are problems more than 10
+years in my past.  I&rsquo;m amazed people still have to battle them on a
+daily basis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NixOS Linux]]></title>
@@ -653,138 +883,6 @@ firmly in the camp: There&rsquo;s no contest here.</p>
 
 <p>So, that makes two items removed from the list of things to have to
 deal with.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blog Stats From 30 Days]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/10/blog-stats-from-30-days/"/>
-    <updated>2014-11-10T06:35:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/10/blog-stats-from-30-days</id>
-    <content type="html"><![CDATA[<p>For what it&rsquo;s worth:</p>
-
-<p>30 days<br />
-39 posts<br />
-10575 words</p>
-
-<p>The words include the blog heading.  That&rsquo;s an average of 271 words
-per post and 1757 characters per post.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[After Blogging for 30 Days]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/10/after-blogging-for-30-days/"/>
-    <updated>2014-11-10T05:17:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/10/after-blogging-for-30-days</id>
-    <content type="html"><![CDATA[<p>Well, It&rsquo;s now day 31 and I&rsquo;ve finished the <a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">30-day challenge</a> to blog for 30
-days.  The original challenge that I read didn&rsquo;t include weekends but I
-went ahead and blogged straight through since there&rsquo;s actually more
-time to write on the weekend than during the week.</p>
-
-<p>I did manage to put a post up every day with the exception of day 23.
-I wrote the day 22 and 23 entries on day 22 using my Kindle HD Fire,
-Draft and Dropbox and didn&rsquo;t actually post them until day 24.  I
-didn&rsquo;t actually do any writing on day 23.  I&rsquo;ll leave it to the 30-day
-blogging judges to decide how to count that.</p>
-
-<p>Some posts were long, some were medium length, some had pictures and
-links, some were only a link, a couple were basically just
-&ldquo;re-tweets.&rdquo;</p>
-
-<p>Reflecting on the experience I&rsquo;m amazed at how short 30 days is.  It
-doesn&rsquo;t seem like there are 30+ posts and it felt like a much shorter
-time.  But then, 30 days, months, years do seem to go by super-fast
-lately.</p>
-
-<p>I enjoyed the freedom of not hesitating to write the short,
-tweet-length posts and then working on the longer ones when I had
-something to say.  I didn&rsquo;t work hard to find pictures to add but only
-used them when I felt they were appropriate or needed.  Just writing
-words was okay and that freedom made it fun and doable.</p>
-
-<p>The thing I liked the least about the experience was the quality of my
-writing which I think is considerably decreased from what it used to
-be.  I could have put more effort into better writing but I was just
-getting some words down.  In essense, I was publishing maybe the
-second draft of what I wrote, but not a &ldquo;final draft.&rdquo;  That was the
-most dissatisfying part.  I got into the habit of writing but maybe
-not writing well or at least better. Maybe that will be the next
-challenge I take on, to write at least as well as I think I used to.</p>
-
-<p>Another result of all of this blogging was a better work flow.  I
-fixed my process by smoothing out lot of friction in the steps I take
-to post.  I wrote a fully-automated script so I can locally publish
-the blog (I actually do proof read entries there, spell check and see
-how they look), and then push the update to public on Github with a
-single command.  I fixed emacs to automatically go into text mode and
-made some changes on Github to make pushing easier.</p>
-
-<p>One of the lessons other bloggers shared as they were doing this
-process was the appropriateness of the mid-length post.  That means
-it&rsquo;s okay to write more than a tweet but less than a long essay.
-That&rsquo;s part of the life-blood of journaling.  Sometimes you just pen a
-brief entry but that&rsquo;s enough to stake out that day.  Being able to go
-beyond 140 characters is a chief advantage that puts blogging above
-tweeting while keeping the ability to write as little as desired.</p>
-
-<p>I&rsquo;ve come to enjoy writing in Markdown even more.  It&rsquo;s simple to use
-and, in the end, I have a completely readable and portable collection
-of text files that aren&rsquo;t tied to a particular platform or site.  I
-can take this site anywhere now.</p>
-
-<p>One down side is that I&rsquo;m running up against the performance of
-Octopress.  At this very point it takes 35 seconds of wall clock time
-to generate the site.  That&rsquo;s not bad but it seems like a long wait in
-computer &ldquo;waiting for a command to finish&rdquo; time.  I think I need to
-look into breaking off the archives into a separate site or section so
-they are generated independently.  Most of the archive, all of it
-really, is static at this point and shouldn&rsquo;t need to be regenerated
-for every post.  However, there would be some tricks in blending it in
-to the main site, e.g., so that search covers the whole site including
-archives.  It might be as simple as a different repo on Github and
-posting it as a separate site with a different name but the exact same
-look and feel.  There&rsquo;s more research, thinking and maybe
-experimenting to do here.</p>
-
-<p>So what next?  I&rsquo;m not going to focus on making sure I post something
-every day.  I think I&rsquo;ll keep blogging more than I was for a while.
-I&rsquo;m definitely going to take advantage of the freedom to blog anyway
-way I wish, long or short, elaborate or trivially simple.  I&rsquo;m going
-to read more blogs by other folks that have taken up the challenge and
-try to benefit from their lessons learned.</p>
-
-<p>When I started the 30 days, I brainstormed a nice long list of post
-ideas in just a few minuts. After managing to cover a lot of them and
-adding ideas through the month, amazingly, the list doesn&rsquo;t seem
-any shorter.  There&rsquo;s still a lot to write about!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[IOS 8.1]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/"/>
-    <updated>2014-11-09T21:53:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20141109_iPhone.jpg"></p>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/10/11/blogging-for-30-days/">Day 30</a></p>
-
-<p>Today I upgraded to IOS 8.1 with no trouble and it&rsquo;s working well so
-far.</p>
-
-<p>I am one of those users who doesn&rsquo;t have the 5-GB or so of space on my
-iPhone to do an over-the-air upgrade.  In spite of that, you can do an
-upgrade without needing the space if you connect your iPhone to your
-Mac (or Windows?) running iTunes and use iTunes to do the upgrade.  It
-does the downloading and expansion of files on your desktop machine
-then installs the upgrade over the USB cable.</p>
-
-<p>The upgrade/install went without any trouble and it took almost
-exactly 36 minutes it predicted.</p>
-
-<p>I&rsquo;ve not used it too much.  So far, all the apps look and work the
-same as in IOS 7.</p>
 ]]></content>
   </entry>
   
