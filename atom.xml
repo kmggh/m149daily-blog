@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-03-20T05:22:19-04:00</updated>
+  <updated>2015-03-23T08:58:19-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,123 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Terrible Technical Interview]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/23/the-terrible-technical-interview/"/>
+    <updated>2015-03-23T08:40:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/23/the-terrible-technical-interview</id>
+    <content type="html"><![CDATA[<p>An article from Tech Crunch by Jon Evans on how bad current interview
+practices are.  It&rsquo;s quite interesting and echoes a lot of my
+coworkers&#8217; and my recent sentiments.</p>
+
+<blockquote><p>Traditional technical interviews are terrible for everyone. They’re a
+bad way for companies to evaluate candidates. They’re a bad way for
+candidates to evaluate companies. They waste time and generate stress
+on both sides. Almost everyone, if pressed, will admit this. And yet
+they persist.</p></blockquote>
+
+<p>His solution:  Every candidate should bring with them a personal side
+project the have done (this assumes a programming project) that they
+can present in detail including code walk throughs and answering
+questions.  The interviewer should be prepared to look at this in lieu
+of asking white board questions and such.  This is a fascinating idea,
+an excellent use of everyone&rsquo;s time, and could really change the whole
+process for the better.  I don&rsquo;t hold a lot of hope this idea would
+ever be widely adopted, if even adopted at all, but maybe.</p>
+
+<p><a href="http://techcrunch.com/2015/03/21/the-terrible-technical-interview/">The Terrible Technical Interview</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gmail Inbox Mistake]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake/"/>
+    <updated>2015-03-23T08:13:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake</id>
+    <content type="html"><![CDATA[<p>Well, that was a mistake.  To a large degree I really like Gmail&rsquo;s new
+Inbox IOS app, and the desktop version doesn&rsquo;t look bad either.  I&rsquo;ve
+used it on a rarely-used account and recently added in anther,
+more-often-used account so I could try out more interaction.  I heard
+someone on a podcast say, It doesn&rsquo;t really affect your regular Gmail
+interface interactions so you can use both at the same time.  That
+seemed to be the case to me, so I thought, okay, I&rsquo;ll just fire it up
+on my main Gmail account.</p>
+
+<p>That was a mistake.</p>
+
+<p>So it does have an effect in a particular way.  I should have seen
+it.  The Gmail model is to treat messages like to do items and mark
+them as &ldquo;Done&rdquo; when you are finished with them, instead of marking
+them as &ldquo;Read.&rdquo;  Marking as &ldquo;Read&rdquo; is still there but it&rsquo;s
+independent.  Of course, &ldquo;Done&rdquo; is yet another label though it doesn&rsquo;t
+show up in the list of labels so maybe it&rsquo;s more a kind of state.
+However, you can search in the regular Gmail for &ldquo;label:done&rdquo; and it
+will find your done messages.  (That&rsquo;s giving away the ending).</p>
+
+<p>With the Inbox app, you can go through and use the little &ldquo;sweep&rdquo;
+icons to sweep away large collections of messages as &ldquo;Done,&rdquo; all in
+one, uh, swoop.  Fortunately, it didn&rsquo;t seem to let me do more than
+one month at a time.  I finally got tired of that, but then went back
+to check the Gmail view.</p>
+
+<p>My mistake was thinking &ldquo;Done&rdquo; in the Inbox app meant &ldquo;mark as Read&rdquo;
+in the Gmail app, which was wrong.  So I&rsquo;d moved hundreds of messages
+out of my Inbox to who knows where.  Well now we all know they no
+longer had the Inbox label and now had the Done label or state.  (And,
+yes, I&rsquo;m now going to stop using the quotes around all of these states
+and labels).  Also, as we all should know, in Gmail, you don&rsquo;t move
+anything but only ever add and remove labels.</p>
+
+<p>Well, that was a big change.  Part of my Gmail organization, written
+about recently, is how I keep some things in the Inbox and some bypass
+it and are only in labels.</p>
+
+<p>Now I&rsquo;d moved the Inbox-only items completely out of site, read or
+unread.</p>
+
+<p>Thinking quickly, too quickly, and acting too quickly, I realized I
+could try the search &ldquo;label:done&rdquo; and find them all.  So I just took
+that list, clicked the upper left box to check all on the screen, then
+checked the little link that always pops up that says, &ldquo;Select all
+messages that match this search&hellip;&rdquo; to select <em>all</em> of the Done
+items.  Then I just added the Inbox label back to them.</p>
+
+<p>Except now I move a lot of messages (again, hundreds) into the Inbox
+that formerly my filter had kept from ever being in the Inbox.  My
+levels of email importance, and the underlying sorting, are something
+like this:</p>
+
+<ul>
+<li>Only in the Inbox</li>
+<li>In the Inbox but with a label</li>
+<li>Only in a label (not in the Inbox)</li>
+<li>Only in a label and marked as read on delivery</li>
+</ul>
+
+
+<p>I should have included that list in my previous post.</p>
+
+<p>I was finally able to mostly clean up this mess by selecting the
+various labels, select all of the messages, which now had the Inbox
+label, and click the Archive operation.  Archive is Gmail-speak for
+special operation that just removes the Inbox label.</p>
+
+<p>I should never have believed that the Inbox app would be harmless and
+wouldn&rsquo;t have some effect on my regular Gmail account.  Gmail
+desperately wants to manage my email for me (to the point of just
+taking it over) and, as much as I really like Gmail and think it&rsquo;s by
+far the best email solution, I have to beat it down hard with a big
+stick every time it raises it&rsquo;s head and tries to attack my email with
+unwanted help.  It&rsquo;s exhausting.</p>
+
+<p>That&rsquo;s a metaphor for Google in general and will probably eventually
+lead, in some large part, to their downfall.</p>
+
+<p>I still like a lot about the Inbox app and it&rsquo;s interface and I&rsquo;ll
+keep experimenting with a much less important account.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
@@ -80,7 +197,7 @@ Fri 2015-03-20 22:45:00 +0000<br /></p>
     <id>http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve used email since the beginning of the early days of the
 Internet&rsquo;s explosion in the mid-80s.  It&rsquo;s gone through quite an
-evolution as has my methods of managing what is probably a massive
+evolution as have my methods of managing what is probably a massive
 flood of incoming information.  Since my methods work pretty well for
 me, I really wouldn&rsquo;t know.</p>
 
@@ -811,78 +928,6 @@ Only We Had Taller Been.&rdquo;</p>
 comet 67P/Churyumov-Gerasimenko.</p>
 
 <p><a href="https://www.youtube.com/watch?v=EBtZjbTDTDk">Youtube Video &ndash; Ray Bradbury &ndash; If Only We Had Taller Been</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rosetta]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta/"/>
-    <updated>2014-11-11T05:12:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/11/rosetta</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/NAVCAM_top_10_at_10_km_3_node_full_image_2.jpg"></p>
-
-<p>From the ESA web site.</p>
-
-<blockquote><p>Rosetta is a cornerstone mission to chase, go into orbit around, and
-land on a comet. It is studying the Jupiter-family comet
-67P/Churyumov-Gerasimenko with a combination of remote sensing and in
-situ measurements. The spacecraft arrived at the comet on 6 August
-2014 following a 10-year journey through the Solar System. Between
-August and November, the spacecraft has been orbiting the comet and
-gathering data to characterise the environment and the comet
-nucleus. On 12 November 2014, Rosetta&rsquo;s lander Philae will be deployed
-to the surface. Philae carries a suite of instruments for imaging and
-sampling the comet nucleus. The Rosetta orbiter will track the comet
-through perihelion (August 2015), examining its behaviour before,
-during and after.</p></blockquote>
-
-<p>[SIC]:  I saw a pronunciation guide for Philae that said &ldquo;fee-lay.&rdquo;
-This is wrong.  The pronunciation rhymes with eye-lee, or &ldquo;highly.&rdquo;
-Whenever you see ae, it rhymes with ee as in leek.  For example,
-Caesar.  And yes, the UNIX-famous word &ldquo;daemon&rdquo; is pronounced
-precisely and exactly like demon. Other pronunciations are wrong.
-(<a href="http://www.merriam-webster.com/dictionary/philae">Merriam-Webster</a>,
-<a href="http://en.wikipedia.org/wiki/Philae">Wikipedia</a>).</p>
-
-<p><a href="http://sci.esa.int/rosetta/">ESA Rosetta Site</a><br />
-<a href="http://sci.esa.int/rosetta/2279-summary/">Summary</a><br />
-<a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Top_10_at_10_km">Top 10 images from 10 km</a><br />
-<a href="http://earthsky.org/space/watch-wednesdays-comet-landing-live-online">EarthSky &ndash; Watch Wednesday’s comet landing live online</a><br /></p>
-
-<p><em>Image: ESA/Rosetta/NAVCAM – CC BY-SA IGO 3.0</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[IOS Reliable Updates]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/10/ios-reliable-updates/"/>
-    <updated>2014-11-10T06:42:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/10/ios-reliable-updates</id>
-    <content type="html"><![CDATA[<p>There are two key reasons that I&rsquo;m overjoyed to have made the switch
-from Android to IOS and the iPhone.</p>
-
-<p>One is the reliability of OS updates.  There&rsquo;s no worrying about
-pure-Google vs. vendor-imposed-UI and junk apps. There&rsquo;s no waiting
-for a vendor to either roll out an update or, more likely, just force
-you to buy a new phone or wait for your cycle to end to get a new
-phone.</p>
-
-<p>The IOS updates are (so far) annual, universal and hassle
-free.  And by hassel free I&rsquo;m referring to the above issues.  It&rsquo;s
-granted there have been hiccups and bugs, but usually they are
-resolved in a reasonable time.  I try to be cautious and wait for a
-minor update or to before diving in.  Thus, I skipped 8.0 and waited
-for 8.1.</p>
-
-<p>The other joy is from the pictures the iPhones make.  There are
-Android phones with better camera specs on paper, and yet, the photos
-are often just not up to par.  My Galaxy Nexus made images that ranged
-from okay to terrible.  When I go back and look at them now, they look
-even worse than I realized.  I know other people disagree but I&rsquo;m
-firmly in the camp: There&rsquo;s no contest here.</p>
-
-<p>So, that makes two items removed from the list of things to have to
-deal with.</p>
 ]]></content>
   </entry>
   
