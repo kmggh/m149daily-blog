@@ -9,7 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Haas devoted his entire life to the study of the Moon and planets. &hellip; At a time when professional astronomers held little regard for amateur &hellip;">
+  <meta name="description" content="The systemd-nspawn command runs a command or OS in a lightweight
+namespace container
+&ldquo;In many ways it is similar to chroot(1), but more &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +85,75 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/04/26/docker-without-docker/">Docker Without Docker</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-04-26T14:08:00-04:00" pubdate data-updated="true">Sun 26 Apr 2015  14:08 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><ul>
+<li><p>The systemd-nspawn command runs a command or OS in a lightweight
+namespace container</p></li>
+<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
+fully virtualizes the file system hierarchy, as well as the process
+tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
+</ul>
+</blockquote>
+
+<p>Trying it out (from the article):</p>
+
+<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
+$ systemd-nspawn -D debian-tree/ /bin/bash 
+$ systemd-nspawn -D debian-tree/ /sbin/init
+</code></pre>
+
+<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
+
+<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
+at the end&rdquo;</p>
+
+<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
+RAM and 200% CPU&rdquo;</p>
+
+<p>&ldquo;Give me a container that has its own private network and its own IP
+and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
+
+<p>&ldquo;Run this container with its own daemons in it, and monitor them to
+make sure they don&rsquo;t fail&rdquo;</p>
+
+<p>&ldquo;Download this container from the Docker Hub and run it every time I
+boot, but without installing Docker&rdquo;</p></blockquote>
+
+<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -700,48 +771,6 @@ voice.</p></blockquote>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/21/happy-winter-solstice-2014/">Happy Winter Solstice 2014</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-21T05:53:00-05:00" pubdate data-updated="true">Sun 21 Dec 2014  05:53 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Happy winter solstice!  The event occurs today 21 Dec 2014 at 18:03
-EST.</p>
-
-<p>Sun 2014-12-21 18:03:00 -0500<br />
-Sun 2014-12-21 23:03:00 +0000<br /></p>
-
-<p><a href="http://www.bbc.com/news/magazine-30549149">Why do mornings still get darker after the winter solstice? from BBC News</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/2/">&larr; Older</a>
@@ -765,6 +794,10 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2015/04/26/docker-without-docker/">Docker Without Docker</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2015/04/18/so-long-walter-h-haas/">So Long Walter H. Haas</a>
       </li>
     
@@ -778,10 +811,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/">Is OS X Yosemite 10.10 Is Safe Without Anti Virus?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2015/03/20/happy-vernal-equinox/">Happy Vernal Equinox</a>
       </li>
     
   </ul>

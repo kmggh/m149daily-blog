@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-04-18T15:18:40-04:00</updated>
+  <updated>2015-04-26T14:17:41-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Docker Without Docker]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker/"/>
+    <updated>2015-04-26T14:08:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker</id>
+    <content type="html"><![CDATA[<blockquote><ul>
+<li><p>The systemd-nspawn command runs a command or OS in a lightweight
+namespace container</p></li>
+<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
+fully virtualizes the file system hierarchy, as well as the process
+tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
+</ul>
+</blockquote>
+
+<p>Trying it out (from the article):</p>
+
+<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
+$ systemd-nspawn -D debian-tree/ /bin/bash 
+$ systemd-nspawn -D debian-tree/ /sbin/init
+</code></pre>
+
+<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
+
+<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
+at the end&rdquo;</p>
+
+<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
+RAM and 200% CPU&rdquo;</p>
+
+<p>&ldquo;Give me a container that has its own private network and its own IP
+and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
+
+<p>&ldquo;Run this container with its own daemons in it, and monitor them to
+make sure they don&rsquo;t fail&rdquo;</p>
+
+<p>&ldquo;Download this container from the Docker Hub and run it every time I
+boot, but without installing Docker&rdquo;</p></blockquote>
+
+<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bazaar]]></title>
@@ -153,25 +195,6 @@ would be roughly a factor of a million (1024<sup>2</sup>), 3 KF approximately a
 billion, etc.</p>
 
 <p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The UNIX Tree]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree/"/>
-    <updated>2013-06-25T23:06:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/the-unix-tree</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130625_Ritchie_Thompson.jpg" title="" ></p>
-
-<blockquote><p>Welcome to the <a href="http://minnie.tuhs.org/cgi-bin/utree.pl">Unix Tree</a>. Here you can browse the source code and
-manuals of various old versions of Unix. For every file, you can
-also find related files from other versions: this can help show how
-the different versions of Unix are related. Most of the Unix
-versions below come from the <a href="http://www.tuhs.org/wiki/Unix_Archive_Sites">Unix Archive</a>.</p></blockquote>
-
-<p><em>Image: Dennis Ritchie and Ken Thompson at a pretty well maxed out DEC
- PDP11 computer and two Teletype model 33 terminals.
- <a href="http://www.flickr.com/photos/9479603@N02/3311745151/">PanelSwitchman at Flickr. CC BY-NC-ND 2.0</a></em></p>
 ]]></content>
   </entry>
   

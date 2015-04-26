@@ -5,13 +5,13 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>The Github Side - Monolith149 Daily</title>
+  <title>Docker Without Docker - Monolith149 Daily</title>
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Day 6 On Day 1 (the same Day 6 link above) I said I&rsquo;d write a script. The
-script is called blog_post.py and is, of course, in Python 2.7.
-When &hellip;">
+  <meta name="description" content="The systemd-nspawn command runs a command or OS in a lightweight
+namespace container
+&ldquo;In many ways it is similar to chroot(1), but more &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +20,7 @@ When &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side">
+  <link rel="canonical" href="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker">
   <link href="/m149daily-blog/favicon.png" rel="icon">
   <link href="/m149daily-blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Monolith149 Daily" type="application/atom+xml">
@@ -88,7 +88,7 @@ When &hellip;">
   
   <header>
     
-      <h1 class="entry-title">The Github Side</h1>
+      <h1 class="entry-title">Docker Without Docker</h1>
     
     
       <p class="meta">
@@ -104,53 +104,47 @@ When &hellip;">
   
 
 
-<time datetime="2014-10-16T06:39:00-04:00" pubdate data-updated="true">Thu 16 Oct 2014  06:39 EDT</time>
+<time datetime="2015-04-26T14:08:00-04:00" pubdate data-updated="true">Sun 26 Apr 2015  14:08 EDT</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 6</a></p>
+<div class="entry-content"><blockquote><ul>
+<li><p>The systemd-nspawn command runs a command or OS in a lightweight
+namespace container</p></li>
+<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
+fully virtualizes the file system hierarchy, as well as the process
+tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
+</ul>
+</blockquote>
 
-<p>On Day 1 (the same Day 6 link above) I said I&rsquo;d write a script.  The
-script is called <strong>blog_post.py</strong> and is, of course, in Python 2.7.
-When I post a blog on Octopress it basically consists of these steps.</p>
+<p>Trying it out (from the article):</p>
 
-<ol>
-<li>Run the <strong>new_post</strong> command to create a file.</li>
-<li>Edit the file to write the post with Emacs, using the Markdown language.</li>
-<li>Save the file.</li>
-<li>Generate the blog with a <strong>generate</strong> command which updates the
-entire static site meaning all of the HTML, CSS, image and other files
-used to create the website.</li>
-<li>Copy all of those files to a Github directory.</li>
-<li>Add, commit and push the Github directory up to Github.</li>
-</ol>
+<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
+$ systemd-nspawn -D debian-tree/ /bin/bash 
+$ systemd-nspawn -D debian-tree/ /sbin/init
+</code></pre>
 
+<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
 
-<p>The script currently handles the first three steps and all I have to
-do is specify the title on the command line.  The remaining steps are
-still manual but I plan to add an automatic version of them, or at
-least a more-automated version, to the script.</p>
+<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
+at the end&rdquo;</p>
 
-<p>For as much posting as I&rsquo;ve been doing lately, making it this much
-more convenient is more important than normal.</p>
+<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
+RAM and 200% CPU&rdquo;</p>
 
-<p>Some of you might point out that much of this automation is already
-built into Octopress.  I think the fact that I want to deviate from
-the out-of-the-box functionality it provide means it&rsquo;s easier just to
-write a program in Python I can maintain rather than learning how to
-hack the Octopress system.</p>
+<p>&ldquo;Give me a container that has its own private network and its own IP
+and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
 
-<p>Speaking of Github, it&rsquo;s the third leg of my switch to Octopress and
-Markdown.  It&rsquo;s turned out to be a great hosting solution.  It&rsquo;s free,
-reliable, and performs well.  Uploading is super efficient, too, of
-course.</p>
+<p>&ldquo;Run this container with its own daemons in it, and monitor them to
+make sure they don&rsquo;t fail&rdquo;</p>
 
-<p><a href="http://octopress.org/">Octopress</a><br />
-<a href="http://daringfireball.net/projects/markdown/">Markdown</a><br />
-<a href="https://pages.github.com/">Github Pages</a></p>
+<p>&ldquo;Download this container from the Docker Hub and run it every time I
+boot, but without installing Docker&rdquo;</p></blockquote>
+
+<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
 </div>
 
 
@@ -173,15 +167,21 @@ course.</p>
   
 
 
-<time datetime="2014-10-16T06:39:00-04:00" pubdate data-updated="true">Thu 16 Oct 2014  06:39 EDT</time>
+<time datetime="2015-04-26T14:08:00-04:00" pubdate data-updated="true">Sun 26 Apr 2015  14:08 EDT</time>
       
+
+<span class="categories">
+  
+    <a class='category' href='/m149daily-blog/blog/categories/computing/'>computing</a>
+  
+</span>
 
 
     </p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side/" data-via="" data-counturl="http://kmggh.github.io/m149daily-blog//blog/2014/10/16/the-github-side/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker/" data-via="" data-counturl="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker/" >Tweet</a>
   
   
   
@@ -190,10 +190,8 @@ course.</p>
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/m149daily-blog/blog/2014/10/15/fear-the-flashlight/" title="Previous Post: Fear the Flashlight?">&laquo; Fear the Flashlight?</a>
+        <a class="basic-alignment left" href="/m149daily-blog/blog/2015/04/18/so-long-walter-h-haas/" title="Previous Post: So Long Walter H. Haas">&laquo; So Long Walter H. Haas</a>
       
-      
-        <a class="basic-alignment right" href="/m149daily-blog/blog/2014/10/17/new-mac-mini/" title="Next Post: New Mac Mini, iPad, and More">New Mac Mini, iPad, and More &raquo;</a>
       
     </p>
   </footer>
