@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-04-26T14:17:41-04:00</updated>
+  <updated>2015-08-02T03:40:24-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blue Moon Definition Was Wrong]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong/"/>
+    <updated>2015-08-02T03:14:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong</id>
+    <content type="html"><![CDATA[<p><em>This is a blog post I published in Mon 2010-11-22 on the previous
+<a href="http://monolith149daily.blogspot.com/2010/11/blue-moon-definition-was-wrong.html">Monolith149 Daily
+Site</a>.</em></p>
+
+<p><em>What does this mean?  According to the &ldquo;new incorrect definition&rdquo; the
+ blue moon was this past week 31 Jul (based on time zone actually) but
+ the next &ldquo;old correct definition&rdquo; blue moon is not actually until 2016-05-21!</em></p>
+
+<p>From a Space.com article by Joe Rao.</p>
+
+<p>I was wrong.  My wife said last night that the moon was a blue moon.
+I said, that&rsquo;s not possible because a blue moon is a second full moon
+in the same month and that couldn&rsquo;t happen on 21 Nov.  It has to
+happen at the very end of a month.  She pointed me at the above
+article that explains it.</p>
+
+<p>The short answer is that the two full moons in a month definition is
+actually erroneous.</p>
+
+<p>Rao notes that Lawrence J. Lafleur, in <em>Sky and Telescope</em> in 1943,
+quotes a 1937 edition of the <em>Maine Farmer&rsquo;s Almanac</em>, stating that a
+blue moon is the rare occurance of four full moons in a season instead
+of three.  The blue moon is the third moon in that season.</p>
+
+<p>The mistake was apparently made by James Hugh Pruett in a 1946 <em>Sky and
+Telescope</em> where he misinterpreted Lafleur&rsquo;s explanation to mean a
+second full moon in a single month.  (See the above article for
+details).</p>
+
+<p>The wrong explanation was propagated by Deborah Byrd in the radio
+program &ldquo;Stardate&rdquo; in 1980 and then the wrong definition, quoting Rao,
+&ldquo;went viral.&rdquo;</p>
+
+<p>It all makes me wonder when I first learned of the
+two-full-moons-in-a-month definition.  I would have thought it was
+long before 1980, but maybe it was after that date.</p>
+
+<p>Well it sort of spoils the whole thing.  Now we&rsquo;ll have to talk about
+old-correct-definition blue moons and new-incorrect-definition blue
+moons and none of them will seem quite right any more.</p>
+
+<p>This would all be a lot simpler if the moon would just actually turn
+blue once in a while.</p>
+
+<p><a href="http://www.space.com/9566-strange-story-sunday-blue-moon.html">The Really Strange Story Behind Sunday&rsquo;s Blue Moon
+by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Docker Without Docker]]></title>
@@ -843,94 +899,6 @@ any pH cleanser.</p></li>
 <li><p>She walked into my office like a centipede with 98 missing legs.</p></li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Programming for Kids]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids/"/>
-    <updated>2014-11-18T06:26:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/programming-for-kids</id>
-    <content type="html"><![CDATA[<p>There&rsquo;s a question that have been worrying many of us for quite a few
-years now.  How will today&rsquo;s kids learn to program?</p>
-
-<p>In the late 70s and 80s many kids were blessed with a microcomputer in
-their home that ran BASIC.  Most folks don&rsquo;t even know or remember
-that the first IBM PC booted straight up into BASIC, just like a
-Commodore 64. That&rsquo;s where they learned to program.  Those BASIC
-computers launched a whole generation of computer programmers.</p>
-
-<!-- More -->
-
-
-<p>But then, as time went on, computers no longer came with BASIC.
-Magazines no longer published programs that you had to type in, line
-by line, hopefully with an input program that gave a little checksum
-for each line to match with the checksum in the original listing.
-I&rsquo;ve thought about this for many years and the topic has been raised
-by others, even on sites like Slashdot over the years.  How will kids
-learn to program?</p>
-
-<p>Java seemed too complex for kids to really latch on to.  There were
-plenty of little learning languages here and there, but they didn&rsquo;t
-just pop up on the family computer when you turned it on&mdash;-someone had
-to go looking for them and install them.</p>
-
-<p>Some people speculated that making web pages might capture the modern
-youth&rsquo;s enthusiasm.  But (at least normal) HTML doesn&rsquo;t have the
-concept of a conditional if-then clause.  I consider that an essential
-element of programming.</p>
-
-<p>I used to think how it would be nice if there was something like a
-world, as in object-oriented MUDs, where you could program little
-objects to do conditional things.  That would be like building a web
-page or something, but you could make things &ldquo;smart&rdquo; so they responded
-to changes in their surroundings or to inputs.</p>
-
-<p>Lately I&rsquo;ve been hearing a pattern.  I&rsquo;ve heard it at least a couple
-of times and I bet it&rsquo;s happening more.  Kids are learning to program
-via the path Minecraft, Scratch, Python.</p>
-
-<p>Minecraft is a game where you can build an program objects.  And it
-does have conditionals!  Nearly every kid seems to be playing
-Minecraft.</p>
-
-<p>Scratch is a wonderful programming language based on clicking little
-objects together that do things.  It&rsquo;s the perfect programming
-paradigm for youngsters.  Scratch was developed at the MIT Media Lab.</p>
-
-<p>Finally, there&rsquo;s Python, which I consider the perfect programming
-language for a majority of purposes including a first real programming
-language.</p>
-
-<p>I think this is the perfect path.  Minecraft is wonderfully engaging
-and pretty much universally present.  Scratch has all of the
-fundamental elements you need, and it&rsquo;s still fun.  Python is
-complete, readily available, and programs can be as easy as BASIC but
-can grow into fully developed object-oriented or even functional
-applications.</p>
-
-<p>It&rsquo;s highly likely I won&rsquo;t even understand what the
-Minecraft-Scratch-Python generation produces as adults, but I&rsquo;m sure
-it will be wonderful!</p>
-
-<p><a href="http://en.wikipedia.org/wiki/BASIC">BASIC</a><br />
-<a href="https://minecraft.net/">Minecraft</a><br />
-<a href="http://scratch.mit.edu/">Scratch</a><br />
-<a href="http://monolith149daily.blogspot.com/2008/10/scratch-programming-for-kids.html">My Scratch Programming blog post, 2008-10-02</a><br />
-<a href="https://www.python.org/">Python</a><br /></p>
-
-<p>P.S.  Yes, I know that there are, in fact, many tools around for kids
-to learn from.  Even Logo and of course BASIC are still around!  They
-just aren&rsquo;t universally present by default on the home computer until
-someone puts them there.</p>
-
-<p>P.P.S.  And it&rsquo;s also true that the Raspberry Pi was intentionally
-created to fill this void with hardware that nearly any kid could
-afford and just hook to their TV and power with their phone charger.
-(You do need a keyboard and mouse).  Not coincidentally, it comes with
-Scratch and Python ready to go and can be configured to boot straight
-into those environments.</p>
 ]]></content>
   </entry>
   
