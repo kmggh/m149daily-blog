@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-08-02T03:40:24-04:00</updated>
+  <updated>2015-10-01T06:12:49-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,84 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <updated>2015-10-01T06:05:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
+we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
+JavaScript performance has become wildly divergent from iOS JavaScript
+performance. And not in a good way.&rdquo;</p>
+
+<p>He says:</p>
+
+<blockquote><p>This is the benchmark most representative of Discourse performance,
+and the absolute best known Android score for this benchmark is right
+at ~400ms on a Samsung Galaxy S6. That doesn&rsquo;t seem too bad until you
+compare..</p>
+
+<p>iPhone 5 → 340ms<br />
+iPhone 5s → 175ms<br />
+iPhone 6 → 140ms<br />
+iPad Air 2 → 120ms<br />
+iPhone 6s → 60-70ms</p>
+
+<p>In a nutshell, the fastest known Android device available today &mdash; and
+there are millions of Android devices much slower than that out there
+&mdash; performs 5× slower than a new iPhone 6s, and a little worse than a
+2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
+
+<p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
+    <updated>2015-09-30T05:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
+    <content type="html"><![CDATA[<p>For some reason, the chat paradigm has become overly popular.  Internet
+relay chat (IRC) was interesting in the mid-90s as a way to
+communicate in an informal, unstructured sense.  However, I can&rsquo;t
+believe it&rsquo;s still so popular.  Then we have Hipchat, Slack and
+others.  What&rsquo;s the deal?</p>
+
+<p>What is the utility of an endless scroll of mixed up and confused,
+uncollated, blended conversations with no good way to determine their
+topics or context?</p>
+
+<p>Maybe it is the valid rebellion against email.  I thought for a while
+that email had reached the end of its usefulness.  However, in my own
+personal quest for a substitute, I&rsquo;ve reluctantly come to the
+conclusion that email is the only workable, reliable solution.</p>
+
+<p>Granted phone text messages are how I normally communicate with my
+family.  Beyond my immediate family, family and friends are all on
+Facebook.  One or two people still seem to use Google+ and, of course,
+most Google employees.</p>
+
+<p>Email has subjects, labels and excellent search.  It accommodates
+messages of any length, including super short.</p>
+
+<p>I do like the idea of minimal email and Google Inbox makes a valiant
+attempt but I expect it to be squashed any minute as is the end of all
+Google services, useful or not, end up.  Ultimately, the native, plain
+old Gmail is actually quite minimal when you really look at it.  Each
+message in a conversation has the names of the people, a picture of
+the sender and the message.  It looks like chat.</p>
+
+<p>One personal change I&rsquo;ve made quietly over the past few months is to
+drop all signatures including just signing my name on email messages.
+The truth is we still have a compulsion to write an email message like
+a letter or office memo, and not like a tweet or chat snippet.  I&rsquo;ll
+still write in complete, hopefully correct, sentences with correct
+spelling.  When corresponding with someone I don&rsquo;t often send email
+to, then I&rsquo;m less familiar and will include my first name or full name
+and maybe even a signature if it&rsquo;s a business message.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blue Moon Definition Was Wrong]]></title>
@@ -762,143 +840,6 @@ science.</p></blockquote>
 <p>There&rsquo;s more to come on this topic and other folks have weighed in.</p>
 
 <p><a href="http://www.smithsonianmag.com/science-nature/would-astronauts-survive-interstellar-trip-through-wormhole-180953269/">Would Astronauts Survive an Interstellar Trip Through a Wormhole?</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sudden Galaxies]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/19/sudden-galaxies/"/>
-    <updated>2014-11-19T08:12:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/19/sudden-galaxies</id>
-    <content type="html"><![CDATA[<blockquote><p>A team of astronomers using the Subaru Telescope&rsquo;s Suprime-Cam to
-perform the Subaru Ultra-Deep Survey for Lyman-alpha Emitters have
-looked back more than [<em>z=7</em>] to find 7 early galaxies that
-appeared quite suddenly within 700 million years of the Big Bang. The
-team, led by graduate student Akira Konno and Dr. Masami Ouchi
-(Associate Professor at the University of Tokyo&rsquo;s ICRR) was looking
-for a specific kind of galaxy called a Lyman-alpha emitter (LAE), to
-understand the role such galaxies may have played in an event called
-&ldquo;cosmic reionization&rdquo;.</p></blockquote>
-
-<p>The team looked at distant galaxies that primarily emit Lyman-alpha
-radiation, &ldquo;Lyman-alpha emitters&rdquo; or LAE, and saw fewer than expected,
-further back in time.  There&rsquo;s an apparent sudden cutoff at that
-redshift.  The redshift corresponds to a distance and time in history
-that&rsquo;s model dependent.  The standard big bang model would put this at
-about 13.1 billion years and only 700 million years after the big bang
-itself.  The cosmological-history implication is that these galaxies
-&ldquo;suddenly&rdquo; appear.</p>
-
-<p>One thing is pretty certain.  A cosmological redshift of seven
-indicates the universe was about 1/8 it&rsquo;s current size at the time the
-light they observed was emitted.  That&rsquo;s 1 / (<em>z</em> + 1).</p>
-
-<blockquote><p>According to the team&rsquo;s analysis, one reason that LAEs appeared very
-quickly is cosmic reionization. LAEs in the epoch of cosmic
-reionization became darker than the actual luminosity due to the
-presence of the neutral hydrogen fog. In the team&rsquo;s analysis of their
-observations, they suggest the possibility that the neutral fog
-filling the universe was cleared about 13.0 billion years ago and LAEs
-suddenly appeared in sight for the first time.&#8221;</p>
-
-<p>&ldquo;However, there are other possibilities to explain why LAEs appeared
-suddenly,&rdquo; said Dr. Ouchi, who is the principal investigator of this
-program. &ldquo;One is that clumps of neutral hydrogen around LAEs
-disappeared. Another is that LAEs became intrinsically bright. The
-reason of the intrinsic brightening is that the Lyman-alpha emission
-is not efficiently produced by the ionized clouds in a LAE due to the
-significant escape of ionizing photons from the galaxy. In either
-case, our discovery is an important key to understanding cosmic
-reionization and the properties of the LAEs in early universe.&rdquo;</p></blockquote>
-
-<p><a href="http://phys.org/news/2014-11-subaru-telescope-sudden-galaxies-early.html">Subaru Telescope detects sudden appearance of galaxies in the early universe at phys.org</a><br />
-<a href="http://www.icrr.u-tokyo.ac.jp/2014/11/19120001.html">Press release from ICRR</a><br />
-<a href="http://arxiv.org/pdf/1404.6066v2.pdf">PDF of paper &ldquo;Accelerated Evolution Of The Lyα Luminosity Function At z >~ 7 Revealed By The Subaru Ultra-Deep Survey For Lyα Emitters AT z = 7.3&rdquo;</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dark and Stormy]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy/"/>
-    <updated>2014-11-18T07:09:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy</id>
-    <content type="html"><![CDATA[<p><em>While looking for earlier posts about kids and programming, I came
-across this from a 2005-02-08 post.  Someone sent this to me and I
-don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
-
-<hr />
-
-<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
-analogies and metaphors found in high school essays:</p>
-
-<ol>
-<li>Her face was a perfect oval, like a circle that had its two sides
-gently compressed by a Thigh Master.</li>
-</ol>
-
-
-<!-- More -->
-
-
-<ol>
-<li><p>His thoughts tumbled in his head, making and breaking alliances
-like underpants in a dryer without Cling Free.</p></li>
-<li><p>He spoke with the wisdom that can only come from experience, like a
-guy who went blind because he looked at a solar eclipse without one of
-those boxes with a pinhole in it and now goes around the country
-speaking at high schools about the dangers of looking at a solar
-eclipse without one of those boxes with a pinhole in it.</p></li>
-<li><p>She grew on him like she was a colony of E. coli and he was
-room-temperature Canadian beef.</p></li>
-<li><p>She had a deep, throaty, genuine laugh, like that sound a dog makes
-just before it throws up.</p></li>
-<li><p>Her vocabulary was as bad as, like, whatever.</p></li>
-<li><p>He was as tall as a six-foot-three-inch tree.</p></li>
-<li><p>The revelation that his marriage of 30 years had disintegrated
-because of his wife&rsquo;s infidelity came as a rude shock, like a
-surcharge at a formerly surcharge-free ATM.</p></li>
-<li><p>The little boat gently drifted across the pond exactly the way a
-bowling
-ball wouldn&rsquo;t.</p></li>
-<li><p>McBride fell 12 stories, hitting the pavement like a Hefty bag
-filled with vegetable soup.</p></li>
-<li><p>From the attic came an unearthly howl. The whole scene had an
-eerie, surreal quality, like when you&rsquo;re on vacation in another city
-and Jeopardy comes on at 7:00 p.m. instead of 7:30.</p></li>
-<li><p>Her hair glistened in the rain like a nose hair after a sneeze.</p></li>
-<li><p>The hailstones leaped from the pavement, just like maggots when
-you fry them in hot grease.</p></li>
-<li><p>Long separated by cruel fate, the star-crossed lovers raced across
-the grassy field toward each other like two freight trains, one having
-left Cleveland at 6:36 p.m. traveling at 55 mph, the other from Topeka
-at 4:19 p.m. at a speed of 35 mph.</p></li>
-<li><p>They lived in a typical suburban neighborhood with picket fences
-that resembled Nancy Kerrigan&rsquo;s teeth.</p></li>
-<li><p>John and Mary had never met. They were like two hummingbirds who
-had also never met.</p></li>
-<li><p>He fell for her like his heart was a mob informant and she was the
-East River.</p></li>
-<li><p>Even in his last years, Grandpappy had a mind like a steel trap,
-only one that had been left out so long, it had rusted shut.</p></li>
-<li><p>Shots rang out, as shots are wont to do.</p></li>
-<li><p>The plan was simple, like my brother-in-law Phil. But unlike Phil,
-this plan just might work.</p></li>
-<li><p>The young fighter had a hungry look, the kind you get from not
-eating for a while.</p></li>
-<li><p>He was as lame as a duck. Not the metaphorical lame duck, either,
-but a real duck that was actually lame, maybe from stepping on a land
-mine or something.</p></li>
-<li><p>The ballerina rose gracefully en pointe and extended one slender
-leg behind her, like a dog at a fire hydrant.</p></li>
-<li><p>It was an American tradition, like fathers chasing kids around
-with power tools.</p></li>
-<li><p>He was deeply in love. When she spoke, he thought he heard bells,
-as if she were a garbage truck backing up.</p></li>
-<li><p>Her eyes were like limpid pools, only they had forgotten to put in
-any pH cleanser.</p></li>
-<li><p>She walked into my office like a centipede with 98 missing legs.</p></li>
-</ol>
-
 ]]></content>
   </entry>
   

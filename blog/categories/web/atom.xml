@@ -4,7 +4,7 @@
   <title><![CDATA[Category: web | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/web/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-08-02T03:40:24-04:00</updated>
+  <updated>2015-10-01T06:12:49-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <updated>2015-10-01T06:05:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
+we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
+JavaScript performance has become wildly divergent from iOS JavaScript
+performance. And not in a good way.&rdquo;</p>
+
+<p>He says:</p>
+
+<blockquote><p>This is the benchmark most representative of Discourse performance,
+and the absolute best known Android score for this benchmark is right
+at ~400ms on a Samsung Galaxy S6. That doesn&rsquo;t seem too bad until you
+compare..</p>
+
+<p>iPhone 5 → 340ms<br />
+iPhone 5s → 175ms<br />
+iPhone 6 → 140ms<br />
+iPad Air 2 → 120ms<br />
+iPhone 6s → 60-70ms</p>
+
+<p>In a nutshell, the fastest known Android device available today &mdash; and
+there are millions of Android devices much slower than that out there
+&mdash; performs 5× slower than a new iPhone 6s, and a little worse than a
+2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
+
+<p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Indie Web]]></title>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: communication | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/communication/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2015-10-01T06:12:49-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
+    <updated>2015-09-30T05:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
+    <content type="html"><![CDATA[<p>For some reason, the chat paradigm has become overly popular.  Internet
+relay chat (IRC) was interesting in the mid-90s as a way to
+communicate in an informal, unstructured sense.  However, I can&rsquo;t
+believe it&rsquo;s still so popular.  Then we have Hipchat, Slack and
+others.  What&rsquo;s the deal?</p>
+
+<p>What is the utility of an endless scroll of mixed up and confused,
+uncollated, blended conversations with no good way to determine their
+topics or context?</p>
+
+<p>Maybe it is the valid rebellion against email.  I thought for a while
+that email had reached the end of its usefulness.  However, in my own
+personal quest for a substitute, I&rsquo;ve reluctantly come to the
+conclusion that email is the only workable, reliable solution.</p>
+
+<p>Granted phone text messages are how I normally communicate with my
+family.  Beyond my immediate family, family and friends are all on
+Facebook.  One or two people still seem to use Google+ and, of course,
+most Google employees.</p>
+
+<p>Email has subjects, labels and excellent search.  It accommodates
+messages of any length, including super short.</p>
+
+<p>I do like the idea of minimal email and Google Inbox makes a valiant
+attempt but I expect it to be squashed any minute as is the end of all
+Google services, useful or not, end up.  Ultimately, the native, plain
+old Gmail is actually quite minimal when you really look at it.  Each
+message in a conversation has the names of the people, a picture of
+the sender and the message.  It looks like chat.</p>
+
+<p>One personal change I&rsquo;ve made quietly over the past few months is to
+drop all signatures including just signing my name on email messages.
+The truth is we still have a compulsion to write an email message like
+a letter or office memo, and not like a tweet or chat snippet.  I&rsquo;ll
+still write in complete, hopefully correct, sentences with correct
+spelling.  When corresponding with someone I don&rsquo;t often send email
+to, then I&rsquo;m less familiar and will include my first name or full name
+and maybe even a signature if it&rsquo;s a business message.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-08-02T03:40:24-04:00</updated>
+  <updated>2015-10-01T06:12:49-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <updated>2015-10-01T06:05:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
+we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
+JavaScript performance has become wildly divergent from iOS JavaScript
+performance. And not in a good way.&rdquo;</p>
+
+<p>He says:</p>
+
+<blockquote><p>This is the benchmark most representative of Discourse performance,
+and the absolute best known Android score for this benchmark is right
+at ~400ms on a Samsung Galaxy S6. That doesn&rsquo;t seem too bad until you
+compare..</p>
+
+<p>iPhone 5 → 340ms<br />
+iPhone 5s → 175ms<br />
+iPhone 6 → 140ms<br />
+iPad Air 2 → 120ms<br />
+iPhone 6s → 60-70ms</p>
+
+<p>In a nutshell, the fastest known Android device available today &mdash; and
+there are millions of Android devices much slower than that out there
+&mdash; performs 5× slower than a new iPhone 6s, and a little worse than a
+2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
+
+<p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bazaar]]></title>
@@ -183,42 +215,6 @@ afford and just hook to their TV and power with their phone charger.
 (You do need a keyboard and mouse).  Not coincidentally, it comes with
 Scratch and Python ready to go and can be configured to boot straight
 into those environments.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Programming Languages]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/28/programming-languages/"/>
-    <updated>2014-10-28T05:27:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/28/programming-languages</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 18</a></p>
-
-<p>I recently made a list of the program&rsquo;s I&rsquo;ve written that I&rsquo;d consider
-my favorites.  Then I made a list of the programming languages I had
-used.  I think the result would qualify as a list of my favorite
-programming languages.</p>
-
-<ul>
-<li>FORTRAN</li>
-<li>BASIC</li>
-<li>SNOBOL</li>
-<li>Pascal</li>
-<li>C</li>
-<li>Objective-C</li>
-<li>Perl</li>
-<li>Python</li>
-</ul>
-
-
-<p>I&rsquo;m pretty sure I&rsquo;ve written more code over the years in Perl and
-Python.  I&rsquo;m not sure which would be in the lead at this point.</p>
-
-<p>Two other languages, Smalltalk and LISP, are languages I really enjoy
-but only in an occasional, recreational sense.  I&rsquo;ve never found either to be
-useful for anything very practical.  However, it&rsquo;s a joy to write pure
-object-oriented code in the wondrous Smalltalk-80-based environment of
-Squeak.  Similarly, it&rsquo;s a thrill to write pure functional programs in
-LISP, using Racket Scheme.</p>
 ]]></content>
   </entry>
   
