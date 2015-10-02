@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-10-01T06:12:49-04:00</updated>
+  <updated>2015-10-02T02:47:08-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Explicit Programming]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming/"/>
+    <updated>2015-10-02T02:44:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming</id>
+    <content type="html"><![CDATA[<p>An excellent article that shows how being more explicit in the code
+makes for programs that are more readable.</p>
+
+<p><a href="https://www.dzombak.com/blog/2014/07/explicit-programming.html">Explicit Programming</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Service Oriented Architecture]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture/"/>
+    <updated>2015-10-02T02:36:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s an interesting article about Uber&rsquo;s use of service oriented
+architecture (SOA).</p>
+
+<blockquote><p>As core domain models grew and new features were introduced, our
+components became tightly coupled, and enforcing encapsulation made
+separation of concerns difficult. Continuous integration turned into a
+liability because deploying the codebase meant deploying everything at
+once. Our engineering team experienced rapid growth and scaling, which
+not only meant handling more requests but also handling a significant
+increase in developer activity. Adding new features, fixing bugs, and
+resolving technical debt all in a single repo became extremely
+difficult. Tribal knowledge was required before attempting to make a
+single change.</p></blockquote>
+
+<p><a href="https://eng.uber.com/soa/">Service-Oriented Architecture: Scaling Our Codebase As We Grow</a></p>
+
+<p><a href="http://martinfowler.com/articles/microservices.html">Microservices</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Service-oriented_architecture">SOA on Wikipedia</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
@@ -767,79 +806,6 @@ you won&rsquo;t lose it.</p>
 <p>This story by Owen Williams makes this point clear.</p>
 
 <p><a href="http://thenextweb.com/apple/2014/12/08/lost-apple-id-learnt-hard-way-careful-two-factor-authentication/">From The Next Web, The dark side of Apple’s two-factor authentication</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Robert Truax - Rocketeer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/05/robert-truax-rocketeer/"/>
-    <updated>2014-12-05T06:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/05/robert-truax-rocketeer</id>
-    <content type="html"><![CDATA[<p>In a time of Richard Branson and Virgin Galactic, along with
-impressive amateur rocketeers and commercial space ventures, we might
-have forgotten about Bob Truax, one of the first commercial, private
-rocket jockeys.</p>
-
-<p>From Wikipedia,</p>
-
-<blockquote><p>Truax also designed the Skycycle X-2, which he unsuccessfully tested
-on April 15, 1972 and June 24, 1973, and which Evel Knievel
-unsuccessfully used at the Snake River Canyon in 1974.</p></blockquote>
-
-<p>And also,</p>
-
-<blockquote><p>The X-3 Volksrocket (other names: Arriba One, Skycycle X-3) was a
-reusable space tourism rocket planned by Robert Truax after Evel
-Knievel provided a $1,000 research grant for a pilot study. Truax
-was looking for volunteers with enough money to help fund the effort
-and who wished to fly aboard his rocket. He got thousands of
-volunteers, but few of them had the financial resources.</p>
-
-<p>The rocket used surplus components and was tested through 1991.</p></blockquote>
-
-<p>There was actually a TV show based on Truax called <em>Salvage 1</em> and
-starring Andy Griffith in 1979.</p>
-
-<p><a href="http://en.wikipedia.org/wiki/Robert_Truax">Wikipedia article on Robert Truax</a>.<br />
-<a href="https://www.youtube.com/watch?v=nuW9bsp3Z2w">Salvage 1 Series Pilot on Youtube</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Can You Cross a Wormhole?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/21/can-you-cross-a-wormhole/"/>
-    <updated>2014-11-21T08:04:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/21/can-you-cross-a-wormhole</id>
-    <content type="html"><![CDATA[<p>Do worm holes even exist?  At Smithsonian.com, Victoria Jaggard
-writes the article &ldquo;Would Astronauts Survive an Interstellar Trip Through a
-Wormhole?&rdquo;</p>
-
-<p>Given the state of current physics the answer is, No.  The idea of
-worm holes has come and gone in the science world, though it never
-quite leaves.  The Kerr metric solution to Einstein&rsquo;s general
-relativity equations applies to &ldquo;rotating&rdquo; black holes and adds new
-twists, however there&rsquo;s still not really a way for humans to get
-through.</p>
-
-<p>Just like crossing an event horizon is beyond the edge of our
-universe, these ideas are beyond the edge of our science.  Of course
-we don&rsquo;t know everything and I have no doubt there are amazing things
-still to be discovered.  I&rsquo;d never say it can&rsquo;t happen, just that we
-don&rsquo;t have a good mechanism in our current astrophysics toolbox unless
-we toss in a little magic.  Just like it is with faster-than-light
-travel.</p>
-
-<blockquote><p>Despite his ties to the film, [cosmologist Kip] Thorne is also
-pessimistic that a traversable wormhole is even possible, much less
-survivable. &ldquo;If they can exist, I doubt very much that they can form
-naturally in the astrophysical universe,&rdquo; he writes in the book. But
-Thorne appreciates that Christopher and Jonah Nolan, who wrote
-Interstellar, were so keen to tell a story that is grounded in
-science.</p></blockquote>
-
-<p>There&rsquo;s more to come on this topic and other folks have weighed in.</p>
-
-<p><a href="http://www.smithsonianmag.com/science-nature/would-astronauts-survive-interstellar-trip-through-wormhole-180953269/">Would Astronauts Survive an Interstellar Trip Through a Wormhole?</a><br /></p>
 ]]></content>
   </entry>
   
