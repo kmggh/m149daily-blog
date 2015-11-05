@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-10-02T02:47:08-04:00</updated>
+  <updated>2015-11-05T07:38:36-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,199 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress Blogging: How Its Going]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going/"/>
+    <updated>2015-11-05T07:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going</id>
+    <content type="html"><![CDATA[<p>Well, it&rsquo;s been since 2013-06-08, a little less than 2 &frac12; years,
+since I moved my blogging platform and workflow to Markdown &ndash;
+Octopress &ndash; Github, with a Python program I wrote to handle most of
+the process.  I guess I should also state explicitly that I&rsquo;m actually
+writing in GNU Emacs.</p>
+
+<p>For the most part I&rsquo;m really happy with the workflow and tools but I
+still go through periods where I just don&rsquo;t blog much.  I often
+collect links and ideas but never sit down and write about them or
+even simply do the &ldquo;tweet-length&rdquo; post.  There are a few barriers to
+my blogging and it seems to take something that pushes me over that
+wall to get me started again.  Last year it was Gina Trapani writing
+about the 30 day blogging challenge that was going around.  Today it&rsquo;s
+Ihnatko&rsquo;s mention of getting back into it with his redisovery of
+MarsEdit which really simplified his workflow.</p>
+
+<!-- More -->
+
+
+<h2>Here are the good parts</h2>
+
+<p>Writing in emacs is great.</p>
+
+<p>My program-driven workflow is quite effective. I just run
+&ldquo;blog_post.py&rdquo; with the proper arguments.  It handles moving files
+around and running the right programs and tools.</p>
+
+<p>I really like having all of my content in Markdown.  That was really
+one of the goals in the first place, to have my writing in
+transportable, somewhat long-living files that could be easily read
+even in their original format.</p>
+
+<p>The blog looks great though it is quite monochromatic and may be due
+for an overhaul of some sort.</p>
+
+<p>It&rsquo;s important that I own and control all of my content.  I&rsquo;m not
+posting it on someone else&rsquo;s site.</p>
+
+<h2>Then the worst parts</h2>
+
+<p>Right now my workflow is a three-phased affair.</p>
+
+<ol>
+<li>Write a post file in Markdown.</li>
+<li>Generate the content and publish it on my local server for review.</li>
+<li>Push to the public blog hosted on Github.</li>
+</ol>
+
+
+<p>The writing part is great but the generate phase, with the size of the
+blog what it is now with 154 posts (including this one), takes around
+50 seconds.</p>
+
+<p>One way to mitigate this is to split off a separate, static archive
+blog with older posts.  I think taking it up through 2014 and letting
+the &ldquo;live&rdquo; version begin with 2015 would do the trick.  With a link to
+the old Archive on the main blog, it should be sort of seamless.</p>
+
+<p>This might affect searching some, though.</p>
+
+<p>I have trouble writing the short posts.  I tend to be verbose.  I st
+there and think more, write more.  Then I have to proof my writing,
+then review the locally published version, go back and fix errors, and
+even include links (which I now put at the bottom) and occasionally
+even a picture.</p>
+
+<p>When a picture I check the rights and try to give proper credit.</p>
+
+<p>So all of that amounts to what I might set out to do in maybe 10
+minutes becomes an hour and and half of bloging.   Is that a bad
+thing?  Maybe not, but it adds to the barrier.</p>
+
+<p>Also, my blogging isn&rsquo;t portable.  If I&rsquo;m not at home where the server
+is that I actually write the markdown on, then I can&rsquo;t blog.  Well, to
+be fair, of course I can <em>write</em> if I&rsquo;m away from home but I can&rsquo;t
+publish.</p>
+
+<p>I could mitigate this if I moved the blogging onto a publicly
+accessible machine but then I have the problem of backing up the
+files, etc.</p>
+
+<p>I&rsquo;ve started using Dropbox a little bit for writing files (another
+blog post) and I suppose I could write my files there which would make
+them accessible from anywhere.  Then, back on the ranch, I could do
+the publishing phase.</p>
+
+<p>After all, the blog is already publich so having it there on Dropbox
+shouldn&rsquo;t be that big a deal.</p>
+
+<p>But then, writing a file on <em>any</em> place and pulling it in later isn&rsquo;t
+that hard.</p>
+
+<h2>Next Steps</h2>
+
+<p>I&rsquo;m at least going to look into splitting off the archive.   I&rsquo;ll
+start it and then later on I can migrate more posts onto it.  Maybe
+past the year-back mark.</p>
+
+<p>I&rsquo;ll think more about putting the files on Dropbox though I&rsquo;m not sure
+there&rsquo;s a big push to do this since I can always move the files into
+my source directory later if I&rsquo;m away from home.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perfect Blogging Interface]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface/"/>
+    <updated>2015-11-05T06:58:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface</id>
+    <content type="html"><![CDATA[<p>I like what Andy Ihnatko wrote in his post &ldquo;Life On MarsEdit&rdquo; about
+his conception of the perfect blogging interface.</p>
+
+<blockquote><p>What I really want is a system-wide hotkey. No matter where I am or
+what I’m doing, tapping it causes a little note card window to pop
+up. I type a few sentences, maybe click a Twitter-style icon button to
+drop in a photo or paste in a link (which the app automatically grabs
+from the frontmost browser window), click the “Post” button, and then
+I’m back to what I was doing before I had this brilliant idea for a
+quick post.</p></blockquote>
+
+<p>Blogging as easy as tweeting.  That makes perfect sense.</p>
+
+<p><a href="http://ihnatko.com/2015/11/01/life-on-marsedit/">Life On MarsEdit</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More Short and Medium Length Blogging]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging/"/>
+    <updated>2015-11-05T06:34:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging</id>
+    <content type="html"><![CDATA[<p>Okay, fine, Andy Ihnatko has me spun up again about blogging more with
+his disucussion on this week&rsquo;s Macbreak Weekly about blogging more
+again and rediscovering MarsEdit  He refers to Jason Snell&rsquo;s Six
+Colors, John Gruber&rsquo;s Daring Fireball and Jim Dalrymple&rsquo;s The Loop.
+Even Leo said he was doing the same thing on his rejuvenated Leoville.</p>
+
+<p>Okay, I&rsquo;ll try kicking it up a notch, but maybe it&rsquo;s also time to
+reflect on my setup with Markdown &ndash; Octopress &ndash; Github pages.</p>
+
+<p><a href="https://twit.tv/shows/macbreak-weekly/episodes/479">Macbreak Weekly #479</a><br />
+<a href="http://ihnatko.com/">Andy Ihnatko&rsquo;s Celestial Waste of Bandwidth</a><br />
+<a href="https://sixcolors.com/">Six Colors</a><br />
+<a href="http://www.loopinsight.com/">The Loop</a><br />
+<a href="http://www.leoville.com/">Leoville</a><br />
+<a href="http://daringfireball.net/">Daring Fireball</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome OS and Android Merge]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge/"/>
+    <updated>2015-11-05T06:31:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge</id>
+    <content type="html"><![CDATA[<p>I think John Gruber of Daring Fireball said it best.  &ldquo;I think this
+was inevitable. Android can (and does) run Chrome. Chrome can’t run
+Android. And the browser-based web is decreasing in importance.&rdquo;</p>
+
+<p><a href="http://daringfireball.net/linked/2015/11/02/chromeos-to-fold">WSJ: &ldquo;Google to Fold Chrome Operating System Into Android&rdquo;</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kilogram Conflict Resolved at Last]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last/"/>
+    <updated>2015-10-14T00:39:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last</id>
+    <content type="html"><![CDATA[<blockquote><p>For decades, metrologists have strived to retire ‘Le Grand K’ — the
+platinum and iridium cylinder that for 126 years has defined the
+kilogram from a high-security vault outside Paris. Now it looks as if
+they at last have the data needed to replace the cylinder with a
+definition based on mathematical constants.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>One method, pioneered by an international team known as the Avogadro
+Project, involves counting the atoms in two silicon-28 spheres that
+each weigh the same as the reference kilogram. This allows them to
+calculate a value for Avogadro’s constant, which the researchers
+convert into a value for Planck’s constant. Another method uses a
+device called a watt balance to produce a value for Planck’s constant
+by weighing a test mass calibrated according to the reference kilogram
+against an eletromagnetic force.</p></blockquote>
+
+<p><a href="http://www.nature.com/news/kilogram-conflict-resolved-at-last-1.18550">Kilogram Conflict Resolved at Last</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Explicit Programming]]></title>
@@ -736,76 +929,6 @@ voice, based on his own, &ldquo;Perfect Paul.&rdquo; &ldquo;Perfect Paul&rdquo; 
 voice.</p></blockquote>
 
 <p><a href="http://www.wired.com/2015/01/intel-gave-stephen-hawking-voice/">How Intel Gave Stephen Hawking a Voice</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Winter Solstice 2014]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/21/happy-winter-solstice-2014/"/>
-    <updated>2014-12-21T05:53:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/21/happy-winter-solstice-2014</id>
-    <content type="html"><![CDATA[<p>Happy winter solstice!  The event occurs today 21 Dec 2014 at 18:03
-EST.</p>
-
-<p>Sun 2014-12-21 18:03:00 -0500<br />
-Sun 2014-12-21 23:03:00 +0000<br /></p>
-
-<p><a href="http://www.bbc.com/news/magazine-30549149">Why do mornings still get darker after the winter solstice? from BBC News</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Siracusa on Swift]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
-    <updated>2014-12-20T13:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
-    <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
-10.10 article has a nice dive down into some of the details of the new
-Swift language and how it&rsquo;s compiled.  There are some impressive
-features here.</p>
-
-<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
-<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Buying a Telescope]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope/"/>
-    <updated>2014-12-10T08:00:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope</id>
-    <content type="html"><![CDATA[<p>In November, during the 30-day blog challenge, I wrote a series of
-posts on buying a telescope.  With slight editing, I&rsquo;ve combined them
-into a single document which also has a link in the menu up top.</p>
-
-<p><a href="http://10.0.0.23/m149daily-blog/telescope/">Buying a Telescope</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Go and Swift]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/go-and-swift/"/>
-    <updated>2014-12-10T07:57:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/go-and-swift</id>
-    <content type="html"><![CDATA[<p>Scott Rosenberg writes &ldquo;Code of Ages, Go and Swift take another step
-up the programming-language ladder.&rdquo;</p>
-
-<p><a href="https://medium.com/backchannel/my-computer-language-is-better-than-yours-58d9c9523644">From Medium</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Warning: Don't Lose Your Apple ID Recovery Key]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/apple-id-recovery-key/"/>
-    <updated>2014-12-10T07:51:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/apple-id-recovery-key</id>
-    <content type="html"><![CDATA[<p>Setting up two-factor authentication is a good idea, but it&rsquo;s
-important to carefully save your recovery key in a safe place where
-you won&rsquo;t lose it.</p>
-
-<p>This story by Owen Williams makes this point clear.</p>
-
-<p><a href="http://thenextweb.com/apple/2014/12/08/lost-apple-id-learnt-hard-way-careful-two-factor-authentication/">From The Next Web, The dark side of Apple’s two-factor authentication</a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,336 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Octopress Blogging: How Its Going - Monolith149 Daily</title>
+  <meta name="author" content="Ken Guyton">
+
+  
+  <meta name="description" content="Well, it&rsquo;s been since 2013-06-08, a little less than 2 &frac12; years,
+since I moved my blogging platform and workflow to Markdown &ndash; &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going">
+  <link href="/m149daily-blog/favicon.png" rel="icon">
+  <link href="/m149daily-blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Monolith149 Daily" type="application/atom+xml">
+  <script src="/m149daily-blog/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/m149daily-blog/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Lato:regular,italic,bold,bolditalic,medium" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-42103463-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/m149daily-blog/">Monolith149 Daily</a></h1>
+  
+    <h2>Another place to see what KG is doing...</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:kmggh.github.io/m149daily-blog/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/m149daily-blog/">Blog</a></li>
+  <li><a href="/m149daily-blog/blog/archives">Archives</a></li>
+  <li><a href="/m149daily-blog/about/">About</a></li>
+  <li><a href="/m149daily-blog/favorites/">Favorites</a></li>
+  <li><a href="/m149daily-blog/telescope/">Telescope</a></li>
+  <li><a href="/m149daily-blog/copyright">Copyright</a></li>
+  <li><a href="/m149daily-blog/atom.xml">RSS</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Octopress Blogging: How Its Going</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-11-05T07:02:00-05:00" pubdate data-updated="true">Thu  5 Nov 2015  07:02 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Well, it&rsquo;s been since 2013-06-08, a little less than 2 &frac12; years,
+since I moved my blogging platform and workflow to Markdown &ndash;
+Octopress &ndash; Github, with a Python program I wrote to handle most of
+the process.  I guess I should also state explicitly that I&rsquo;m actually
+writing in GNU Emacs.</p>
+
+<p>For the most part I&rsquo;m really happy with the workflow and tools but I
+still go through periods where I just don&rsquo;t blog much.  I often
+collect links and ideas but never sit down and write about them or
+even simply do the &ldquo;tweet-length&rdquo; post.  There are a few barriers to
+my blogging and it seems to take something that pushes me over that
+wall to get me started again.  Last year it was Gina Trapani writing
+about the 30 day blogging challenge that was going around.  Today it&rsquo;s
+Ihnatko&rsquo;s mention of getting back into it with his redisovery of
+MarsEdit which really simplified his workflow.</p>
+
+<!-- More -->
+
+
+<h2>Here are the good parts</h2>
+
+<p>Writing in emacs is great.</p>
+
+<p>My program-driven workflow is quite effective. I just run
+&ldquo;blog_post.py&rdquo; with the proper arguments.  It handles moving files
+around and running the right programs and tools.</p>
+
+<p>I really like having all of my content in Markdown.  That was really
+one of the goals in the first place, to have my writing in
+transportable, somewhat long-living files that could be easily read
+even in their original format.</p>
+
+<p>The blog looks great though it is quite monochromatic and may be due
+for an overhaul of some sort.</p>
+
+<p>It&rsquo;s important that I own and control all of my content.  I&rsquo;m not
+posting it on someone else&rsquo;s site.</p>
+
+<h2>Then the worst parts</h2>
+
+<p>Right now my workflow is a three-phased affair.</p>
+
+<ol>
+<li>Write a post file in Markdown.</li>
+<li>Generate the content and publish it on my local server for review.</li>
+<li>Push to the public blog hosted on Github.</li>
+</ol>
+
+
+<p>The writing part is great but the generate phase, with the size of the
+blog what it is now with 154 posts (including this one), takes around
+50 seconds.</p>
+
+<p>One way to mitigate this is to split off a separate, static archive
+blog with older posts.  I think taking it up through 2014 and letting
+the &ldquo;live&rdquo; version begin with 2015 would do the trick.  With a link to
+the old Archive on the main blog, it should be sort of seamless.</p>
+
+<p>This might affect searching some, though.</p>
+
+<p>I have trouble writing the short posts.  I tend to be verbose.  I st
+there and think more, write more.  Then I have to proof my writing,
+then review the locally published version, go back and fix errors, and
+even include links (which I now put at the bottom) and occasionally
+even a picture.</p>
+
+<p>When a picture I check the rights and try to give proper credit.</p>
+
+<p>So all of that amounts to what I might set out to do in maybe 10
+minutes becomes an hour and and half of bloging.   Is that a bad
+thing?  Maybe not, but it adds to the barrier.</p>
+
+<p>Also, my blogging isn&rsquo;t portable.  If I&rsquo;m not at home where the server
+is that I actually write the markdown on, then I can&rsquo;t blog.  Well, to
+be fair, of course I can <em>write</em> if I&rsquo;m away from home but I can&rsquo;t
+publish.</p>
+
+<p>I could mitigate this if I moved the blogging onto a publicly
+accessible machine but then I have the problem of backing up the
+files, etc.</p>
+
+<p>I&rsquo;ve started using Dropbox a little bit for writing files (another
+blog post) and I suppose I could write my files there which would make
+them accessible from anywhere.  Then, back on the ranch, I could do
+the publishing phase.</p>
+
+<p>After all, the blog is already publich so having it there on Dropbox
+shouldn&rsquo;t be that big a deal.</p>
+
+<p>But then, writing a file on <em>any</em> place and pulling it in later isn&rsquo;t
+that hard.</p>
+
+<h2>Next Steps</h2>
+
+<p>I&rsquo;m at least going to look into splitting off the archive.   I&rsquo;ll
+start it and then later on I can migrate more posts onto it.  Maybe
+past the year-back mark.</p>
+
+<p>I&rsquo;ll think more about putting the files on Dropbox though I&rsquo;m not sure
+there&rsquo;s a big push to do this since I can always move the files into
+my source directory later if I&rsquo;m away from home.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Ken Guyton</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-11-05T07:02:00-05:00" pubdate data-updated="true">Thu  5 Nov 2015  07:02 EST</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/m149daily-blog/blog/categories/blogging/'>blogging</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going/" data-via="" data-counturl="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/m149daily-blog/blog/2015/11/05/perfect-blogging-interface/" title="Previous Post: Perfect Blogging Interface">&laquo; Perfect Blogging Interface</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/05/octopres-blogging-how-its-going/">Octopress Blogging: How Its Going</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/05/perfect-blogging-interface/">Perfect Blogging Interface</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/05/more-short-and-medium-length-blogging/">More Short and Medium Length Blogging</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/05/chrome-os-and-android-merge/">Chrome OS and Android Merge</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/10/14/kilogram-conflict-resolved-at-last/">Kilogram Conflict Resolved at Last</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2015 - Ken Guyton All Rights Reserved -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

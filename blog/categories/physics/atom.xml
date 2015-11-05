@@ -4,7 +4,7 @@
   <title><![CDATA[Category: physics | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/physics/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-10-02T02:47:08-04:00</updated>
+  <updated>2015-11-05T07:38:36-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kilogram Conflict Resolved at Last]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last/"/>
+    <updated>2015-10-14T00:39:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last</id>
+    <content type="html"><![CDATA[<blockquote><p>For decades, metrologists have strived to retire ‘Le Grand K’ — the
+platinum and iridium cylinder that for 126 years has defined the
+kilogram from a high-security vault outside Paris. Now it looks as if
+they at last have the data needed to replace the cylinder with a
+definition based on mathematical constants.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>One method, pioneered by an international team known as the Avogadro
+Project, involves counting the atoms in two silicon-28 spheres that
+each weigh the same as the reference kilogram. This allows them to
+calculate a value for Avogadro’s constant, which the researchers
+convert into a value for Planck’s constant. Another method uses a
+device called a watt balance to produce a value for Planck’s constant
+by weighing a test mass calibrated according to the reference kilogram
+against an eletromagnetic force.</p></blockquote>
+
+<p><a href="http://www.nature.com/news/kilogram-conflict-resolved-at-last-1.18550">Kilogram Conflict Resolved at Last</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gravity]]></title>

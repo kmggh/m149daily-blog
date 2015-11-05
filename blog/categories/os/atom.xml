@@ -4,7 +4,7 @@
   <title><![CDATA[Category: os | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/os/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-10-02T02:47:08-04:00</updated>
+  <updated>2015-11-05T07:38:36-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome OS and Android Merge]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge/"/>
+    <updated>2015-11-05T06:31:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge</id>
+    <content type="html"><![CDATA[<p>I think John Gruber of Daring Fireball said it best.  &ldquo;I think this
+was inevitable. Android can (and does) run Chrome. Chrome can’t run
+Android. And the browser-based web is decreasing in importance.&rdquo;</p>
+
+<p><a href="http://daringfireball.net/linked/2015/11/02/chromeos-to-fold">WSJ: &ldquo;Google to Fold Chrome Operating System Into Android&rdquo;</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NixOS Linux]]></title>

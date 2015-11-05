@@ -4,7 +4,7 @@
   <title><![CDATA[Category: google | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/google/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-10-02T02:47:08-04:00</updated>
+  <updated>2015-11-05T07:38:36-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome OS and Android Merge]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge/"/>
+    <updated>2015-11-05T06:31:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge</id>
+    <content type="html"><![CDATA[<p>I think John Gruber of Daring Fireball said it best.  &ldquo;I think this
+was inevitable. Android can (and does) run Chrome. Chrome can’t run
+Android. And the browser-based web is decreasing in importance.&rdquo;</p>
+
+<p><a href="http://daringfireball.net/linked/2015/11/02/chromeos-to-fold">WSJ: &ldquo;Google to Fold Chrome Operating System Into Android&rdquo;</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gmail Inbox Mistake]]></title>
@@ -212,29 +225,6 @@ tabs open.  (This is <em>not</em> a careful test).</p>
 
 <p>In this case, Chrome is using 621 MB (612 KF2) of real memory
 vs. Opera&rsquo;s 458 MB (458 KF2).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Opera vs. Chrome?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome/"/>
-    <updated>2013-08-14T07:28:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/14/opera-vs-chrome</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Opera-icon-high-res.png"></p>
-
-<p>Chrome has gotten so slow and uses so much memory.  I downloaded the
-lastest Opera this morning and tried it on Gmail and Picasaweb.  It
-was much faster and left a lot more free memory!  When composing a
-message in Gmail I didn&rsquo;t notice any loss of functionality.</p>
-
-<p>Chrome was so fast and a joy to use when it was new.  What has
-happened to Chrome?  And why?</p>
-
-<p>[<em>Update Sat 2013-08-17 05:19:34 -0400: Just to be clear, I haven&rsquo;t
-actually switched to using Opera.  I still use Chrome as my primary
-browser. However, as a minimalist, I like simple, clean and fast.
-I&rsquo;ll give Chrome a &ldquo;clean,&rdquo; but I don&rsquo;t think it&rsquo;s simple or fast
-now.</em>]</p>
 ]]></content>
   </entry>
   
