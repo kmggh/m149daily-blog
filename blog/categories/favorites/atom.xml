@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: favorites | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/favorites/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2015-11-09T03:48:15-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[More Short and Medium Length Blogging]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging/"/>
+    <updated>2015-11-05T06:34:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging</id>
+    <content type="html"><![CDATA[<p>Okay, fine, Andy Ihnatko has me spun up again about blogging more with
+his disucussion on this week&rsquo;s Macbreak Weekly about blogging more
+again and rediscovering MarsEdit  He refers to Jason Snell&rsquo;s Six
+Colors, John Gruber&rsquo;s Daring Fireball and Jim Dalrymple&rsquo;s The Loop.
+Even Leo said he was doing the same thing on his rejuvenated Leoville.</p>
+
+<p>Okay, I&rsquo;ll try kicking it up a notch, but maybe it&rsquo;s also time to
+reflect on my setup with Markdown &ndash; Octopress &ndash; Github pages.</p>
+
+<p><a href="https://twit.tv/shows/macbreak-weekly/episodes/479">Macbreak Weekly #479</a><br />
+<a href="http://ihnatko.com/">Andy Ihnatko&rsquo;s Celestial Waste of Bandwidth</a><br />
+<a href="https://sixcolors.com/">Six Colors</a><br />
+<a href="http://www.loopinsight.com/">The Loop</a><br />
+<a href="http://www.leoville.com/">Leoville</a><br />
+<a href="http://daringfireball.net/">Daring Fireball</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ray Bradbury - If Only We Had Taller Been]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/12/ray-bradbury/"/>
+    <updated>2014-11-12T23:31:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/12/ray-bradbury</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/ray_bradbury.png" title="" ></p>
+
+<p>On 12 November 1971, exactly 43 years ago, Ray Bradbury spoke to an
+audience at the Jet Propulsion Laboratory on the eve of Mariner 9
+arriving at Mars.  On stage with him were Arthur C. Clarke, Carl
+Sagan, Bruce Murray, and Walter Sullivan.  Bradbury read his poem, &ldquo;If
+Only We Had Taller Been.&rdquo;</p>
+
+<p>Today, on 12 November 2014, the Philae spacecraft &ldquo;docked&rdquo; with the
+comet 67P/Churyumov-Gerasimenko.</p>
+
+<p><a href="https://www.youtube.com/watch?v=EBtZjbTDTDk">Youtube Video &ndash; Ray Bradbury &ndash; If Only We Had Taller Been</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The 19-Inch Rack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack/"/>
+    <updated>2014-10-29T08:31:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/19-in-rack.png" title="" ></p>
+
+<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 19</a></p>
+
+<p>Last night, while driving home, I stopped at an intersection where
+work was being done on the traffic signals.  Looking at the open
+control box I suddenly realized it was just a 19-inch rack inside the
+silver box.  I think I even saw a network switch in there and a
+surprising number of mounted devices.  That makes sense.</p>
+
+<p>I&rsquo;ve worked around the standard 19-in racks in data centers for a long
+time.  Even before that, when I was in school, it was common for a
+physics lab to have a row of several 19-in racks.  They were usually
+filled with instruments, controllers and maybe even an occasional
+computer though microcomputers, small enough to fit in a rack, were
+just beginning to appear on the scene.</p>
+
+<p>Even large telescopes will have the standard racks mounted right on
+the back of the telescope, like the 120-inch telescope here at the
+Lick Observatory on Mount Hamilton.</p>
+
+<p><img class="center" src="/postimages/lick-120.jpg"></p>
+
+<p>Where did they begin?  An on-line article &ldquo;Audio-Video Equipment
+Racks&rdquo; credits Westinghouse.</p>
+
+<blockquote><p>The origins of rack mounting dates to the days of industrialist George
+Westinghouse way back in 1890. Westinghouse had first designed
+19-inch shelving to house relay gear used in his railroad
+industry. Eventually, early telephone companies also adopted this
+19-inch width.</p></blockquote>
+
+<p>For that reason they are sometimes called &ldquo;relay racks.&rdquo;  Wikipedia
+says the relay rack name came from telephony and then appeared in
+railroad signaling by 1911.</p>
+
+<p>The Electronic Industries Alliance (EIA) &ldquo;standardized them in its
+310-D standard, first published in 1965.&rdquo;  That standard included the
+1.75-in rack space height and the 19-in width (482.6 mm).</p>
+
+<p>Wikipedia says,</p>
+
+<blockquote><p>The 19-inch rack format with rack-units of 1.75 inches and holes
+tapped for 12-24 screws with alternating spacings of 1.25 inches and
+0.5 inch was an established standard by 1934. The EIA standard was
+revised again in 1992 to comply with the 1988 public law 100-418,
+setting the standard U as 44.5mm (15.9mm + 15.9mm + 12.7mm), making
+each &ldquo;U&rdquo; officially 1.752 inches.</p></blockquote>
+
+<p><a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/19-inch_rack.html">19-inch rack</a> at Princeton.edu/~achaney.<br />
+<a href="http://www.practical-home-theater-guide.com/equipment-racks-1.html">Audio-Video Equipment Racks &ndash; Part 1</a> in the Practical Home Theatre Guide.<br />
+<a href="http://en.wikipedia.org/wiki/19-inch_rack">19-in Rack</a> on Wikipedia.</p>
+
+<p><em>Photo credit: US National Oceanic and Atmospheric Administration.<br />
+Lick photo: by the author.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Short Form Blogging]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging/"/>
+    <updated>2014-10-21T08:12:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging</id>
+    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 11.1</a></p>
+
+<p>Gina Trapani&rsquo;s post on <a href="http://scribbling.net/2014/10/16/short-form-blogging/">Short Form Blogging</a> on Scribbling.net precisely
+captures my own current approach to blogging almost perfectly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Great Divide]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide/"/>
+    <updated>2014-10-18T11:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/dark_site_map.png"></p>
+
+<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 8</a></p>
+
+<p>Recently some article about an upcoming astronomical event, I don&rsquo;t
+recall which one, referred to the web site
+<a href="http://darksitefinder.com/">darksitefinder.com</a> and the typical light
+pollution maps there.  The maps illustrate the light being emitted
+from the earth, mostly man-made, light that is strongly reflected back
+from the atmosphere that illuminates the night sky, obscuring the view
+of distant, astronomical objects.  But I noticed something that hadn&rsquo;t
+caught my eye before.</p>
+
+<!-- More -->
+
+
+<p>There was a very distinct line separating densely populated areas from
+the eastern continental United States from the west.  Sure, I know the
+West is more sparsely populated, at least until you get to the West
+Coast, but I didn&rsquo;t know the dividing line dropped off so sharply.
+The illumination levels correlate pretty well with population so this
+is population density we&rsquo;re seeing here in nearly all cases.</p>
+
+<p>The drop off edge doesn&rsquo;t quite match anything I can think of.  It&rsquo;s
+not aligned with the Mississippi or any river really, or other
+geologic feature, or a shift in climate or moisture.  There are cases
+of all of those near the line but they don&rsquo;t quite match.  Some don&rsquo;t
+match by a long shot.  I wondered if it might be a major north-south
+railway that the last wall of cities there lies along.  That might be
+but then you&rsquo;d still have to ask why the railroad ran along that
+line.</p>
+
+<p>There&rsquo;s no historical boundary that corresponds either, that I&rsquo;ve been
+able to find so far.</p>
+
+<p>There must be something going on here.  Some global characteristic of
+the continental U.S. that&rsquo;s larger than the growth and development of
+little independent population centers.  A sharp line like that doesn&rsquo;t
+imply independence.  (To be clear, I mean in the mathematical, process
+sense).</p>
+
+<p><img class="center" src="/postimages/darksite_close.png"></p>
+
+<p>I&rsquo;m also fascinated by the rectangle of cities that Atlanta lies
+in. The shape of Atlanta&rsquo;s light blob reveals the three fingers of
+growth to the north along the I-75, Georgia 400, and I-85 corridors.</p>
+
+<p>The bottom side of the rectangle is Montgomery, Columbus, Macon, and
+Augusta.  The top side is Huntsville, Chattanooga, and Asheville.
+Huntsville, Birmingham, and Montgomery make the west edge.  Asheville,
+Greenville-Spartanburg, and Augusta make the east edge.</p>
+
+<p>Knoxville is almost part of the northern edge but is stretched up
+north, because it follows I-75 I think.</p>
+
+<p>The population flow from Atlanta to Greenville-Spartanburg, Charlotte,
+Greensboro, and Raleigh-Durham is fairly prominent.</p>
+
+<p>You can also see the dark skies (the blue area) of Eastern Georgia
+between Atlanta and Augusta.  That&rsquo;s the location both of Georgia
+State&rsquo;s Hard Labor Creek observatory and the Deer Lick Astronomy
+Village.  In sad contrast, notice how little dark sky is left in the
+North Georgia Mountains north of Atlanta.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-05T07:38:36-05:00</updated>
+  <updated>2015-11-09T03:48:15-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -31,7 +31,7 @@ even simply do the &ldquo;tweet-length&rdquo; post.  There are a few barriers to
 my blogging and it seems to take something that pushes me over that
 wall to get me started again.  Last year it was Gina Trapani writing
 about the 30 day blogging challenge that was going around.  Today it&rsquo;s
-Ihnatko&rsquo;s mention of getting back into it with his redisovery of
+Ihnatko&rsquo;s mention of getting back into it with his rediscovery of
 MarsEdit which really simplified his workflow.</p>
 
 <!-- More -->
@@ -39,22 +39,24 @@ MarsEdit which really simplified his workflow.</p>
 
 <h2>Here are the good parts</h2>
 
-<p>Writing in emacs is great.</p>
+<p>Writing in Emacs is great since that&rsquo;s my preferred editor.</p>
 
 <p>My program-driven workflow is quite effective. I just run
-&ldquo;blog_post.py&rdquo; with the proper arguments.  It handles moving files
+&ldquo;blog_post.py&rdquo; with the proper arguments and it handles moving files
 around and running the right programs and tools.</p>
 
-<p>I really like having all of my content in Markdown.  That was really
-one of the goals in the first place, to have my writing in
-transportable, somewhat long-living files that could be easily read
-even in their original format.</p>
+<p>I like having all of my content in Markdown.  That was really one of
+the goals in the first place, to have my writing in transportable,
+somewhat long-living files that could be easily read even in their
+original format.</p>
 
 <p>The blog looks great though it is quite monochromatic and may be due
 for an overhaul of some sort.</p>
 
 <p>It&rsquo;s important that I own and control all of my content.  I&rsquo;m not
-posting it on someone else&rsquo;s site.</p>
+posting it on someone else&rsquo;s blog site.  Okay, granted, I <em>am</em> posting it
+on Github&rsquo;s site but the Markdown source remains on my own computer
+under my control.</p>
 
 <h2>Then the worst parts</h2>
 
@@ -67,27 +69,27 @@ posting it on someone else&rsquo;s site.</p>
 </ol>
 
 
-<p>The writing part is great but the generate phase, with the size of the
-blog what it is now with 154 posts (including this one), takes around
-50 seconds.</p>
+<p>The writing part is great but the generate phase, especially given the
+current size of the blog what it is now with 154 posts including this
+one, takes around 50 seconds.</p>
 
 <p>One way to mitigate this is to split off a separate, static archive
 blog with older posts.  I think taking it up through 2014 and letting
 the &ldquo;live&rdquo; version begin with 2015 would do the trick.  With a link to
-the old Archive on the main blog, it should be sort of seamless.</p>
+the old Archive on the main blog, it should be sort of seamless.  This
+would affect searching some, though.</p>
 
-<p>This might affect searching some, though.</p>
+<p>I have trouble writing the short posts since I have a tendcy to be
+verbose.  I sit there, think more, and write more.  Then I have to
+proof read the post, review the locally published version, go back
+and fix errors, even include links (which I now put at the bottom),
+and occasionally add a picture.</p>
 
-<p>I have trouble writing the short posts.  I tend to be verbose.  I st
-there and think more, write more.  Then I have to proof my writing,
-then review the locally published version, go back and fix errors, and
-even include links (which I now put at the bottom) and occasionally
-even a picture.</p>
-
-<p>When a picture I check the rights and try to give proper credit.</p>
+<p>When posting a picture I check the rights and make sure that proper
+credit is given.</p>
 
 <p>So all of that amounts to what I might set out to do in maybe 10
-minutes becomes an hour and and half of bloging.   Is that a bad
+minutes becomes an hour and and half of blogging.   Is that a bad
 thing?  Maybe not, but it adds to the barrier.</p>
 
 <p>Also, my blogging isn&rsquo;t portable.  If I&rsquo;m not at home where the server
@@ -102,19 +104,18 @@ files, etc.</p>
 <p>I&rsquo;ve started using Dropbox a little bit for writing files (another
 blog post) and I suppose I could write my files there which would make
 them accessible from anywhere.  Then, back on the ranch, I could do
-the publishing phase.</p>
+the publishing phase.  After all, the blog is already public so having
+it there on Dropbox shouldn&rsquo;t be that big a deal.</p>
 
-<p>After all, the blog is already publich so having it there on Dropbox
-shouldn&rsquo;t be that big a deal.</p>
-
-<p>But then, writing a file on <em>any</em> place and pulling it in later isn&rsquo;t
+<p>But then, writing a file in <em>any</em> place and pulling it in later isn&rsquo;t
 that hard.</p>
 
 <h2>Next Steps</h2>
 
-<p>I&rsquo;m at least going to look into splitting off the archive.   I&rsquo;ll
-start it and then later on I can migrate more posts onto it.  Maybe
-past the year-back mark.</p>
+<p>I&rsquo;m at least going to look into splitting off the archive.  I&rsquo;ll start
+the split-off blog and then later on I can migrate more posts onto it.
+Maybe a good plact to split is a little more than a year back, say 1
+&frac12; years?</p>
 
 <p>I&rsquo;ll think more about putting the files on Dropbox though I&rsquo;m not sure
 there&rsquo;s a big push to do this since I can always move the files into
