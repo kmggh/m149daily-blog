@@ -4,7 +4,7 @@
   <title><![CDATA[Category: os | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/os/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-09T03:48:15-05:00</updated>
+  <updated>2015-11-14T21:47:08-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[KeyKOS The Nanokernel]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel/"/>
+    <updated>2015-11-14T21:44:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t recall ever having heard of this operating system.  The ideas
+sound quite interesting and nice.  There&rsquo;s a lot I have imagined in
+here.</p>
+
+<p>From the abstract:</p>
+
+<blockquote><p>The KeyKOS nanokernel is a capability-based object-oriented operating
+system that has been in production use since 1983. Its original
+implementation was motivated by the need to provide security,
+reliability, and 24-hour availability for applications on the Tymnet®
+hosts. Requirements included the ability to run multiple
+instantiations of several operating systems on a single hardware
+system. KeyKOS was implemented on the System/370, and has since been
+ported to the 680x0 and 88x00 processor families. Implementations of
+EDX, RPS, VM, MVS, and UNIX® have been constructed. The nanokernel is
+approximately 20,000 lines of C code, including capability,
+checkpoint, and virtual memory support. The nanokernel itself can run
+in less than 100 Kilobytes of memory.</p>
+
+<p>KeyKOS is characterized by a small set of powerful and highly
+optimized primitives that allow it to achieve performance competitive
+with the macrokernel operating systems that it replaces. Objects are
+exclusively invoked through protected capabilities, supporting high
+levels of security and intervals between failures in excess of one
+year. Messages between agents may contain both capabilities and
+data. Checkpoints at tunable intervals provide system-wide backup,
+fail-over support, and system restart times typically less than 30
+seconds. In addition, a journaling mechanism provides support for
+high-performance transaction processing. On restart, all processes are
+restored to their exact state at the time of checkpoint, including
+registers and virtual memory.</p></blockquote>
+
+<p><a href="http://www.cis.upenn.edu/~KeyKOS/NanoKernel/NanoKernel.html">The KeyKOS Nanokernel Architecture</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chrome OS and Android Merge]]></title>

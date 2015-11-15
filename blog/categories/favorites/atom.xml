@@ -4,7 +4,7 @@
   <title><![CDATA[Category: favorites | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/favorites/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-09T03:48:15-05:00</updated>
+  <updated>2015-11-14T21:47:08-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -37,168 +37,201 @@ reflect on my setup with Markdown &ndash; Octopress &ndash; Github pages.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Ray Bradbury - If Only We Had Taller Been]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/12/ray-bradbury/"/>
-    <updated>2014-11-12T23:31:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/12/ray-bradbury</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/ray_bradbury.png" title="" ></p>
+    <title type="html"><![CDATA[Blue Moon Definition Was Wrong]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong/"/>
+    <updated>2015-08-02T03:14:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong</id>
+    <content type="html"><![CDATA[<p><em>This is a blog post I published in Mon 2010-11-22 on the previous
+<a href="http://monolith149daily.blogspot.com/2010/11/blue-moon-definition-was-wrong.html">Monolith149 Daily
+Site</a>.</em></p>
 
-<p>On 12 November 1971, exactly 43 years ago, Ray Bradbury spoke to an
-audience at the Jet Propulsion Laboratory on the eve of Mariner 9
-arriving at Mars.  On stage with him were Arthur C. Clarke, Carl
-Sagan, Bruce Murray, and Walter Sullivan.  Bradbury read his poem, &ldquo;If
-Only We Had Taller Been.&rdquo;</p>
+<p><em>What does this mean?  According to the &ldquo;new incorrect definition&rdquo; the
+ blue moon was this past week 31 Jul (based on time zone actually) but
+ the next &ldquo;old correct definition&rdquo; blue moon is not actually until 2016-05-21!</em></p>
 
-<p>Today, on 12 November 2014, the Philae spacecraft &ldquo;docked&rdquo; with the
-comet 67P/Churyumov-Gerasimenko.</p>
+<p>From a Space.com article by Joe Rao.</p>
 
-<p><a href="https://www.youtube.com/watch?v=EBtZjbTDTDk">Youtube Video &ndash; Ray Bradbury &ndash; If Only We Had Taller Been</a></p>
+<p>I was wrong.  My wife said last night that the moon was a blue moon.
+I said, that&rsquo;s not possible because a blue moon is a second full moon
+in the same month and that couldn&rsquo;t happen on 21 Nov.  It has to
+happen at the very end of a month.  She pointed me at the above
+article that explains it.</p>
+
+<p>The short answer is that the two full moons in a month definition is
+actually erroneous.</p>
+
+<p>Rao notes that Lawrence J. Lafleur, in <em>Sky and Telescope</em> in 1943,
+quotes a 1937 edition of the <em>Maine Farmer&rsquo;s Almanac</em>, stating that a
+blue moon is the rare occurance of four full moons in a season instead
+of three.  The blue moon is the third moon in that season.</p>
+
+<p>The mistake was apparently made by James Hugh Pruett in a 1946 <em>Sky and
+Telescope</em> where he misinterpreted Lafleur&rsquo;s explanation to mean a
+second full moon in a single month.  (See the above article for
+details).</p>
+
+<p>The wrong explanation was propagated by Deborah Byrd in the radio
+program &ldquo;Stardate&rdquo; in 1980 and then the wrong definition, quoting Rao,
+&ldquo;went viral.&rdquo;</p>
+
+<p>It all makes me wonder when I first learned of the
+two-full-moons-in-a-month definition.  I would have thought it was
+long before 1980, but maybe it was after that date.</p>
+
+<p>Well it sort of spoils the whole thing.  Now we&rsquo;ll have to talk about
+old-correct-definition blue moons and new-incorrect-definition blue
+moons and none of them will seem quite right any more.</p>
+
+<p>This would all be a lot simpler if the moon would just actually turn
+blue once in a while.</p>
+
+<p><a href="http://www.space.com/9566-strange-story-sunday-blue-moon.html">The Really Strange Story Behind Sunday&rsquo;s Blue Moon
+by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The 19-Inch Rack]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack/"/>
-    <updated>2014-10-29T08:31:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/19-in-rack.png" title="" ></p>
+    <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
+    <updated>2015-03-20T05:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
+    <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
+answer to this question with a summary of the built-in security
+features of OS X 10.10 and the additional precautions you should take.</p>
 
-<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 19</a></p>
+<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
+Mac malware in downloaded files, and to block insecure web
+plugins. This feature is transparent to the user. Internally Apple
+calls it &ldquo;XProtect.&rdquo;</p></blockquote>
 
-<p>Last night, while driving home, I stopped at an intersection where
-work was being done on the traffic signals.  Looking at the open
-control box I suddenly realized it was just a 19-inch rack inside the
-silver box.  I think I even saw a network switch in there and a
-surprising number of mounted devices.  That makes sense.</p>
+<p>&hellip;</p>
 
-<p>I&rsquo;ve worked around the standard 19-in racks in data centers for a long
-time.  Even before that, when I was in school, it was common for a
-physics lab to have a row of several 19-in racks.  They were usually
-filled with instruments, controllers and maybe even an occasional
-computer though microcomputers, small enough to fit in a rack, were
-just beginning to appear on the scene.</p>
+<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
+built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
+default, applications and Installer packages downloaded from the
+network will only run if they&rsquo;re digitally signed by a developer with
+a certificate issued by Apple. Software certified in this way hasn&rsquo;t
+necessarily been tested by Apple, but you can be reasonably sure that
+it hasn&rsquo;t been modified by anyone other than the developer. His
+identity is known to Apple, so he could be held legally responsible if
+he distributed malware. That may not mean much if the developer lives
+in a country with a weak legal system (see below.)</p></blockquote>
 
-<p>Even large telescopes will have the standard racks mounted right on
-the back of the telescope, like the 120-inch telescope here at the
-Lick Observatory on Mount Hamilton.</p>
+<p>&hellip;</p>
 
-<p><img class="center" src="/postimages/lick-120.jpg"></p>
+<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
+added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
+background when you update the OS. It checks for, and removes, malware
+that may have evaded the other protections via a Java exploit (see
+below.) MRT also runs when you install or update the Apple-supplied
+Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
+effective against known threats, but not against unknown ones. It
+notifies you if it finds malware, but otherwise there&rsquo;s no user
+interface to MRT.</p></blockquote>
 
-<p>Where did they begin?  An on-line article &ldquo;Audio-Video Equipment
-Racks&rdquo; credits Westinghouse.</p>
+<p>His answer is the third one down.</p>
 
-<blockquote><p>The origins of rack mounting dates to the days of industrialist George
-Westinghouse way back in 1890. Westinghouse had first designed
-19-inch shelving to house relay gear used in his railroad
-industry. Eventually, early telephone companies also adopted this
-19-inch width.</p></blockquote>
-
-<p>For that reason they are sometimes called &ldquo;relay racks.&rdquo;  Wikipedia
-says the relay rack name came from telephony and then appeared in
-railroad signaling by 1911.</p>
-
-<p>The Electronic Industries Alliance (EIA) &ldquo;standardized them in its
-310-D standard, first published in 1965.&rdquo;  That standard included the
-1.75-in rack space height and the 19-in width (482.6 mm).</p>
-
-<p>Wikipedia says,</p>
-
-<blockquote><p>The 19-inch rack format with rack-units of 1.75 inches and holes
-tapped for 12-24 screws with alternating spacings of 1.25 inches and
-0.5 inch was an established standard by 1934. The EIA standard was
-revised again in 1992 to comply with the 1988 public law 100-418,
-setting the standard U as 44.5mm (15.9mm + 15.9mm + 12.7mm), making
-each &ldquo;U&rdquo; officially 1.752 inches.</p></blockquote>
-
-<p><a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/19-inch_rack.html">19-inch rack</a> at Princeton.edu/~achaney.<br />
-<a href="http://www.practical-home-theater-guide.com/equipment-racks-1.html">Audio-Video Equipment Racks &ndash; Part 1</a> in the Practical Home Theatre Guide.<br />
-<a href="http://en.wikipedia.org/wiki/19-inch_rack">19-in Rack</a> on Wikipedia.</p>
-
-<p><em>Photo credit: US National Oceanic and Atmospheric Administration.<br />
-Lick photo: by the author.</em></p>
+<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Short Form Blogging]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging/"/>
-    <updated>2014-10-21T08:12:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/21/short-form-blogging</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 11.1</a></p>
+    <title type="html"><![CDATA[Buying a Telescope]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope/"/>
+    <updated>2014-12-10T08:00:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope</id>
+    <content type="html"><![CDATA[<p>In November, during the 30-day blog challenge, I wrote a series of
+posts on buying a telescope.  With slight editing, I&rsquo;ve combined them
+into a single document which also has a link in the menu up top.</p>
 
-<p>Gina Trapani&rsquo;s post on <a href="http://scribbling.net/2014/10/16/short-form-blogging/">Short Form Blogging</a> on Scribbling.net precisely
-captures my own current approach to blogging almost perfectly.</p>
+<p><a href="http://10.0.0.23/m149daily-blog/telescope/">Buying a Telescope</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The Great Divide]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide/"/>
-    <updated>2014-10-18T11:02:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/18/the-great-divide</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/dark_site_map.png"></p>
+    <title type="html"><![CDATA[Dark and Stormy]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy/"/>
+    <updated>2014-11-18T07:09:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy</id>
+    <content type="html"><![CDATA[<p><em>While looking for earlier posts about kids and programming, I came
+across this from a 2005-02-08 post.  Someone sent this to me and I
+don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
 
-<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 8</a></p>
+<hr />
 
-<p>Recently some article about an upcoming astronomical event, I don&rsquo;t
-recall which one, referred to the web site
-<a href="http://darksitefinder.com/">darksitefinder.com</a> and the typical light
-pollution maps there.  The maps illustrate the light being emitted
-from the earth, mostly man-made, light that is strongly reflected back
-from the atmosphere that illuminates the night sky, obscuring the view
-of distant, astronomical objects.  But I noticed something that hadn&rsquo;t
-caught my eye before.</p>
+<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
+analogies and metaphors found in high school essays:</p>
+
+<ol>
+<li>Her face was a perfect oval, like a circle that had its two sides
+gently compressed by a Thigh Master.</li>
+</ol>
+
 
 <!-- More -->
 
 
-<p>There was a very distinct line separating densely populated areas from
-the eastern continental United States from the west.  Sure, I know the
-West is more sparsely populated, at least until you get to the West
-Coast, but I didn&rsquo;t know the dividing line dropped off so sharply.
-The illumination levels correlate pretty well with population so this
-is population density we&rsquo;re seeing here in nearly all cases.</p>
+<ol>
+<li><p>His thoughts tumbled in his head, making and breaking alliances
+like underpants in a dryer without Cling Free.</p></li>
+<li><p>He spoke with the wisdom that can only come from experience, like a
+guy who went blind because he looked at a solar eclipse without one of
+those boxes with a pinhole in it and now goes around the country
+speaking at high schools about the dangers of looking at a solar
+eclipse without one of those boxes with a pinhole in it.</p></li>
+<li><p>She grew on him like she was a colony of E. coli and he was
+room-temperature Canadian beef.</p></li>
+<li><p>She had a deep, throaty, genuine laugh, like that sound a dog makes
+just before it throws up.</p></li>
+<li><p>Her vocabulary was as bad as, like, whatever.</p></li>
+<li><p>He was as tall as a six-foot-three-inch tree.</p></li>
+<li><p>The revelation that his marriage of 30 years had disintegrated
+because of his wife&rsquo;s infidelity came as a rude shock, like a
+surcharge at a formerly surcharge-free ATM.</p></li>
+<li><p>The little boat gently drifted across the pond exactly the way a
+bowling
+ball wouldn&rsquo;t.</p></li>
+<li><p>McBride fell 12 stories, hitting the pavement like a Hefty bag
+filled with vegetable soup.</p></li>
+<li><p>From the attic came an unearthly howl. The whole scene had an
+eerie, surreal quality, like when you&rsquo;re on vacation in another city
+and Jeopardy comes on at 7:00 p.m. instead of 7:30.</p></li>
+<li><p>Her hair glistened in the rain like a nose hair after a sneeze.</p></li>
+<li><p>The hailstones leaped from the pavement, just like maggots when
+you fry them in hot grease.</p></li>
+<li><p>Long separated by cruel fate, the star-crossed lovers raced across
+the grassy field toward each other like two freight trains, one having
+left Cleveland at 6:36 p.m. traveling at 55 mph, the other from Topeka
+at 4:19 p.m. at a speed of 35 mph.</p></li>
+<li><p>They lived in a typical suburban neighborhood with picket fences
+that resembled Nancy Kerrigan&rsquo;s teeth.</p></li>
+<li><p>John and Mary had never met. They were like two hummingbirds who
+had also never met.</p></li>
+<li><p>He fell for her like his heart was a mob informant and she was the
+East River.</p></li>
+<li><p>Even in his last years, Grandpappy had a mind like a steel trap,
+only one that had been left out so long, it had rusted shut.</p></li>
+<li><p>Shots rang out, as shots are wont to do.</p></li>
+<li><p>The plan was simple, like my brother-in-law Phil. But unlike Phil,
+this plan just might work.</p></li>
+<li><p>The young fighter had a hungry look, the kind you get from not
+eating for a while.</p></li>
+<li><p>He was as lame as a duck. Not the metaphorical lame duck, either,
+but a real duck that was actually lame, maybe from stepping on a land
+mine or something.</p></li>
+<li><p>The ballerina rose gracefully en pointe and extended one slender
+leg behind her, like a dog at a fire hydrant.</p></li>
+<li><p>It was an American tradition, like fathers chasing kids around
+with power tools.</p></li>
+<li><p>He was deeply in love. When she spoke, he thought he heard bells,
+as if she were a garbage truck backing up.</p></li>
+<li><p>Her eyes were like limpid pools, only they had forgotten to put in
+any pH cleanser.</p></li>
+<li><p>She walked into my office like a centipede with 98 missing legs.</p></li>
+</ol>
 
-<p>The drop off edge doesn&rsquo;t quite match anything I can think of.  It&rsquo;s
-not aligned with the Mississippi or any river really, or other
-geologic feature, or a shift in climate or moisture.  There are cases
-of all of those near the line but they don&rsquo;t quite match.  Some don&rsquo;t
-match by a long shot.  I wondered if it might be a major north-south
-railway that the last wall of cities there lies along.  That might be
-but then you&rsquo;d still have to ask why the railroad ran along that
-line.</p>
-
-<p>There&rsquo;s no historical boundary that corresponds either, that I&rsquo;ve been
-able to find so far.</p>
-
-<p>There must be something going on here.  Some global characteristic of
-the continental U.S. that&rsquo;s larger than the growth and development of
-little independent population centers.  A sharp line like that doesn&rsquo;t
-imply independence.  (To be clear, I mean in the mathematical, process
-sense).</p>
-
-<p><img class="center" src="/postimages/darksite_close.png"></p>
-
-<p>I&rsquo;m also fascinated by the rectangle of cities that Atlanta lies
-in. The shape of Atlanta&rsquo;s light blob reveals the three fingers of
-growth to the north along the I-75, Georgia 400, and I-85 corridors.</p>
-
-<p>The bottom side of the rectangle is Montgomery, Columbus, Macon, and
-Augusta.  The top side is Huntsville, Chattanooga, and Asheville.
-Huntsville, Birmingham, and Montgomery make the west edge.  Asheville,
-Greenville-Spartanburg, and Augusta make the east edge.</p>
-
-<p>Knoxville is almost part of the northern edge but is stretched up
-north, because it follows I-75 I think.</p>
-
-<p>The population flow from Atlanta to Greenville-Spartanburg, Charlotte,
-Greensboro, and Raleigh-Durham is fairly prominent.</p>
-
-<p>You can also see the dark skies (the blue area) of Eastern Georgia
-between Atlanta and Augusta.  That&rsquo;s the location both of Georgia
-State&rsquo;s Hard Labor Creek observatory and the Deer Lick Astronomy
-Village.  In sad contrast, notice how little dark sky is left in the
-North Georgia Mountains north of Atlanta.</p>
 ]]></content>
   </entry>
   

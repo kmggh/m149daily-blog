@@ -4,7 +4,7 @@
   <title><![CDATA[Category: web | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/web/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-09T03:48:15-05:00</updated>
+  <updated>2015-11-14T21:47:08-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Edward Tuft CSS]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/14/edward-tuft-css/"/>
+    <updated>2015-11-14T21:32:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/14/edward-tuft-css</id>
+    <content type="html"><![CDATA[<p>This is an interesting take on style, typesetting, publishing, and
+CSS.  I don&rsquo;t agree with all of it but there are some nice ideas here
+and the page/approach is very nice looking.</p>
+
+<p>The main thing I disagree with is Tufte&rsquo;s strong preference for text
+and prose rather than lists.  I think this is highly dependent on a
+person&rsquo;s individual taste.  Also I&rsquo;m not convinced that a person who&rsquo;s
+scanning an email message or document will absorb a paragraph of prose
+as well as a bullet list.</p>
+
+<p><a href="https://edwardtufte.github.io/tufte-css/">Tuft CSS</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>

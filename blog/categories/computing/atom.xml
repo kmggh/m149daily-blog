@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-09T03:48:15-05:00</updated>
+  <updated>2015-11-14T21:47:08-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[KeyKOS The Nanokernel]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel/"/>
+    <updated>2015-11-14T21:44:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t recall ever having heard of this operating system.  The ideas
+sound quite interesting and nice.  There&rsquo;s a lot I have imagined in
+here.</p>
+
+<p>From the abstract:</p>
+
+<blockquote><p>The KeyKOS nanokernel is a capability-based object-oriented operating
+system that has been in production use since 1983. Its original
+implementation was motivated by the need to provide security,
+reliability, and 24-hour availability for applications on the Tymnet®
+hosts. Requirements included the ability to run multiple
+instantiations of several operating systems on a single hardware
+system. KeyKOS was implemented on the System/370, and has since been
+ported to the 680x0 and 88x00 processor families. Implementations of
+EDX, RPS, VM, MVS, and UNIX® have been constructed. The nanokernel is
+approximately 20,000 lines of C code, including capability,
+checkpoint, and virtual memory support. The nanokernel itself can run
+in less than 100 Kilobytes of memory.</p>
+
+<p>KeyKOS is characterized by a small set of powerful and highly
+optimized primitives that allow it to achieve performance competitive
+with the macrokernel operating systems that it replaces. Objects are
+exclusively invoked through protected capabilities, supporting high
+levels of security and intervals between failures in excess of one
+year. Messages between agents may contain both capabilities and
+data. Checkpoints at tunable intervals provide system-wide backup,
+fail-over support, and system restart times typically less than 30
+seconds. In addition, a journaling mechanism provides support for
+high-performance transaction processing. On restart, all processes are
+restored to their exact state at the time of checkpoint, including
+registers and virtual memory.</p></blockquote>
+
+<p><a href="http://www.cis.upenn.edu/~KeyKOS/NanoKernel/NanoKernel.html">The KeyKOS Nanokernel Architecture</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Docker Without Docker]]></title>
@@ -161,40 +202,6 @@ KF6.  Reports of data resources in the KF7 realm are starting to surface..</p>
 
 <p>Original post: <a href="/blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big
 Numbers</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[KF Notation for Big Numbers]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/07/13/kf-notation-for-big-numbers/"/>
-    <updated>2013-07-13T12:28:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/07/13/kf-notation-for-big-numbers</id>
-    <content type="html"><![CDATA[<p>As storage grows exponentially, it&rsquo;s getting harder to keep up with
-the specification of data capacity and other big numbers.  Even with
-kilobytes (KB), megabytes (MB), terabytes (TB), etc., by the time we
-get to petabytes (PB), exabytes (EB), zettabytes (ZB), and yottabytes
-(YB), we&rsquo;ve long lost any sense of relative size.</p>
-
-<p>I&rsquo;m proposing a notation called K-Factor (KF), which is a size
-converted to base-1024, i.e., it represents how
-many factors of 1024, factors of K, are multiplied together.  The
-K-Factor of a value is just the integer part of it&rsquo;s log-base-1024
-value.  It&rsquo;s easier than it sounds.</p>
-
-<p><img class="center" src="/postimages/kf_table.png" title="" ></p>
-
-<p>With such a notation in hand, we can cruise on beyond to 9 KF, 10 KF,
-etc.</p>
-
-<p>Using KF, you might specify a 2-TB disk as a  2-4KF disk and 4 GB of
-RAM as 4 3KF.  Storage space of 16 petabytes would be 16 5KF.</p>
-
-<p>As usual, one would have to recall that a <em>difference</em> between two
-sizes of 1 KF would mean a factor of 1024 larger, a difference of 2 KF
-would be roughly a factor of a million (1024<sup>2</sup>), 3 KF approximately a
-billion, etc.</p>
-
-<p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
 ]]></content>
   </entry>
   

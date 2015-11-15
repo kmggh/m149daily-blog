@@ -9,9 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Happy winter solstice! The event occurs today 21 Dec 2014 at 18:03
-EST. Sun 2014-12-21 18:03:00 -0500
-Sun 2014-12-21 23:03:00 +0000 Why do mornings &hellip;">
+  <meta name="description" content="I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year& &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -85,6 +85,216 @@ Sun 2014-12-21 23:03:00 +0000 Why do mornings &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/nixos-linux/">NixOS Linux</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T08:04:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  08:04 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
+approaches there.  Here&rsquo;s my awkward summar.</p>
+
+<ul>
+<li>Packages are immutable, like values in a functional language. Making configuration changes involves generating a new package.</li>
+<li>Each package instance, each version, is stored on the system in it&rsquo;s
+own directory.  Files aren&rsquo;t installed all over the place in /usr/local/lib, /usr/lib, /usr/local/bin, etc.</li>
+<li>Due to the above, aliases are much more important than search paths.</li>
+<li>Also, the dependency tree for a package is very straightforward.</li>
+<li>System configuration is via a functional language and is a single expression in one file.</li>
+<li>So you can easily boot and run any configuration, back out changes, etc.</li>
+</ul>
+
+
+<p>I installed it on a Virtual box VM and played with it briefly.  One of
+the first negative things I noticed was a ps listing.  Since each
+package instance is under a single nixos directory with a directory
+named by a long random hash, and since every running process is in a
+bin directory (or some such) in one of those, the path to any running
+program is a bear.</p>
+
+<p>I pulled down nginx.  That was easy.  But then I went to configure it
+and that&rsquo;s where I came face to face with NixOS&#8217; trade off.  You don&rsquo;t
+change files in a package.  As I understand it so far, you add code
+into the single configuration file that essentially edits, in this
+case, the nginx config file in a sort of sed-like way, and produces a
+new package instance that is used.  So a nice and simple config file
+from nginx was turned into a functional language expression that now
+requires me to go learn that language.</p>
+
+<p>I stopped at that point but I&rsquo;m still fascinated by the distribution
+and the ideas there.  There are some nice hard lines and properties of
+cleanliness here.  Once the investment is made in learning the Nix
+config language, it may be straightforward to move on and maintain
+systems.  For a simple server instance this may be something to try.</p>
+
+<p>So, I&rsquo;ll move on with it soon and see how it goes.</p>
+
+<p><a href="http://nixos.org/">Nixos.org</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/bazaar/">Bazaar</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T07:33:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  07:33 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>From looking at my development directories, it appears that it was in
+early 2008 that I moved my personal source code control system from
+CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
+about Bazaar from a coworker, John.  It was Python-based, the system
+used by Canonical for Ubuntu and I found it to work extremely well.
+Since then, for seven years now, I&rsquo;ve used it for my personal version
+management and also as a shadow version control system at work.</p>
+
+<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
+trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
+indications that Bazaar is no longer maintained and may be declining
+as a version control choice.  Maybe it was never that popular.</p>
+
+<p>Lately, Git seems to be the version control system of choice and it is
+the system I use every day for work.  I&rsquo;m wondering if I should start
+using it for my personal work.  The command set and, as they say, &ldquo;the
+workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
+That&rsquo;s probably okay.</p>
+
+<p>I already like it less because, if I want to make a branch of a
+particular version or another branch to work on, there needs to be a
+root branch of sorts, a hub to clone the other branch from.  With
+Bazaar you can just branch any branch, merge changes from it, etc.  So
+now I&rsquo;ll have to make some local hub to clone, push and pull from.
+Yech.  That seems so archaic now.</p>
+
+<p>However, I found this blog post by Jelmer Vernooij who was a primary
+developer of Bazaar.  He basically tells the complete history and also
+how it&rsquo;s finally been abandoned for the most part.  So, I guess I
+should start moving on to git.</p>
+
+<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
+Mercurial which may be worth a look.  Ah well.</p>
+
+<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
+become rare by mid-2011. In early 2012 the members of the Canonical
+Bazaar team were assigned to other projects, though we would still fix
+the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
+
+<p>During my spare time in the first 6 months of 2012 I tried to finish
+my remaining in-progress branches. After that, I thought I would see
+how it would go.</p>
+
+<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
+about it, but Git is a decent source code management system. Bazaar
+isn&rsquo;t going anywhere; no doubt there will be users for a few years to
+come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
+level I was hoping.</p></blockquote>
+
+<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice/">How Intel Gave Stephen Hawking a Voice</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T07:28:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  07:28 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>From Wired by Joao Medeiros.</p>
+
+<blockquote><p>Hawking is very attached to his voice: in 1988, when Speech Plus gave
+him the new synthesizer, the voice was different so he asked them to
+replace it with the original. His voice had been created in the early
+&lsquo;80s by MIT engineer Dennis Klatt, a pioneer of text-to-speech
+algorithms. He invented the DECtalk, one of the first devices to
+translate text into speech. He initially made three voices, from
+recordings of his wife, daughter and himself. The female’s voice was
+called &ldquo;Beautiful Betty&rdquo;, the child’s &ldquo;Kit the Kid&rdquo;, and the male
+voice, based on his own, &ldquo;Perfect Paul.&rdquo; &ldquo;Perfect Paul&rdquo; is Hawking&rsquo;s
+voice.</p></blockquote>
+
+<p><a href="http://www.wired.com/2015/01/intel-gave-stephen-hawking-voice/">How Intel Gave Stephen Hawking a Voice</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -418,187 +628,6 @@ science.</p></blockquote>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/19/sudden-galaxies/">Sudden Galaxies</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-19T08:12:00-05:00" pubdate data-updated="true">Wed 19 Nov 2014  08:12 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p>A team of astronomers using the Subaru Telescope&rsquo;s Suprime-Cam to
-perform the Subaru Ultra-Deep Survey for Lyman-alpha Emitters have
-looked back more than [<em>z=7</em>] to find 7 early galaxies that
-appeared quite suddenly within 700 million years of the Big Bang. The
-team, led by graduate student Akira Konno and Dr. Masami Ouchi
-(Associate Professor at the University of Tokyo&rsquo;s ICRR) was looking
-for a specific kind of galaxy called a Lyman-alpha emitter (LAE), to
-understand the role such galaxies may have played in an event called
-&ldquo;cosmic reionization&rdquo;.</p></blockquote>
-
-<p>The team looked at distant galaxies that primarily emit Lyman-alpha
-radiation, &ldquo;Lyman-alpha emitters&rdquo; or LAE, and saw fewer than expected,
-further back in time.  There&rsquo;s an apparent sudden cutoff at that
-redshift.  The redshift corresponds to a distance and time in history
-that&rsquo;s model dependent.  The standard big bang model would put this at
-about 13.1 billion years and only 700 million years after the big bang
-itself.  The cosmological-history implication is that these galaxies
-&ldquo;suddenly&rdquo; appear.</p>
-
-<p>One thing is pretty certain.  A cosmological redshift of seven
-indicates the universe was about 1/8 it&rsquo;s current size at the time the
-light they observed was emitted.  That&rsquo;s 1 / (<em>z</em> + 1).</p>
-
-<blockquote><p>According to the team&rsquo;s analysis, one reason that LAEs appeared very
-quickly is cosmic reionization. LAEs in the epoch of cosmic
-reionization became darker than the actual luminosity due to the
-presence of the neutral hydrogen fog. In the team&rsquo;s analysis of their
-observations, they suggest the possibility that the neutral fog
-filling the universe was cleared about 13.0 billion years ago and LAEs
-suddenly appeared in sight for the first time.&#8221;</p>
-
-<p>&ldquo;However, there are other possibilities to explain why LAEs appeared
-suddenly,&rdquo; said Dr. Ouchi, who is the principal investigator of this
-program. &ldquo;One is that clumps of neutral hydrogen around LAEs
-disappeared. Another is that LAEs became intrinsically bright. The
-reason of the intrinsic brightening is that the Lyman-alpha emission
-is not efficiently produced by the ionized clouds in a LAE due to the
-significant escape of ionizing photons from the galaxy. In either
-case, our discovery is an important key to understanding cosmic
-reionization and the properties of the LAEs in early universe.&rdquo;</p></blockquote>
-
-<p><a href="http://phys.org/news/2014-11-subaru-telescope-sudden-galaxies-early.html">Subaru Telescope detects sudden appearance of galaxies in the early universe at phys.org</a><br />
-<a href="http://www.icrr.u-tokyo.ac.jp/2014/11/19120001.html">Press release from ICRR</a><br />
-<a href="http://arxiv.org/pdf/1404.6066v2.pdf">PDF of paper &ldquo;Accelerated Evolution Of The Lyα Luminosity Function At z >~ 7 Revealed By The Subaru Ultra-Deep Survey For Lyα Emitters AT z = 7.3&rdquo;</a><br /></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Dark and Stormy</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-18T07:09:00-05:00" pubdate data-updated="true">Tue 18 Nov 2014  07:09 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>While looking for earlier posts about kids and programming, I came
-across this from a 2005-02-08 post.  Someone sent this to me and I
-don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
-
-<hr />
-
-<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
-analogies and metaphors found in high school essays:</p>
-
-<ol>
-<li>Her face was a perfect oval, like a circle that had its two sides
-gently compressed by a Thigh Master.</li>
-</ol>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/18/programming-for-kids/">Programming for Kids</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-18T06:26:00-05:00" pubdate data-updated="true">Tue 18 Nov 2014  06:26 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>There&rsquo;s a question that have been worrying many of us for quite a few
-years now.  How will today&rsquo;s kids learn to program?</p>
-
-<p>In the late 70s and 80s many kids were blessed with a microcomputer in
-their home that ran BASIC.  Most folks don&rsquo;t even know or remember
-that the first IBM PC booted straight up into BASIC, just like a
-Commodore 64. That&rsquo;s where they learned to program.  Those BASIC
-computers launched a whole generation of computer programmers.</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/m149daily-blog/blog/2014/11/18/programming-for-kids/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/4/">&larr; Older</a>
@@ -624,23 +653,23 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/14/keykos-the-nanokernel/">KeyKOS the Nanokernel</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/14/the-snowflake-method/">The Snowflake Method</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2015/11/14/edward-tuft-css/">Edward Tuft CSS</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2015/11/05/octopres-blogging-how-its-going/">Octopress Blogging: How Its Going</a>
       </li>
     
       <li class="post">
         <a href="/m149daily-blog/blog/2015/11/05/perfect-blogging-interface/">Perfect Blogging Interface</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2015/11/05/more-short-and-medium-length-blogging/">More Short and Medium Length Blogging</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2015/11/05/chrome-os-and-android-merge/">Chrome OS and Android Merge</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2015/10/14/kilogram-conflict-resolved-at-last/">Kilogram Conflict Resolved at Last</a>
       </li>
     
   </ul>
