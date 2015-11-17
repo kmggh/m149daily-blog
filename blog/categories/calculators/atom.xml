@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: calculators | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calculators/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2015-11-17T09:15:23-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rebuilding the HP-11 Series]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/17/rebuilding-the-hp-11-series/"/>
+    <updated>2015-11-17T09:03:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/17/rebuilding-the-hp-11-series</id>
+    <content type="html"><![CDATA[<p>Michael Steinmann of Swiss Micros is building new, little,
+fully-functioning HP-11 series, and other, HP calculators.</p>
+
+<blockquote><p>Peruse Michael’s site and you won’t find carbon copies of the
+HP-12C. Instead, you’ll discover a range of miniaturised versions –
+hardware emulations no less – of the most popular models in that early
+generation of HP calculators, all powered by a low-power LPC1115 ARM
+processor.</p></blockquote>
+
+<p>I never owned the HP-11C though I have a nifty emulator on my iPhone.
+I had owned the HP-25 and 29C before its time and later the HP-41CV
+and the HP-48S.  I definitely wanted one of the little sideways 11C&rsquo;s
+though.</p>
+
+<p><a href="http://www.alphr.com/technology/1001717/the-rebirth-of-the-hp-12c-how-one-man-reimagined-a-calculator-from-1981">The rebirth of the HP-12C: How one man reimagined a calculator from 1981</a>
+by Steve Cassidy on Alphr.</p>
+]]></content>
+  </entry>
+  
+</feed>

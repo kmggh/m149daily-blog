@@ -4,7 +4,7 @@
   <title><![CDATA[Category: os | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/os/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-14T21:47:08-05:00</updated>
+  <updated>2015-11-17T09:15:23-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Upgrade to Mac OS X 10.11]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11/"/>
+    <updated>2015-11-17T08:55:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve finally upgraded to Mac OS X 10.11 at home.  There&rsquo;s really not
+much to say so far.  The only new/changed feature I really see and use
+is Mission Control.  Ohter than that it&rsquo;s pretty much business as
+usual.</p>
+
+<p>The process went quite smoothly.  I started the download and left it
+unattended.  Then I returned later and started the install and left it
+running unattended.  Note that I usually never leave an upgrade
+running but they did take a few minutes and I had other things to do
+including even being out of the house for a while.</p>
+
+<p>When I came back and the new login screen was presented I logged in
+with no trouble and only had to enter the Apple id for iCloud.</p>
+
+<p>There may be features I&rsquo;m using that are new or changed and I haven&rsquo;t
+used them enough in the past so I&rsquo;m unaware of the differences.</p>
+
+<p>I hear that Notes has become quite good but I&rsquo;m sticking with Evernote
+and Drafts on my phone.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[KeyKOS The Nanokernel]]></title>
