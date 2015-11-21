@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-17T09:15:23-05:00</updated>
+  <updated>2015-11-21T14:56:21-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[PC Engines]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/pc-engines/"/>
+    <updated>2015-11-21T05:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/pc-engines</id>
+    <content type="html"><![CDATA[<p>These are fascinating little computer boards and boxes that seem
+perfect for making firewalls and such.  Boards are available with
+three gigabit ethernet ports.  Prices are in the $100 range and there
+is  support for Linux, e.g., Ubuntu.  Steve Gibson mentioned them on
+Security Now.</p>
+
+<p><a href="http://pcengines.ch/">pcengines.ch</a><br />
+<a href="https://twit.tv/shows/security-now/episodes/534?autostart=false">Security Now 534</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Upgrade to Mac OS X 10.11]]></title>
@@ -178,28 +194,6 @@ come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
 level I was hoping.</p></blockquote>
 
 <p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How Intel Gave Stephen Hawking a Voice]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice/"/>
-    <updated>2015-01-14T07:28:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice</id>
-    <content type="html"><![CDATA[<p>From Wired by Joao Medeiros.</p>
-
-<blockquote><p>Hawking is very attached to his voice: in 1988, when Speech Plus gave
-him the new synthesizer, the voice was different so he asked them to
-replace it with the original. His voice had been created in the early
-&lsquo;80s by MIT engineer Dennis Klatt, a pioneer of text-to-speech
-algorithms. He invented the DECtalk, one of the first devices to
-translate text into speech. He initially made three voices, from
-recordings of his wife, daughter and himself. The female’s voice was
-called &ldquo;Beautiful Betty&rdquo;, the child’s &ldquo;Kit the Kid&rdquo;, and the male
-voice, based on his own, &ldquo;Perfect Paul.&rdquo; &ldquo;Perfect Paul&rdquo; is Hawking&rsquo;s
-voice.</p></blockquote>
-
-<p><a href="http://www.wired.com/2015/01/intel-gave-stephen-hawking-voice/">How Intel Gave Stephen Hawking a Voice</a></p>
 ]]></content>
   </entry>
   

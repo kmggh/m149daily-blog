@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-17T09:15:23-05:00</updated>
+  <updated>2015-11-21T14:56:21-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,133 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeblip Synthesizer]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/meeblip-synthesizer/"/>
+    <updated>2015-11-21T14:42:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/meeblip-synthesizer</id>
+    <content type="html"><![CDATA[<p>The Meeblip is a nifty little synthesizer with MIDI input.  If memory
+serves it seems to have a set of oscillators, filters and LFO that&rsquo;s
+about the same as the original Mini Moog.</p>
+
+<p><a href="http://meeblip.com/">meeblip.com</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Write a Python Web Framework]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework/"/>
+    <updated>2015-11-21T05:17:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework</id>
+    <content type="html"><![CDATA[<p>You don&rsquo;t have to use Django, Flask, Cherrypy, or even web.py.  It&rsquo;s
+all about WSGI.  Guess what.  Everything you need is already built
+into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
+
+<p><a href="http://funwithlinux.net/2015/11/how-to-write-a-python-web-framework-from-scratch/">How To Write a Python Web Framework From Scratch</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PC Engines]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/pc-engines/"/>
+    <updated>2015-11-21T05:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/pc-engines</id>
+    <content type="html"><![CDATA[<p>These are fascinating little computer boards and boxes that seem
+perfect for making firewalls and such.  Boards are available with
+three gigabit ethernet ports.  Prices are in the $100 range and there
+is  support for Linux, e.g., Ubuntu.  Steve Gibson mentioned them on
+Security Now.</p>
+
+<p><a href="http://pcengines.ch/">pcengines.ch</a><br />
+<a href="https://twit.tv/shows/security-now/episodes/534?autostart=false">Security Now 534</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging in Twitter Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language/"/>
+    <updated>2015-11-21T04:49:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s one thing Twitter has done and that&rsquo;s change the language of
+reading news and stories so I&rsquo;m going to try an experiment.</p>
+
+<!-- More -->
+
+
+<p>Regardless of however things work out for Twitter it has had one
+unmistakable effect on the way articles, essays, and other writing is
+presented.  When you look at Facebook, Apple&rsquo;s News app, and almost
+any site like Recode or The Verge, nearly everything looks like a
+tweet.  You click on it to read the article.</p>
+
+<p>Now, it&rsquo;s always the case that there&rsquo;s nothing new under the sun.
+Headlines with snippets have been popular at least going back to the
+80s, if memory serves and I&rsquo;m sure that, if I took the time to do the
+research, I could find that story snippets are as old as news
+publishing itself.  I believe I recall in the 80s when newspapers
+started publishing a sort of index on page two of tweet-looking
+headlines and snippets.  Magazines have done the same thing on their
+index pages for a long time.</p>
+
+<p>Still, the shift in the look of any story-collecting web site or, more
+importantly, phone app has changed so that they all look strikingly
+familiar.</p>
+
+<p>So, at the risk of appearing as a trend follower, I&rsquo;m going to try
+breaking my blog stories so that there&rsquo;s a shorter blurb on the main
+page and you click to read the full story.</p>
+
+<p>I guess there&rsquo;s a risk here when the blog post is mainly there to
+share a link since you might have to click twice but maybe not.  Those
+posts just won&rsquo;t have the &ldquo;Read More&rdquo; link but the actual story link
+itself.  After all I can always do what I want here.  I can grow back
+the main page piece as much as I want when I want.  That&rsquo;s part of
+what&rsquo;s great about keeping your own blog.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apollo 11 Restored Video]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration/"/>
+    <updated>2015-11-18T06:52:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration</id>
+    <content type="html"><![CDATA[<p>From Wikipedia:</p>
+
+<blockquote><p>The Apollo 11 missing tapes refers to Apollo 11&rsquo;s slow-scan television
+(SSTV) telecast recorded in its raw format on telemetry data tape
+during the time of the first Moonlanding in 1969. The recordings were
+discovered to be &ldquo;missing&rdquo; after a team of retired NASA employees and
+contractors tried to locate the tapes in the early 2000s.</p></blockquote>
+
+<!-- More -->
+
+
+<blockquote><p>The data tapes were recorded as a backup in case the live television
+broadcasts failed for any reason. In order to broadcast the SSTV
+transmission on standard television, NASA ground receiving stations
+performed real-time scan conversion to the NTSC television format. The
+moonwalk&rsquo;s converted video signal was broadcast live around the world
+on July 21, 1969 (UTC). At the time, the NTSC broadcast was recorded
+on many videotapes and kinescope films: they were never missing.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>Although the researchers never found the telemetry tapes they were
+looking for, they did discover the best visual quality NTSC videotapes
+as well as super 8 movie film taken of a video monitor in Australia,
+showing the SSTV transmission before it was converted. These visual
+elements were processed in 2009, as part of a NASA approved
+restoration project of the first Moonwalk. At a 2009 news conference
+in Washington, D.C., the research team released its findings regarding
+the tapes&#8217; disappearance. They also partially released newly enhanced
+footage obtained during the search. Lowry Digital completed the full
+Moonwalk restoration project in late 2009.</p></blockquote>
+
+<p><a href="https://en.wikipedia.org/wiki/Apollo_11_missing_tapes">Apollo 11 missing tapes (from Wikipedia)</a>
+<a href="https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html">Apollo 11 HD Videos (NASA)</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rebuilding the HP-11 Series]]></title>
@@ -504,245 +631,6 @@ blue once in a while.</p>
 by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
 
 <p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Docker Without Docker]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker/"/>
-    <updated>2015-04-26T14:08:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker</id>
-    <content type="html"><![CDATA[<blockquote><ul>
-<li><p>The systemd-nspawn command runs a command or OS in a lightweight
-namespace container</p></li>
-<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
-fully virtualizes the file system hierarchy, as well as the process
-tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
-</ul>
-</blockquote>
-
-<p>Trying it out (from the article):</p>
-
-<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
-$ systemd-nspawn -D debian-tree/ /bin/bash 
-$ systemd-nspawn -D debian-tree/ /sbin/init
-</code></pre>
-
-<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
-
-<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
-at the end&rdquo;</p>
-
-<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
-RAM and 200% CPU&rdquo;</p>
-
-<p>&ldquo;Give me a container that has its own private network and its own IP
-and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
-
-<p>&ldquo;Run this container with its own daemons in it, and monitor them to
-make sure they don&rsquo;t fail&rdquo;</p>
-
-<p>&ldquo;Download this container from the Docker Hub and run it every time I
-boot, but without installing Docker&rdquo;</p></blockquote>
-
-<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[So Long Walter H. Haas]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/04/18/so-long-walter-h-haas/"/>
-    <updated>2015-04-18T15:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/04/18/so-long-walter-h-haas</id>
-    <content type="html"><![CDATA[<blockquote><p>Haas devoted his entire life to the study of the Moon and planets.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>At a time when professional astronomers held little regard for amateur
-observers beyond their meteor and variable-star reports, Haas changed
-the paradigm. First, he published (in 1938, at age 21) his in-depth
-observations of brightness changes around major lunar craters. Then,
-four years later, he followed with a four-part, 76-page opus titled
-&ldquo;Does Anything Ever Happen on the Moon?&rdquo; that appeared in the Journal
-of the Royal Astronomical Society of Canada. These became the opening
-salvo in a lifelong quest &ldquo;to arouse interest in a neglected branch of
-astronomy.&rdquo;</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>On March 1, 1947, while still at UNM, he dispatched a self-produced
-6-page newsletter titled The Strolling Astronomer. Haas already
-envisioned this simple missive becoming something bigger: it was
-subtitled &ldquo;Association of Lunar and Planetary Observers&rdquo; and branded
-with &ldquo;Volume 1, Number 1.&rdquo; By the second issue, a month later, the
-budding ALPO had grown to 41 members. Within six years, the
-association boasted 350 members from all around the world.</p></blockquote>
-
-<p><a href="http://www.skyandtelescope.com/astronomy-news/walter-haas-1917-2015-04072015/">Walter H. Haas (1917–2015) by Kelly Beatty</a><br /></p>
-
-<p><a href="http://www.alpo-astronomy.org/">ALPO</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Terrible Technical Interview]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/23/the-terrible-technical-interview/"/>
-    <updated>2015-03-23T08:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/23/the-terrible-technical-interview</id>
-    <content type="html"><![CDATA[<p>An article from Tech Crunch by Jon Evans on how bad current interview
-practices are.  It&rsquo;s quite interesting and echoes a lot of my
-coworkers&#8217; and my recent sentiments.</p>
-
-<blockquote><p>Traditional technical interviews are terrible for everyone. They’re a
-bad way for companies to evaluate candidates. They’re a bad way for
-candidates to evaluate companies. They waste time and generate stress
-on both sides. Almost everyone, if pressed, will admit this. And yet
-they persist.</p></blockquote>
-
-<p>His solution:  Every candidate should bring with them a personal side
-project the have done (this assumes a programming project) that they
-can present in detail including code walk throughs and answering
-questions.  The interviewer should be prepared to look at this in lieu
-of asking white board questions and such.  This is a fascinating idea,
-an excellent use of everyone&rsquo;s time, and could really change the whole
-process for the better.  I don&rsquo;t hold a lot of hope this idea would
-ever be widely adopted, if even adopted at all, but maybe.</p>
-
-<p><a href="http://techcrunch.com/2015/03/21/the-terrible-technical-interview/">The Terrible Technical Interview</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gmail Inbox Mistake]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake/"/>
-    <updated>2015-03-23T08:13:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake</id>
-    <content type="html"><![CDATA[<p>Well, that was a mistake.  To a large degree I really like Gmail&rsquo;s new
-Inbox IOS app, and the desktop version doesn&rsquo;t look bad either.  I&rsquo;ve
-used it on a rarely-used account and recently added in anther,
-more-often-used account so I could try out more interaction.  I heard
-someone on a podcast say, It doesn&rsquo;t really affect your regular Gmail
-interface interactions so you can use both at the same time.  That
-seemed to be the case to me, so I thought, okay, I&rsquo;ll just fire it up
-on my main Gmail account.</p>
-
-<p>That was a mistake.</p>
-
-<p>So it does have an effect in a particular way.  I should have seen
-it.  The Gmail model is to treat messages like to do items and mark
-them as &ldquo;Done&rdquo; when you are finished with them, instead of marking
-them as &ldquo;Read.&rdquo;  Marking as &ldquo;Read&rdquo; is still there but it&rsquo;s
-independent.  Of course, &ldquo;Done&rdquo; is yet another label though it doesn&rsquo;t
-show up in the list of labels so maybe it&rsquo;s more a kind of state.
-However, you can search in the regular Gmail for &ldquo;label:done&rdquo; and it
-will find your done messages.  (That&rsquo;s giving away the ending).</p>
-
-<p>With the Inbox app, you can go through and use the little &ldquo;sweep&rdquo;
-icons to sweep away large collections of messages as &ldquo;Done,&rdquo; all in
-one, uh, swoop.  Fortunately, it didn&rsquo;t seem to let me do more than
-one month at a time.  I finally got tired of that, but then went back
-to check the Gmail view.</p>
-
-<p>My mistake was thinking &ldquo;Done&rdquo; in the Inbox app meant &ldquo;mark as Read&rdquo;
-in the Gmail app, which was wrong.  So I&rsquo;d moved hundreds of messages
-out of my Inbox to who knows where.  Well now we all know they no
-longer had the Inbox label and now had the Done label or state.  (And,
-yes, I&rsquo;m now going to stop using the quotes around all of these states
-and labels).  Also, as we all should know, in Gmail, you don&rsquo;t move
-anything but only ever add and remove labels.</p>
-
-<p>Well, that was a big change.  Part of my Gmail organization, written
-about recently, is how I keep some things in the Inbox and some bypass
-it and are only in labels.</p>
-
-<p>Now I&rsquo;d moved the Inbox-only items completely out of site, read or
-unread.</p>
-
-<p>Thinking quickly, too quickly, and acting too quickly, I realized I
-could try the search &ldquo;label:done&rdquo; and find them all.  So I just took
-that list, clicked the upper left box to check all on the screen, then
-checked the little link that always pops up that says, &ldquo;Select all
-messages that match this search&hellip;&rdquo; to select <em>all</em> of the Done
-items.  Then I just added the Inbox label back to them.</p>
-
-<p>Except now I move a lot of messages (again, hundreds) into the Inbox
-that formerly my filter had kept from ever being in the Inbox.  My
-levels of email importance, and the underlying sorting, are something
-like this:</p>
-
-<ul>
-<li>Only in the Inbox</li>
-<li>In the Inbox but with a label</li>
-<li>Only in a label (not in the Inbox)</li>
-<li>Only in a label and marked as read on delivery</li>
-</ul>
-
-
-<p>I should have included that list in my previous post.</p>
-
-<p>I was finally able to mostly clean up this mess by selecting the
-various labels, select all of the messages, which now had the Inbox
-label, and click the Archive operation.  Archive is Gmail-speak for
-special operation that just removes the Inbox label.</p>
-
-<p>I should never have believed that the Inbox app would be harmless and
-wouldn&rsquo;t have some effect on my regular Gmail account.  Gmail
-desperately wants to manage my email for me (to the point of just
-taking it over) and, as much as I really like Gmail and think it&rsquo;s by
-far the best email solution, I have to beat it down hard with a big
-stick every time it raises it&rsquo;s head and tries to attack my email with
-unwanted help.  It&rsquo;s exhausting.</p>
-
-<p>That&rsquo;s a metaphor for Google in general and will probably eventually
-lead, in some large part, to their downfall.</p>
-
-<p>I still like a lot about the Inbox app and it&rsquo;s interface and I&rsquo;ll
-keep experimenting with a much less important account.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
-    <updated>2015-03-20T05:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
-    <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
-answer to this question with a summary of the built-in security
-features of OS X 10.10 and the additional precautions you should take.</p>
-
-<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
-Mac malware in downloaded files, and to block insecure web
-plugins. This feature is transparent to the user. Internally Apple
-calls it &ldquo;XProtect.&rdquo;</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
-built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
-default, applications and Installer packages downloaded from the
-network will only run if they&rsquo;re digitally signed by a developer with
-a certificate issued by Apple. Software certified in this way hasn&rsquo;t
-necessarily been tested by Apple, but you can be reasonably sure that
-it hasn&rsquo;t been modified by anyone other than the developer. His
-identity is known to Apple, so he could be held legally responsible if
-he distributed malware. That may not mean much if the developer lives
-in a country with a weak legal system (see below.)</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
-added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
-background when you update the OS. It checks for, and removes, malware
-that may have evaded the other protections via a Java exploit (see
-below.) MRT also runs when you install or update the Apple-supplied
-Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
-effective against known threats, but not against unknown ones. It
-notifies you if it finds malware, but otherwise there&rsquo;s no user
-interface to MRT.</p></blockquote>
-
-<p>His answer is the third one down.</p>
-
-<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
 ]]></content>
   </entry>
   

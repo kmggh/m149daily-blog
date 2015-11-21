@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-17T09:15:23-05:00</updated>
+  <updated>2015-11-21T14:56:21-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Write a Python Web Framework]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework/"/>
+    <updated>2015-11-21T05:17:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework</id>
+    <content type="html"><![CDATA[<p>You don&rsquo;t have to use Django, Flask, Cherrypy, or even web.py.  It&rsquo;s
+all about WSGI.  Guess what.  Everything you need is already built
+into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
+
+<p><a href="http://funwithlinux.net/2015/11/how-to-write-a-python-web-framework-from-scratch/">How To Write a Python Web Framework From Scratch</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Explicit Programming]]></title>
@@ -139,21 +152,6 @@ come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
 level I was hoping.</p></blockquote>
 
 <p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Siracusa on Swift]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
-    <updated>2014-12-20T13:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
-    <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
-10.10 article has a nice dive down into some of the details of the new
-Swift language and how it&rsquo;s compiled.  There are some impressive
-features here.</p>
-
-<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
-<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
 ]]></content>
   </entry>
   

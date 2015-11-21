@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-17T09:15:23-05:00</updated>
+  <updated>2015-11-21T14:56:21-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging in Twitter Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language/"/>
+    <updated>2015-11-21T04:49:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s one thing Twitter has done and that&rsquo;s change the language of
+reading news and stories so I&rsquo;m going to try an experiment.</p>
+
+<!-- More -->
+
+
+<p>Regardless of however things work out for Twitter it has had one
+unmistakable effect on the way articles, essays, and other writing is
+presented.  When you look at Facebook, Apple&rsquo;s News app, and almost
+any site like Recode or The Verge, nearly everything looks like a
+tweet.  You click on it to read the article.</p>
+
+<p>Now, it&rsquo;s always the case that there&rsquo;s nothing new under the sun.
+Headlines with snippets have been popular at least going back to the
+80s, if memory serves and I&rsquo;m sure that, if I took the time to do the
+research, I could find that story snippets are as old as news
+publishing itself.  I believe I recall in the 80s when newspapers
+started publishing a sort of index on page two of tweet-looking
+headlines and snippets.  Magazines have done the same thing on their
+index pages for a long time.</p>
+
+<p>Still, the shift in the look of any story-collecting web site or, more
+importantly, phone app has changed so that they all look strikingly
+familiar.</p>
+
+<p>So, at the risk of appearing as a trend follower, I&rsquo;m going to try
+breaking my blog stories so that there&rsquo;s a shorter blurb on the main
+page and you click to read the full story.</p>
+
+<p>I guess there&rsquo;s a risk here when the blog post is mainly there to
+share a link since you might have to click twice but maybe not.  Those
+posts just won&rsquo;t have the &ldquo;Read More&rdquo; link but the actual story link
+itself.  After all I can always do what I want here.  I can grow back
+the main page piece as much as I want when I want.  That&rsquo;s part of
+what&rsquo;s great about keeping your own blog.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress Blogging: How Its Going]]></title>
@@ -254,20 +297,6 @@ try to benefit from their lessons learned.</p>
 ideas in just a few minuts. After managing to cover a lot of them and
 adding ideas through the month, amazingly, the list doesn&rsquo;t seem
 any shorter.  There&rsquo;s still a lot to write about!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More 30-day Blogging Takers]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers/"/>
-    <updated>2014-11-08T23:41:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/more-30-day-blogging-takers</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 29.1</a></p>
-
-<p>Matt Cutts also has taken on the 30-day blogging challenge.  He&rsquo;s
-doing it for the month of November.</p>
-
-<p><a href="https://www.mattcutts.com/blog/30-day-challenge-write-every-day/">30 day challenge: writing every day</a></p>
 ]]></content>
   </entry>
   

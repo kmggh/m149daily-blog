@@ -4,7 +4,7 @@
   <title><![CDATA[Category: web | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/web/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-17T09:15:23-05:00</updated>
+  <updated>2015-11-21T14:56:21-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Write a Python Web Framework]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework/"/>
+    <updated>2015-11-21T05:17:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework</id>
+    <content type="html"><![CDATA[<p>You don&rsquo;t have to use Django, Flask, Cherrypy, or even web.py.  It&rsquo;s
+all about WSGI.  Guess what.  Everything you need is already built
+into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
+
+<p><a href="http://funwithlinux.net/2015/11/how-to-write-a-python-web-framework-from-scratch/">How To Write a Python Web Framework From Scratch</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Edward Tuft CSS]]></title>

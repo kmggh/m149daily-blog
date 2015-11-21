@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: synthesizer | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/synthesizer/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2015-11-21T14:56:21-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meeblip Synthesizer]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/meeblip-synthesizer/"/>
+    <updated>2015-11-21T14:42:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/meeblip-synthesizer</id>
+    <content type="html"><![CDATA[<p>The Meeblip is a nifty little synthesizer with MIDI input.  If memory
+serves it seems to have a set of oscillators, filters and LFO that&rsquo;s
+about the same as the original Mini Moog.</p>
+
+<p><a href="http://meeblip.com/">meeblip.com</a></p>
+]]></content>
+  </entry>
+  
+</feed>
