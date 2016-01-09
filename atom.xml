@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-21T14:56:21-05:00</updated>
+  <updated>2016-01-08T22:17:10-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,149 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
+    <updated>2016-01-08T21:57:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
+    <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
+done, brought back memories, and is quite accurate.</p>
+
+<p><a href="https://youtu.be/BbVAvDbzXFk">The ultimate Amiga 500 (sic) talk</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Periodic Table Row Seven Complete]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/periodic-table-row-seven-complete/"/>
+    <updated>2016-01-08T21:52:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/periodic-table-row-seven-complete</id>
+    <content type="html"><![CDATA[<blockquote><p>Confirmation that four new elements – those with atomic numbers 113,
+115, 117 and 118 – have indeed been synthesised has come from the
+International Union of Pure and Applied Chemistry (Iupac), completing
+the seventh row of the periodic table.</p></blockquote>
+
+<!-- More -->
+
+
+<blockquote><p>The groups credited for creating them – in Japan, Russia and the US –
+have spent several years gathering enough evidence to convince experts
+from Iupac and its physics equivalent, the International Union of Pure
+and Applied Physics, of the elements’ existence. All four are highly
+unstable superheavy metals that exist for only a fraction of a
+second. They are made by bombarding heavy metal targets with beams of
+ions, and can usually only be detected by measuring the radiation and
+other nuclides produced as they decay.</p></blockquote>
+
+<p><a href="http://www.rsc.org/chemistryworld/2016/01/new-elements-periodic-table-seventh-row-iupac">Confirmation of four new elements completes seventh row of periodic table</a> from the Royal Society of Chemistry by Emma Stoye.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Block Chain for Authentication]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication/"/>
+    <updated>2016-01-08T21:39:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication</id>
+    <content type="html"><![CDATA[<p>The latest rage is all about the block chain, made popular by Bitcoin.
+It&rsquo;s not exactly authentication but more publication of data in a
+sense that it becomes part of a sequential public record.  From that
+point on, it can be looked up and verified.</p>
+
+<!-- More -->
+
+
+<p>The clever part is that the public record isn&rsquo;t posted in a particular
+place or location but is distributed all over, approximately to
+everyone who cares.  Since everyone has a copy, they can be verified
+against each other.</p>
+
+<p>As pointed out in the article below, it&rsquo;s like publishing a snippet
+about a transaction in a newspaper which is then sent out to all
+subscribers.  In this case, though, the newspaper contains all of the
+transactions ever published there and just keeps adding to them.  You
+can see one of the first problems right there.  This growing &ldquo;ledger&rdquo;
+just keeps, well, growing.  It doesn&rsquo;t seem to scale well as they say.</p>
+
+<p><a href="http://www.wired.co.uk/news/archive/2016-01/05/blockchain-is-the-new-signature">How the blockchain will enable self-service government</a> by Brian Forde and Michael Casey of Wired UK.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Atomic Energy Toys from the 50s]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/atomic-energy-toys-from-the-50s/"/>
+    <updated>2016-01-08T21:30:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/atomic-energy-toys-from-the-50s</id>
+    <content type="html"><![CDATA[<p><a href="http://www.orau.org/PTP/collection/atomictoys/GilbertU238Lab.htm">Gilbert U-238 Atomic Energy Lab (1950-1951)</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Much Faster Than SPARCstation 20]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20/"/>
+    <updated>2016-01-08T21:27:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20</id>
+    <content type="html"><![CDATA[<blockquote><p>A couple weeks back, I tweeted the following:</p>
+
+<p>&ldquo;Turns out a Raspberry Pi now is about 6× as fast as a SPARCstation 20
+was 20 years ago. And a Pi 2 is more like 15× as fast.&rdquo;</p>
+
+<p>I was a little low in my numbers, too&mdash;they’re more like 7× and 16×
+to 41× as fast&mdash;since I was going from memory!</p>
+
+<p>Here’s how I came up with that.</p></blockquote>
+
+<p><a href="http://eschatologist.net/blog/?p=266">Raspberry Pi vs SPARCstation 20: Fight!</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
+    <updated>2016-01-08T21:22:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
+    <content type="html"><![CDATA[<p>Michael Wittig writes on cloudonaut.io,</p>
+
+<blockquote><p>As an AWS Cloud Consultant I see many AWS accounts. During the year I
+collected mistakes that I saw in each account and aggregated them to
+provide you my best of. It turned out that the 5 most common mistakes
+on AWS are:</p>
+
+<ul>
+<li>managing infrastructure manually</li>
+<li>not using Auto Scaling Groups</li>
+<li>not analyzing metrics in CloudWatch</li>
+<li>ignoring Trusted Advisor</li>
+<li>underutilizing virtual machines</li>
+</ul>
+</blockquote>
+
+<p><a href="https://cloudonaut.io/5-aws-mistakes-you-should-avoid/">5 AWS Mistakes You Should Avoid</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Time To Catch Up]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/time-to-catch-up/"/>
+    <updated>2016-01-08T21:20:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/time-to-catch-up</id>
+    <content type="html"><![CDATA[<p>Okay, it&rsquo;s time to catch up.  I haven&rsquo;t posted here since November but
+I&rsquo;ve been stuffing links away in Evernote so it&rsquo;s time to empty some
+of those out and post them, even if they&rsquo;re a few days or weeks old.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Modern C Programming]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/modern-c-programming/"/>
+    <updated>2016-01-08T21:13:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/modern-c-programming</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a while since I&rsquo;ve written any serious C programs, but I
+found this post via Hacker News quite thorough.</p>
+
+<p><a href="https://matt.sh/howto-c">How to C in 2016</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeblip Synthesizer]]></title>
@@ -396,241 +539,6 @@ quick post.</p></blockquote>
 <p>Blogging as easy as tweeting.  That makes perfect sense.</p>
 
 <p><a href="http://ihnatko.com/2015/11/01/life-on-marsedit/">Life On MarsEdit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More Short and Medium Length Blogging]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging/"/>
-    <updated>2015-11-05T06:34:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging</id>
-    <content type="html"><![CDATA[<p>Okay, fine, Andy Ihnatko has me spun up again about blogging more with
-his disucussion on this week&rsquo;s Macbreak Weekly about blogging more
-again and rediscovering MarsEdit  He refers to Jason Snell&rsquo;s Six
-Colors, John Gruber&rsquo;s Daring Fireball and Jim Dalrymple&rsquo;s The Loop.
-Even Leo said he was doing the same thing on his rejuvenated Leoville.</p>
-
-<p>Okay, I&rsquo;ll try kicking it up a notch, but maybe it&rsquo;s also time to
-reflect on my setup with Markdown &ndash; Octopress &ndash; Github pages.</p>
-
-<p><a href="https://twit.tv/shows/macbreak-weekly/episodes/479">Macbreak Weekly #479</a><br />
-<a href="http://ihnatko.com/">Andy Ihnatko&rsquo;s Celestial Waste of Bandwidth</a><br />
-<a href="https://sixcolors.com/">Six Colors</a><br />
-<a href="http://www.loopinsight.com/">The Loop</a><br />
-<a href="http://www.leoville.com/">Leoville</a><br />
-<a href="http://daringfireball.net/">Daring Fireball</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chrome OS and Android Merge]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge/"/>
-    <updated>2015-11-05T06:31:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/chrome-os-and-android-merge</id>
-    <content type="html"><![CDATA[<p>I think John Gruber of Daring Fireball said it best.  &ldquo;I think this
-was inevitable. Android can (and does) run Chrome. Chrome can’t run
-Android. And the browser-based web is decreasing in importance.&rdquo;</p>
-
-<p><a href="http://daringfireball.net/linked/2015/11/02/chromeos-to-fold">WSJ: &ldquo;Google to Fold Chrome Operating System Into Android&rdquo;</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kilogram Conflict Resolved at Last]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last/"/>
-    <updated>2015-10-14T00:39:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last</id>
-    <content type="html"><![CDATA[<blockquote><p>For decades, metrologists have strived to retire ‘Le Grand K’ — the
-platinum and iridium cylinder that for 126 years has defined the
-kilogram from a high-security vault outside Paris. Now it looks as if
-they at last have the data needed to replace the cylinder with a
-definition based on mathematical constants.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>One method, pioneered by an international team known as the Avogadro
-Project, involves counting the atoms in two silicon-28 spheres that
-each weigh the same as the reference kilogram. This allows them to
-calculate a value for Avogadro’s constant, which the researchers
-convert into a value for Planck’s constant. Another method uses a
-device called a watt balance to produce a value for Planck’s constant
-by weighing a test mass calibrated according to the reference kilogram
-against an eletromagnetic force.</p></blockquote>
-
-<p><a href="http://www.nature.com/news/kilogram-conflict-resolved-at-last-1.18550">Kilogram Conflict Resolved at Last</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Explicit Programming]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming/"/>
-    <updated>2015-10-02T02:44:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming</id>
-    <content type="html"><![CDATA[<p>An excellent article that shows how being more explicit in the code
-makes for programs that are more readable.</p>
-
-<p><a href="https://www.dzombak.com/blog/2014/07/explicit-programming.html">Explicit Programming</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Service Oriented Architecture]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture/"/>
-    <updated>2015-10-02T02:36:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture</id>
-    <content type="html"><![CDATA[<p>Here&rsquo;s an interesting article about Uber&rsquo;s use of service oriented
-architecture (SOA).</p>
-
-<blockquote><p>As core domain models grew and new features were introduced, our
-components became tightly coupled, and enforcing encapsulation made
-separation of concerns difficult. Continuous integration turned into a
-liability because deploying the codebase meant deploying everything at
-once. Our engineering team experienced rapid growth and scaling, which
-not only meant handling more requests but also handling a significant
-increase in developer activity. Adding new features, fixing bugs, and
-resolving technical debt all in a single repo became extremely
-difficult. Tribal knowledge was required before attempting to make a
-single change.</p></blockquote>
-
-<p><a href="https://eng.uber.com/soa/">Service-Oriented Architecture: Scaling Our Codebase As We Grow</a></p>
-
-<p><a href="http://martinfowler.com/articles/microservices.html">Microservices</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Service-oriented_architecture">SOA on Wikipedia</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
-    <updated>2015-10-01T06:05:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
-    <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
-we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
-JavaScript performance has become wildly divergent from iOS JavaScript
-performance. And not in a good way.&rdquo;</p>
-
-<p>He says:</p>
-
-<blockquote><p>This is the benchmark most representative of Discourse performance,
-and the absolute best known Android score for this benchmark is right
-at ~400ms on a Samsung Galaxy S6. That doesn&rsquo;t seem too bad until you
-compare..</p>
-
-<p>iPhone 5 → 340ms<br />
-iPhone 5s → 175ms<br />
-iPhone 6 → 140ms<br />
-iPad Air 2 → 120ms<br />
-iPhone 6s → 60-70ms</p>
-
-<p>In a nutshell, the fastest known Android device available today &mdash; and
-there are millions of Android devices much slower than that out there
-&mdash; performs 5× slower than a new iPhone 6s, and a little worse than a
-2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
-
-<p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
-    <updated>2015-09-30T05:02:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
-    <content type="html"><![CDATA[<p>For some reason, the chat paradigm has become overly popular.  Internet
-relay chat (IRC) was interesting in the mid-90s as a way to
-communicate in an informal, unstructured sense.  However, I can&rsquo;t
-believe it&rsquo;s still so popular.  Then we have Hipchat, Slack and
-others.  What&rsquo;s the deal?</p>
-
-<p>What is the utility of an endless scroll of mixed up and confused,
-uncollated, blended conversations with no good way to determine their
-topics or context?</p>
-
-<p>Maybe it is the valid rebellion against email.  I thought for a while
-that email had reached the end of its usefulness.  However, in my own
-personal quest for a substitute, I&rsquo;ve reluctantly come to the
-conclusion that email is the only workable, reliable solution.</p>
-
-<p>Granted phone text messages are how I normally communicate with my
-family.  Beyond my immediate family, family and friends are all on
-Facebook.  One or two people still seem to use Google+ and, of course,
-most Google employees.</p>
-
-<p>Email has subjects, labels and excellent search.  It accommodates
-messages of any length, including super short.</p>
-
-<p>I do like the idea of minimal email and Google Inbox makes a valiant
-attempt but I expect it to be squashed any minute as is the end of all
-Google services, useful or not, end up.  Ultimately, the native, plain
-old Gmail is actually quite minimal when you really look at it.  Each
-message in a conversation has the names of the people, a picture of
-the sender and the message.  It looks like chat.</p>
-
-<p>One personal change I&rsquo;ve made quietly over the past few months is to
-drop all signatures including just signing my name on email messages.
-The truth is we still have a compulsion to write an email message like
-a letter or office memo, and not like a tweet or chat snippet.  I&rsquo;ll
-still write in complete, hopefully correct, sentences with correct
-spelling.  When corresponding with someone I don&rsquo;t often send email
-to, then I&rsquo;m less familiar and will include my first name or full name
-and maybe even a signature if it&rsquo;s a business message.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blue Moon Definition Was Wrong]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong/"/>
-    <updated>2015-08-02T03:14:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong</id>
-    <content type="html"><![CDATA[<p><em>This is a blog post I published in Mon 2010-11-22 on the previous
-<a href="http://monolith149daily.blogspot.com/2010/11/blue-moon-definition-was-wrong.html">Monolith149 Daily
-Site</a>.</em></p>
-
-<p><em>What does this mean?  According to the &ldquo;new incorrect definition&rdquo; the
- blue moon was this past week 31 Jul (based on time zone actually) but
- the next &ldquo;old correct definition&rdquo; blue moon is not actually until 2016-05-21!</em></p>
-
-<p>From a Space.com article by Joe Rao.</p>
-
-<p>I was wrong.  My wife said last night that the moon was a blue moon.
-I said, that&rsquo;s not possible because a blue moon is a second full moon
-in the same month and that couldn&rsquo;t happen on 21 Nov.  It has to
-happen at the very end of a month.  She pointed me at the above
-article that explains it.</p>
-
-<p>The short answer is that the two full moons in a month definition is
-actually erroneous.</p>
-
-<p>Rao notes that Lawrence J. Lafleur, in <em>Sky and Telescope</em> in 1943,
-quotes a 1937 edition of the <em>Maine Farmer&rsquo;s Almanac</em>, stating that a
-blue moon is the rare occurance of four full moons in a season instead
-of three.  The blue moon is the third moon in that season.</p>
-
-<p>The mistake was apparently made by James Hugh Pruett in a 1946 <em>Sky and
-Telescope</em> where he misinterpreted Lafleur&rsquo;s explanation to mean a
-second full moon in a single month.  (See the above article for
-details).</p>
-
-<p>The wrong explanation was propagated by Deborah Byrd in the radio
-program &ldquo;Stardate&rdquo; in 1980 and then the wrong definition, quoting Rao,
-&ldquo;went viral.&rdquo;</p>
-
-<p>It all makes me wonder when I first learned of the
-two-full-moons-in-a-month definition.  I would have thought it was
-long before 1980, but maybe it was after that date.</p>
-
-<p>Well it sort of spoils the whole thing.  Now we&rsquo;ll have to talk about
-old-correct-definition blue moons and new-incorrect-definition blue
-moons and none of them will seem quite right any more.</p>
-
-<p>This would all be a lot simpler if the moon would just actually turn
-blue once in a while.</p>
-
-<p><a href="http://www.space.com/9566-strange-story-sunday-blue-moon.html">The Really Strange Story Behind Sunday&rsquo;s Blue Moon
-by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
 ]]></content>
   </entry>
   

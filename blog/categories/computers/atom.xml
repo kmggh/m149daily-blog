@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computers | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computers/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-21T14:56:21-05:00</updated>
+  <updated>2016-01-08T22:17:10-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
+    <updated>2016-01-08T21:57:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
+    <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
+done, brought back memories, and is quite accurate.</p>
+
+<p><a href="https://youtu.be/BbVAvDbzXFk">The ultimate Amiga 500 (sic) talk</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Much Faster Than SPARCstation 20]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20/"/>
+    <updated>2016-01-08T21:27:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20</id>
+    <content type="html"><![CDATA[<blockquote><p>A couple weeks back, I tweeted the following:</p>
+
+<p>&ldquo;Turns out a Raspberry Pi now is about 6× as fast as a SPARCstation 20
+was 20 years ago. And a Pi 2 is more like 15× as fast.&rdquo;</p>
+
+<p>I was a little low in my numbers, too&mdash;they’re more like 7× and 16×
+to 41× as fast&mdash;since I was going from memory!</p>
+
+<p>Here’s how I came up with that.</p></blockquote>
+
+<p><a href="http://eschatologist.net/blog/?p=266">Raspberry Pi vs SPARCstation 20: Fight!</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The 19-Inch Rack]]></title>
@@ -123,86 +154,6 @@ J. Vaughan-Nichols on ZD Net</a><br />
 <p>From Jason Snell at his new site, Six Colors, &ldquo;<a href="http://sixcolors.com/post/2014/10/apples-ipadmac-event-first-thoughts/">Apple’s iPad/Mac event: First thoughts</a>.&rdquo;</p>
 
 <p>From <a href="http://www.theverge.com/2014/10/16/6989443/apple-ipad-mac-event-8-most-important-things">The Verge, &ldquo;The 8 most important announcements from the Apple iPad and Mac event&rdquo;</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Electronically Stored Program 65 Years Ago]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago/"/>
-    <updated>2013-06-22T07:41:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/22/first-electronically-stored-program-65-years-ago</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Williams-tube.jpg" title="" ></p>
-
-<p>Via <a href="https://twitter.com/slashdot/status/348387564174065665">@slashdot</a>.</p>
-
-<p>Sixty-five Years Ago, Manchester&rsquo;s &lsquo;Baby&rsquo; Ran Electronically Stored Program. <a href="http://hardware.slashdot.org/story/13/06/22/0247220/65-years-ago-manchesters-baby-ran-electronically-stored-program?utm_source=slashdot&amp;utm_medium=twitter">Posting at Slashdot</a>.</p>
-
-<blockquote><p>&ldquo;as the Manchester Small Scale Experimental Machine aka &lsquo;Baby&rsquo; became
-the world&rsquo;s first computer to run an electronically stored program on
-June 21, 1948. The &lsquo;Baby&rsquo; was developed by Frederic C. Williams, Tom
-Kilburn and Geoff Tootill at the University of Manchester.</p></blockquote>
-
-<!-- more -->
-
-
-<p>From <a href="http://www.computer50.org/kgill/williams/williams.html">The Williams Tube</a> maintained by Brian Napper at the
-University of Manchester.</p>
-
-<blockquote><p>By March 1947 Tom Kilburn had discovered a different and better method
-of storing information, more suited to storing a large number of bits
-on the same tube. By November 1947 they had succeeded in storing 2048
-bits for a period of hours, having investigated a number of variations
-on storing a set of bits (dot-dash, dash-dot, defocus-focus,
-focus-defocus).</p>
-
-<p>The general principle behind the storage of binary information was to
-plant charge in one of two different ways at an array of spots on a
-CRT using standard techniques. The type of charge at any spot,
-representing a 0 or 1, could be sensed by a metal pick-up plate on the
-outside of the CRT screen, thus &ldquo;reading&rdquo; the &ldquo;value&rdquo; of the
-spot. However, the charge dissipated very quickly, so values were
-preserved indefinitely by continuously reading their value and
-resetting the charge as appropriate to the value.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>When in Autumn 1947 the group had successfully stored 2048 digits,
-they had the problem of proving that the store would operate
-successfully inside a computer. They could only alter bits at the rate
-of around 1 a second, which was 100,000 times slower than the store&rsquo;s
-capability. In the end they decided that the simplest way to test that
-the CRT storage system was suitable for use in computers was to build
-a small computer round it. So the way was clear for the construction
-of the SSEM, the &ldquo;Baby&rdquo;, &ldquo;to subject the system to the most searching
-test possible.&rdquo; The Baby was therefore built to show that
-Williams-Kilburn CRT Stores could work dynamically in a working
-computer, and to demonstrate the feasibility of building a much larger
-machine using them. That it also was the first machine to realise the
-stored-program computer, and prove its feasibility was a secondary
-consideration.</p></blockquote>
-
-<p><img class="center" src="/postimages/20130622_Manchester_Computers.jpg" title="" ></p>
-
-<p><em>Image: <a href="http://www.reginaldtiangha.com/cpsc509/williams.htm">Williams, Crawley and McPherson admiring the implementation
-of the Williams Tube in an IBM 701</a> in 1953 image from Early British
-Computers by Simon H. Lavington</em></p>
-
-<p><em>Top Image: <a href="http://commons.wikimedia.org/wiki/File:Williams-tube.jpg">A Williams tube. CC 2.0</a>.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Very Helpful Apple Salesperson Helped Me Save $750]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50/"/>
-    <updated>2013-06-18T00:03:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130618_macbook_air.jpg" title="" ></p>
-
-<p>Via <a href="https://twitter.com/HNTweets/status/346834662091534336">@HNTweets</a></p>
-
-<p><a href="http://virtualpants.com/post/53248259631/buying-the-new-macbook-air">Buying the new MacBook Air</a> at Virtual Pants.</p>
-
-<p><em>Image credit: <a href="http://www.flickr.com/photos/pahudson/5128395154/">Paul Hudson at Flickr</a>.  CC by 2.0.</em></p>
 ]]></content>
   </entry>
   

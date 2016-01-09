@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: amiga | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/amiga/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-01-08T22:17:10-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
+    <updated>2016-01-08T21:57:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
+    <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
+done, brought back memories, and is quite accurate.</p>
+
+<p><a href="https://youtu.be/BbVAvDbzXFk">The ultimate Amiga 500 (sic) talk</a></p>
+]]></content>
+  </entry>
+  
+</feed>

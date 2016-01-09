@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-21T14:56:21-05:00</updated>
+  <updated>2016-01-08T22:17:10-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
+    <updated>2016-01-08T21:57:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
+    <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
+done, brought back memories, and is quite accurate.</p>
+
+<p><a href="https://youtu.be/BbVAvDbzXFk">The ultimate Amiga 500 (sic) talk</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Block Chain for Authentication]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication/"/>
+    <updated>2016-01-08T21:39:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication</id>
+    <content type="html"><![CDATA[<p>The latest rage is all about the block chain, made popular by Bitcoin.
+It&rsquo;s not exactly authentication but more publication of data in a
+sense that it becomes part of a sequential public record.  From that
+point on, it can be looked up and verified.</p>
+
+<!-- More -->
+
+
+<p>The clever part is that the public record isn&rsquo;t posted in a particular
+place or location but is distributed all over, approximately to
+everyone who cares.  Since everyone has a copy, they can be verified
+against each other.</p>
+
+<p>As pointed out in the article below, it&rsquo;s like publishing a snippet
+about a transaction in a newspaper which is then sent out to all
+subscribers.  In this case, though, the newspaper contains all of the
+transactions ever published there and just keeps adding to them.  You
+can see one of the first problems right there.  This growing &ldquo;ledger&rdquo;
+just keeps, well, growing.  It doesn&rsquo;t seem to scale well as they say.</p>
+
+<p><a href="http://www.wired.co.uk/news/archive/2016-01/05/blockchain-is-the-new-signature">How the blockchain will enable self-service government</a> by Brian Forde and Michael Casey of Wired UK.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
+    <updated>2016-01-08T21:22:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
+    <content type="html"><![CDATA[<p>Michael Wittig writes on cloudonaut.io,</p>
+
+<blockquote><p>As an AWS Cloud Consultant I see many AWS accounts. During the year I
+collected mistakes that I saw in each account and aggregated them to
+provide you my best of. It turned out that the 5 most common mistakes
+on AWS are:</p>
+
+<ul>
+<li>managing infrastructure manually</li>
+<li>not using Auto Scaling Groups</li>
+<li>not analyzing metrics in CloudWatch</li>
+<li>ignoring Trusted Advisor</li>
+<li>underutilizing virtual machines</li>
+</ul>
+</blockquote>
+
+<p><a href="https://cloudonaut.io/5-aws-mistakes-you-should-avoid/">5 AWS Mistakes You Should Avoid</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[PC Engines]]></title>
@@ -53,147 +119,6 @@ used them enough in the past so I&rsquo;m unaware of the differences.</p>
 
 <p>I hear that Notes has become quite good but I&rsquo;m sticking with Evernote
 and Drafts on my phone.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[KeyKOS The Nanokernel]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel/"/>
-    <updated>2015-11-14T21:44:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/14/keykos-the-nanokernel</id>
-    <content type="html"><![CDATA[<p>I don&rsquo;t recall ever having heard of this operating system.  The ideas
-sound quite interesting and nice.  There&rsquo;s a lot I have imagined in
-here.</p>
-
-<p>From the abstract:</p>
-
-<blockquote><p>The KeyKOS nanokernel is a capability-based object-oriented operating
-system that has been in production use since 1983. Its original
-implementation was motivated by the need to provide security,
-reliability, and 24-hour availability for applications on the Tymnet®
-hosts. Requirements included the ability to run multiple
-instantiations of several operating systems on a single hardware
-system. KeyKOS was implemented on the System/370, and has since been
-ported to the 680x0 and 88x00 processor families. Implementations of
-EDX, RPS, VM, MVS, and UNIX® have been constructed. The nanokernel is
-approximately 20,000 lines of C code, including capability,
-checkpoint, and virtual memory support. The nanokernel itself can run
-in less than 100 Kilobytes of memory.</p>
-
-<p>KeyKOS is characterized by a small set of powerful and highly
-optimized primitives that allow it to achieve performance competitive
-with the macrokernel operating systems that it replaces. Objects are
-exclusively invoked through protected capabilities, supporting high
-levels of security and intervals between failures in excess of one
-year. Messages between agents may contain both capabilities and
-data. Checkpoints at tunable intervals provide system-wide backup,
-fail-over support, and system restart times typically less than 30
-seconds. In addition, a journaling mechanism provides support for
-high-performance transaction processing. On restart, all processes are
-restored to their exact state at the time of checkpoint, including
-registers and virtual memory.</p></blockquote>
-
-<p><a href="http://www.cis.upenn.edu/~KeyKOS/NanoKernel/NanoKernel.html">The KeyKOS Nanokernel Architecture</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Docker Without Docker]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker/"/>
-    <updated>2015-04-26T14:08:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/04/26/docker-without-docker</id>
-    <content type="html"><![CDATA[<blockquote><ul>
-<li><p>The systemd-nspawn command runs a command or OS in a lightweight
-namespace container</p></li>
-<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
-fully virtualizes the file system hierarchy, as well as the process
-tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
-</ul>
-</blockquote>
-
-<p>Trying it out (from the article):</p>
-
-<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
-$ systemd-nspawn -D debian-tree/ /bin/bash 
-$ systemd-nspawn -D debian-tree/ /sbin/init
-</code></pre>
-
-<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
-
-<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
-at the end&rdquo;</p>
-
-<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
-RAM and 200% CPU&rdquo;</p>
-
-<p>&ldquo;Give me a container that has its own private network and its own IP
-and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
-
-<p>&ldquo;Run this container with its own daemons in it, and monitor them to
-make sure they don&rsquo;t fail&rdquo;</p>
-
-<p>&ldquo;Download this container from the Docker Hub and run it every time I
-boot, but without installing Docker&rdquo;</p></blockquote>
-
-<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bazaar]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar/"/>
-    <updated>2015-01-14T07:33:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar</id>
-    <content type="html"><![CDATA[<p>From looking at my development directories, it appears that it was in
-early 2008 that I moved my personal source code control system from
-CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
-about Bazaar from a coworker, John.  It was Python-based, the system
-used by Canonical for Ubuntu and I found it to work extremely well.
-Since then, for seven years now, I&rsquo;ve used it for my personal version
-management and also as a shadow version control system at work.</p>
-
-<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
-trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
-indications that Bazaar is no longer maintained and may be declining
-as a version control choice.  Maybe it was never that popular.</p>
-
-<p>Lately, Git seems to be the version control system of choice and it is
-the system I use every day for work.  I&rsquo;m wondering if I should start
-using it for my personal work.  The command set and, as they say, &ldquo;the
-workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
-That&rsquo;s probably okay.</p>
-
-<p>I already like it less because, if I want to make a branch of a
-particular version or another branch to work on, there needs to be a
-root branch of sorts, a hub to clone the other branch from.  With
-Bazaar you can just branch any branch, merge changes from it, etc.  So
-now I&rsquo;ll have to make some local hub to clone, push and pull from.
-Yech.  That seems so archaic now.</p>
-
-<p>However, I found this blog post by Jelmer Vernooij who was a primary
-developer of Bazaar.  He basically tells the complete history and also
-how it&rsquo;s finally been abandoned for the most part.  So, I guess I
-should start moving on to git.</p>
-
-<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
-Mercurial which may be worth a look.  Ah well.</p>
-
-<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
-become rare by mid-2011. In early 2012 the members of the Canonical
-Bazaar team were assigned to other projects, though we would still fix
-the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
-
-<p>During my spare time in the first 6 months of 2012 I tried to finish
-my remaining in-progress branches. After that, I thought I would see
-how it would go.</p>
-
-<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
-about it, but Git is a decent source code management system. Bazaar
-isn&rsquo;t going anywhere; no doubt there will be users for a few years to
-come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
-level I was hoping.</p></blockquote>
-
-<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
 ]]></content>
   </entry>
   

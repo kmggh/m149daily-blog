@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cloud | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cloud/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-01-08T22:17:10-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
+    <updated>2016-01-08T21:22:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
+    <content type="html"><![CDATA[<p>Michael Wittig writes on cloudonaut.io,</p>
+
+<blockquote><p>As an AWS Cloud Consultant I see many AWS accounts. During the year I
+collected mistakes that I saw in each account and aggregated them to
+provide you my best of. It turned out that the 5 most common mistakes
+on AWS are:</p>
+
+<ul>
+<li>managing infrastructure manually</li>
+<li>not using Auto Scaling Groups</li>
+<li>not analyzing metrics in CloudWatch</li>
+<li>ignoring Trusted Advisor</li>
+<li>underutilizing virtual machines</li>
+</ul>
+</blockquote>
+
+<p><a href="https://cloudonaut.io/5-aws-mistakes-you-should-avoid/">5 AWS Mistakes You Should Avoid</a></p>
+]]></content>
+  </entry>
+  
+</feed>

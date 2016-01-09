@@ -4,7 +4,7 @@
   <title><![CDATA[Category: security | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/security/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-21T14:56:21-05:00</updated>
+  <updated>2016-01-08T22:17:10-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Block Chain for Authentication]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication/"/>
+    <updated>2016-01-08T21:39:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication</id>
+    <content type="html"><![CDATA[<p>The latest rage is all about the block chain, made popular by Bitcoin.
+It&rsquo;s not exactly authentication but more publication of data in a
+sense that it becomes part of a sequential public record.  From that
+point on, it can be looked up and verified.</p>
+
+<!-- More -->
+
+
+<p>The clever part is that the public record isn&rsquo;t posted in a particular
+place or location but is distributed all over, approximately to
+everyone who cares.  Since everyone has a copy, they can be verified
+against each other.</p>
+
+<p>As pointed out in the article below, it&rsquo;s like publishing a snippet
+about a transaction in a newspaper which is then sent out to all
+subscribers.  In this case, though, the newspaper contains all of the
+transactions ever published there and just keeps adding to them.  You
+can see one of the first problems right there.  This growing &ldquo;ledger&rdquo;
+just keeps, well, growing.  It doesn&rsquo;t seem to scale well as they say.</p>
+
+<p><a href="http://www.wired.co.uk/news/archive/2016-01/05/blockchain-is-the-new-signature">How the blockchain will enable self-service government</a> by Brian Forde and Michael Casey of Wired UK.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>

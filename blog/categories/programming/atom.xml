@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2015-11-21T14:56:21-05:00</updated>
+  <updated>2016-01-08T22:17:10-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Modern C Programming]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/modern-c-programming/"/>
+    <updated>2016-01-08T21:13:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/modern-c-programming</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a while since I&rsquo;ve written any serious C programs, but I
+found this post via Hacker News quite thorough.</p>
+
+<p><a href="https://matt.sh/howto-c">How to C in 2016</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Write a Python Web Framework]]></title>
@@ -94,64 +106,6 @@ there are millions of Android devices much slower than that out there
 2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
 
 <p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bazaar]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar/"/>
-    <updated>2015-01-14T07:33:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/bazaar</id>
-    <content type="html"><![CDATA[<p>From looking at my development directories, it appears that it was in
-early 2008 that I moved my personal source code control system from
-CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
-about Bazaar from a coworker, John.  It was Python-based, the system
-used by Canonical for Ubuntu and I found it to work extremely well.
-Since then, for seven years now, I&rsquo;ve used it for my personal version
-management and also as a shadow version control system at work.</p>
-
-<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
-trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
-indications that Bazaar is no longer maintained and may be declining
-as a version control choice.  Maybe it was never that popular.</p>
-
-<p>Lately, Git seems to be the version control system of choice and it is
-the system I use every day for work.  I&rsquo;m wondering if I should start
-using it for my personal work.  The command set and, as they say, &ldquo;the
-workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
-That&rsquo;s probably okay.</p>
-
-<p>I already like it less because, if I want to make a branch of a
-particular version or another branch to work on, there needs to be a
-root branch of sorts, a hub to clone the other branch from.  With
-Bazaar you can just branch any branch, merge changes from it, etc.  So
-now I&rsquo;ll have to make some local hub to clone, push and pull from.
-Yech.  That seems so archaic now.</p>
-
-<p>However, I found this blog post by Jelmer Vernooij who was a primary
-developer of Bazaar.  He basically tells the complete history and also
-how it&rsquo;s finally been abandoned for the most part.  So, I guess I
-should start moving on to git.</p>
-
-<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
-Mercurial which may be worth a look.  Ah well.</p>
-
-<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
-become rare by mid-2011. In early 2012 the members of the Canonical
-Bazaar team were assigned to other projects, though we would still fix
-the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
-
-<p>During my spare time in the first 6 months of 2012 I tried to finish
-my remaining in-progress branches. After that, I thought I would see
-how it would go.</p>
-
-<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
-about it, but Git is a decent source code management system. Bazaar
-isn&rsquo;t going anywhere; no doubt there will be users for a few years to
-come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
-level I was hoping.</p></blockquote>
-
-<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
 ]]></content>
   </entry>
   
