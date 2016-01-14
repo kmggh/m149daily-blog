@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-01-08T22:17:10-05:00</updated>
+  <updated>2016-01-13T21:36:51-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scaling AWS]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/13/scaling-aws/"/>
+    <updated>2016-01-13T21:21:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/13/scaling-aws</id>
+    <content type="html"><![CDATA[<p>From the web site High Scalability is a nice article on scaling a
+service on Amazon Web Services from one to over 11 million users.
+It&rsquo;s based on a talk by Joel Williams from AWS.</p>
+
+<!-- More -->
+
+
+<p>He lists  these main points.</p>
+
+<blockquote><ul>
+<li><p>Start with SQL and only move to NoSQL when necessary.</p></li>
+<li><p>A consistent theme is take components and separate them out. This
+allows those components to scale and fail independently. It applies to
+breaking up tiers and creating microservices.</p></li>
+<li><p>Only invest in tasks that differentiate you as a business, don&rsquo;t
+reinvent the wheel.</p></li>
+<li><p>Scalability and redundancy are not two separate concepts, you can
+often do both at the same time.</p></li>
+<li><p>There&rsquo;s no mention of costs. That would be a good addition to the talk
+as that is one of the major criticisms of AWS solutions.</p></li>
+</ul>
+</blockquote>
+
+<p>The section for just one user is also quite helpful.</p>
+
+<blockquote><ul>
+<li><p>Run on a single instance, maybe a type t2.micro. Instance types
+comprise varying combinations of CPU, memory, storage, and networking
+capacity and give you the flexibility to choose the appropriate mix of
+resources for your applications.</p></li>
+<li><p>The one instance would run the entire web stack, for example: web app,
+database, management, etc.</p></li>
+<li><p>Use Amazon Route 53 for the DNS.</p></li>
+<li><p>Attach a single Elastic IP address to the instance.</p></li>
+</ul>
+</blockquote>
+
+<p><a href="http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html">A Beginner&rsquo;s Guide To Scaling To 11 Million+ Users On Amazon&rsquo;s AWS</a></p>
+
+<p><a href="https://youtu.be/vg5onp8TU6Q">AWS re:Invent 2015 | (ARC301) Scaling Up to Your First 10 Million Users</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
@@ -517,28 +565,6 @@ Maybe a good plact to split is a little more than a year back, say 1
 <p>I&rsquo;ll think more about putting the files on Dropbox though I&rsquo;m not sure
 there&rsquo;s a big push to do this since I can always move the files into
 my source directory later if I&rsquo;m away from home.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Perfect Blogging Interface]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface/"/>
-    <updated>2015-11-05T06:58:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface</id>
-    <content type="html"><![CDATA[<p>I like what Andy Ihnatko wrote in his post &ldquo;Life On MarsEdit&rdquo; about
-his conception of the perfect blogging interface.</p>
-
-<blockquote><p>What I really want is a system-wide hotkey. No matter where I am or
-what I’m doing, tapping it causes a little note card window to pop
-up. I type a few sentences, maybe click a Twitter-style icon button to
-drop in a photo or paste in a link (which the app automatically grabs
-from the frontmost browser window), click the “Post” button, and then
-I’m back to what I was doing before I had this brilliant idea for a
-quick post.</p></blockquote>
-
-<p>Blogging as easy as tweeting.  That makes perfect sense.</p>
-
-<p><a href="http://ihnatko.com/2015/11/01/life-on-marsedit/">Life On MarsEdit</a></p>
 ]]></content>
   </entry>
   
