@@ -4,7 +4,7 @@
   <title><![CDATA[Category: cloud | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cloud/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-01-13T21:36:51-05:00</updated>
+  <updated>2016-02-06T12:34:54-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Microcontainers and Alpine Linux]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
+    <updated>2016-02-06T12:07:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux</id>
+    <content type="html"><![CDATA[<p>This article on using Alpine Linux for Docker microcontainers is
+interesting and seems to be a valid way to make containers
+significantly more lightweight.</p>
+
+<!-- More -->
+
+
+<p>I didn&rsquo;t recall much about Alpine Linux so I fired up a Virtual Box
+and installed it.  It&rsquo;s definitely small.  It uses BusyBox and libc is
+different from the standard.  Python was there and it has a package
+manager which works well enough.</p>
+
+<p>It didn&rsquo;t pick up the name servers with DHCP so I kept having to
+manually configure resolve.conf.  That&rsquo;s a problem I&rsquo;m sure could be
+solved with some research and time.</p>
+
+<p>The most heartbreaking thing is that GNU Emacs doesn&rsquo;t work with that
+clib and seems that it&rsquo;s not going to.</p>
+
+<p>In the end I decided it was nice and small, but really if I need to
+run Linux in a persistent instance, I much prefer Ubuntu Server.</p>
+
+<p>If I ever do deploy something using Docker, then Alpine is certainly
+worth consiering if it supports the app and it&rsquo;s libraries.</p>
+
+<p><a href="http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html">Microcontainers – Tiny, Portable Docker Containers</a><br />
+<a href="http://www.alpinelinux.org">Alpine Linux</a><br/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>

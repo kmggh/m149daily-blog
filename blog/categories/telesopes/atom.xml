@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: telesopes | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/telesopes/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-02-06T12:34:54-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Observing Gravitational Waves]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves/"/>
+    <updated>2016-02-06T12:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves</id>
+    <content type="html"><![CDATA[<p>The search for detection of gravitational waves continues.</p>
+
+<p><a href="http://arstechnica.com/science/2016/02/after-100-years-scientists-are-finally-closing-in-on-einsteins-ripples/">Ars Technica article</a></p>
+]]></content>
+  </entry>
+  
+</feed>
