@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-02-06T12:34:54-05:00</updated>
+  <updated>2016-02-21T08:22:51-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[LIGO and the GW150914 Discovery]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery/"/>
+    <updated>2016-02-21T07:12:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery</id>
+    <content type="html"><![CDATA[<p>I finally found the paper for the recent LIGO discovery of gravity
+waves from a black hole merger, event GW150914 at 2015-09-14 09:50:45
++0000 which data implies was the merging of two black holes, one with
+mass 36 (+5, -4) solar masses and the other 29 (+4, -4) solar masses
+into an object of 62 (+4, -4) solar masses with 3 (+0.5, -0.5) solar
+masses radiated away (lost) as emitted gravitational waves.</p>
+
+<!-- More -->
+
+
+<p>B.P. Abbot and collaborators say,</p>
+
+<blockquote><p>Over 0.2 s, the signal increases in frequency and amplitude in about 8
+cycles from 35 to 150 Hz, where the amplitude reaches a maximum. The
+most plausible explanation for this evolution is the inspiral of two
+orbiting masses, m1 and m2, due to gravitational-wave emission.</p></blockquote>
+
+<p>The source redshift was measured as <em>z</em>=0.09 (+0.03, -0.04).</p>
+
+<p>One interesting outcome in the conclusions is support for massive
+black holes.</p>
+
+<blockquote><p>GW150914 demonstrates the existence of stellar-mass black holes more
+massive than ≃ 25 solar masses, and establishes that binary black
+holes can form in nature and merge within a Hubble time. Binary
+black holes have been predicted to form both in isolated binaries
+and in dense environments by dynamical interactions.  The
+formation of such massive black holes from stellar evolution
+requires weak massive-star winds, which are possible in stellar
+environments with metallicity lower than ≃ &frac12; the solar value.</p></blockquote>
+
+<p><a href="https://dcc.ligo.org/public/0122/P150914/014/LIGO-P150914_Detection_of_GW150914.pdf">The Paper: Observation of Gravitational Waves from a Binary Black Hole Merger by B. P. Abbott et al. (pdf)</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tuning Facebook]]></title>
@@ -474,48 +514,6 @@ posts just won&rsquo;t have the &ldquo;Read More&rdquo; link but the actual stor
 itself.  After all I can always do what I want here.  I can grow back
 the main page piece as much as I want when I want.  That&rsquo;s part of
 what&rsquo;s great about keeping your own blog.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apollo 11 Restored Video]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration/"/>
-    <updated>2015-11-18T06:52:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration</id>
-    <content type="html"><![CDATA[<p>From Wikipedia:</p>
-
-<blockquote><p>The Apollo 11 missing tapes refers to Apollo 11&rsquo;s slow-scan television
-(SSTV) telecast recorded in its raw format on telemetry data tape
-during the time of the first Moonlanding in 1969. The recordings were
-discovered to be &ldquo;missing&rdquo; after a team of retired NASA employees and
-contractors tried to locate the tapes in the early 2000s.</p></blockquote>
-
-<!-- More -->
-
-
-<blockquote><p>The data tapes were recorded as a backup in case the live television
-broadcasts failed for any reason. In order to broadcast the SSTV
-transmission on standard television, NASA ground receiving stations
-performed real-time scan conversion to the NTSC television format. The
-moonwalk&rsquo;s converted video signal was broadcast live around the world
-on July 21, 1969 (UTC). At the time, the NTSC broadcast was recorded
-on many videotapes and kinescope films: they were never missing.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Although the researchers never found the telemetry tapes they were
-looking for, they did discover the best visual quality NTSC videotapes
-as well as super 8 movie film taken of a video monitor in Australia,
-showing the SSTV transmission before it was converted. These visual
-elements were processed in 2009, as part of a NASA approved
-restoration project of the first Moonwalk. At a 2009 news conference
-in Washington, D.C., the research team released its findings regarding
-the tapes&#8217; disappearance. They also partially released newly enhanced
-footage obtained during the search. Lowry Digital completed the full
-Moonwalk restoration project in late 2009.</p></blockquote>
-
-<p><a href="https://en.wikipedia.org/wiki/Apollo_11_missing_tapes">Apollo 11 missing tapes (from Wikipedia)</a>
-<a href="https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html">Apollo 11 HD Videos (NASA)</a></p>
 ]]></content>
   </entry>
   
