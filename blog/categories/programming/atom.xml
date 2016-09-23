@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-02-21T08:22:51-05:00</updated>
+  <updated>2016-09-23T19:16:32-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Python Videos]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos/"/>
+    <updated>2016-09-20T23:42:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos</id>
+    <content type="html"><![CDATA[<p>Lately I&rsquo;ve been watching some of the videos from Pycon and have found
+these to be quite excellent.</p>
+
+<!-- More -->
+
+
+<ul>
+<li><a href="https://youtu.be/G-uKNd5TSBw">Keynote &ndash; Guido van Rossum &ndash; PyCon 2015</a></li>
+<li><a href="https://youtu.be/YgtL4S7Hrwo">Guido van Rossum &ndash; Python Language &ndash; PyCon 2016</a></li>
+<li><a href="https://youtu.be/KPzDX5TX5HE">Brett Cannon &ndash; How to make your code Python 2/3 compatible &ndash; PyCon 2015</a></li>
+<li><a href="https://youtu.be/k55d3ZUF3ZQ">Luciano Ramalho &ndash; Pythonic Objects: Implementing Productive APIs</a></li>
+<li><a href="https://youtu.be/6zQAu23bKF8">Harry Percival &ndash; Outside-In TDD &ndash; PyCon 2016</a></li>
+<li><a href="https://youtu.be/RAxiiRPHS9k">Gary Bernhardt Fast Test Slow Test</a></li>
+<li><a href="https://youtu.be/frZrBgWHJdY">Alex Martelli &ndash; Exception and error handling in Python 2 and Python 3 &ndash; PyCon 2016</a></li>
+<li><a href="https://youtu.be/E9wS6LdXM8Y">Thomas Ballinger &ndash; Finding closure with closures &ndash; PyCon 2016</a></li>
+<li><a href="https://youtu.be/bAcfPzxB3dk">Ned Batchelder &ndash; Machete-mode debugging &ndash; PyCon 2016</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Modern C Programming]]></title>
@@ -74,38 +100,6 @@ single change.</p></blockquote>
 <p><a href="http://martinfowler.com/articles/microservices.html">Microservices</a></p>
 
 <p><a href="https://en.wikipedia.org/wiki/Service-oriented_architecture">SOA on Wikipedia</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
-    <updated>2015-10-01T06:05:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
-    <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
-we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
-JavaScript performance has become wildly divergent from iOS JavaScript
-performance. And not in a good way.&rdquo;</p>
-
-<p>He says:</p>
-
-<blockquote><p>This is the benchmark most representative of Discourse performance,
-and the absolute best known Android score for this benchmark is right
-at ~400ms on a Samsung Galaxy S6. That doesn&rsquo;t seem too bad until you
-compare..</p>
-
-<p>iPhone 5 → 340ms<br />
-iPhone 5s → 175ms<br />
-iPhone 6 → 140ms<br />
-iPad Air 2 → 120ms<br />
-iPhone 6s → 60-70ms</p>
-
-<p>In a nutshell, the fastest known Android device available today &mdash; and
-there are millions of Android devices much slower than that out there
-&mdash; performs 5× slower than a new iPhone 6s, and a little worse than a
-2012 era iPhone 5 in Ember. How depressing.</p></blockquote>
-
-<p><a href="https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889">The State of JavaScript on Android in 2015 is… poor</a></p>
 ]]></content>
   </entry>
   
