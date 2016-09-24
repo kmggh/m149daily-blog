@@ -9,9 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="From looking at my development directories, it appears that it was in
-early 2008 that I moved my personal source code control system from
-CVS to &hellip;">
+  <meta name="description" content="I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year& &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -85,6 +85,82 @@ CVS to &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/nixos-linux/">NixOS Linux</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T08:04:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  08:04 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
+approaches there.  Here&rsquo;s my awkward summar.</p>
+
+<ul>
+<li>Packages are immutable, like values in a functional language. Making configuration changes involves generating a new package.</li>
+<li>Each package instance, each version, is stored on the system in it&rsquo;s
+own directory.  Files aren&rsquo;t installed all over the place in /usr/local/lib, /usr/lib, /usr/local/bin, etc.</li>
+<li>Due to the above, aliases are much more important than search paths.</li>
+<li>Also, the dependency tree for a package is very straightforward.</li>
+<li>System configuration is via a functional language and is a single expression in one file.</li>
+<li>So you can easily boot and run any configuration, back out changes, etc.</li>
+</ul>
+
+
+<p>I installed it on a Virtual box VM and played with it briefly.  One of
+the first negative things I noticed was a ps listing.  Since each
+package instance is under a single nixos directory with a directory
+named by a long random hash, and since every running process is in a
+bin directory (or some such) in one of those, the path to any running
+program is a bear.</p>
+
+<p>I pulled down nginx.  That was easy.  But then I went to configure it
+and that&rsquo;s where I came face to face with NixOS&#8217; trade off.  You don&rsquo;t
+change files in a package.  As I understand it so far, you add code
+into the single configuration file that essentially edits, in this
+case, the nginx config file in a sort of sed-like way, and produces a
+new package instance that is used.  So a nice and simple config file
+from nginx was turned into a functional language expression that now
+requires me to go learn that language.</p>
+
+<p>I stopped at that point but I&rsquo;m still fascinated by the distribution
+and the ideas there.  There are some nice hard lines and properties of
+cleanliness here.  Once the investment is made in learning the Nix
+config language, it may be straightforward to move on and maintain
+systems.  For a simple server instance this may be something to try.</p>
+
+<p>So, I&rsquo;ll move on with it soon and see how it goes.</p>
+
+<p><a href="http://nixos.org/">Nixos.org</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -552,85 +628,6 @@ science.</p></blockquote>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/19/sudden-galaxies/">Sudden Galaxies</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-19T08:12:00-05:00" pubdate data-updated="true">Wed 19 Nov 2014  08:12 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p>A team of astronomers using the Subaru Telescope&rsquo;s Suprime-Cam to
-perform the Subaru Ultra-Deep Survey for Lyman-alpha Emitters have
-looked back more than [<em>z=7</em>] to find 7 early galaxies that
-appeared quite suddenly within 700 million years of the Big Bang. The
-team, led by graduate student Akira Konno and Dr. Masami Ouchi
-(Associate Professor at the University of Tokyo&rsquo;s ICRR) was looking
-for a specific kind of galaxy called a Lyman-alpha emitter (LAE), to
-understand the role such galaxies may have played in an event called
-&ldquo;cosmic reionization&rdquo;.</p></blockquote>
-
-<p>The team looked at distant galaxies that primarily emit Lyman-alpha
-radiation, &ldquo;Lyman-alpha emitters&rdquo; or LAE, and saw fewer than expected,
-further back in time.  There&rsquo;s an apparent sudden cutoff at that
-redshift.  The redshift corresponds to a distance and time in history
-that&rsquo;s model dependent.  The standard big bang model would put this at
-about 13.1 billion years and only 700 million years after the big bang
-itself.  The cosmological-history implication is that these galaxies
-&ldquo;suddenly&rdquo; appear.</p>
-
-<p>One thing is pretty certain.  A cosmological redshift of seven
-indicates the universe was about 1/8 it&rsquo;s current size at the time the
-light they observed was emitted.  That&rsquo;s 1 / (<em>z</em> + 1).</p>
-
-<blockquote><p>According to the team&rsquo;s analysis, one reason that LAEs appeared very
-quickly is cosmic reionization. LAEs in the epoch of cosmic
-reionization became darker than the actual luminosity due to the
-presence of the neutral hydrogen fog. In the team&rsquo;s analysis of their
-observations, they suggest the possibility that the neutral fog
-filling the universe was cleared about 13.0 billion years ago and LAEs
-suddenly appeared in sight for the first time.&#8221;</p>
-
-<p>&ldquo;However, there are other possibilities to explain why LAEs appeared
-suddenly,&rdquo; said Dr. Ouchi, who is the principal investigator of this
-program. &ldquo;One is that clumps of neutral hydrogen around LAEs
-disappeared. Another is that LAEs became intrinsically bright. The
-reason of the intrinsic brightening is that the Lyman-alpha emission
-is not efficiently produced by the ionized clouds in a LAE due to the
-significant escape of ionizing photons from the galaxy. In either
-case, our discovery is an important key to understanding cosmic
-reionization and the properties of the LAEs in early universe.&rdquo;</p></blockquote>
-
-<p><a href="http://phys.org/news/2014-11-subaru-telescope-sudden-galaxies-early.html">Subaru Telescope detects sudden appearance of galaxies in the early universe at phys.org</a><br />
-<a href="http://www.icrr.u-tokyo.ac.jp/2014/11/19120001.html">Press release from ICRR</a><br />
-<a href="http://arxiv.org/pdf/1404.6066v2.pdf">PDF of paper &ldquo;Accelerated Evolution Of The Lyα Luminosity Function At z >~ 7 Revealed By The Subaru Ultra-Deep Survey For Lyα Emitters AT z = 7.3&rdquo;</a><br /></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/7/">&larr; Older</a>
@@ -656,6 +653,10 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2016/09/24/triumph-of-the-nerds/">Triumph of the Nerds</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2016/09/23/pictures-of-telescopes-by-telescopes/">Pictures of Telescopes by Telescopes</a>
       </li>
     
@@ -669,10 +670,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2016/09/23/jekyll/">Jekyll</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/20/python-videos/">Python Videos</a>
       </li>
     
   </ul>

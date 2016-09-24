@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-24T06:11:19-04:00</updated>
+  <updated>2016-09-24T14:48:24-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Triumph of the Nerds]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds/"/>
+    <updated>2016-09-24T14:42:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds</id>
+    <content type="html"><![CDATA[<p>One of the best documentaries on the history of micro computing,
+covering 1975 to 1995, is Robert X. Cringley&rsquo;s &ldquo;Triumph of the Nerds.&rdquo;
+It&rsquo;s currently on YouTube.</p>
+
+<p><a href="https://youtu.be/sX5g0kidk3Y">Part 1</a><br />
+<a href="https://youtu.be/EiffgiRAYUI">Part 2</a><br />
+<a href="https://youtu.be/ZFUsYXZSMqs">Part 3</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pictures of Telescopes by Telescopes]]></title>
@@ -612,31 +627,6 @@ to 41× as fast&mdash;since I was going from memory!</p>
 <p>Here’s how I came up with that.</p></blockquote>
 
 <p><a href="http://eschatologist.net/blog/?p=266">Raspberry Pi vs SPARCstation 20: Fight!</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
-    <updated>2016-01-08T21:22:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
-    <content type="html"><![CDATA[<p>Michael Wittig writes on cloudonaut.io,</p>
-
-<blockquote><p>As an AWS Cloud Consultant I see many AWS accounts. During the year I
-collected mistakes that I saw in each account and aggregated them to
-provide you my best of. It turned out that the 5 most common mistakes
-on AWS are:</p>
-
-<ul>
-<li>managing infrastructure manually</li>
-<li>not using Auto Scaling Groups</li>
-<li>not analyzing metrics in CloudWatch</li>
-<li>ignoring Trusted Advisor</li>
-<li>underutilizing virtual machines</li>
-</ul>
-</blockquote>
-
-<p><a href="https://cloudonaut.io/5-aws-mistakes-you-should-avoid/">5 AWS Mistakes You Should Avoid</a></p>
 ]]></content>
   </entry>
   
