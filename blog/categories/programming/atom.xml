@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-23T19:16:32-04:00</updated>
+  <updated>2016-09-23T23:30:45-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[No Microservices?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices/"/>
+    <updated>2016-09-23T23:02:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices</id>
+    <content type="html"><![CDATA[<p>An article titled &ldquo;Microservices – Please, don’t&rdquo; caught my eye, but I
+think the author has it wrong.  It&rsquo;s true we&rsquo;ve been using the micro
+service approach at work, building REST/JSON servers to provice APIs,
+and I have been questioning whether this is the best approach.</p>
+
+<!-- More -->
+
+
+<p>This author says that these are &ldquo;truths&rdquo; &ldquo;that people believe about
+this approach&hellip;.&rdquo;</p>
+
+<ol>
+<li>It keeps the code cleaner</li>
+<li>It’s easy to write things that only have one purpose</li>
+<li>They’re faster than monoliths</li>
+<li>It’s easy for engineers to not all work in the same codebase</li>
+<li>It’s the simplest way to handle autoscaling, plus Docker is in here somewhere</li>
+</ol>
+
+
+<p>None of these have ever been my motivation for micro services.   I
+never thought 1. was the case.  Clean code is the result of good style
+and discipline, and readability in writing code.</p>
+
+<p>Similarly, I&rsquo;m not sure what 2. has to do with micro services.  I can
+write modules, objects, or functions that have only one purpose.</p>
+
+<p>I never thought 3. was true but actually the opposite.  We&rsquo;re
+replacing a local function call with a network transaction.</p>
+
+<p>Similarly, 4. is also just not true.  Whether micro services are in
+the picture or not, I take it as a given that code is properly divided
+into reasonable components with well-defined interfaces and that are
+loosely coupled.</p>
+
+<p>I doubt that 5. is true, but it might be.  Scale has never been a
+consideration in my thinking about micro services.</p>
+
+<p>Here are some reasons that have been part of my thought process.</p>
+
+<ol>
+<li><p>The API is language independent.  A program written in Java can
+send an HTTP request as easily as a Python program, or a program in
+any other language can.</p></li>
+<li><p>The API is easy to test with something as simple as curl.</p></li>
+<li><p>The API and HTTP request can cross network boundaries and into
+different security domains, if permission is set up.</p></li>
+<li><p>If a component needs to be recompiled, the micro services don&rsquo;t
+need to be recompiled.</p></li>
+<li><p>The micro service can be updated independently of the using code and
+the clients all get the update immediately and with no changes.</p></li>
+</ol>
+
+
+<p>There are downsides I have worried about, though.  They include
+standing up and maintaining so many services along with a lot of extra
+network traffic.  It&rsquo;s also true that a well written library module is
+easier to use and test in many ways.  The recompiling is not
+necessarily a large cost.</p>
+
+<p>On a very recent project at work, we went back to using libraries for
+all of the application layers and components.  It&rsquo;s nice not to have
+to stand up those services, but I&rsquo;ll find out if I miss some of those
+advantages of the micro services.</p>
+
+<h2>References</h2>
+
+<p><a href="http://basho.com/posts/technical/microservices-please-dont/">Microservices – Please, don’t</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Time for Python 3]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3/"/>
+    <updated>2016-09-23T20:07:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3</id>
+    <content type="html"><![CDATA[<p>In watching Pycon 2016 vidoes and other reading, I&rsquo;ve been struck with
+the notion that it&rsquo;s actually time to move to Python 3.  More than
+once in the sessions I&rsquo;ve heard a comment like &ldquo;We&rsquo;ll be using Python
+3.  If you haven&rsquo;t moved to Python 3 yet, what&rsquo;s stopping you?&rdquo;</p>
+
+<!-- More -->
+
+
+<p>Good question.  There&rsquo;s the issue of some libraries not supporting
+Python 3 but, in my humble beginnings, I haven&rsquo;t run into any yet.</p>
+
+<p>Strings and UTF-8 are by far the stickiest set of issues I&rsquo;ve
+encountered, but it&rsquo;s usually just a case of fixing them.  And really
+I&rsquo;ve only tried converting one old program.  For new programs I&rsquo;m more
+and more starting them right off in Python 3.</p>
+
+<p>However, it&rsquo;s really recommended that you write code that runs in
+both.  That takes a bit more effort and is a little more tricky.</p>
+
+<p>Stay tuned.  I&rsquo;ll maybe update on that part next.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Python Videos]]></title>
@@ -61,45 +165,6 @@ all about WSGI.  Guess what.  Everything you need is already built
 into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
 
 <p><a href="http://funwithlinux.net/2015/11/how-to-write-a-python-web-framework-from-scratch/">How To Write a Python Web Framework From Scratch</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Explicit Programming]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming/"/>
-    <updated>2015-10-02T02:44:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/explicit-programming</id>
-    <content type="html"><![CDATA[<p>An excellent article that shows how being more explicit in the code
-makes for programs that are more readable.</p>
-
-<p><a href="https://www.dzombak.com/blog/2014/07/explicit-programming.html">Explicit Programming</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Service Oriented Architecture]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture/"/>
-    <updated>2015-10-02T02:36:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/02/service-oriented-architecture</id>
-    <content type="html"><![CDATA[<p>Here&rsquo;s an interesting article about Uber&rsquo;s use of service oriented
-architecture (SOA).</p>
-
-<blockquote><p>As core domain models grew and new features were introduced, our
-components became tightly coupled, and enforcing encapsulation made
-separation of concerns difficult. Continuous integration turned into a
-liability because deploying the codebase meant deploying everything at
-once. Our engineering team experienced rapid growth and scaling, which
-not only meant handling more requests but also handling a significant
-increase in developer activity. Adding new features, fixing bugs, and
-resolving technical debt all in a single repo became extremely
-difficult. Tribal knowledge was required before attempting to make a
-single change.</p></blockquote>
-
-<p><a href="https://eng.uber.com/soa/">Service-Oriented Architecture: Scaling Our Codebase As We Grow</a></p>
-
-<p><a href="http://martinfowler.com/articles/microservices.html">Microservices</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Service-oriented_architecture">SOA on Wikipedia</a></p>
 ]]></content>
   </entry>
   

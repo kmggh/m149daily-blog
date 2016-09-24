@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-23T19:16:32-04:00</updated>
+  <updated>2016-09-23T23:30:45-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jekyll]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll/"/>
+    <updated>2016-09-23T20:05:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m not too familiar with Cloudflare but Jekyll, via Octopress, and
+Github pages are what I use for this blog.</p>
+
+<p><a href="http://adgllorente.com/2016/09/put-yourself-on-internet-with-jekyll-github-and-cloudflare/">Put yourself on internet with Jekyll, GitHub and Cloudflare</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Time To Catch Up]]></title>
@@ -196,29 +208,6 @@ quick post.</p></blockquote>
 <p>Blogging as easy as tweeting.  That makes perfect sense.</p>
 
 <p><a href="http://ihnatko.com/2015/11/01/life-on-marsedit/">Life On MarsEdit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More Short and Medium Length Blogging]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging/"/>
-    <updated>2015-11-05T06:34:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/more-short-and-medium-length-blogging</id>
-    <content type="html"><![CDATA[<p>Okay, fine, Andy Ihnatko has me spun up again about blogging more with
-his disucussion on this week&rsquo;s Macbreak Weekly about blogging more
-again and rediscovering MarsEdit  He refers to Jason Snell&rsquo;s Six
-Colors, John Gruber&rsquo;s Daring Fireball and Jim Dalrymple&rsquo;s The Loop.
-Even Leo said he was doing the same thing on his rejuvenated Leoville.</p>
-
-<p>Okay, I&rsquo;ll try kicking it up a notch, but maybe it&rsquo;s also time to
-reflect on my setup with Markdown &ndash; Octopress &ndash; Github pages.</p>
-
-<p><a href="https://twit.tv/shows/macbreak-weekly/episodes/479">Macbreak Weekly #479</a><br />
-<a href="http://ihnatko.com/">Andy Ihnatko&rsquo;s Celestial Waste of Bandwidth</a><br />
-<a href="https://sixcolors.com/">Six Colors</a><br />
-<a href="http://www.loopinsight.com/">The Loop</a><br />
-<a href="http://www.leoville.com/">Leoville</a><br />
-<a href="http://daringfireball.net/">Daring Fireball</a><br /></p>
 ]]></content>
   </entry>
   
