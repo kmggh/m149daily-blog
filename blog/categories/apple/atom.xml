@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-24T14:48:24-04:00</updated>
+  <updated>2016-09-26T07:02:30-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Latest iPhone Home Screen]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen/"/>
+    <updated>2016-09-25T16:46:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20160926.0559.iPhone_Homescreen.png"></p>
+
+<p>Here&rsquo;s the most recent image of my iPhone home screen as it continues
+to evolve.  I think the most recent, previous image was this one.</p>
+
+<p><a href="/blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a></p>
+
+<!-- More -->
+
+
+<h2>Vs. the Old Screen</h2>
+
+<p><img class="center" src="/postimages/20141109_iPhone.jpg"></p>
+
+<p>Instapaper is out.  I still use it on the desktop sometime but, since
+I switched to Safari (yep), it has reading mode which is easy and
+basically does the same thing.</p>
+
+<p>I really like Read Quick and I&rsquo;m a fan of Clayton and Natalie Morris,
+at least when they&rsquo;re on Twit.tv podcasts.  It&rsquo;s a neat idea and it
+actually works, but I just wasn&rsquo;t using it.  When I&rsquo;m commuting
+(driving) and at other times I&rsquo;m more often listening than reading.  I
+just stopped using it very much.</p>
+
+<p>The dreaded Facebook has arrived.  Yeah.  I finally decided to bite
+the bullet and try using Facebook for news as well as family goings on
+so I listened to Robert Scoble explain to Leo Laporte how to tune
+Facebook&rsquo;s news feed, groups, etc.  I&rsquo;ve been using it since February.</p>
+
+<p>I just removed Evernote and put Byword there a few minutes ago.  I&rsquo;m a
+fan of Evernote but they seem to be struggling (as the press puts it)
+and I decided it was a good time to move another one of my data sinks
+to the text-Markdown world.  So now I write notes using Drafts, save
+them to Dropbox (where they are titled and formatted) and access them
+using various Markdown formatters.  The formatter that allows both
+previewing the Markdown but also editing the notes within Dropbox is
+Byword.  On the Mac desktop I use Marked for previewing and, of
+course, just Emacs in a terminal window to edit.  This has been
+working surprisingly well.  The only thing missing right now is that
+Byword doesn&rsquo;t render included images.  There are some competing
+standards between apps on how that&rsquo;s done, i.e., how images are
+included.  There is Multi-markdown and I think it has a standard way,
+but Byword doesn&rsquo;t seem to use it.  I&rsquo;m not sure I&rsquo;ve done all of the
+required homework on that one, though.</p>
+
+<p>I still have my Evernote account and it&rsquo;s still on my phone, but just
+not on the home screen.  I also exported my notes and wrote an XML
+parser (well, I used the Python pre-existing XML library) to un-XML
+them.</p>
+
+<p>Drafts is a wonderful app I&rsquo;ve been using for a while.  As everyone
+that talks about it says, it&rsquo;s just for entering text.  It opens super
+fast and it&rsquo;s ready for you just to type.  I have it set up to take
+notes and save them to Dropbox with the formatting described above.
+It&rsquo;s where my notes went, even when I was using Evernote.  From other
+apps' Share sheets, I can send things to Drafts so it basically
+connects all of my apps together.</p>
+
+<p>Finally, Safari.  Chrome just keeps bloating in various ways and I
+heard that Safari handled battery life on the iPhone in a much better
+way.  That makes sense.  It seems secure enough (but note the most
+recent &ldquo;pwn&rdquo; (however you spell it) conference where Chrome withstood
+and Safari fell two or three times.  I tried switching to Safari quite
+a few months ago, both on the phone and desktop, and I&rsquo;ve been using
+it ever since.  There are some Google apps that Chrome handles better,
+mainly their finance stock charts, but usually Safari is fine.  Chrome
+is still on my phone and I still use it at work.  I wouldn&rsquo;t argue
+that Safari is better (except for the memory footprint, maybe faster
+and with better battery management where I <em>would</em> argue it&rsquo;s better),
+but it&rsquo;s seemed good enough so far.</p>
+
+<h2>References</h2>
+
+<p><a href="/blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a><br />
+<a href="/blog/2016/02/06/tuning-facebook/">Tuning Facebook</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Upgrade to Mac OS X 10.11]]></title>
@@ -112,39 +195,6 @@ you won&rsquo;t lose it.</p>
 <p>This story by Owen Williams makes this point clear.</p>
 
 <p><a href="http://thenextweb.com/apple/2014/12/08/lost-apple-id-learnt-hard-way-careful-two-factor-authentication/">From The Next Web, The dark side of Apple’s two-factor authentication</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[IOS Reliable Updates]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/10/ios-reliable-updates/"/>
-    <updated>2014-11-10T06:42:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/10/ios-reliable-updates</id>
-    <content type="html"><![CDATA[<p>There are two key reasons that I&rsquo;m overjoyed to have made the switch
-from Android to IOS and the iPhone.</p>
-
-<p>One is the reliability of OS updates.  There&rsquo;s no worrying about
-pure-Google vs. vendor-imposed-UI and junk apps. There&rsquo;s no waiting
-for a vendor to either roll out an update or, more likely, just force
-you to buy a new phone or wait for your cycle to end to get a new
-phone.</p>
-
-<p>The IOS updates are (so far) annual, universal and hassle
-free.  And by hassel free I&rsquo;m referring to the above issues.  It&rsquo;s
-granted there have been hiccups and bugs, but usually they are
-resolved in a reasonable time.  I try to be cautious and wait for a
-minor update or to before diving in.  Thus, I skipped 8.0 and waited
-for 8.1.</p>
-
-<p>The other joy is from the pictures the iPhones make.  There are
-Android phones with better camera specs on paper, and yet, the photos
-are often just not up to par.  My Galaxy Nexus made images that ranged
-from okay to terrible.  When I go back and look at them now, they look
-even worse than I realized.  I know other people disagree but I&rsquo;m
-firmly in the camp: There&rsquo;s no contest here.</p>
-
-<p>So, that makes two items removed from the list of things to have to
-deal with.</p>
 ]]></content>
   </entry>
   
