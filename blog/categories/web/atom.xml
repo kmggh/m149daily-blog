@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: web | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/web/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/web/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Write a Python Web Framework]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/11/21/write-a-python-web-framework/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework/"/>
     <updated>2015-11-21T05:17:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/11/21/write-a-python-web-framework</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/write-a-python-web-framework</id>
     <content type="html"><![CDATA[<p>You don&rsquo;t have to use Django, Flask, Cherrypy, or even web.py.  It&rsquo;s
 all about WSGI.  Guess what.  Everything you need is already built
 into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
@@ -28,9 +28,9 @@ into Python.  After all, Python promises &ldquo;batteries included.&rdquo;</p>
   
   <entry>
     <title type="html"><![CDATA[Edward Tuft CSS]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/11/14/edward-tuft-css/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/14/edward-tuft-css/"/>
     <updated>2015-11-14T21:32:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/11/14/edward-tuft-css</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/14/edward-tuft-css</id>
     <content type="html"><![CDATA[<p>This is an interesting take on style, typesetting, publishing, and
 CSS.  I don&rsquo;t agree with all of it but there are some nice ideas here
 and the page/approach is very nice looking.</p>
@@ -47,9 +47,9 @@ as well as a bullet list.</p>
   
   <entry>
     <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
     <updated>2015-10-01T06:05:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
     <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
 we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
 JavaScript performance has become wildly divergent from iOS JavaScript
@@ -79,9 +79,9 @@ there are millions of Android devices much slower than that out there
   
   <entry>
     <title type="html"><![CDATA[Indie Web]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/11/17/indie-web/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web/"/>
     <updated>2014-11-17T08:22:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/11/17/indie-web</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web</id>
     <content type="html"><![CDATA[<p>Since I first began the 30-day blogging challenge the indie web
 movement was on my list of topics to discus.  My thinking on
 it, and related topics, is still unsettled.  I&rsquo;ve read some and, well,

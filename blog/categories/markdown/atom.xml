@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: markdown | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/markdown/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Quote Marks]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/01/28/quote-marks/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks/"/>
     <updated>2014-01-28T23:05:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/01/28/quote-marks</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/01/28/quote-marks</id>
     <content type="html"><![CDATA[<p>I think for nearly 30 years I&rsquo;ve used TeX style quoting for double
 quotes in anything I wrote using ASCII text.</p>
 

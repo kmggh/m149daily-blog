@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: computers | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/computers/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computers/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Triumph of the Nerds]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds/"/>
     <updated>2016-09-24T14:42:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds</id>
     <content type="html"><![CDATA[<p>One of the best documentaries on the history of micro computing,
 covering 1975 to 1995, is Robert X. Cringley&rsquo;s &ldquo;Triumph of the Nerds.&rdquo;
 It&rsquo;s currently on YouTube.</p>
@@ -30,9 +30,9 @@ It&rsquo;s currently on YouTube.</p>
   
   <entry>
     <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/01/08/ultimate-amiga-talk/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
     <updated>2016-01-08T21:57:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/01/08/ultimate-amiga-talk</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
     <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
 done, brought back memories, and is quite accurate.</p>
 
@@ -42,9 +42,9 @@ done, brought back memories, and is quite accurate.</p>
   
   <entry>
     <title type="html"><![CDATA[Raspberry Pi Much Faster Than SPARCstation 20]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20/"/>
     <updated>2016-01-08T21:27:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/raspberry-pi-muct-faster-than-sparcstation-20</id>
     <content type="html"><![CDATA[<blockquote><p>A couple weeks back, I tweeted the following:</p>
 
 <p>&ldquo;Turns out a Raspberry Pi now is about 6× as fast as a SPARCstation 20
@@ -61,9 +61,9 @@ to 41× as fast&mdash;since I was going from memory!</p>
   
   <entry>
     <title type="html"><![CDATA[The 19-Inch Rack]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/29/the-19-inch-rack/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack/"/>
     <updated>2014-10-29T08:31:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/29/the-19-inch-rack</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/29/the-19-inch-rack</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/19-in-rack.png" title="" ></p>
 
 <p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 19</a></p>
@@ -124,9 +124,9 @@ Lick photo: by the author.</em></p>
   
   <entry>
     <title type="html"><![CDATA[Systemd]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/19/systemd/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd/"/>
     <updated>2014-10-19T06:35:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/19/systemd</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 9.1</a></p>
 
 <p>There seems to be quite a controversy brewing over systemd.  I was

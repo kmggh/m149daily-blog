@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: blogging | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/blogging/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jekyll]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/09/23/jekyll/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll/"/>
     <updated>2016-09-23T20:05:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/09/23/jekyll</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll</id>
     <content type="html"><![CDATA[<p>I&rsquo;m not too familiar with Cloudflare but Jekyll, via Octopress, and
 Github pages are what I use for this blog.</p>
 
@@ -27,9 +27,9 @@ Github pages are what I use for this blog.</p>
   
   <entry>
     <title type="html"><![CDATA[Time To Catch Up]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/01/08/time-to-catch-up/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/time-to-catch-up/"/>
     <updated>2016-01-08T21:20:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/01/08/time-to-catch-up</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/time-to-catch-up</id>
     <content type="html"><![CDATA[<p>Okay, it&rsquo;s time to catch up.  I haven&rsquo;t posted here since November but
 I&rsquo;ve been stuffing links away in Evernote so it&rsquo;s time to empty some
 of those out and post them, even if they&rsquo;re a few days or weeks old.</p>
@@ -38,9 +38,9 @@ of those out and post them, even if they&rsquo;re a few days or weeks old.</p>
   
   <entry>
     <title type="html"><![CDATA[Blogging in Twitter Language]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/11/21/blogging-in-twitter-language/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language/"/>
     <updated>2015-11-21T04:49:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/11/21/blogging-in-twitter-language</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/21/blogging-in-twitter-language</id>
     <content type="html"><![CDATA[<p>There&rsquo;s one thing Twitter has done and that&rsquo;s change the language of
 reading news and stories so I&rsquo;m going to try an experiment.</p>
 
@@ -81,9 +81,9 @@ what&rsquo;s great about keeping your own blog.</p>
   
   <entry>
     <title type="html"><![CDATA[Octopress Blogging: How Its Going]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/11/05/octopres-blogging-how-its-going/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going/"/>
     <updated>2015-11-05T07:02:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/11/05/octopres-blogging-how-its-going</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/octopres-blogging-how-its-going</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s been since 2013-06-08, a little less than 2 &frac12; years,
 since I moved my blogging platform and workflow to Markdown &ndash;
 Octopress &ndash; Github, with a Python program I wrote to handle most of
@@ -191,9 +191,9 @@ my source directory later if I&rsquo;m away from home.</p>
   
   <entry>
     <title type="html"><![CDATA[Perfect Blogging Interface]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/11/05/perfect-blogging-interface/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface/"/>
     <updated>2015-11-05T06:58:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/11/05/perfect-blogging-interface</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/05/perfect-blogging-interface</id>
     <content type="html"><![CDATA[<p>I like what Andy Ihnatko wrote in his post &ldquo;Life On MarsEdit&rdquo; about
 his conception of the perfect blogging interface.</p>
 

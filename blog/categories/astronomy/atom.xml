@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/astronomy/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Cosmic Distance Ladder]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/09/26/cosmic-distance-ladder/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder/"/>
     <updated>2016-09-26T06:40:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/09/26/cosmic-distance-ladder</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder</id>
     <content type="html"><![CDATA[<p>On Medium: <a href="https://medium.com/starts-with-a-bang/is-the-cosmic-distance-ladder-flawed-d4d6dc8b4ce5?source=userActivityShare-c61a82880cfd%E2%80%931474882244">Is the Cosmic Distance Ladder Flawed?</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Pictures of Telescopes by Telescopes]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
     <updated>2016-09-23T23:23:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
     <content type="html"><![CDATA[<p>This outstanding article by Emily Gilbert in Medium shows pictures of
 observatories made from orbiting telescopes.</p>
 
@@ -36,9 +36,9 @@ observatories made from orbiting telescopes.</p>
   
   <entry>
     <title type="html"><![CDATA[LIGO and the GW150914 Discovery]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/02/21/ligo-and-the-discovery/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery/"/>
     <updated>2016-02-21T07:12:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/02/21/ligo-and-the-discovery</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery</id>
     <content type="html"><![CDATA[<p>I finally found the paper for the recent LIGO discovery of gravity
 waves from a black hole merger, event GW150914 at 2015-09-14 09:50:45
 +0000 which data implies was the merging of two black holes, one with
@@ -76,9 +76,9 @@ environments with metallicity lower than ≃ &frac12; the solar value.</p></bloc
   
   <entry>
     <title type="html"><![CDATA[Observing Gravitational Waves]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/02/06/observing-gravitational-waves/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves/"/>
     <updated>2016-02-06T12:05:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/02/06/observing-gravitational-waves</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves</id>
     <content type="html"><![CDATA[<p>The search for detection of gravitational waves continues.</p>
 
 <p><a href="http://arstechnica.com/science/2016/02/after-100-years-scientists-are-finally-closing-in-on-einsteins-ripples/">Ars Technica article</a></p>
@@ -87,9 +87,9 @@ environments with metallicity lower than ≃ &frac12; the solar value.</p></bloc
   
   <entry>
     <title type="html"><![CDATA[Blue Moon Definition Was Wrong]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/08/02/blue-moon-definition-was-wrong/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong/"/>
     <updated>2015-08-02T03:14:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/08/02/blue-moon-definition-was-wrong</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/08/02/blue-moon-definition-was-wrong</id>
     <content type="html"><![CDATA[<p><em>This is a blog post I published in Mon 2010-11-22 on the previous
 <a href="http://monolith149daily.blogspot.com/2010/11/blue-moon-definition-was-wrong.html">Monolith149 Daily
 Site</a>.</em></p>

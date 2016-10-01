@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: video | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/video/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Triumph of the Nerds]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds/"/>
     <updated>2016-09-24T14:42:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds</id>
     <content type="html"><![CDATA[<p>One of the best documentaries on the history of micro computing,
 covering 1975 to 1995, is Robert X. Cringley&rsquo;s &ldquo;Triumph of the Nerds.&rdquo;
 It&rsquo;s currently on YouTube.</p>
@@ -30,9 +30,9 @@ It&rsquo;s currently on YouTube.</p>
   
   <entry>
     <title type="html"><![CDATA[Rachel Flowers plays Trilogy (and Tarkus)]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/02/06/rachel-flowers-plays-trilogy/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy/"/>
     <updated>2016-02-06T11:51:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/02/06/rachel-flowers-plays-trilogy</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re a fan of Emerson, Lake and Palmer, checkout Rachel Flowers
 playing &ldquo;Fugue&rdquo; and &ldquo;The Endless Enigma (Part 2)&rdquo; starting at the
 3m29s mark at NAMM 2016.</p>
@@ -49,9 +49,9 @@ it on his Hammond C3 and original Moog.</p>
   
   <entry>
     <title type="html"><![CDATA[Daft Pianists]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/25/daft-pianists/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/daft-pianists/"/>
     <updated>2013-06-25T06:41:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/25/daft-pianists</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/daft-pianists</id>
     <content type="html"><![CDATA[<p>Cdza cover Daft Punk&rsquo;s &ldquo;Get Lucky.&rdquo; [VIDEO]  <a href="https://www.youtube.com/watch?v=Wf68FTYoGKQ">https://www.youtube.com/watch?v=Wf68FTYoGKQ</a></p>
 ]]></content>
   </entry>

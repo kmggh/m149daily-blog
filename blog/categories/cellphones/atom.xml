@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cellphones | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/cellphones/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cellphones/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/08/05/android-fragmentation-visualized/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
     <updated>2013-08-05T06:40:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/08/05/android-fragmentation-visualized</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/opensignal_android.png" title="" ></p>
 
 <p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>

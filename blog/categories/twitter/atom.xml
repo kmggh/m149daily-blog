@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: twitter | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/twitter/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/twitter/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New Football Stadium]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/25/new-football-stadium/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium/"/>
     <updated>2013-06-25T22:55:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/25/new-football-stadium</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/25/new-football-stadium</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/june2013-concept-aerial.jpg" title="n" ></p>
 
 <p>The plans for the crazy new Falcons stadium were approved.  <a href="http://ftw.usatoday.com/2013/06/the-plans-for-the-crazy-falcons-stadium-were-approved/">Article</a> from USA Today.</p>

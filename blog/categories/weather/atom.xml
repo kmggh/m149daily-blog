@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: weather | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/weather/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/weather/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[GeorgiaWeather.net]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/09/04/georgiaweather-dot-net/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net/"/>
     <updated>2013-09-04T05:01:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/09/04/georgiaweather-dot-net</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/04/georgiaweather-dot-net</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/gawx3.png"></p>
 
 <p>A friend recently told me about
@@ -47,9 +47,9 @@ immediately and disseminated via the world wide web.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Stormy Night]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/14/stormy-night/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night/"/>
     <updated>2013-06-14T06:55:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/14/stormy-night</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/14/stormy-night</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130614_Storm_Reports.gif"></p>
 
 <p>Storm reports from the NOAA <a href="http://www.spc.noaa.gov/climo/reports/today.html">Storm Prediction Center</a>.</p>
@@ -60,9 +60,9 @@ immediately and disseminated via the world wide web.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Updated Tornado and Severe Thunderstorm Forecast]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast/"/>
     <updated>2013-06-13T13:02:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130613MikeSmith.png"></p>
 
 <p>Via <a href="https://twitter.com/USWeatherExpert/status/345222835515559937">@USWeatherExpert</a></p>
@@ -73,9 +73,9 @@ immediately and disseminated via the world wide web.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Significant Severe Weather Threat today]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/13/significant-severe-weather-threat-today/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today/"/>
     <updated>2013-06-13T12:42:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/13/significant-severe-weather-threat-today</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130613wx.png" title="" ></p>
 
 <p>Via <a href="https://twitter.com/wxbrad/status/345216731297492994">@wxbrad</a> in NC.
@@ -87,9 +87,9 @@ Be watchful in GA.</p>
   
   <entry>
     <title type="html"><![CDATA[O2 from the Ocean?]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/08/o2-from-the-ocean/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean/"/>
     <updated>2013-06-08T12:01:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/08/o2-from-the-ocean</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/745225main_image04292013_250m_1024-768.jpg"></p>
 
 <p>From <a href="https://twitter.com/earthskyscience/status/343396224805777409">@earthskyscience</a></p>

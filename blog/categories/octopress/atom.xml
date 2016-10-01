@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: octopress | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress After 512 Days]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/12/octopress-after-512-days/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/12/octopress-after-512-days/"/>
     <updated>2014-10-12T23:10:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/12/octopress-after-512-days</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/12/octopress-after-512-days</id>
     <content type="html"><![CDATA[<p>Day 2</p>
 
 <p>Well, I was supposed to report back in on how it&rsquo;s been going with

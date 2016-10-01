@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: phones | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/phones/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/phones/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
     <updated>2015-10-01T06:05:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
     <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
 we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
 JavaScript performance has become wildly divergent from iOS JavaScript
@@ -47,9 +47,9 @@ there are millions of Android devices much slower than that out there
   
   <entry>
     <title type="html"><![CDATA[iPhone After Eight Months]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/06/20/iphone-after-eight-months/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/06/20/iphone-after-eight-months/"/>
     <updated>2014-06-20T06:17:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/06/20/iphone-after-eight-months</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/06/20/iphone-after-eight-months</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20140620_iphone.png"></p>
 
 <p>It&rsquo;s now been eight months since I switched to the iPhone in October
@@ -98,9 +98,9 @@ That&rsquo;s screen one and I only use three screens of apps that are about
   
   <entry>
     <title type="html"><![CDATA[Transition to the iPhone]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/10/07/transition-to-the-iphone/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/10/07/transition-to-the-iphone/"/>
     <updated>2013-10-07T09:06:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/10/07/transition-to-the-iphone</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/10/07/transition-to-the-iphone</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/iphone_screen.png" title="" ></p>
 
 <p>I can now summarize my previous post up in one sentence:  Android had
@@ -221,9 +221,9 @@ interface and hardware, I can&rsquo;t see the complaints yet.</p>
   
   <entry>
     <title type="html"><![CDATA[Getting an iPhone?]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/09/28/getting-an-iphone/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/28/getting-an-iphone/"/>
     <updated>2013-09-28T12:56:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/09/28/getting-an-iphone</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/28/getting-an-iphone</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/iphone5c.png" title="" ></p>
 
 <p>I&rsquo;m thinking about getting an iPhone.  I know this is a shocking
@@ -361,9 +361,9 @@ update on what I think about the progress.</p>
   
   <entry>
     <title type="html"><![CDATA[Top Five Phone Apps]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/08/20/top-five-phone-apps/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps/"/>
     <updated>2013-08-20T05:55:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/08/20/top-five-phone-apps</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/homescreen_1.png" title="" ></p>
 
 <p>I heard Clayton Morris on this weekend&rsquo;s

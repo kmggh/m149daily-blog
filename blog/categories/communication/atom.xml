@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: communication | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/communication/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/communication/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/09/30/whence-the-chat-paradigm/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
     <updated>2015-09-30T05:02:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/09/30/whence-the-chat-paradigm</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
     <content type="html"><![CDATA[<p>For some reason, the chat paradigm has become overly popular.  Internet
 relay chat (IRC) was interesting in the mid-90s as a way to
 communicate in an informal, unstructured sense.  However, I can&rsquo;t

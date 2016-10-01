@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: planetarium | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/planetarium/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/planetarium/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Thirty Years Since We Watched Voyager on TV]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/09/14/thirty-years-since-voyager/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/14/thirty-years-since-voyager/"/>
     <updated>2013-09-14T08:42:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/09/14/thirty-years-since-voyager</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/14/thirty-years-since-voyager</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130914_saturn.jpg"></p>
 
 <p><em>[This is a re-post of a blog post I first wrote and posted in

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: comets | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/comets/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/comets/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ISON Sans Nucleus]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/12/01/ison-sans-nucleus/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus/"/>
     <updated>2013-12-01T19:15:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/12/01/ison-sans-nucleus</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus</id>
     <content type="html"><![CDATA[<p>Quoting from the <a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a>:</p>
 
 <blockquote><p>Dan Green of the International Astronomical Union&rsquo;s Central Bureau for
@@ -55,9 +55,9 @@ disappearance&hellip;</p></blockquote></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Whither ISON]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/11/30/whither-ison/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison/"/>
     <updated>2013-11-30T19:41:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/11/30/whither-ison</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison</id>
     <content type="html"><![CDATA[<p>From CIOC (the NASA <a href="http://www.isoncampaign.org/karl/a-trail-of-questions">Comet ISON Observing Campaign</a>):</p>
 
 <blockquote><p>Will it be naked eye visible? When? How bright?</p>
@@ -85,9 +85,9 @@ wrong though.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Comet ISON Post Perihelion]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/11/29/comet-ison-post-perihelion/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion/"/>
     <updated>2013-11-29T14:24:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/11/29/comet-ison-post-perihelion</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/29/comet-ison-post-perihelion</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/comet_ison_postp.png"></p>
 
 <p>Reports are starting to come in regarding what happened to Comet ISON
@@ -105,9 +105,9 @@ and <a href="https://twitter.com/discovery_space/status/406342053455347712">@dis
   
   <entry>
     <title type="html"><![CDATA[More Comet ISON]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/11/24/more-comet-ison/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/24/more-comet-ison/"/>
     <updated>2013-11-24T17:02:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/11/24/more-comet-ison</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/24/more-comet-ison</id>
     <content type="html"><![CDATA[<p>More news and mostly images of Comet ISON C/2012 S1.</p>
 
 <p><a href="https://twitter.com/earthskyscience/status/404265533240930304">Today&rsquo;s Image form @EarthSky</a>.<br>
@@ -120,9 +120,9 @@ and <a href="https://twitter.com/discovery_space/status/406342053455347712">@dis
   
   <entry>
     <title type="html"><![CDATA[Comet ISON C/2012 S1]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/11/24/comet-ison-c-slash-2012-s1/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1/"/>
     <updated>2013-11-24T00:03:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/11/24/comet-ison-c-slash-2012-s1</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/24/comet-ison-c-slash-2012-s1</id>
     <content type="html"><![CDATA[<p>From EarthSky</p>
 
 <blockquote><p>Comet ISON, anticipated by skywatchers for more than a year, is

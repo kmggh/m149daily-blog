@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: security | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/security/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/security/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Block Chain for Authentication]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/01/08/block-chain-for-authentication/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication/"/>
     <updated>2016-01-08T21:39:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/01/08/block-chain-for-authentication</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/block-chain-for-authentication</id>
     <content type="html"><![CDATA[<p>The latest rage is all about the block chain, made popular by Bitcoin.
 It&rsquo;s not exactly authentication but more publication of data in a
 sense that it becomes part of a sequential public record.  From that
@@ -44,9 +44,9 @@ just keeps, well, growing.  It doesn&rsquo;t seem to scale well as they say.</p>
   
   <entry>
     <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
     <updated>2015-03-20T05:11:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
     <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
 answer to this question with a summary of the built-in security
 features of OS X 10.10 and the additional precautions you should take.</p>
@@ -89,9 +89,9 @@ interface to MRT.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[SQRL!]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/31/sqrl/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl/"/>
     <updated>2014-10-31T05:11:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/31/sqrl</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 21</a></p>
 
 <p>For several months now Steve Gibson of GRC.com and Security Now has
@@ -130,9 +130,9 @@ with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
   
   <entry>
     <title type="html"><![CDATA[Google Authenticator for SSH Two-Factor Authentication]]></title>
-    <link href="http://daily.monolith149.com//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/"/>
     <updated>2013-06-06T23:20:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/Google-Authenticator.png"></p>
 
 <p><a href="http://scottlinux.com/2013/06/02/use-google-authenticator-for-two-factor-ssh-authentication-in-linux/">Use Google Authenticator For Two-Factor SSH Authentication in

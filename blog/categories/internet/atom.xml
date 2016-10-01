@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: internet | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/internet/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tuning Facebook]]></title>
-    <link href="http://daily.monolith149.com//blog/2016/02/06/tuning-facebook/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/"/>
     <updated>2016-02-06T12:29:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2016/02/06/tuning-facebook</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook</id>
     <content type="html"><![CDATA[<p>Okay, I&rsquo;ve decided to try using the dreaded Facebook a little more,
 particularly after hearing all of the talk about instant articles in
 news and more people using Messenger. I knew about this podcast of
@@ -43,9 +43,9 @@ feed, etc.</p>
   
   <entry>
     <title type="html"><![CDATA[Indie Web]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/11/17/indie-web/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web/"/>
     <updated>2014-11-17T08:22:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/11/17/indie-web</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web</id>
     <content type="html"><![CDATA[<p>Since I first began the 30-day blogging challenge the indie web
 movement was on my list of topics to discus.  My thinking on
 it, and related topics, is still unsettled.  I&rsquo;ve read some and, well,
@@ -97,9 +97,9 @@ Wordpress.</p>
   
   <entry>
     <title type="html"><![CDATA[A History of the Internet]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/01/a-history-of-the-internet/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet/"/>
     <updated>2014-10-01T08:19:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/01/a-history-of-the-internet</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/NSFNET-backbone-T3.png"></p>
 
 <p><a href="http://www.inetdaemon.com/tutorials/internet/history.shtml">History of the Internet</a> at InetDaemon.com is a brief and nice account of how the Internet

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: email | Monolith149 Daily]]></title>
-  <link href="http://daily.monolith149.com//blog/categories/email/atom.xml" rel="self"/>
-  <link href="http://daily.monolith149.com//"/>
-  <updated>2016-10-01T00:18:39-04:00</updated>
-  <id>http://daily.monolith149.com//</id>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/email/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-01T00:36:01-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/09/30/whence-the-chat-paradigm/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
     <updated>2015-09-30T05:02:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/09/30/whence-the-chat-paradigm</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
     <content type="html"><![CDATA[<p>For some reason, the chat paradigm has become overly popular.  Internet
 relay chat (IRC) was interesting in the mid-90s as a way to
 communicate in an informal, unstructured sense.  However, I can&rsquo;t
@@ -61,9 +61,9 @@ and maybe even a signature if it&rsquo;s a business message.</p>
   
   <entry>
     <title type="html"><![CDATA[Gmail Inbox Mistake]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/03/23/gmail-inbox-mistake/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake/"/>
     <updated>2015-03-23T08:13:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/03/23/gmail-inbox-mistake</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/23/gmail-inbox-mistake</id>
     <content type="html"><![CDATA[<p>Well, that was a mistake.  To a large degree I really like Gmail&rsquo;s new
 Inbox IOS app, and the desktop version doesn&rsquo;t look bad either.  I&rsquo;ve
 used it on a rarely-used account and recently added in anther,
@@ -150,9 +150,9 @@ keep experimenting with a much less important account.</p>
   
   <entry>
     <title type="html"><![CDATA[Dealing with Email]]></title>
-    <link href="http://daily.monolith149.com//blog/2015/02/23/dealing-with-email/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email/"/>
     <updated>2015-02-23T06:18:00-05:00</updated>
-    <id>http://daily.monolith149.com//blog/2015/02/23/dealing-with-email</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve used email since the beginning of the early days of the
 Internet&rsquo;s explosion in the mid-80s.  It&rsquo;s gone through quite an
 evolution as have my methods of managing what is probably a massive
@@ -320,9 +320,9 @@ daily basis.</p>
   
   <entry>
     <title type="html"><![CDATA[Inbox: First Impression]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/28/inbox-first-impression/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression/"/>
     <updated>2014-10-28T06:01:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/28/inbox-first-impression</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 18.1</a></p>
 
 <p>I just set up Inbox on a very old, in fact my oldest, earliest, Gmail
@@ -388,9 +388,9 @@ before I unleash it on the actual Gmail that I use.</p>
   
   <entry>
     <title type="html"><![CDATA[Google's New Gmail Inbox]]></title>
-    <link href="http://daily.monolith149.com//blog/2014/10/23/googles-new-email-inbox/"/>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox/"/>
     <updated>2014-10-23T05:48:00-04:00</updated>
-    <id>http://daily.monolith149.com//blog/2014/10/23/googles-new-email-inbox</id>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 13</a></p>
 
 <p>Google is now making available to all users, albeit by invitation only
