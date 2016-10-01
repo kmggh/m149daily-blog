@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: android | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/android/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Poor Performance of Javascript on Android]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
+    <link href="http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android/"/>
     <updated>2015-10-01T06:05:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
+    <id>http://daily.monolith149.com//blog/2015/10/01/poor-performance-of-javascript-on-android</id>
     <content type="html"><![CDATA[<p>In a posted discussion Jeff Atwood claims that, &ldquo;For several years now
 we&rsquo;ve tracked the fact that, over time from 2012 onward, Android
 JavaScript performance has become wildly divergent from iOS JavaScript
@@ -47,9 +47,9 @@ there are millions of Android devices much slower than that out there
   
   <entry>
     <title type="html"><![CDATA[Android Fragmentation Visualized]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized/"/>
+    <link href="http://daily.monolith149.com//blog/2013/08/05/android-fragmentation-visualized/"/>
     <updated>2013-08-05T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/05/android-fragmentation-visualized</id>
+    <id>http://daily.monolith149.com//blog/2013/08/05/android-fragmentation-visualized</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/opensignal_android.png" title="" ></p>
 
 <p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>

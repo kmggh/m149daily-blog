@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: chemistry | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/chemistry/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/chemistry/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Periodic Table Row Seven Complete]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/periodic-table-row-seven-complete/"/>
+    <link href="http://daily.monolith149.com//blog/2016/01/08/periodic-table-row-seven-complete/"/>
     <updated>2016-01-08T21:52:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/periodic-table-row-seven-complete</id>
+    <id>http://daily.monolith149.com//blog/2016/01/08/periodic-table-row-seven-complete</id>
     <content type="html"><![CDATA[<blockquote><p>Confirmation that four new elements – those with atomic numbers 113,
 115, 117 and 118 – have indeed been synthesised has come from the
 International Union of Pure and Applied Chemistry (Iupac), completing

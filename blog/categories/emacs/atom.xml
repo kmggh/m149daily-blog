@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: emacs | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/emacs/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/emacs/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Text Mode and Auto Fill Mode]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode/"/>
+    <link href="http://daily.monolith149.com//blog/2014/11/08/text-mode-and-auto-fill-mode/"/>
     <updated>2014-11-08T04:45:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/08/text-mode-and-auto-fill-mode</id>
+    <id>http://daily.monolith149.com//blog/2014/11/08/text-mode-and-auto-fill-mode</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 29</a></p>
 
 <p>I finally did something I&rsquo;ve meant to do for a while.  I configured

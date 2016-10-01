@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: calculators | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calculators/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/calculators/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rebuilding the HP-11 Series]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/17/rebuilding-the-hp-11-series/"/>
+    <link href="http://daily.monolith149.com//blog/2015/11/17/rebuilding-the-hp-11-series/"/>
     <updated>2015-11-17T09:03:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/17/rebuilding-the-hp-11-series</id>
+    <id>http://daily.monolith149.com//blog/2015/11/17/rebuilding-the-hp-11-series</id>
     <content type="html"><![CDATA[<p>Michael Steinmann of Swiss Micros is building new, little,
 fully-functioning HP-11 series, and other, HP calculators.</p>
 

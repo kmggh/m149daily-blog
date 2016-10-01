@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: technology | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/technology/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Whither the Self-Driving Car?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car/"/>
+    <link href="http://daily.monolith149.com//blog/2014/10/22/whither-the-self-driving-car/"/>
     <updated>2014-10-22T04:20:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/22/whither-the-self-driving-car</id>
+    <id>http://daily.monolith149.com//blog/2014/10/22/whither-the-self-driving-car</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 12</a></p>
 
 <p>Lee Gomes writes in Slate The autonomous Google car may never actually

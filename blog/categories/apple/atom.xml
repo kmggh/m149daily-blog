@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: apple | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/apple/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Latest iPhone Home Screen]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/25/latest-iphone-home-screen/"/>
     <updated>2016-09-25T16:46:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen</id>
+    <id>http://daily.monolith149.com//blog/2016/09/25/latest-iphone-home-screen</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/20160926.0559.iPhone_Homescreen.png"></p>
 
 <p>Here&rsquo;s the most recent image of my iPhone home screen as it continues
@@ -98,9 +98,9 @@ but it&rsquo;s seemed good enough so far.</p>
   
   <entry>
     <title type="html"><![CDATA[Upgrade to Mac OS X 10.11]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11/"/>
+    <link href="http://daily.monolith149.com//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11/"/>
     <updated>2015-11-17T08:55:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11</id>
+    <id>http://daily.monolith149.com//blog/2015/11/17/upgrade-to-mac-os-x-10-dot-11</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve finally upgraded to Mac OS X 10.11 at home.  There&rsquo;s really not
 much to say so far.  The only new/changed feature I really see and use
 is Mission Control.  Ohter than that it&rsquo;s pretty much business as
@@ -125,9 +125,9 @@ and Drafts on my phone.</p>
   
   <entry>
     <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
+    <link href="http://daily.monolith149.com//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
     <updated>2015-03-20T05:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
+    <id>http://daily.monolith149.com//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
     <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
 answer to this question with a summary of the built-in security
 features of OS X 10.10 and the additional precautions you should take.</p>
@@ -170,9 +170,9 @@ interface to MRT.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Siracusa on Swift]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
+    <link href="http://daily.monolith149.com//blog/2014/12/20/siracusa-on-swift/"/>
     <updated>2014-12-20T13:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
+    <id>http://daily.monolith149.com//blog/2014/12/20/siracusa-on-swift</id>
     <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
 10.10 article has a nice dive down into some of the details of the new
 Swift language and how it&rsquo;s compiled.  There are some impressive
@@ -185,9 +185,9 @@ features here.</p>
   
   <entry>
     <title type="html"><![CDATA[Warning: Don't Lose Your Apple ID Recovery Key]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/apple-id-recovery-key/"/>
+    <link href="http://daily.monolith149.com//blog/2014/12/10/apple-id-recovery-key/"/>
     <updated>2014-12-10T07:51:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/apple-id-recovery-key</id>
+    <id>http://daily.monolith149.com//blog/2014/12/10/apple-id-recovery-key</id>
     <content type="html"><![CDATA[<p>Setting up two-factor authentication is a good idea, but it&rsquo;s
 important to carefully save your recovery key in a safe place where
 you won&rsquo;t lose it.</p>

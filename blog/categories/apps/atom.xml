@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: apps | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apps/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/apps/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Evernote Encryption]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/15/evernote-encryption/"/>
+    <link href="http://daily.monolith149.com//blog/2013/11/15/evernote-encryption/"/>
     <updated>2013-11-15T09:32:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/15/evernote-encryption</id>
+    <id>http://daily.monolith149.com//blog/2013/11/15/evernote-encryption</id>
     <content type="html"><![CDATA[<p>Nice!  Evernote let&rsquo;s you encrypt the text in a note!</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Top Five Phone Apps]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps/"/>
+    <link href="http://daily.monolith149.com//blog/2013/08/20/top-five-phone-apps/"/>
     <updated>2013-08-20T05:55:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/08/20/top-five-phone-apps</id>
+    <id>http://daily.monolith149.com//blog/2013/08/20/top-five-phone-apps</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/homescreen_1.png" title="" ></p>
 
 <p>I heard Clayton Morris on this weekend&rsquo;s

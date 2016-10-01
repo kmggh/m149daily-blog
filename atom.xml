@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/26/squeak-back-to-the-future/"/>
     <updated>2016-09-26T06:45:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future</id>
+    <id>http://daily.monolith149.com//blog/2016/09/26/squeak-back-to-the-future</id>
     <content type="html"><![CDATA[<p>I still love Squeak Smalltalk.  A pointer to this paper was posted on
 Hacker News Today.</p>
 
@@ -36,58 +36,58 @@ The Story of Squeak, A Practical Smalltalk Written in Itself</p>
   
   <entry>
     <title type="html"><![CDATA[Appropriate Uses for SQLite]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/appropriate-uses-for-sqlite/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/26/appropriate-uses-for-sqlite/"/>
     <updated>2016-09-26T06:41:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/appropriate-uses-for-sqlite</id>
+    <id>http://daily.monolith149.com//blog/2016/09/26/appropriate-uses-for-sqlite</id>
     <content type="html"><![CDATA[<p>From sqlite.org, <a href="https://sqlite.org/whentouse.html">Appropriate Uses For SQLite</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Cosmic Distance Ladder]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/26/cosmic-distance-ladder/"/>
     <updated>2016-09-26T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder</id>
+    <id>http://daily.monolith149.com//blog/2016/09/26/cosmic-distance-ladder</id>
     <content type="html"><![CDATA[<p>On Medium: <a href="https://medium.com/starts-with-a-bang/is-the-cosmic-distance-ladder-flawed-d4d6dc8b4ce5?source=userActivityShare-c61a82880cfd%E2%80%931474882244">Is the Cosmic Distance Ladder Flawed?</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Variable Fonts]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/variable-fonts/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/26/variable-fonts/"/>
     <updated>2016-09-26T06:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/variable-fonts</id>
+    <id>http://daily.monolith149.com//blog/2016/09/26/variable-fonts</id>
     <content type="html"><![CDATA[<p><a href="https://www.wired.com/2016/09/apple-google-adobe-microsoft-join-forces-make-typographic-history/?mbid=social_fb">Tech Giants Team Up to Fix Typography’s Biggest Problem | WIRED</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Microsoft FPGAs]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/microsoft-fpgas/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/26/microsoft-fpgas/"/>
     <updated>2016-09-26T06:34:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/microsoft-fpgas</id>
+    <id>http://daily.monolith149.com//blog/2016/09/26/microsoft-fpgas</id>
     <content type="html"><![CDATA[<p><a href="https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/?mbid=social_fb">Microsoft’s Internet Business Gets a New Kind of Processor | WIRED</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Latest iPhone Home Screen]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/25/latest-iphone-home-screen/"/>
     <updated>2016-09-25T16:46:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20160926.0559.iPhone_Homescreen.png"></p>
+    <id>http://daily.monolith149.com//blog/2016/09/25/latest-iphone-home-screen</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://daily.monolith149.com//postimages/20160926.0559.iPhone_Homescreen.png"></p>
 
 <p>Here&rsquo;s the most recent image of my iPhone home screen as it continues
 to evolve.  I think the most recent, previous image was this one.</p>
 
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a></p>
+<p><a href="http://daily.monolith149.com//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a></p>
 
 <!-- More -->
 
 
 <h2>Vs. the Old Screen</h2>
 
-<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20141109_iPhone.jpg"></p>
+<p><img class="center" src="http://daily.monolith149.com//postimages/20141109_iPhone.jpg"></p>
 
 <p>Instapaper is out.  I still use it on the desktop sometime but, since
 I switched to Safari (yep), it has reading mode which is easy and
@@ -148,16 +148,16 @@ but it&rsquo;s seemed good enough so far.</p>
 
 <h2>References</h2>
 
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a><br />
-<a href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/">Tuning Facebook</a></p>
+<p><a href="http://daily.monolith149.com//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a><br />
+<a href="http://daily.monolith149.com//blog/2016/02/06/tuning-facebook/">Tuning Facebook</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Triumph of the Nerds]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds/"/>
     <updated>2016-09-24T14:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds</id>
+    <id>http://daily.monolith149.com//blog/2016/09/24/triumph-of-the-nerds</id>
     <content type="html"><![CDATA[<p>One of the best documentaries on the history of micro computing,
 covering 1975 to 1995, is Robert X. Cringley&rsquo;s &ldquo;Triumph of the Nerds.&rdquo;
 It&rsquo;s currently on YouTube.</p>
@@ -170,9 +170,9 @@ It&rsquo;s currently on YouTube.</p>
   
   <entry>
     <title type="html"><![CDATA[Pictures of Telescopes by Telescopes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
     <updated>2016-09-23T23:23:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
+    <id>http://daily.monolith149.com//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
     <content type="html"><![CDATA[<p>This outstanding article by Emily Gilbert in Medium shows pictures of
 observatories made from orbiting telescopes.</p>
 
@@ -182,9 +182,9 @@ observatories made from orbiting telescopes.</p>
   
   <entry>
     <title type="html"><![CDATA[No Microservices?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/23/no-microservices/"/>
     <updated>2016-09-23T23:02:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices</id>
+    <id>http://daily.monolith149.com//blog/2016/09/23/no-microservices</id>
     <content type="html"><![CDATA[<p>An article titled &ldquo;Microservices – Please, don’t&rdquo; caught my eye, but I
 think the author has it wrong.  It&rsquo;s true we&rsquo;ve been using the micro
 service approach at work, building REST/JSON servers to provice APIs,
@@ -258,9 +258,9 @@ advantages of the micro services.</p>
   
   <entry>
     <title type="html"><![CDATA[Time for Python 3]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/23/time-for-python-3/"/>
     <updated>2016-09-23T20:07:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3</id>
+    <id>http://daily.monolith149.com//blog/2016/09/23/time-for-python-3</id>
     <content type="html"><![CDATA[<p>In watching Pycon 2016 vidoes and other reading, I&rsquo;ve been struck with
 the notion that it&rsquo;s actually time to move to Python 3.  More than
 once in the sessions I&rsquo;ve heard a comment like &ldquo;We&rsquo;ll be using Python
@@ -286,9 +286,9 @@ both.  That takes a bit more effort and is a little more tricky.</p>
   
   <entry>
     <title type="html"><![CDATA[Jekyll]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/23/jekyll/"/>
     <updated>2016-09-23T20:05:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll</id>
+    <id>http://daily.monolith149.com//blog/2016/09/23/jekyll</id>
     <content type="html"><![CDATA[<p>I&rsquo;m not too familiar with Cloudflare but Jekyll, via Octopress, and
 Github pages are what I use for this blog.</p>
 
@@ -298,9 +298,9 @@ Github pages are what I use for this blog.</p>
   
   <entry>
     <title type="html"><![CDATA[Python Videos]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos/"/>
+    <link href="http://daily.monolith149.com//blog/2016/09/20/python-videos/"/>
     <updated>2016-09-20T23:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos</id>
+    <id>http://daily.monolith149.com//blog/2016/09/20/python-videos</id>
     <content type="html"><![CDATA[<p>Lately I&rsquo;ve been watching some of the videos from Pycon and have found
 these to be quite excellent.</p>
 
@@ -324,9 +324,9 @@ these to be quite excellent.</p>
   
   <entry>
     <title type="html"><![CDATA[So Long Keith Emerson]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/03/11/so-long-keith-emerson/"/>
+    <link href="http://daily.monolith149.com//blog/2016/03/11/so-long-keith-emerson/"/>
     <updated>2016-03-11T18:33:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/03/11/so-long-keith-emerson</id>
+    <id>http://daily.monolith149.com//blog/2016/03/11/so-long-keith-emerson</id>
     <content type="html"><![CDATA[<p>It was in about 1970 when my uncle brought some demo record LPs from a
 DJ he knew.  I discovered among them the 1968 electronic Moog album
 &ldquo;Switched on Bach.&rdquo;  Another album that I really loved listening to
@@ -401,9 +401,9 @@ the time.</p>
   
   <entry>
     <title type="html"><![CDATA[LIGO and the GW150914 Discovery]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/21/ligo-and-the-discovery/"/>
     <updated>2016-02-21T07:12:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery</id>
+    <id>http://daily.monolith149.com//blog/2016/02/21/ligo-and-the-discovery</id>
     <content type="html"><![CDATA[<p>I finally found the paper for the recent LIGO discovery of gravity
 waves from a black hole merger, event GW150914 at 2015-09-14 09:50:45
 +0000 which data implies was the merging of two black holes, one with
@@ -441,9 +441,9 @@ environments with metallicity lower than ≃ &frac12; the solar value.</p></bloc
   
   <entry>
     <title type="html"><![CDATA[Tuning Facebook]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/tuning-facebook/"/>
     <updated>2016-02-06T12:29:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/tuning-facebook</id>
     <content type="html"><![CDATA[<p>Okay, I&rsquo;ve decided to try using the dreaded Facebook a little more,
 particularly after hearing all of the talk about instant articles in
 news and more people using Messenger. I knew about this podcast of
@@ -469,9 +469,9 @@ feed, etc.</p>
   
   <entry>
     <title type="html"><![CDATA[Olympus Pen F]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/olympus-pen-f/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/olympus-pen-f/"/>
     <updated>2016-02-06T12:17:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/olympus-pen-f</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/olympus-pen-f</id>
     <content type="html"><![CDATA[<p>Wow, the Olympus Pen F retro camera is quite beautiful.</p>
 
 <!-- More -->
@@ -516,9 +516,9 @@ the knurled metal dials.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Microcontainers and Alpine Linux]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
     <updated>2016-02-06T12:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux</id>
     <content type="html"><![CDATA[<p>This article on using Alpine Linux for Docker microcontainers is
 interesting and seems to be a valid way to make containers
 significantly more lightweight.</p>
@@ -551,9 +551,9 @@ worth consiering if it supports the app and it&rsquo;s libraries.</p>
   
   <entry>
     <title type="html"><![CDATA[Observing Gravitational Waves]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/observing-gravitational-waves/"/>
     <updated>2016-02-06T12:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/observing-gravitational-waves</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/observing-gravitational-waves</id>
     <content type="html"><![CDATA[<p>The search for detection of gravitational waves continues.</p>
 
 <p><a href="http://arstechnica.com/science/2016/02/after-100-years-scientists-are-finally-closing-in-on-einsteins-ripples/">Ars Technica article</a></p>
@@ -562,9 +562,9 @@ worth consiering if it supports the app and it&rsquo;s libraries.</p>
   
   <entry>
     <title type="html"><![CDATA[Rachel Flowers plays Trilogy (and Tarkus)]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/rachel-flowers-plays-trilogy/"/>
     <updated>2016-02-06T11:51:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/rachel-flowers-plays-trilogy</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re a fan of Emerson, Lake and Palmer, checkout Rachel Flowers
 playing &ldquo;Fugue&rdquo; and &ldquo;The Endless Enigma (Part 2)&rdquo; starting at the
 3m29s mark at NAMM 2016.</p>
@@ -581,9 +581,9 @@ it on his Hammond C3 and original Moog.</p>
   
   <entry>
     <title type="html"><![CDATA[Ducking Into a Nearby Phone Booth]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth/"/>
+    <link href="http://daily.monolith149.com//blog/2016/01/23/ducking-into-a-nearby-phone-booth/"/>
     <updated>2016-01-23T14:31:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth</id>
+    <id>http://daily.monolith149.com//blog/2016/01/23/ducking-into-a-nearby-phone-booth</id>
     <content type="html"><![CDATA[<p>I was recently wondering about the origin of Superman finding a phone
 booth to change in.  I found one source on the origin and it was
 surprising.</p>

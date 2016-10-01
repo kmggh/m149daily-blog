@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cloud | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/cloud/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/cloud/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Microcontainers and Alpine Linux]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
     <updated>2016-02-06T12:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux</id>
     <content type="html"><![CDATA[<p>This article on using Alpine Linux for Docker microcontainers is
 interesting and seems to be a valid way to make containers
 significantly more lightweight.</p>
@@ -50,9 +50,9 @@ worth consiering if it supports the app and it&rsquo;s libraries.</p>
   
   <entry>
     <title type="html"><![CDATA[AWS Mistakes You Should Avoid]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
+    <link href="http://daily.monolith149.com//blog/2016/01/08/aws-mistakes-you-should-avoid/"/>
     <updated>2016-01-08T21:22:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
+    <id>http://daily.monolith149.com//blog/2016/01/08/aws-mistakes-you-should-avoid</id>
     <content type="html"><![CDATA[<p>Michael Wittig writes on cloudonaut.io,</p>
 
 <blockquote><p>As an AWS Cloud Consultant I see many AWS accounts. During the year I

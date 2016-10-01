@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kmggh.github.io/m149daily-blog//sitemap.xml 
+Sitemap: http://daily.monolith149.com//sitemap.xml 

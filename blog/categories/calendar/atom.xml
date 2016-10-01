@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: calendar | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calendar/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/calendar/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Happy Vernal Equinox]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/happy-vernal-equinox/"/>
+    <link href="http://daily.monolith149.com//blog/2015/03/20/happy-vernal-equinox/"/>
     <updated>2015-03-20T05:00:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/happy-vernal-equinox</id>
+    <id>http://daily.monolith149.com//blog/2015/03/20/happy-vernal-equinox</id>
     <content type="html"><![CDATA[<p>Happy vernal equinox, today at 18:45 EDT, 22:45 UTC.</p>
 
 <p>Fri 2015-03-20 18:45:00 -0400<br />
@@ -30,9 +30,9 @@ Fri 2015-03-20 22:45:00 +0000<br /></p>
   
   <entry>
     <title type="html"><![CDATA[Happy Winter Solstice 2014]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/21/happy-winter-solstice-2014/"/>
+    <link href="http://daily.monolith149.com//blog/2014/12/21/happy-winter-solstice-2014/"/>
     <updated>2014-12-21T05:53:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/21/happy-winter-solstice-2014</id>
+    <id>http://daily.monolith149.com//blog/2014/12/21/happy-winter-solstice-2014</id>
     <content type="html"><![CDATA[<p>Happy winter solstice!  The event occurs today 21 Dec 2014 at 18:03
 EST.</p>
 
@@ -45,9 +45,9 @@ Sun 2014-12-21 23:03:00 +0000<br /></p>
   
   <entry>
     <title type="html"><![CDATA[Happy Summer Solstice]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/06/22/happy-summer-solstice/"/>
+    <link href="http://daily.monolith149.com//blog/2014/06/22/happy-summer-solstice/"/>
     <updated>2014-06-22T07:17:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/06/22/happy-summer-solstice</id>
+    <id>http://daily.monolith149.com//blog/2014/06/22/happy-summer-solstice</id>
     <content type="html"><![CDATA[<p>Happy Summer Solstice!</p>
 
 <p>Sat 2014-06-21 10:51:00 +0000<br>
@@ -57,9 +57,9 @@ Sat 2014-06-21 06:51:00 -0400</p>
   
   <entry>
     <title type="html"><![CDATA[Happy Autumnal Equinox!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/09/21/happy-autumnal-equinox/"/>
+    <link href="http://daily.monolith149.com//blog/2013/09/21/happy-autumnal-equinox/"/>
     <updated>2013-09-21T23:39:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/09/21/happy-autumnal-equinox</id>
+    <id>http://daily.monolith149.com//blog/2013/09/21/happy-autumnal-equinox</id>
     <content type="html"><![CDATA[<p>On Sunday afternoon at 16:44 EDT.</p>
 
 <p>Sun 2013-09-22 20:44:00 +0000
@@ -71,9 +71,9 @@ Sun 2013-09-22 16:44:00 -0400</p>
   
   <entry>
     <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice/"/>
+    <link href="http://daily.monolith149.com//blog/2013/06/20/happy-summer-solstice/"/>
     <updated>2013-06-20T15:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice</id>
+    <id>http://daily.monolith149.com//blog/2013/06/20/happy-summer-solstice</id>
     <content type="html"><![CDATA[<p>Happy summer solstice tonight at 1:04 AM EDT.</p>
 
 <p>Fri 2013-06-21 05:04:00 +0000<br/>

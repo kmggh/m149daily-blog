@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: languages | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/languages/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/languages/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python vs. Javascript]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/python-vs-javascript/"/>
+    <link href="http://daily.monolith149.com//blog/2014/03/01/python-vs-javascript/"/>
     <updated>2014-03-01T14:19:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/python-vs-javascript</id>
+    <id>http://daily.monolith149.com//blog/2014/03/01/python-vs-javascript</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve been reluctantly learning some Javascript recently.  While
 looking for a good summary of a feature comparison between Python and
 Javascript, I found this blog post by Matt Chisholm, <a href="https://blog.glyphobet.net/essay/2557">A tour of the differences between JavaScript and Python</a>.</p>

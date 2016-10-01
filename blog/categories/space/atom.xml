@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: space | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/space/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/space/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Apollo 11 Restored Video]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration/"/>
+    <link href="http://daily.monolith149.com//blog/2015/11/18/apollo-11-video-restoration/"/>
     <updated>2015-11-18T06:52:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/11/18/apollo-11-video-restoration</id>
+    <id>http://daily.monolith149.com//blog/2015/11/18/apollo-11-video-restoration</id>
     <content type="html"><![CDATA[<p>From Wikipedia:</p>
 
 <blockquote><p>The Apollo 11 missing tapes refers to Apollo 11&rsquo;s slow-scan television
@@ -57,9 +57,9 @@ Moonwalk restoration project in late 2009.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Robert Truax - Rocketeer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/05/robert-truax-rocketeer/"/>
+    <link href="http://daily.monolith149.com//blog/2014/12/05/robert-truax-rocketeer/"/>
     <updated>2014-12-05T06:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/05/robert-truax-rocketeer</id>
+    <id>http://daily.monolith149.com//blog/2014/12/05/robert-truax-rocketeer</id>
     <content type="html"><![CDATA[<p>In a time of Richard Branson and Virgin Galactic, along with
 impressive amateur rocketeers and commercial space ventures, we might
 have forgotten about Bob Truax, one of the first commercial, private
@@ -92,9 +92,9 @@ starring Andy Griffith in 1979.</p>
   
   <entry>
     <title type="html"><![CDATA[Rocket Explodes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes/"/>
+    <link href="http://daily.monolith149.com//blog/2014/10/30/rocket-explodes/"/>
     <updated>2014-10-30T06:16:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes</id>
+    <id>http://daily.monolith149.com//blog/2014/10/30/rocket-explodes</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
 
 <p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
@@ -115,9 +115,9 @@ supply ISS cargo services to NASA.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Fascinating Satellite Images]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/26/fascinating-satellite-images/"/>
+    <link href="http://daily.monolith149.com//blog/2014/10/26/fascinating-satellite-images/"/>
     <updated>2014-10-26T11:18:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/26/fascinating-satellite-images</id>
+    <id>http://daily.monolith149.com//blog/2014/10/26/fascinating-satellite-images</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 16</a></p>
 
 <p>From <a href="http://www.businessinsider.com/striking-satellite-images-2014-10">Business Insider</a>.</p>
@@ -126,9 +126,9 @@ supply ISS cargo services to NASA.</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[The Lost Art of the Saturn V]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/03/01/the-lost-art-of-the-saturn-v/"/>
+    <link href="http://daily.monolith149.com//blog/2014/03/01/the-lost-art-of-the-saturn-v/"/>
     <updated>2014-03-01T14:30:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/03/01/the-lost-art-of-the-saturn-v</id>
+    <id>http://daily.monolith149.com//blog/2014/03/01/the-lost-art-of-the-saturn-v</id>
     <content type="html"><![CDATA[<p><img class="center" src="/postimages/saturn-v-cutaway.jpg"></p>
 
 <p>Wow!  This is an amazing site and article by Amy Shira Teitel.</p>

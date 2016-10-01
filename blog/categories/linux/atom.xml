@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: linux | Monolith149 Daily]]></title>
-  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/linux/atom.xml" rel="self"/>
-  <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-09-30T18:15:26-04:00</updated>
-  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <link href="http://daily.monolith149.com//blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://daily.monolith149.com//"/>
+  <updated>2016-10-01T00:13:25-04:00</updated>
+  <id>http://daily.monolith149.com//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Microcontainers and Alpine Linux]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
+    <link href="http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux/"/>
     <updated>2016-02-06T12:07:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/microcontainers-and-alpine-linux</id>
+    <id>http://daily.monolith149.com//blog/2016/02/06/microcontainers-and-alpine-linux</id>
     <content type="html"><![CDATA[<p>This article on using Alpine Linux for Docker microcontainers is
 interesting and seems to be a valid way to make containers
 significantly more lightweight.</p>
@@ -50,9 +50,9 @@ worth consiering if it supports the app and it&rsquo;s libraries.</p>
   
   <entry>
     <title type="html"><![CDATA[NixOS Linux]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux/"/>
+    <link href="http://daily.monolith149.com//blog/2015/01/14/nixos-linux/"/>
     <updated>2015-01-14T08:04:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/01/14/nixos-linux</id>
+    <id>http://daily.monolith149.com//blog/2015/01/14/nixos-linux</id>
     <content type="html"><![CDATA[<p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
 feed about a new release during the week between Christmas and New
 Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
@@ -99,9 +99,9 @@ systems.  For a simple server instance this may be something to try.</p>
   
   <entry>
     <title type="html"><![CDATA[Ten Years of Ubuntu]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu/"/>
+    <link href="http://daily.monolith149.com//blog/2014/10/23/ten-years-of-ubuntu/"/>
     <updated>2014-10-23T06:08:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/ten-years-of-ubuntu</id>
+    <id>http://daily.monolith149.com//blog/2014/10/23/ten-years-of-ubuntu</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 13.1</a></p>
 
 <p><a href="http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king/">Ten years of Ubuntu: How Linux’s beloved newcomer became its criticized king</a>.  Ars looks back at the decade in Ubuntu, from Warty Warthog to 25 million users worldwide, by Scott Gilbertson at Ars Technica.</p>
@@ -110,9 +110,9 @@ systems.  For a simple server instance this may be something to try.</p>
   
   <entry>
     <title type="html"><![CDATA[Systemd]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd/"/>
+    <link href="http://daily.monolith149.com//blog/2014/10/19/systemd/"/>
     <updated>2014-10-19T06:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/19/systemd</id>
+    <id>http://daily.monolith149.com//blog/2014/10/19/systemd</id>
     <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 9.1</a></p>
 
 <p>There seems to be quite a controversy brewing over systemd.  I was
