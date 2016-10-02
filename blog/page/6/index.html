@@ -9,7 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Haas devoted his entire life to the study of the Moon and planets. &hellip; At a time when professional astronomers held little regard for amateur &hellip;">
+  <meta name="description" content="This is a blog post I published in Mon 2010-11-22 on the previous
+Monolith149 Daily
+Site. What does this mean? According to the &ldquo;new incorrect &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +85,158 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/08/02/blue-moon-definition-was-wrong/">Blue Moon Definition Was Wrong</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-08-02T03:14:00-04:00" pubdate data-updated="true">Sun  2 Aug 2015  03:14 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><em>This is a blog post I published in Mon 2010-11-22 on the previous
+<a href="http://monolith149daily.blogspot.com/2010/11/blue-moon-definition-was-wrong.html">Monolith149 Daily
+Site</a>.</em></p>
+
+<p><em>What does this mean?  According to the &ldquo;new incorrect definition&rdquo; the
+ blue moon was this past week 31 Jul (based on time zone actually) but
+ the next &ldquo;old correct definition&rdquo; blue moon is not actually until 2016-05-21!</em></p>
+
+<p>From a Space.com article by Joe Rao.</p>
+
+<p>I was wrong.  My wife said last night that the moon was a blue moon.
+I said, that&rsquo;s not possible because a blue moon is a second full moon
+in the same month and that couldn&rsquo;t happen on 21 Nov.  It has to
+happen at the very end of a month.  She pointed me at the above
+article that explains it.</p>
+
+<p>The short answer is that the two full moons in a month definition is
+actually erroneous.</p>
+
+<p>Rao notes that Lawrence J. Lafleur, in <em>Sky and Telescope</em> in 1943,
+quotes a 1937 edition of the <em>Maine Farmer&rsquo;s Almanac</em>, stating that a
+blue moon is the rare occurance of four full moons in a season instead
+of three.  The blue moon is the third moon in that season.</p>
+
+<p>The mistake was apparently made by James Hugh Pruett in a 1946 <em>Sky and
+Telescope</em> where he misinterpreted Lafleur&rsquo;s explanation to mean a
+second full moon in a single month.  (See the above article for
+details).</p>
+
+<p>The wrong explanation was propagated by Deborah Byrd in the radio
+program &ldquo;Stardate&rdquo; in 1980 and then the wrong definition, quoting Rao,
+&ldquo;went viral.&rdquo;</p>
+
+<p>It all makes me wonder when I first learned of the
+two-full-moons-in-a-month definition.  I would have thought it was
+long before 1980, but maybe it was after that date.</p>
+
+<p>Well it sort of spoils the whole thing.  Now we&rsquo;ll have to talk about
+old-correct-definition blue moons and new-incorrect-definition blue
+moons and none of them will seem quite right any more.</p>
+
+<p>This would all be a lot simpler if the moon would just actually turn
+blue once in a while.</p>
+
+<p><a href="http://www.space.com/9566-strange-story-sunday-blue-moon.html">The Really Strange Story Behind Sunday&rsquo;s Blue Moon
+by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/04/26/docker-without-docker/">Docker Without Docker</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-04-26T14:08:00-04:00" pubdate data-updated="true">Sun 26 Apr 2015  14:08 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><ul>
+<li><p>The systemd-nspawn command runs a command or OS in a lightweight
+namespace container</p></li>
+<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
+fully virtualizes the file system hierarchy, as well as the process
+tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
+</ul>
+</blockquote>
+
+<p>Trying it out (from the article):</p>
+
+<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
+$ systemd-nspawn -D debian-tree/ /bin/bash 
+$ systemd-nspawn -D debian-tree/ /sbin/init
+</code></pre>
+
+<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
+
+<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
+at the end&rdquo;</p>
+
+<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
+RAM and 200% CPU&rdquo;</p>
+
+<p>&ldquo;Give me a container that has its own private network and its own IP
+and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
+
+<p>&ldquo;Run this container with its own daemons in it, and monitor them to
+make sure they don&rsquo;t fail&rdquo;</p>
+
+<p>&ldquo;Download this container from the Docker Hub and run it every time I
+boot, but without installing Docker&rdquo;</p></blockquote>
+
+<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -651,97 +805,6 @@ level I was hoping.</p></blockquote>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice/">How Intel Gave Stephen Hawking a Voice</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-01-14T07:28:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  07:28 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>From Wired by Joao Medeiros.</p>
-
-<blockquote><p>Hawking is very attached to his voice: in 1988, when Speech Plus gave
-him the new synthesizer, the voice was different so he asked them to
-replace it with the original. His voice had been created in the early
-&lsquo;80s by MIT engineer Dennis Klatt, a pioneer of text-to-speech
-algorithms. He invented the DECtalk, one of the first devices to
-translate text into speech. He initially made three voices, from
-recordings of his wife, daughter and himself. The female’s voice was
-called &ldquo;Beautiful Betty&rdquo;, the child’s &ldquo;Kit the Kid&rdquo;, and the male
-voice, based on his own, &ldquo;Perfect Paul.&rdquo; &ldquo;Perfect Paul&rdquo; is Hawking&rsquo;s
-voice.</p></blockquote>
-
-<p><a href="http://www.wired.com/2015/01/intel-gave-stephen-hawking-voice/">How Intel Gave Stephen Hawking a Voice</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/21/happy-winter-solstice-2014/">Happy Winter Solstice 2014</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-21T05:53:00-05:00" pubdate data-updated="true">Sun 21 Dec 2014  05:53 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Happy winter solstice!  The event occurs today 21 Dec 2014 at 18:03
-EST.</p>
-
-<p>Sun 2014-12-21 18:03:00 -0500<br />
-Sun 2014-12-21 23:03:00 +0000<br /></p>
-
-<p><a href="http://www.bbc.com/news/magazine-30549149">Why do mornings still get darker after the winter solstice? from BBC News</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/7/">&larr; Older</a>
@@ -767,6 +830,14 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/01/its-email-part-2/">Its Email - Part 2</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/01/its-email/">Its Email</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2016/09/26/squeak-back-to-the-future/">Squeak - Back to the Future</a>
       </li>
     
@@ -776,14 +847,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2016/09/26/cosmic-distance-ladder/">Cosmic Distance Ladder</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/variable-fonts/">Variable Fonts</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/microsoft-fpgas/">Microsoft FPGAs</a>
       </li>
     
   </ul>

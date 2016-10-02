@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-01T00:36:01-04:00</updated>
+  <updated>2016-10-02T04:57:24-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,102 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Its Email - Part 2]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email-part-2/"/>
+    <updated>2016-10-01T23:03:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email-part-2</id>
+    <content type="html"><![CDATA[<p>Email isn&rsquo;t just for direct communication but it can be used for
+notifications, too.  I can put up a blog post or two and then send a brief
+email message to a list of friends and family with the links.  This ia
+actually a method of using sender-stored email where the blog post
+becomes the sender-stored message and the notification is via the
+email notice.</p>
+
+<!-- More -->
+
+
+<p>Beyond notifications, it&rsquo;s a way to stay in touch with an exact set of
+family and friends which is otherwise hard to do.  That&rsquo;s because some
+are on Facebook, some on Twitter, maybe even on Google+?  Nah,
+probably not Google+.  Who knows, but I think email is still
+universal.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Its Email]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email/"/>
+    <updated>2016-10-01T22:53:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email</id>
+    <content type="html"><![CDATA[<p><em>This is a reposting of a bit I wrote on Fri 2015-05-29.</em></p>
+
+<p>I&rsquo;ve gone round and round trying to sort out what&rsquo;s the ideal
+communication solution.  For now I&rsquo;ve come back to the simple answer:
+email.</p>
+
+<!-- More -->
+
+
+<p>I thought email was over, that it was time to leave it behind,
+relegated to just handling commercial spam and first-contact
+messages.  However, in searching for some replacement that made sense,
+that had a simpler storage architecture, HTTP-only transport, and so
+forth, I haven&rsquo;t found a simple solution.</p>
+
+<p>It&rsquo;s still true that sender-stored email is an ideal solution, but it
+requires the <em>sender</em> to do the work.  It even works, at least when
+<em>I&rsquo;m</em> the sender.  However, replies and conversations are a bit more
+difficult with sender-stored email than with regular email.</p>
+
+<p>The indie web and micro-formats are also interesting moves in this
+direction, but they also represent a lot of work for the participant.</p>
+
+<p>Ultimately, Gmail ends up being an implementation that has nearly all
+of the properties of any of the replacements I can imagine,
+particularly when all participants are actually on Gmail.  In that
+case it is all secure HTTPS to the service, storage is secure and you
+can get your data out if you want to leave Gmail.</p>
+
+<ul>
+<li>One to one is straightforward.</li>
+<li>One to many is BCC.</li>
+<li>Many to one is straightforward.</li>
+</ul>
+
+
+<p>And, it turns out that Gmail in it&rsquo;s native format is very
+lightweight.  My recent move toward eliminating signing messages and
+removing the signature makes it nearly identical to a simple chat.
+Gmail&rsquo;s presentation keeps that view clean.</p>
+
+<p>Gmail&rsquo;s Inbox moves a couple of steps closer to the clean and simple
+ideal, but then it leaves other features hard to use.  Inbox
+superimposes a todo list view on the email that&rsquo;s unwanted, with the
+slight redeeming quality that it does provide a way to keep the inbox
+looking clean and minimal.  My recent problem with Inbox, which I&rsquo;m
+using for kenguyton@gmail.com, was that I had two unread messages that
+I simply could not find on the phone app even though it had a badge
+saying two items were there, somewhere!  Fortunately, going back to
+Inbox on the desktop showed them right up top.  There seems to be some
+bug in that system, maybe in the phone-desktop interaction.</p>
+
+<p>So, for now, I&rsquo;m going back to basics.  Email.  I&rsquo;d never have
+believed it.</p>
+
+<p>That said, I do use phone text messaging, and more specifically,
+iMessage on the iPhone, for the majority of my family communication.
+I use Facebook messages and Facebook for some.  I&rsquo;ve never done more
+than play with direct messages on Twitter.  We use Hipchat at work
+which I dislike a lot.  That model is wrong in several ways. My
+biggest complaint there is that Messages aren&rsquo;t threaded.</p>
+
+<h2>References</h2>
+
+<p><a href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/">Whither the Chat Paradigm</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
@@ -557,73 +653,6 @@ worth consiering if it supports the app and it&rsquo;s libraries.</p>
     <content type="html"><![CDATA[<p>The search for detection of gravitational waves continues.</p>
 
 <p><a href="http://arstechnica.com/science/2016/02/after-100-years-scientists-are-finally-closing-in-on-einsteins-ripples/">Ars Technica article</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rachel Flowers plays Trilogy (and Tarkus)]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy/"/>
-    <updated>2016-02-06T11:51:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/rachel-flowers-plays-trilogy</id>
-    <content type="html"><![CDATA[<p>If you&rsquo;re a fan of Emerson, Lake and Palmer, checkout Rachel Flowers
-playing &ldquo;Fugue&rdquo; and &ldquo;The Endless Enigma (Part 2)&rdquo; starting at the
-3m29s mark at NAMM 2016.</p>
-
-<p>She&rsquo;s also famous for her rendition of &ldquo;Tarkus,&rdquo; the entire piece.  Of
-course she finally got Keith Emerson&rsquo;s attention and was able to play
-it on his Hammond C3 and original Moog.</p>
-
-<p><a href="https://youtu.be/-mzcED3vJ3g">NAMM 2016 Nord Piano 3 Performance with Rachel Flowers</a><br />
-<a href="https://www.youtube.com/watch?v=HrXuvkj5Vi0">Rachel Flowers-Tarkus (complete)-solo piano</a><br />
-<a href="https://www.youtube.com/watch?v=FLT3Cb96-Mk">Rachel Flowers &ndash; Tarkus with Emerson&rsquo;s Modular Moog</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ducking Into a Nearby Phone Booth]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth/"/>
-    <updated>2016-01-23T14:31:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth</id>
-    <content type="html"><![CDATA[<p>I was recently wondering about the origin of Superman finding a phone
-booth to change in.  I found one source on the origin and it was
-surprising.</p>
-
-<!-- More -->
-
-
-<p>Why was I wondering about this in the first place?  It&rsquo;s because I was
-thinking about the John Williams soundtrack from the 1978 movie.  I
-recalled the scene where Clark Kent stops and glances at the little hood-like
-phone booth and keeps going, looking for a place to change.  I
-wondered where the changing in a phone booth meme came from since I
-didn&rsquo;t recall Superman ever actually changing in a phone booth in any
-of the comics or TV shows, etc.</p>
-
-<p>A quick search online pulled up some interesting history including a
-post by Steve Younis on supermanhoempage.com called &lsquo;Superman and the
-Phone Booth.&#8221;</p>
-
-<blockquote><p>In the Golden Age of comic books Clark Kent didn&rsquo;t use a phone booth
-to change into Superman. Actually right throughout every era of
-Superman comics the phone booth change has rarely been seen.</p></blockquote>
-
-<p>The first time Superman changes is (spoiler):</p>
-
-<blockquote><p>The answer lies way back in 1941.</p>
-
-<p>To my knowledge, Clark Kent first changed to Superman inside a phone
-booth in &ldquo;The Mechanical Monsters&rdquo;, the second of 17 Superman
-cartoons produced by Fleischer Studios for Paramount Pictures. It
-was released to cinemas on November 28 in 1941.</p></blockquote>
-
-<p>I was pretty much unaware of the Fleischer Studios Superman
-animations.  They&rsquo;re very well done and influenced some of the more
-recent TV animations in style.</p>
-
-<p>I recommend finding &ldquo;The Mechanical Monsters&rdquo; on Youtube and watching it.</p>
-
-<p><a href="http://www.supermanhomepage.com/other/other.php?topic=phonebooth">Superman and the Phone Booth</a>
-<a href="https://en.m.wikipedia.org/wiki/Superman_(1940s_cartoons">Superman 1940s cartoons</a>)</p>
 ]]></content>
   </entry>
   

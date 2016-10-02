@@ -4,7 +4,7 @@
   <title><![CDATA[Category: email | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/email/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-01T00:36:01-04:00</updated>
+  <updated>2016-10-02T04:57:24-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -14,7 +14,103 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Whence The Chat Paradigm]]></title>
+    <title type="html"><![CDATA[Its Email - Part 2]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email-part-2/"/>
+    <updated>2016-10-01T23:03:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email-part-2</id>
+    <content type="html"><![CDATA[<p>Email isn&rsquo;t just for direct communication but it can be used for
+notifications, too.  I can put up a blog post or two and then send a brief
+email message to a list of friends and family with the links.  This ia
+actually a method of using sender-stored email where the blog post
+becomes the sender-stored message and the notification is via the
+email notice.</p>
+
+<!-- More -->
+
+
+<p>Beyond notifications, it&rsquo;s a way to stay in touch with an exact set of
+family and friends which is otherwise hard to do.  That&rsquo;s because some
+are on Facebook, some on Twitter, maybe even on Google+?  Nah,
+probably not Google+.  Who knows, but I think email is still
+universal.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Its Email]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email/"/>
+    <updated>2016-10-01T22:53:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/01/its-email</id>
+    <content type="html"><![CDATA[<p><em>This is a reposting of a bit I wrote on Fri 2015-05-29.</em></p>
+
+<p>I&rsquo;ve gone round and round trying to sort out what&rsquo;s the ideal
+communication solution.  For now I&rsquo;ve come back to the simple answer:
+email.</p>
+
+<!-- More -->
+
+
+<p>I thought email was over, that it was time to leave it behind,
+relegated to just handling commercial spam and first-contact
+messages.  However, in searching for some replacement that made sense,
+that had a simpler storage architecture, HTTP-only transport, and so
+forth, I haven&rsquo;t found a simple solution.</p>
+
+<p>It&rsquo;s still true that sender-stored email is an ideal solution, but it
+requires the <em>sender</em> to do the work.  It even works, at least when
+<em>I&rsquo;m</em> the sender.  However, replies and conversations are a bit more
+difficult with sender-stored email than with regular email.</p>
+
+<p>The indie web and micro-formats are also interesting moves in this
+direction, but they also represent a lot of work for the participant.</p>
+
+<p>Ultimately, Gmail ends up being an implementation that has nearly all
+of the properties of any of the replacements I can imagine,
+particularly when all participants are actually on Gmail.  In that
+case it is all secure HTTPS to the service, storage is secure and you
+can get your data out if you want to leave Gmail.</p>
+
+<ul>
+<li>One to one is straightforward.</li>
+<li>One to many is BCC.</li>
+<li>Many to one is straightforward.</li>
+</ul>
+
+
+<p>And, it turns out that Gmail in it&rsquo;s native format is very
+lightweight.  My recent move toward eliminating signing messages and
+removing the signature makes it nearly identical to a simple chat.
+Gmail&rsquo;s presentation keeps that view clean.</p>
+
+<p>Gmail&rsquo;s Inbox moves a couple of steps closer to the clean and simple
+ideal, but then it leaves other features hard to use.  Inbox
+superimposes a todo list view on the email that&rsquo;s unwanted, with the
+slight redeeming quality that it does provide a way to keep the inbox
+looking clean and minimal.  My recent problem with Inbox, which I&rsquo;m
+using for kenguyton@gmail.com, was that I had two unread messages that
+I simply could not find on the phone app even though it had a badge
+saying two items were there, somewhere!  Fortunately, going back to
+Inbox on the desktop showed them right up top.  There seems to be some
+bug in that system, maybe in the phone-desktop interaction.</p>
+
+<p>So, for now, I&rsquo;m going back to basics.  Email.  I&rsquo;d never have
+believed it.</p>
+
+<p>That said, I do use phone text messaging, and more specifically,
+iMessage on the iPhone, for the majority of my family communication.
+I use Facebook messages and Facebook for some.  I&rsquo;ve never done more
+than play with direct messages on Twitter.  We use Hipchat at work
+which I dislike a lot.  That model is wrong in several ways. My
+biggest complaint there is that Messages aren&rsquo;t threaded.</p>
+
+<h2>References</h2>
+
+<p><a href="/blog/2015/09/30/whence-the-chat-paradigm/">Whither the Chat Paradigm</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Whither The Chat Paradigm]]></title>
     <link href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/"/>
     <updated>2015-09-30T05:02:00-04:00</updated>
     <id>http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm</id>
@@ -315,114 +411,6 @@ tuned.</p>
 delete, organizing folders, spam.  Those are problems more than 10
 years in my past.  I&rsquo;m amazed people still have to battle them on a
 daily basis.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Inbox: First Impression]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression/"/>
-    <updated>2014-10-28T06:01:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/28/inbox-first-impression</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 18.1</a></p>
-
-<p>I just set up Inbox on a very old, in fact my oldest, earliest, Gmail
-account.  Come to think of it, I guess that&rsquo;s appropriate in a way.
-Here, briefly, are my very first impressions.</p>
-
-<h2>Short Version</h2>
-
-<p>Inbox is like the dead mouse your cat brings to you.  Thanks but
-that&rsquo;s not exactly what I wanted and it&rsquo;s not quite useful to me,
-though I appreciate the work you&rsquo;ve done.  I may even be impressed by
-it.  It&rsquo;s true I could use something to eat right now, maybe even
-something about that size, but that isn&rsquo;t it.</p>
-
-<!-- More -->
-
-
-<h2>Slightly More Detail</h2>
-
-<p>Minimalist email messages:  Yes.  I like this idea of messages that
-can look like tweets but still, maybe, have support for long messages.
-Really, though, I think long messages should be a document that is
-emailed.</p>
-
-<p>The card thing:  Bah.  I don&rsquo;t use Google Now and I don&rsquo;t want that
-much help.</p>
-
-<p>The todo list thing: Thumbs down.  I&rsquo;m in the fifth year of my
-highly-evolved GTD system and I don&rsquo;t want help with this from my email
-program.  I don&rsquo;t mind it being there, it looks like it would be a
-great help for folks that <em>do</em> use email to manage their lives (what a
-horrible, horrible concept, though).  There needs to be some way to
-get all of those green check marks and todo-listness out of the email if you
-don&rsquo;t want to see it there.  Where&rsquo;s the OFF switch??</p>
-
-<p>The automatic grouping thing: Thumbs down again.  Similar to the
-above, I&rsquo;ve had complete control of my email with filters and labels
-for years.  I don&rsquo;t need help.  Please get your ideas of labels and
-filters out of my email!</p>
-
-<p>Finally, it&rsquo;s not really minimal.  Inbox looks minimal and simpler,
-but really it sneaks in all of the above cruft.  A program that sort
-of looked like Inbox, more minimalist than Gmail, but that didn&rsquo;t
-impose a lot of complexity and stuff in return would be worth a closer
-look.</p>
-
-<p>I expect changes to Gmail itself along these lines and maybe then
-there will be some settings switches (no doubt almost impossibly
-buried) to turn some of these &ldquo;helpful&rdquo; features off.</p>
-
-<p>And I should make clear that this is all from my personal point of
-view.  For the vast masses, Inbox may be just what folks need so I&rsquo;m
-not saying it shouldn&rsquo;t exist and may not be a huge hit.</p>
-
-<p>I&rsquo;ll find ways to keep playing with Inbox but it will be a while
-before I unleash it on the actual Gmail that I use.</p>
-
-<h2>P.S.</h2>
-
-<p>It sure looks like <a href="http://www.youtube.com/watch?v=CICMxwgm274">Mailboxapp</a> introduced some two years ago.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google's New Gmail Inbox]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox/"/>
-    <updated>2014-10-23T05:48:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/23/googles-new-email-inbox</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 13</a></p>
-
-<p>Google is now making available to all users, albeit by invitation only
-for now, Inbox, it&rsquo;s new Gmail app.</p>
-
-<p>I&rsquo;ve barely seen it but initially I&rsquo;m a bit skeptical.  There&rsquo;s a
-focus on automatically bundling  your email for you and managing todo
-lists.  I already manage my email with a strong and extensive set of
-filters and I manage todo lists and things like that via my
-implementation of David Allen&rsquo;s GTD.  So I&rsquo;m probably not an intended
-user.</p>
-
-<p>It will probably look compelling.  One thing I do like are email-like
-systems where the messages look more like short messages in a chat
-session rather than email.  When I think about this as a good idea
-and then look back at Gmail, it really already goes a long way in that
-direction.  The messages in a conversation are nicely minimal.</p>
-
-<p>Inbox also seems to have a little floating circle, in this case a red
-dot. This little floating circle, that is both highly annoying and in
-the way as far as I&rsquo;m concerned, seems to be a popular gimmick lately.
-Witness the little chat circle in Facebook&rsquo;s mobile apps.</p>
-
-<p>I&rsquo;m being highly critical of software I&rsquo;ve never even seen, so I may
-be wrong about Inbox.  I do like the idea of an even nicer and somehow
-simpler email application but I want full control over what&rsquo;s
-happening.  And I don&rsquo;t need a new Gmail.  It&rsquo;s actually nearly
-perfect already.  I fear that ongoing attempts to move it forward will
-begin to degrade what I like about Gmail.</p>
-
-<p><a href="http://www.theverge.com/2014/10/22/7041227/google-inbox-hands-on-this-feels-like-the-future-of-email">Using Google Inbox: this feels like the future of email</a> at the Verge.<br />
-<a href="http://readwrite.com/2014/10/22/google-inbox-deconstructing-email">Google May Be About To Blow Up Email With Its &ldquo;Inbox&rdquo; App</a> at Readwrite.</p>
 ]]></content>
   </entry>
   
