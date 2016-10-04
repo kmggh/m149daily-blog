@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-02T04:57:24-04:00</updated>
+  <updated>2016-10-04T01:21:45-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The C Programming Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language/"/>
+    <updated>2016-10-04T01:15:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language</id>
+    <content type="html"><![CDATA[<p>The classic &ldquo;The C Programming Language&rdquo; by Kernighan and Ritchie is
+online in full at the below link.  This is the second edition from
+1988.</p>
+
+<p><a href="https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf">The C Programming Language</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Appropriate Uses for SQLite]]></title>
@@ -91,18 +104,6 @@ database, management, etc.</p></li>
 <p><a href="http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html">A Beginner&rsquo;s Guide To Scaling To 11 Million+ Users On Amazon&rsquo;s AWS</a></p>
 
 <p><a href="https://youtu.be/vg5onp8TU6Q">AWS re:Invent 2015 | (ARC301) Scaling Up to Your First 10 Million Users</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ultimate Amiga Talk]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk/"/>
-    <updated>2016-01-08T21:57:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/ultimate-amiga-talk</id>
-    <content type="html"><![CDATA[<p>As an Amiga 1000 owner (I still have it) this talk was extremely well
-done, brought back memories, and is quite accurate.</p>
-
-<p><a href="https://youtu.be/BbVAvDbzXFk">The ultimate Amiga 500 (sic) talk</a></p>
 ]]></content>
   </entry>
   

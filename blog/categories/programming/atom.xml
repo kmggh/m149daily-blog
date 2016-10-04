@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-02T04:57:24-04:00</updated>
+  <updated>2016-10-04T01:21:45-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The C Programming Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language/"/>
+    <updated>2016-10-04T01:15:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language</id>
+    <content type="html"><![CDATA[<p>The classic &ldquo;The C Programming Language&rdquo; by Kernighan and Ritchie is
+online in full at the below link.  This is the second edition from
+1988.</p>
+
+<p><a href="https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf">The C Programming Language</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
@@ -144,32 +157,6 @@ and more starting them right off in Python 3.</p>
 both.  That takes a bit more effort and is a little more tricky.</p>
 
 <p>Stay tuned.  I&rsquo;ll maybe update on that part next.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Python Videos]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos/"/>
-    <updated>2016-09-20T23:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos</id>
-    <content type="html"><![CDATA[<p>Lately I&rsquo;ve been watching some of the videos from Pycon and have found
-these to be quite excellent.</p>
-
-<!-- More -->
-
-
-<ul>
-<li><a href="https://youtu.be/G-uKNd5TSBw">Keynote &ndash; Guido van Rossum &ndash; PyCon 2015</a></li>
-<li><a href="https://youtu.be/YgtL4S7Hrwo">Guido van Rossum &ndash; Python Language &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/KPzDX5TX5HE">Brett Cannon &ndash; How to make your code Python 2/3 compatible &ndash; PyCon 2015</a></li>
-<li><a href="https://youtu.be/k55d3ZUF3ZQ">Luciano Ramalho &ndash; Pythonic Objects: Implementing Productive APIs</a></li>
-<li><a href="https://youtu.be/6zQAu23bKF8">Harry Percival &ndash; Outside-In TDD &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/RAxiiRPHS9k">Gary Bernhardt Fast Test Slow Test</a></li>
-<li><a href="https://youtu.be/frZrBgWHJdY">Alex Martelli &ndash; Exception and error handling in Python 2 and Python 3 &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/E9wS6LdXM8Y">Thomas Ballinger &ndash; Finding closure with closures &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/bAcfPzxB3dk">Ned Batchelder &ndash; Machete-mode debugging &ndash; PyCon 2016</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

@@ -9,9 +9,8 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Welcome to the Unix Tree. Here you can browse the source code and
-manuals of various old versions of Unix. For every file, you can
-also find related &hellip;">
+  <meta name="description" content="As storage grows exponentially, it&rsquo;s getting harder to keep up with
+the specification of data capacity and other big numbers. Even with &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -85,6 +84,172 @@ also find related &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big Numbers</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-07-13T12:28:00-04:00" pubdate data-updated="true">Sat 13 Jul 2013  12:28 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>As storage grows exponentially, it&rsquo;s getting harder to keep up with
+the specification of data capacity and other big numbers.  Even with
+kilobytes (KB), megabytes (MB), terabytes (TB), etc., by the time we
+get to petabytes (PB), exabytes (EB), zettabytes (ZB), and yottabytes
+(YB), we&rsquo;ve long lost any sense of relative size.</p>
+
+<p>I&rsquo;m proposing a notation called K-Factor (KF), which is a size
+converted to base-1024, i.e., it represents how
+many factors of 1024, factors of K, are multiplied together.  The
+K-Factor of a value is just the integer part of it&rsquo;s log-base-1024
+value.  It&rsquo;s easier than it sounds.</p>
+
+<p><img class="center" src="/m149daily-blog/postimages/kf_table.png" title="" ></p>
+
+<p>With such a notation in hand, we can cruise on beyond to 9 KF, 10 KF,
+etc.</p>
+
+<p>Using KF, you might specify a 2-TB disk as a  2-4KF disk and 4 GB of
+RAM as 4 3KF.  Storage space of 16 petabytes would be 16 5KF.</p>
+
+<p>As usual, one would have to recall that a <em>difference</em> between two
+sizes of 1 KF would mean a factor of 1024 larger, a difference of 2 KF
+would be roughly a factor of a million (1024<sup>2</sup>), 3 KF approximately a
+billion, etc.</p>
+
+<p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/26/whats-an-observing-run-really-like/">What&#8217;s an Observing Run Really Like?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-26T05:50:00-04:00" pubdate data-updated="true">Wed 26 Jun 2013  05:50 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130626_Kitt_Peak.jpg" title="" ></p>
+
+<p>Via <a href="https://twitter.com/universetoday/status/349191149413609474">@universetoday</a></p>
+
+<p><a href="http://www.universetoday.com/103082/behind-the-scenes-at-kitt-peak-observatory-what-is-an-observing-run-really-like/">Behind the Scenes at Kitt Peak Observatory: What is an Observing Run Really Like?</a>
+by Shannon Hall</p>
+
+<p>Kitt Peak used to be the premier US observatory.  Even though there
+are much larger telescopes and sites now, yet it remains an impressive
+place.</p>
+
+<blockquote><p>This is my third trip to Kitt Peak, but my first chance to observe
+on the Mayall 4-meter telescope. The first thing to know about the
+4-meter is that it is a colossal maze. Literally.  There are 16
+stories of rooms, now obsolete and out of date, before reaching the
+base of the telescope itself.</p></blockquote>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/26/what-was-that-super-moon/">What Was That Super Moon?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-26T05:25:00-04:00" pubdate data-updated="true">Wed 26 Jun 2013  05:25 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130626_Super_moon.jpg"></p>
+
+<p>Via <a href="https://twitter.com/universetoday/status/348480134908612608">@universetoday</a></p>
+
+<p><a href="http://www.universetoday.com/102763/what-is-a-super-moon/?utm_content=buffer6915b&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">What is a Super Moon?</a></p>
+
+<p>David Dickinson does an excellent job of explaining the so-called
+super moon along with a nice bit of lunar orbital mechanics and
+effects.</p>
+
+<p>The bottom line is that it&rsquo;s not that big a deal.  You probably can&rsquo;t
+tell the difference by looking at the moon.  The weather and other
+local conditions, along with whether the moon is rising or high in the
+sky, have a much greater effect on what you see.</p>
+
+<p>The news buzz of the &ldquo;super moon&rdquo; also causes more people to stop
+and take a moment to look at the moon.  Then they notice, &ldquo;Wow!  That
+thing really is big and bright in the sky!&rdquo;  That&rsquo;s a nice thing that
+astronomers generally just to more often anyway.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -392,125 +557,6 @@ yawn-inducing boredom and outright annoyance.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/18/fear-and-loathing-of-silicon-valley/">Fear and Loathing of Silicon Valley</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-18T05:12:00-04:00" pubdate data-updated="true">Tue 18 Jun 2013  05:12 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Via <a href="https://twitter.com/HNTweets/status/346905127430520833">@HNTweets</a></p>
-
-<p><a href="http://techcrunch.com/2013/06/18/no-sympathy-for-the-devil/">Fear And Loathing OF Silicon Valley</a> by Alexia Tsotsis of TechCrunch.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50/">A Very Helpful Apple Salesperson Helped Me Save $750</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-18T00:03:00-04:00" pubdate data-updated="true">Tue 18 Jun 2013  00:03 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130618_macbook_air.jpg" title="" ></p>
-
-<p>Via <a href="https://twitter.com/HNTweets/status/346834662091534336">@HNTweets</a></p>
-
-<p><a href="http://virtualpants.com/post/53248259631/buying-the-new-macbook-air">Buying the new MacBook Air</a> at Virtual Pants.</p>
-
-<p><em>Image credit: <a href="http://www.flickr.com/photos/pahudson/5128395154/">Paul Hudson at Flickr</a>.  CC by 2.0.</em></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/16/want-a-job/">Want a Job?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-16T23:16:00-04:00" pubdate data-updated="true">Sun 16 Jun 2013  23:16 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Via Quartz <a href="https://twitter.com/qz/status/346462368924049411">@qz</a></p>
-
-<p>Weekend read: Want a job? Stop complaining and start solving someone
-else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/18/">&larr; Older</a>
@@ -536,23 +582,23 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/04/the-c-programming-language/">The C Programming Language</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/04/bigger-milky-way/">Bigger Milky Way</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/02/stop-the-twitter-email/">Stop the Twitter Email!</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2016/10/01/its-email-part-2/">Its Email - Part 2</a>
       </li>
     
       <li class="post">
         <a href="/m149daily-blog/blog/2016/10/01/its-email/">Its Email</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/squeak-back-to-the-future/">Squeak - Back to the Future</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/appropriate-uses-for-sqlite/">Appropriate Uses for SQLite</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/cosmic-distance-ladder/">Cosmic Distance Ladder</a>
       </li>
     
   </ul>

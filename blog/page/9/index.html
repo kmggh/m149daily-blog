@@ -9,8 +9,8 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Day 28 A final thought, but the most important one. Now I&rsquo;ll tell you the most important secret about telescopes and
-observing, the thing that& &hellip;">
+  <meta name="description" content="Day 30 Today I upgraded to IOS 8.1 with no trouble and it&rsquo;s working well so
+far. I am one of those users who doesn&rsquo;t have the 5-GB or so &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -84,6 +84,158 @@ observing, the thing that& &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-11-09T21:53:00-05:00" pubdate data-updated="true">Sun  9 Nov 2014  21:53 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20141109_iPhone.jpg"></p>
+
+<p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 30</a></p>
+
+<p>Today I upgraded to IOS 8.1 with no trouble and it&rsquo;s working well so
+far.</p>
+
+<p>I am one of those users who doesn&rsquo;t have the 5-GB or so of space on my
+iPhone to do an over-the-air upgrade.  In spite of that, you can do an
+upgrade without needing the space if you connect your iPhone to your
+Mac (or Windows?) running iTunes and use iTunes to do the upgrade.  It
+does the downloading and expansion of files on your desktop machine
+then installs the upgrade over the USB cable.</p>
+
+<p>The upgrade/install went without any trouble and it took almost
+exactly 36 minutes it predicted.</p>
+
+<p>I&rsquo;ve not used it too much.  So far, all the apps look and work the
+same as in IOS 7.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/08/more-30-day-blogging-takers/">More 30-day Blogging Takers</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-11-08T23:41:00-05:00" pubdate data-updated="true">Sat  8 Nov 2014  23:41 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 29.1</a></p>
+
+<p>Matt Cutts also has taken on the 30-day blogging challenge.  He&rsquo;s
+doing it for the month of November.</p>
+
+<p><a href="https://www.mattcutts.com/blog/30-day-challenge-write-every-day/">30 day challenge: writing every day</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/08/text-mode-and-auto-fill-mode/">Text Mode and Auto Fill Mode</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-11-08T04:45:00-05:00" pubdate data-updated="true">Sat  8 Nov 2014  04:45 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 29</a></p>
+
+<p>I finally did something I&rsquo;ve meant to do for a while.  I configured
+emacs to automatically use text-mode and auto-fill-mode for Markdown
+files.  Markdown files end in either <strong>.markdown</strong> or <strong>.md</strong> in my
+experience so far.  These blog posts are written in Markdown.</p>
+
+<p>Since text-mode and auto-fill-mode weren&rsquo;t automatic, I had to execute
+them manually using <strong>M-x</strong> (that&rsquo;s the ESC key followed by &ldquo;x&rdquo; in
+emacs) everytime I opened one of those files, e.g., to write a blog
+post.</p>
+
+<p>Adding the following lines to my <strong>.emacs</strong> file in the home directory
+fixed this.</p>
+
+<pre><code>;;; Add markdown files to text-mode.
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . text-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . text-mode))
+
+;;; Make auto-fill-mode the default for text-mode.
+(add-hook 'text-mode-hook 'turn-on-auto-fill)
+</code></pre>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -478,180 +630,6 @@ telescopes:   aperture, mounting and portability.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/10/31/sqrl/">SQRL!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-10-31T05:11:00-04:00" pubdate data-updated="true">Fri 31 Oct 2014  05:11 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 21</a></p>
-
-<p>For several months now Steve Gibson of GRC.com and Security Now has
-been working on a new authentication protocol he named SQRL, the
-Secure Quick Reliable Login.  On his web site he describes what
-happens when you log into a site, say Amazon, using SQRL (assuming
-Amazon adopted it).</p>
-
-<p>The website displays a QR code, described as a &ldquo;SQRL code,&rdquo; beside the
-usual userid and password login prompt.</p>
-
-<blockquote><ul>
-<li>The user can tap or click directly on the SQRL code to login, or
-launch their smartphone&rsquo;s SQRL app, and scan the QR code.</li>
-<li>For verification, SQRL displays the domain name contained in the
-SQRL code.</li>
-<li>After verifying the domain, the user permits the SQRL app to
-authenticate their identity.</li>
-<li>Leaving the login information blank, the user clicks the “Log in”
-button&hellip; and is logged in.</li>
-</ul>
-</blockquote>
-
-<p>The approach is highly secure, difficult to attack, easy to implement,
-and easy to use.  He describes details at his site.</p>
-
-<p>This is an elegant solution to the problems that come from dealing
-with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
-
-<p><a href="https://www.grc.com/sqrl/sqrl.htm">SQRL at GRC.com</a><br />
-<a href="http://twit.tv/show/security-now">Security Now</a><br />
-<a href="http://twit.tv/show/security-now/424">Episode 424 on SQRL</a><br />
-<a href="http://sqrl.pl/guide/">Sqrl.pl Illustrated Guide</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/10/30/are-quasars-dying/">Are Quasars Dying?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-10-30T06:26:00-04:00" pubdate data-updated="true">Thu 30 Oct 2014  06:26 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 20.1</a></p>
-
-<p>From <a href="http://www.dailygalaxy.com/my_weblog/2014/10/are-quasars-dying-at-the-farthest-reaches-of-the-universe.html">The Daily Galaxy</a>.</p>
-
-<blockquote><p>&ldquo;We have been able to confirm that, indeed, apart from the highly
-energetic and rapidly evolving quasars, there is another population
-that evolves slowly. This population of quasars appears to follow the
-quasar main sequence discovered by Sulentic and colleagues in
-2000. There does not even seem to be a strong relation between this
-type of quasars, which we see in our environment and those &lsquo;monsters&rsquo;
-that started to glow more than ten billion years ago&rdquo;, says Ascensión
-del Olmo another IAA-CSIC researcher taking part in the study.</p>
-
-<p>They have, nonetheless, found differences in this population of quiet
-quasars. &ldquo;The local quasars present a higher proportion of heavy
-elements such as aluminium, iron or magnesium, than the distant
-relatives, which most likely reflects enrichment by the birth and
-death of successive generations of stars,&rdquo; says Jack W. Sulentic
-(IAA-CSIC). &ldquo;This result is an excellent example of the new
-perspectives on the universe which the new 10 meter-class of
-telescopes such as GTC are yielding,&rdquo; the researcher concludes.</p></blockquote>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/10/30/rocket-explodes/">Rocket Explodes</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-10-30T06:16:00-04:00" pubdate data-updated="true">Thu 30 Oct 2014  06:16 EDT</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="/m149daily-blog/blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
-
-<p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
-
-<p>The Orbital Sciences Antares rocket&hellip;</p>
-
-<blockquote><p>&hellip;flying cargo to the International Space Station
-exploded just 14 seconds after lift-off last night, creating a
-spectacular fireball and shockwave as the fully fuelled rocket crashed
-back down onto its launch pad.</p>
-
-<p>No one was hurt when the uncrewed spacecraft was destroyed, but the
-loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
-Corporation of Dulles, Virginia, to build confidence in its ability to
-supply ISS cargo services to NASA.</p></blockquote>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/10/">&larr; Older</a>
@@ -677,23 +655,23 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/04/the-c-programming-language/">The C Programming Language</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/04/bigger-milky-way/">Bigger Milky Way</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/02/stop-the-twitter-email/">Stop the Twitter Email!</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2016/10/01/its-email-part-2/">Its Email - Part 2</a>
       </li>
     
       <li class="post">
         <a href="/m149daily-blog/blog/2016/10/01/its-email/">Its Email</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/squeak-back-to-the-future/">Squeak - Back to the Future</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/appropriate-uses-for-sqlite/">Appropriate Uses for SQLite</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/09/26/cosmic-distance-ladder/">Cosmic Distance Ladder</a>
       </li>
     
   </ul>
