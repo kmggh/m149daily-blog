@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-04T01:21:45-04:00</updated>
+  <updated>2016-10-10T00:46:01-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IOS 10 Upgrade]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/10/ios-10-upgrade/"/>
+    <updated>2016-10-10T00:22:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/10/ios-10-upgrade</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s upgrade week for IOS.  I finally decided to take the plunge and
+upgrade IOS 9 to IOS 10 on my iPhone 6S.  Usually I wait until about
+the second minor update has come out and we&rsquo;re now at 10.0.2 as of
+late last week, so Sunday night was the night.</p>
+
+<!-- More -->
+
+
+<p>Even though the initial problems with over-the-air upgrades was
+solved, I&rsquo;m still sticking with using iTunes on my desktop Mac Mini to
+do the upgrade.  I grabbed my charging cable, plugged the phone into
+the computer, started up iTunes because it&rsquo;s configured not to start
+automatically, and first went to do a back up.</p>
+
+<h2>Backup and Download</h2>
+
+<p>Starting at about 22:35, I did an encrypted backup which said it was
+taking about 10 minutes but that last 10 seconds seemed to take an
+additional five minutes or so.  The encrypted back up will grab the
+key chains and such.</p>
+
+<p>From there I clicked the button to proceed with the 10.0.2 install and
+it began the download to my computer.  This was the most uncomfortable
+part because there&rsquo;s no progress bar or anything to really indicate
+it&rsquo;s working.  I was monitoring the network traffic with Activity
+Monitor and could see the actual packet rates as it downloaded, but I
+would have preferred to have more feedback.</p>
+
+<p>The downloading seemed to finally finish at about 23:40.  I just
+happened to look up and notice the message in iTunes that said it was
+downloading had changed to click Upgrade to begin the upgrade.</p>
+
+<h2>Install</h2>
+
+<p>The upgrade was much quicker and the progress bars appeared on the
+phone as usual.  After only about 14 minutes at 23:54 the phone went
+dark for quite a few seconds.  Again I wondered if all was well but
+the white reboot screen with the black apple finally appeared.  There
+was another progress bar and then I was logging in with my pass code
+on the phone at 23:56.</p>
+
+<p>iTunes then popped up a box saying there was an upgrade from the
+carrier so I clicked that button and it quickly and silently installed
+with no indication that anything happened from the phone itself.</p>
+
+<p>By about midnight I was done.  I fooled around with the phone for
+another 15 minutes or so, moved the newly appeared Home app into a
+folder, and it was done.</p>
+
+<h2>Post Install</h2>
+
+<p>I just looked at things briefly. The lock screen, swipe-up screen and
+the notifications screen are all different.  The new buttons in
+Messages were there but it was too late to try any of that.  Also the
+wake-up, unlock process is different.  So far it&rsquo;s a little confusing
+in the sense that I&rsquo;m not sure what&rsquo;s different.  You push the home
+button to unlock the screen which is what I thought I used to do.</p>
+
+<p>If there&rsquo;s anything else interesting enough to follow up on I&rsquo;ll
+report back later.</p>
+
+<h2>References</h2>
+
+<p>From iMore <a href="http://m.imore.com/ios-10">iOS 10 review: Cleaner, cleverer, and more convenient</a><br />
+From Song-a-Day Jonathon Mann <a href="https://youtu.be/0heNVPPEy24">Video</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The C Programming Language]]></title>
@@ -618,34 +691,6 @@ requires weak massive-star winds, which are possible in stellar
 environments with metallicity lower than ≃ &frac12; the solar value.</p></blockquote>
 
 <p><a href="https://dcc.ligo.org/public/0122/P150914/014/LIGO-P150914_Detection_of_GW150914.pdf">The Paper: Observation of Gravitational Waves from a Binary Black Hole Merger by B. P. Abbott et al. (pdf)</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tuning Facebook]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/"/>
-    <updated>2016-02-06T12:29:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook</id>
-    <content type="html"><![CDATA[<p>Okay, I&rsquo;ve decided to try using the dreaded Facebook a little more,
-particularly after hearing all of the talk about instant articles in
-news and more people using Messenger. I knew about this podcast of
-Robert Scoble (who&rsquo;s all in on Facebook) trying to teach Leo Laporte
-how to use it back in August but had never gotten around to checking
-it out.</p>
-
-<!-- More -->
-
-
-<p>If you want to learn how to &ldquo;really use&rdquo; Facebook in it&rsquo;s current
-form, I recommend watching it and even working through this stuff.</p>
-
-<p>So, starting around about 2016-01-30, I&rsquo;ve been trying most of what
-they discuss there over the past few days and I am seeing my FB
-experience much improved. There&rsquo;s a lot you can do to fine tune and
-control things. I&rsquo;ll see how the news feeds compare to my Twitter
-feed, etc.</p>
-
-<p><a href="https://www.youtube.com/watch?v=U53iO3b1K-c">Triangulation 169: Robert Scoble&rsquo;s Facebook Lesson</a></p>
 ]]></content>
   </entry>
   
