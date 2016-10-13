@@ -4,7 +4,7 @@
   <title><![CDATA[Category: solarsystem | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/solarsystem/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-10T00:46:01-04:00</updated>
+  <updated>2016-10-13T07:46:46-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,117 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Japanese Pictures from the Moon]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/japanese-pictures-from-the-moon/"/>
+    <updated>2016-10-13T07:28:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/japanese-pictures-from-the-moon</id>
+    <content type="html"><![CDATA[<p>&ldquo;Japan just released high-resolution pictures from its Kaguya orbiter,
+including some that have never been seen before by the public.&rdquo;</p>
+
+<p>From Victoria Jaggard, National Georgraphic.</p>
+
+<!-- More -->
+
+
+<blockquote><p>The Kaguya (Selene) lunar orbiter, a Japanese spacecraft nicknamed
+after a legendary moon princess, launched in 2007 carrying two
+high-definition TV cameras, which it used to capture stunning video
+and pictures of the lunar surface.</p>
+
+<p>Although the mission ended in 2009, this week the Japanese space
+agency released the entire haul of digital images captured by Kaguya
+during its lifetime. Some of the images have never been seen before by
+the public.</p></blockquote>
+
+<p><a href="http://news.nationalgeographic.com/2016/10/moon-earth-pictures-japan-kaguya-hdtv-space-science/">Haunting Pictures Show Earth Rising Over the Moon</a><br />
+<a href="http://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en">Kaguya HDTV Data Publication System</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Dwarf Planet 2014 UZ224]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224/"/>
+    <updated>2016-10-13T05:54:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224</id>
+    <content type="html"><![CDATA[<p>A new trans-Neptunian object 2014 UZ224 has been annouced by the
+discoverers.  It&rsquo;s orbit has a semi-major axis of 109 AU with a
+current distance of 93 AU in the scattered disc.</p>
+
+<!-- More -->
+
+
+<p>Calla Cofield reports in Space.com,</p>
+
+<blockquote><p>The dwarf planet, called 2014 UZ224, measures about 330 miles (530
+kilometers) across and is located about 8.5 billion miles (13.7
+billion km) from the sun, NPR reported today (Oct. 11). For
+comparison, Pluto&rsquo;s largest moon, Charon, is about 750 miles (1,200
+km) in diameter, and reaches a maximum distance of about 4.5 billion
+miles (7.3 billion km) from the sun.</p>
+
+<p>A year on 2014 UZ224 (the time it takes the dwarf planet to orbit the
+sun) is about 1,100 Earth years. One Pluto year &hellip; is about 248
+Earth years.</p></blockquote>
+
+<p>The object was discovered using the Dark Energy Camera.</p>
+
+<blockquote><p>A project called the Dark Energy Survey is using observations from the
+DECam to create a map of the universe that provides information
+relevant to the study of dark energy. The DES maps have already been
+used to study dark matter (which makes up about eighty percent of all
+the mass in the universe but whose exact nature is still a mystery)
+and to find previously unidentified objects.</p>
+
+<p>Part of the DES includes taking images of a few small patches of the
+sky &ldquo;roughly&rdquo; once per week, according to the mission website, and
+that&rsquo;s what made this new discovery possible.</p></blockquote>
+
+<p>The interesting part of this article tells how undergraduate students
+made the discovery by analyzing data with software they wrote.</p>
+
+<p>Once again there&rsquo;s a minor crisis in naming.</p>
+
+<blockquote><p>The smallest object in the solar system that has earned the title of
+&ldquo;dwarf planet&rdquo; (prior to this new discovery) is Ceres, which lies in
+the asteroid belt between Jupiter and Mars. Ceres is 590 miles (950
+km) across. The object 2014 UZ224 might be too small to be considered
+a dwarf planet, Gerdes told NPR, but that will have to be decided by
+the International Astronomical Union (which made the controversial
+decision to demote Pluto to a dwarf planet). There are four other
+recognized dwarf planets in the solar system, but scientists think
+there could be dozens — or even more than 100 — objects that size that
+have yet to be discovered, according to NASA.</p></blockquote>
+
+<h2>Distances</h2>
+
+<p>I like it&rsquo;s easiest to think of solar system distances in terms of
+light travel time from the sun.  It takes sunlight about eight minutes
+to reach the Earth from the Sun.  It&rsquo;s 43 minutes to Jupiter, over
+five hours to Pluto on average, and 15 hours to UZ224.</p>
+
+<p>The chart below is based on the semi-major axis of each orbit which
+you can think of as the average of the maximum and minimum distances
+from the Sun.</p>
+
+<pre><code>Earth     1.0 AU =      8.3 min
+Jupiter   5.2 AU =     43   min
+Neptune  30   AU =   4h10m
+Pluto    39   AU =   5h25m
+UZ224   109   AU =  15h08m
+</code></pre>
+
+<h2>References</h2>
+
+<p><a href="http://www.space.com/34358-new-dwarf-planet-found-2014-uz224.html">New Dwarf Planet Found in Our Solar System &ndash; Space.com</a><br />
+<a href="http://www.minorplanetcenter.net/mpec/K16/K16TA4.html">Minor Planet Electronic Circular 2016-T104</a><br />
+<a href="https://en.wikipedia.org/wiki/Scattered_disc">Scattered disc</a><br />
+<a href="https://en.wikipedia.org/wiki/Trans-Neptunian_object">Trans-Neptunian object</a><br />
+<a href="http://www.ctio.noao.edu/noao/node/1033">Dark Energy Camera</a><br />
+<a href="https://en.wikipedia.org/wiki/2014_UZ224">2014 UZ224 on Wikipedia</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[So Long Walter H. Haas]]></title>
@@ -103,76 +214,6 @@ Springs, SC, USA and uploaded to
 <a href="http://spaceweathergallery.com/indiv_upload.php?upload_id=103261&amp;PHPSESSID=o5gbdgs6bpfuvlck61a7o1pt74">spaceweathergallery.com</a>.
 The image is in the light of the deep violet Calcium K line at 3933.7
 Angstroms.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ISON Sans Nucleus]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus/"/>
-    <updated>2013-12-01T19:15:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/12/01/ison-sans-nucleus</id>
-    <content type="html"><![CDATA[<p>Quoting from the <a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a>:</p>
-
-<blockquote><p>Dan Green of the International Astronomical Union&rsquo;s Central Bureau for
-Astronomical Telegrams published a long summary (Electronic Telegram
-No. 3731) early today. Excerpts:</p>
-
-<blockquote><p>The comet&rsquo;s nucleus apparently disrupted near perihelion, with the
-comet&rsquo;s head fading from perhaps a peak brightness of visual mag –2
-some hours before perihelion to well below mag +1 before
-perihelion. M. Knight, Lowell Observatory&hellip; [adds] that the brightest
-feature in the coma faded steadily after perihelion from about mag 3.1
-in a 95"-radius aperture when the comet first appeared from behind the
-SOHO coronagraph occulting disk on Nov. 28.92 to about mag 6.5 on
-Nov. 29.98&hellip;..</p>
-
-<p>K.Battams, Naval Research Laboratory, writes that, based on the most
-recent LASCO C3 images (Nov. 30.912 UT) &hellip; what remains is very
-diffuse, largely transparent to background stars, and fading; it
-appears that basically a cloud of dust remains&hellip;.</p>
-
-<p>Z.Sekanina, Jet Propulsion Laboratory &hellip; finds that the comet&rsquo;s
-production of dust terminated about 3 hours before perihelion&hellip;</p>
-
-<p>The strong forward-scattering effect (phase angles near 120-130 deg)
-has tempered the rate of post-perihelion fading of the comet, but the
-merciless inverse-square power law of increasing heliocentric distance
-is necessarily the dominant factor in the comet&rsquo;s forthcoming gradual
-disappearance&hellip;</p></blockquote></blockquote>
-
-<p><a href="http://groups.yahoo.com/neo/groups/comets-ml/conversations/messages/22839">CBET 3731 via Yahoo Groups</a></p>
-
-<p><a href="http://www.slate.com/blogs/bad_astronomy/2013/12/01/comet_ison_post_mortem.html">A post mortem by Phil Plait</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Whither ISON]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison/"/>
-    <updated>2013-11-30T19:41:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/11/30/whither-ison</id>
-    <content type="html"><![CDATA[<p>From CIOC (the NASA <a href="http://www.isoncampaign.org/karl/a-trail-of-questions">Comet ISON Observing Campaign</a>):</p>
-
-<blockquote><p>Will it be naked eye visible? When? How bright?</p>
-
-<p>This is definitely the toughest question but also the most
-frequent. We still don&rsquo;t know if it will be naked eye but based on its
-current brightness in the LASCO images &ndash; which is around magnitude +5
-and fading &ndash; it does seem unlikely that there will be much to see in
-the night sky. I suspect that some of the outstanding
-astrophotographers around the world will be able to get something, but
-I doubt it will be as spectacular as before perihelion. I hope I&rsquo;m
-wrong though.</p></blockquote>
-
-<p><a href="http://www.skyandtelescope.com/observing/ataglance">Sky and Telescope</a><br></p>
-
-<p><a href="http://www.skyandtelescope.com/observing/objects/comets/Comet-ISON-Updates-193909261.html">Sky and Telescope Updates</a><br></p>
-
-<p><a href="http://www.isoncampaign.org/karl/a-trail-of-questions">ISON Campaign: A Trail of Questions</a><br></p>
-
-<p><a href="http://www.universetoday.com/106832/zombie-ison-behaving-like-a-comet-stunned-astronomers-say/">Universe Today</a><br></p>
-
-<p><a href="http://apod.nasa.gov/apod/ap131130.html">APOD</a><br></p>
 ]]></content>
   </entry>
   

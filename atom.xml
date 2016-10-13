@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-10T00:46:01-04:00</updated>
+  <updated>2016-10-13T07:46:46-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,137 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pi Dongle]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle/"/>
+    <updated>2016-10-13T07:40:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle</id>
+    <content type="html"><![CDATA[<p><a href="https://youtu.be/qbWYUFgLhSU">Turn The Raspberry Pi Zero Into A Mini Dongle Computer &ndash; Video</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[You Might Not Need Javascript ]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript/"/>
+    <updated>2016-10-13T07:35:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript</id>
+    <content type="html"><![CDATA[<p><a href="http://hn.premii.com/#/article/12690842">You might not need JavaScript</a></p>
+
+<p><a href="http://youmightnotneedjquery.com">You Might Not Need Jquery</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Japanese Pictures from the Moon]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/japanese-pictures-from-the-moon/"/>
+    <updated>2016-10-13T07:28:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/japanese-pictures-from-the-moon</id>
+    <content type="html"><![CDATA[<p>&ldquo;Japan just released high-resolution pictures from its Kaguya orbiter,
+including some that have never been seen before by the public.&rdquo;</p>
+
+<p>From Victoria Jaggard, National Georgraphic.</p>
+
+<!-- More -->
+
+
+<blockquote><p>The Kaguya (Selene) lunar orbiter, a Japanese spacecraft nicknamed
+after a legendary moon princess, launched in 2007 carrying two
+high-definition TV cameras, which it used to capture stunning video
+and pictures of the lunar surface.</p>
+
+<p>Although the mission ended in 2009, this week the Japanese space
+agency released the entire haul of digital images captured by Kaguya
+during its lifetime. Some of the images have never been seen before by
+the public.</p></blockquote>
+
+<p><a href="http://news.nationalgeographic.com/2016/10/moon-earth-pictures-japan-kaguya-hdtv-space-science/">Haunting Pictures Show Earth Rising Over the Moon</a><br />
+<a href="http://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en">Kaguya HDTV Data Publication System</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Dwarf Planet 2014 UZ224]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224/"/>
+    <updated>2016-10-13T05:54:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224</id>
+    <content type="html"><![CDATA[<p>A new trans-Neptunian object 2014 UZ224 has been annouced by the
+discoverers.  It&rsquo;s orbit has a semi-major axis of 109 AU with a
+current distance of 93 AU in the scattered disc.</p>
+
+<!-- More -->
+
+
+<p>Calla Cofield reports in Space.com,</p>
+
+<blockquote><p>The dwarf planet, called 2014 UZ224, measures about 330 miles (530
+kilometers) across and is located about 8.5 billion miles (13.7
+billion km) from the sun, NPR reported today (Oct. 11). For
+comparison, Pluto&rsquo;s largest moon, Charon, is about 750 miles (1,200
+km) in diameter, and reaches a maximum distance of about 4.5 billion
+miles (7.3 billion km) from the sun.</p>
+
+<p>A year on 2014 UZ224 (the time it takes the dwarf planet to orbit the
+sun) is about 1,100 Earth years. One Pluto year &hellip; is about 248
+Earth years.</p></blockquote>
+
+<p>The object was discovered using the Dark Energy Camera.</p>
+
+<blockquote><p>A project called the Dark Energy Survey is using observations from the
+DECam to create a map of the universe that provides information
+relevant to the study of dark energy. The DES maps have already been
+used to study dark matter (which makes up about eighty percent of all
+the mass in the universe but whose exact nature is still a mystery)
+and to find previously unidentified objects.</p>
+
+<p>Part of the DES includes taking images of a few small patches of the
+sky &ldquo;roughly&rdquo; once per week, according to the mission website, and
+that&rsquo;s what made this new discovery possible.</p></blockquote>
+
+<p>The interesting part of this article tells how undergraduate students
+made the discovery by analyzing data with software they wrote.</p>
+
+<p>Once again there&rsquo;s a minor crisis in naming.</p>
+
+<blockquote><p>The smallest object in the solar system that has earned the title of
+&ldquo;dwarf planet&rdquo; (prior to this new discovery) is Ceres, which lies in
+the asteroid belt between Jupiter and Mars. Ceres is 590 miles (950
+km) across. The object 2014 UZ224 might be too small to be considered
+a dwarf planet, Gerdes told NPR, but that will have to be decided by
+the International Astronomical Union (which made the controversial
+decision to demote Pluto to a dwarf planet). There are four other
+recognized dwarf planets in the solar system, but scientists think
+there could be dozens — or even more than 100 — objects that size that
+have yet to be discovered, according to NASA.</p></blockquote>
+
+<h2>Distances</h2>
+
+<p>I like it&rsquo;s easiest to think of solar system distances in terms of
+light travel time from the sun.  It takes sunlight about eight minutes
+to reach the Earth from the Sun.  It&rsquo;s 43 minutes to Jupiter, over
+five hours to Pluto on average, and 15 hours to UZ224.</p>
+
+<p>The chart below is based on the semi-major axis of each orbit which
+you can think of as the average of the maximum and minimum distances
+from the Sun.</p>
+
+<pre><code>Earth     1.0 AU =      8.3 min
+Jupiter   5.2 AU =     43   min
+Neptune  30   AU =   4h10m
+Pluto    39   AU =   5h25m
+UZ224   109   AU =  15h08m
+</code></pre>
+
+<h2>References</h2>
+
+<p><a href="http://www.space.com/34358-new-dwarf-planet-found-2014-uz224.html">New Dwarf Planet Found in Our Solar System &ndash; Space.com</a><br />
+<a href="http://www.minorplanetcenter.net/mpec/K16/K16TA4.html">Minor Planet Electronic Circular 2016-T104</a><br />
+<a href="https://en.wikipedia.org/wiki/Scattered_disc">Scattered disc</a><br />
+<a href="https://en.wikipedia.org/wiki/Trans-Neptunian_object">Trans-Neptunian object</a><br />
+<a href="http://www.ctio.noao.edu/noao/node/1033">Dark Energy Camera</a><br />
+<a href="https://en.wikipedia.org/wiki/2014_UZ224">2014 UZ224 on Wikipedia</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IOS 10 Upgrade]]></title>
@@ -536,161 +667,6 @@ and more starting them right off in Python 3.</p>
 both.  That takes a bit more effort and is a little more tricky.</p>
 
 <p>Stay tuned.  I&rsquo;ll maybe update on that part next.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jekyll]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll/"/>
-    <updated>2016-09-23T20:05:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/jekyll</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m not too familiar with Cloudflare but Jekyll, via Octopress, and
-Github pages are what I use for this blog.</p>
-
-<p><a href="http://adgllorente.com/2016/09/put-yourself-on-internet-with-jekyll-github-and-cloudflare/">Put yourself on internet with Jekyll, GitHub and Cloudflare</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Python Videos]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos/"/>
-    <updated>2016-09-20T23:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/20/python-videos</id>
-    <content type="html"><![CDATA[<p>Lately I&rsquo;ve been watching some of the videos from Pycon and have found
-these to be quite excellent.</p>
-
-<!-- More -->
-
-
-<ul>
-<li><a href="https://youtu.be/G-uKNd5TSBw">Keynote &ndash; Guido van Rossum &ndash; PyCon 2015</a></li>
-<li><a href="https://youtu.be/YgtL4S7Hrwo">Guido van Rossum &ndash; Python Language &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/KPzDX5TX5HE">Brett Cannon &ndash; How to make your code Python 2/3 compatible &ndash; PyCon 2015</a></li>
-<li><a href="https://youtu.be/k55d3ZUF3ZQ">Luciano Ramalho &ndash; Pythonic Objects: Implementing Productive APIs</a></li>
-<li><a href="https://youtu.be/6zQAu23bKF8">Harry Percival &ndash; Outside-In TDD &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/RAxiiRPHS9k">Gary Bernhardt Fast Test Slow Test</a></li>
-<li><a href="https://youtu.be/frZrBgWHJdY">Alex Martelli &ndash; Exception and error handling in Python 2 and Python 3 &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/E9wS6LdXM8Y">Thomas Ballinger &ndash; Finding closure with closures &ndash; PyCon 2016</a></li>
-<li><a href="https://youtu.be/bAcfPzxB3dk">Ned Batchelder &ndash; Machete-mode debugging &ndash; PyCon 2016</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[So Long Keith Emerson]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/03/11/so-long-keith-emerson/"/>
-    <updated>2016-03-11T18:33:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/03/11/so-long-keith-emerson</id>
-    <content type="html"><![CDATA[<p>It was in about 1970 when my uncle brought some demo record LPs from a
-DJ he knew.  I discovered among them the 1968 electronic Moog album
-&ldquo;Switched on Bach.&rdquo;  Another album that I really loved listening to
-was &ldquo;The Five Bridges Suite&rdquo; by The Nice.</p>
-
-<p>A couple of years later, in high school, in 1972, my friend Dennis
-introduced me to Emerson, Lake and Palmer and their album &ldquo;Trilogy.&rdquo;
-At about the same time, my friend BJ  their first album, &ldquo;Emerson, Lake
-and Palmer&rdquo; and I was as blown away.</p>
-
-<!-- More -->
-
-
-<p>Progressive rock was blooming at the time.  The eclectic fusion of
-classical, rock, jazz, blues and other music forms in long pieces,
-sometimes in multiple movements, were made for long album cuts played
-on FM radio The Atlanta station 96 Rock played a lot of progressive
-rock in 1973-75.  With motifs of science fiction, fantasy, astronomy
-and more, it was a perfect fit especially for the college listening
-audience.  Bands like Yes, Pink Floyd, Genesis, and, often considered
-by many the leader, Emerson, Lake and Palmer, were setting the pace
-for this form of music.</p>
-
-<p>It was years later that I finally realized the ELP line up was really
-a traditional trio of keyboards, bass and drums.  Think of Vince
-Guaraldi&rsquo;s jazz trio music for &ldquo;A Charlie Brown Christmas.&rdquo;  Often
-ELP would transition into traditional jazz in just that format.</p>
-
-<p>My favorite performance, that shows off the extreme range of their
-playing, is &ldquo;Take A Pebble&rdquo; from a Belgian TV recording in 1971
-(linked below), complete with a Moire projection that would make a
-bridge science officer proud.  They were not a tight band, sometimes
-lacking the precise virtuosity of a group like Chick Corea&rsquo;s Return To
-Forever.  Sometimes it seemed like they didn&rsquo;t really like playing
-together that much.  Still, their playing was inventive, talented, and
-a joy to listen to.  This performance&rsquo;s rough edges and spontaneity
-are part of what puts it at the top of my list.</p>
-
-<p>Their music was ambitious, grand and rose high above the popular music
-of the day.  Keith Emerson&rsquo;s stage antics were entertaining when I was
-an adolescent but later I didn&rsquo;t care for them or for some the songs&#8217;
-themes, but I sure was into the music.  That was what I enjoyed
-listening to so much then and I still do today.  He introduced me to
-composers like Mussorgsky, Aaron Copeland, and others the same way the
-Allman Brothers led me to blues music.</p>
-
-<p>ELP&rsquo;s first five albums stand as their main body of work, at least in
-my view, but I liked the records that followed, particularly the
-two-volume &ldquo;Works&rdquo; even though it was a mixture of pieces by a band
-that was ending and solo pieces by its members.</p>
-
-<p>I don&rsquo;t recall if it was in high school or as a freshman in college
-that I made the connection for the first time between ELP and The
-Nice&rsquo;s &ldquo;Five Bridges Suite,&rdquo; that album I enjoyed so much.  I went on
-to become a fan of the early Nice music and collected several of their
-records.  Even then Emerson was mixing Sibelius, Tchaikovsky, and Bach
-with Bob Dylan and Coleman Hawkins, and performing live with a full
-orchestra.</p>
-
-<p>It&rsquo;s surprisingly hard to say good bye to one of the great artists of
-the time.</p>
-
-<h2>Links</h2>
-
-<p>Compare.</p>
-
-<p><a href="https://www.youtube.com/watch?v=CBPbG1a6EP8">ELP &ndash; Take a Pebble &ndash; 1971</a></p>
-
-<p><a href="https://youtu.be/7RSRoM_fc9I">The Nice &ndash; Hang on to a Dream &ndash; 1969</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[LIGO and the GW150914 Discovery]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery/"/>
-    <updated>2016-02-21T07:12:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/21/ligo-and-the-discovery</id>
-    <content type="html"><![CDATA[<p>I finally found the paper for the recent LIGO discovery of gravity
-waves from a black hole merger, event GW150914 at 2015-09-14 09:50:45
-+0000 which data implies was the merging of two black holes, one with
-mass 36 (+5, -4) solar masses and the other 29 (+4, -4) solar masses
-into an object of 62 (+4, -4) solar masses with 3 (+0.5, -0.5) solar
-masses radiated away (lost) as emitted gravitational waves.</p>
-
-<!-- More -->
-
-
-<p>B.P. Abbot and collaborators say,</p>
-
-<blockquote><p>Over 0.2 s, the signal increases in frequency and amplitude in about 8
-cycles from 35 to 150 Hz, where the amplitude reaches a maximum. The
-most plausible explanation for this evolution is the inspiral of two
-orbiting masses, m1 and m2, due to gravitational-wave emission.</p></blockquote>
-
-<p>The source redshift was measured as <em>z</em>=0.09 (+0.03, -0.04).</p>
-
-<p>One interesting outcome in the conclusions is support for massive
-black holes.</p>
-
-<blockquote><p>GW150914 demonstrates the existence of stellar-mass black holes more
-massive than ≃ 25 solar masses, and establishes that binary black
-holes can form in nature and merge within a Hubble time. Binary
-black holes have been predicted to form both in isolated binaries
-and in dense environments by dynamical interactions.  The
-formation of such massive black holes from stellar evolution
-requires weak massive-star winds, which are possible in stellar
-environments with metallicity lower than ≃ &frac12; the solar value.</p></blockquote>
-
-<p><a href="https://dcc.ligo.org/public/0122/P150914/014/LIGO-P150914_Detection_of_GW150914.pdf">The Paper: Observation of Gravitational Waves from a Binary Black Hole Merger by B. P. Abbott et al. (pdf)</a></p>
 ]]></content>
   </entry>
   

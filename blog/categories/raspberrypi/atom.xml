@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: raspberrypi | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/raspberrypi/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-13T07:46:46-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pi Dongle]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle/"/>
+    <updated>2016-10-13T07:40:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle</id>
+    <content type="html"><![CDATA[<p><a href="https://youtu.be/qbWYUFgLhSU">Turn The Raspberry Pi Zero Into A Mini Dongle Computer &ndash; Video</a></p>
+]]></content>
+  </entry>
+  
+</feed>

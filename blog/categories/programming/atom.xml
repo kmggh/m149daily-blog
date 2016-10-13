@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-10T00:46:01-04:00</updated>
+  <updated>2016-10-13T07:46:46-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[You Might Not Need Javascript ]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript/"/>
+    <updated>2016-10-13T07:35:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript</id>
+    <content type="html"><![CDATA[<p><a href="http://hn.premii.com/#/article/12690842">You might not need JavaScript</a></p>
+
+<p><a href="http://youmightnotneedjquery.com">You Might Not Need Jquery</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The C Programming Language]]></title>
@@ -129,34 +140,6 @@ advantages of the micro services.</p>
 <h2>References</h2>
 
 <p><a href="http://basho.com/posts/technical/microservices-please-dont/">Microservices – Please, don’t</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Time for Python 3]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3/"/>
-    <updated>2016-09-23T20:07:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/time-for-python-3</id>
-    <content type="html"><![CDATA[<p>In watching Pycon 2016 vidoes and other reading, I&rsquo;ve been struck with
-the notion that it&rsquo;s actually time to move to Python 3.  More than
-once in the sessions I&rsquo;ve heard a comment like &ldquo;We&rsquo;ll be using Python
-3.  If you haven&rsquo;t moved to Python 3 yet, what&rsquo;s stopping you?&rdquo;</p>
-
-<!-- More -->
-
-
-<p>Good question.  There&rsquo;s the issue of some libraries not supporting
-Python 3 but, in my humble beginnings, I haven&rsquo;t run into any yet.</p>
-
-<p>Strings and UTF-8 are by far the stickiest set of issues I&rsquo;ve
-encountered, but it&rsquo;s usually just a case of fixing them.  And really
-I&rsquo;ve only tried converting one old program.  For new programs I&rsquo;m more
-and more starting them right off in Python 3.</p>
-
-<p>However, it&rsquo;s really recommended that you write code that runs in
-both.  That takes a bit more effort and is a little more tricky.</p>
-
-<p>Stay tuned.  I&rsquo;ll maybe update on that part next.</p>
 ]]></content>
   </entry>
   
