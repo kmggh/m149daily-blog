@@ -9,8 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="From Wired by Joao Medeiros. Hawking is very attached to his voice: in 1988, when Speech Plus gave
-him the new synthesizer, the voice was different &hellip;">
+  <meta name="description" content="From looking at my development directories, it appears that it was in
+early 2008 that I moved my personal source code control system from
+CVS to &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -84,6 +85,91 @@ him the new synthesizer, the voice was different &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/bazaar/">Bazaar</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T07:33:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  07:33 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>From looking at my development directories, it appears that it was in
+early 2008 that I moved my personal source code control system from
+CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
+about Bazaar from a coworker, John.  It was Python-based, the system
+used by Canonical for Ubuntu and I found it to work extremely well.
+Since then, for seven years now, I&rsquo;ve used it for my personal version
+management and also as a shadow version control system at work.</p>
+
+<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
+trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
+indications that Bazaar is no longer maintained and may be declining
+as a version control choice.  Maybe it was never that popular.</p>
+
+<p>Lately, Git seems to be the version control system of choice and it is
+the system I use every day for work.  I&rsquo;m wondering if I should start
+using it for my personal work.  The command set and, as they say, &ldquo;the
+workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
+That&rsquo;s probably okay.</p>
+
+<p>I already like it less because, if I want to make a branch of a
+particular version or another branch to work on, there needs to be a
+root branch of sorts, a hub to clone the other branch from.  With
+Bazaar you can just branch any branch, merge changes from it, etc.  So
+now I&rsquo;ll have to make some local hub to clone, push and pull from.
+Yech.  That seems so archaic now.</p>
+
+<p>However, I found this blog post by Jelmer Vernooij who was a primary
+developer of Bazaar.  He basically tells the complete history and also
+how it&rsquo;s finally been abandoned for the most part.  So, I guess I
+should start moving on to git.</p>
+
+<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
+Mercurial which may be worth a look.  Ah well.</p>
+
+<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
+become rare by mid-2011. In early 2012 the members of the Canonical
+Bazaar team were assigned to other projects, though we would still fix
+the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
+
+<p>During my spare time in the first 6 months of 2012 I tried to finish
+my remaining in-progress branches. After that, I thought I would see
+how it would go.</p>
+
+<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
+about it, but Git is a decent source code management system. Bazaar
+isn&rsquo;t going anywhere; no doubt there will be users for a few years to
+come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
+level I was hoping.</p></blockquote>
+
+<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -545,60 +631,6 @@ reionization and the properties of the LAEs in early universe.&rdquo;</p></block
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Dark and Stormy</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-18T07:09:00-05:00" pubdate data-updated="true">Tue 18 Nov 2014  07:09 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>While looking for earlier posts about kids and programming, I came
-across this from a 2005-02-08 post.  Someone sent this to me and I
-don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
-
-<hr />
-
-<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
-analogies and metaphors found in high school essays:</p>
-
-<ol>
-<li>Her face was a perfect oval, like a circle that had its two sides
-gently compressed by a Thigh Master.</li>
-</ol>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/9/">&larr; Older</a>
@@ -624,6 +656,10 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/m149daily-blog/blog/2016/10/17/cislunar-1000/">CisLunar 1000</a>
+      </li>
+    
+      <li class="post">
         <a href="/m149daily-blog/blog/2016/10/16/security-tips/">Security Basics</a>
       </li>
     
@@ -637,10 +673,6 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     
       <li class="post">
         <a href="/m149daily-blog/blog/2016/10/13/you-might-not-need-javascript/">You Might Not Need Javascript</a>
-      </li>
-    
-      <li class="post">
-        <a href="/m149daily-blog/blog/2016/10/13/japanese-pictures-from-the-moon/">Japanese Pictures From the Moon</a>
       </li>
     
   </ul>
