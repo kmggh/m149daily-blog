@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-17T23:46:42-04:00</updated>
+  <updated>2016-10-23T07:55:35-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Counterfeit Apple Cables from Amazon]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon/"/>
+    <updated>2016-10-23T07:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon</id>
+    <content type="html"><![CDATA[<p>This is why I only buy Lightning cables, chargers and batteries for
+Apple products from the Apple Store.  It&rsquo;s just too risky to buy them
+anywhere else.</p>
+
+<!-- More -->
+
+
+<p>It&rsquo;s been known for a long time that cheaply made Lithium Ion
+batteries are very dangerous and will short, catch fire and burn.  Now
+Samsung has made this abundantly clear.</p>
+
+<p>Ben Lovejoy of <em>9to5 Mac</em> writes &ldquo;More than 90% of &lsquo;genuine&rsquo; Apple
+chargers &amp; cables sold on Amazon are fake, says Apple.&rdquo;</p>
+
+<blockquote><p>There’s no shortage of third-party chargers and cables sold for Apple
+equipment, some of them claiming to be the genuine article, but Apple
+has found that even Amazon has been selling counterfeit products
+labelled as the real thing. The products concerned were sold by Amazon
+directly, and not by a third-party Marketplace seller.</p>
+
+<p>The items have now been removed from sale, and Apple is suing the
+company that made them …</p></blockquote>
+
+<p>Amazon responded.</p>
+
+<blockquote><p>Amazon responded, stating that the company ‘has zero tolerance for the
+sale of counterfeits on our site.  We work closely with manufacturers
+and brands, and pursue wrongdoers aggressively.’</p>
+
+<p>Given the number of fake Apple products available, we always urge
+caution where the price is significantly lower than the official
+price. This is especially true in the case of MagSafe power supplies,
+where any price lower than available from authorized resellers is an
+immediate warning flag.</p></blockquote>
+
+<p><a href="https://9to5mac.com/2016/10/19/amazon-fake-apple-chargers-cables/">Article at 9to5 Mac</a><br />
+<a href="http://www.patentlyapple.com/patently-apple/2016/10/apple-sues-mobile-star-for-selling-counterfeit-power-adapters-and-charging-cables-through-amazon.html">Patently Apple</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IOS 10 Upgrade]]></title>
@@ -238,21 +283,6 @@ interface to MRT.</p></blockquote>
 <p>His answer is the third one down.</p>
 
 <p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Siracusa on Swift]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift/"/>
-    <updated>2014-12-20T13:05:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/20/siracusa-on-swift</id>
-    <content type="html"><![CDATA[<p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
-10.10 article has a nice dive down into some of the details of the new
-Swift language and how it&rsquo;s compiled.  There are some impressive
-features here.</p>
-
-<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
-<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
 ]]></content>
   </entry>
   

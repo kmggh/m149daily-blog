@@ -4,7 +4,7 @@
   <title><![CDATA[Category: favorites | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/favorites/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-17T23:46:42-04:00</updated>
+  <updated>2016-10-23T07:55:35-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future/"/>
+    <updated>2016-09-26T06:45:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future</id>
+    <content type="html"><![CDATA[<p>I still love Squeak Smalltalk.  A pointer to this paper was posted on
+Hacker News Today.</p>
+
+<p>Back to the Future<br />
+The Story of Squeak, A Practical Smalltalk Written in Itself</p>
+
+<p>by</p>
+
+<p>Dan Ingalls, Ted Kaehler, John Maloney, Scott Wallace, Alan Kay</p>
+
+<p><a href="http://ftp.squeak.org/docs/OOPSLA.Squeak.html">Back to the Future</a></p>
+
+<p><a href="https://news.ycombinator.com/item?id=12577087">Hacker News posting</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ducking Into a Nearby Phone Booth]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth/"/>
+    <updated>2016-01-23T14:31:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/23/ducking-into-a-nearby-phone-booth</id>
+    <content type="html"><![CDATA[<p>I was recently wondering about the origin of Superman finding a phone
+booth to change in.  I found one source on the origin and it was
+surprising.</p>
+
+<!-- More -->
+
+
+<p>Why was I wondering about this in the first place?  It&rsquo;s because I was
+thinking about the John Williams soundtrack from the 1978 movie.  I
+recalled the scene where Clark Kent stops and glances at the little hood-like
+phone booth and keeps going, looking for a place to change.  I
+wondered where the changing in a phone booth meme came from since I
+didn&rsquo;t recall Superman ever actually changing in a phone booth in any
+of the comics or TV shows, etc.</p>
+
+<p>A quick search online pulled up some interesting history including a
+post by Steve Younis on supermanhoempage.com called &lsquo;Superman and the
+Phone Booth."</p>
+
+<blockquote><p>In the Golden Age of comic books Clark Kent didn&rsquo;t use a phone booth
+to change into Superman. Actually right throughout every era of
+Superman comics the phone booth change has rarely been seen.</p></blockquote>
+
+<p>The first time Superman changes is (spoiler):</p>
+
+<blockquote><p>The answer lies way back in 1941.</p>
+
+<p>To my knowledge, Clark Kent first changed to Superman inside a phone
+booth in &ldquo;The Mechanical Monsters&rdquo;, the second of 17 Superman
+cartoons produced by Fleischer Studios for Paramount Pictures. It
+was released to cinemas on November 28 in 1941.</p></blockquote>
+
+<p>I was pretty much unaware of the Fleischer Studios Superman
+animations.  They&rsquo;re very well done and influenced some of the more
+recent TV animations in style.</p>
+
+<p>I recommend finding &ldquo;The Mechanical Monsters&rdquo; on Youtube and watching it.</p>
+
+<p><a href="http://www.supermanhomepage.com/other/other.php?topic=phonebooth">Superman and the Phone Booth</a>
+<a href="https://en.m.wikipedia.org/wiki/Superman_(1940s_cartoons">Superman 1940s cartoons</a>)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More Short and Medium Length Blogging]]></title>
@@ -134,104 +203,6 @@ interface to MRT.</p></blockquote>
 <p>His answer is the third one down.</p>
 
 <p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Buying a Telescope]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope/"/>
-    <updated>2014-12-10T08:00:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/12/10/buying-a-telescope</id>
-    <content type="html"><![CDATA[<p>In November, during the 30-day blog challenge, I wrote a series of
-posts on buying a telescope.  With slight editing, I&rsquo;ve combined them
-into a single document which also has a link in the menu up top.</p>
-
-<p><a href="http://10.0.0.23/m149daily-blog/telescope/">Buying a Telescope</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dark and Stormy]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy/"/>
-    <updated>2014-11-18T07:09:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/18/dark-and-stormy</id>
-    <content type="html"><![CDATA[<p><em>While looking for earlier posts about kids and programming, I came
-across this from a 2005-02-08 post.  Someone sent this to me and I
-don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
-
-<hr />
-
-<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
-analogies and metaphors found in high school essays:</p>
-
-<ol>
-<li>Her face was a perfect oval, like a circle that had its two sides
-gently compressed by a Thigh Master.</li>
-</ol>
-
-
-<!-- More -->
-
-
-<ol>
-<li><p>His thoughts tumbled in his head, making and breaking alliances
-like underpants in a dryer without Cling Free.</p></li>
-<li><p>He spoke with the wisdom that can only come from experience, like a
-guy who went blind because he looked at a solar eclipse without one of
-those boxes with a pinhole in it and now goes around the country
-speaking at high schools about the dangers of looking at a solar
-eclipse without one of those boxes with a pinhole in it.</p></li>
-<li><p>She grew on him like she was a colony of E. coli and he was
-room-temperature Canadian beef.</p></li>
-<li><p>She had a deep, throaty, genuine laugh, like that sound a dog makes
-just before it throws up.</p></li>
-<li><p>Her vocabulary was as bad as, like, whatever.</p></li>
-<li><p>He was as tall as a six-foot-three-inch tree.</p></li>
-<li><p>The revelation that his marriage of 30 years had disintegrated
-because of his wife&rsquo;s infidelity came as a rude shock, like a
-surcharge at a formerly surcharge-free ATM.</p></li>
-<li><p>The little boat gently drifted across the pond exactly the way a
-bowling
-ball wouldn&rsquo;t.</p></li>
-<li><p>McBride fell 12 stories, hitting the pavement like a Hefty bag
-filled with vegetable soup.</p></li>
-<li><p>From the attic came an unearthly howl. The whole scene had an
-eerie, surreal quality, like when you&rsquo;re on vacation in another city
-and Jeopardy comes on at 7:00 p.m. instead of 7:30.</p></li>
-<li><p>Her hair glistened in the rain like a nose hair after a sneeze.</p></li>
-<li><p>The hailstones leaped from the pavement, just like maggots when
-you fry them in hot grease.</p></li>
-<li><p>Long separated by cruel fate, the star-crossed lovers raced across
-the grassy field toward each other like two freight trains, one having
-left Cleveland at 6:36 p.m. traveling at 55 mph, the other from Topeka
-at 4:19 p.m. at a speed of 35 mph.</p></li>
-<li><p>They lived in a typical suburban neighborhood with picket fences
-that resembled Nancy Kerrigan&rsquo;s teeth.</p></li>
-<li><p>John and Mary had never met. They were like two hummingbirds who
-had also never met.</p></li>
-<li><p>He fell for her like his heart was a mob informant and she was the
-East River.</p></li>
-<li><p>Even in his last years, Grandpappy had a mind like a steel trap,
-only one that had been left out so long, it had rusted shut.</p></li>
-<li><p>Shots rang out, as shots are wont to do.</p></li>
-<li><p>The plan was simple, like my brother-in-law Phil. But unlike Phil,
-this plan just might work.</p></li>
-<li><p>The young fighter had a hungry look, the kind you get from not
-eating for a while.</p></li>
-<li><p>He was as lame as a duck. Not the metaphorical lame duck, either,
-but a real duck that was actually lame, maybe from stepping on a land
-mine or something.</p></li>
-<li><p>The ballerina rose gracefully en pointe and extended one slender
-leg behind her, like a dog at a fire hydrant.</p></li>
-<li><p>It was an American tradition, like fathers chasing kids around
-with power tools.</p></li>
-<li><p>He was deeply in love. When she spoke, he thought he heard bells,
-as if she were a garbage truck backing up.</p></li>
-<li><p>Her eyes were like limpid pools, only they had forgotten to put in
-any pH cleanser.</p></li>
-<li><p>She walked into my office like a centipede with 98 missing legs.</p></li>
-</ol>
-
 ]]></content>
   </entry>
   

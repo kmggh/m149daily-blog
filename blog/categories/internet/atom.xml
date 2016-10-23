@@ -4,7 +4,7 @@
   <title><![CDATA[Category: internet | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-17T23:46:42-04:00</updated>
+  <updated>2016-10-23T07:55:35-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[So Long Leo Beranek]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek/"/>
+    <updated>2016-10-23T06:54:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek</id>
+    <content type="html"><![CDATA[<p>&ldquo;Leo Leroy Beranek (September 15, 1914 – October 10, 2016) was an
+American acoustics expert, former MIT professor, and a founder and
+former president of Bolt, Beranek and Newman (now BBN Technologies).&rdquo;
+from Wikipedia.</p>
+
+<!-- More -->
+
+
+<blockquote><p>In 1969, the company he helped found, Bolt, Beranek &amp; Newman, won a
+contract from the Defense Department’s Advanced Research Projects
+Agency to build the first computer-based network, which came to be
+called Arpanet.</p>
+
+<p>By demonstrating the ability to share data and messages through vast
+computer networks, Arpanet, a product of government-sponsored
+research, paved the way for the creation of the internet. Among its
+many breakthrough achievements, his company sent the first email
+message that used the @ symbol, in 1972.</p></blockquote>
+
+<p>from The New York Times article &ldquo;Leo Beranek, Acoustics Designer and
+Internet Pioneer, Dies at 102&rdquo; by Glenn Rifkin, The New York Times, 2016-10-17.</p>
+
+<p><a href="http://www.nytimes.com/2016/10/18/business/leo-beranek-dead.html">Leo Beranek, Acoustics Designer and Internet Pioneer, Dies at 102</a><br />
+<a href="https://en.wikipedia.org/wiki/BBN_Technologies">BBN Technologies</a><br />
+<a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a><br />
+<a href="https://en.wikipedia.org/wiki/History_of_the_Internet">History of the Internet</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Security Basics]]></title>

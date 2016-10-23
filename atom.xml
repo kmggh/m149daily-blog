@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-17T23:46:42-04:00</updated>
+  <updated>2016-10-23T07:55:35-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,145 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Counterfeit Apple Cables from Amazon]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon/"/>
+    <updated>2016-10-23T07:11:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon</id>
+    <content type="html"><![CDATA[<p>This is why I only buy Lightning cables, chargers and batteries for
+Apple products from the Apple Store.  It&rsquo;s just too risky to buy them
+anywhere else.</p>
+
+<!-- More -->
+
+
+<p>It&rsquo;s been known for a long time that cheaply made Lithium Ion
+batteries are very dangerous and will short, catch fire and burn.  Now
+Samsung has made this abundantly clear.</p>
+
+<p>Ben Lovejoy of <em>9to5 Mac</em> writes &ldquo;More than 90% of &lsquo;genuine&rsquo; Apple
+chargers &amp; cables sold on Amazon are fake, says Apple.&rdquo;</p>
+
+<blockquote><p>There’s no shortage of third-party chargers and cables sold for Apple
+equipment, some of them claiming to be the genuine article, but Apple
+has found that even Amazon has been selling counterfeit products
+labelled as the real thing. The products concerned were sold by Amazon
+directly, and not by a third-party Marketplace seller.</p>
+
+<p>The items have now been removed from sale, and Apple is suing the
+company that made them …</p></blockquote>
+
+<p>Amazon responded.</p>
+
+<blockquote><p>Amazon responded, stating that the company ‘has zero tolerance for the
+sale of counterfeits on our site.  We work closely with manufacturers
+and brands, and pursue wrongdoers aggressively.’</p>
+
+<p>Given the number of fake Apple products available, we always urge
+caution where the price is significantly lower than the official
+price. This is especially true in the case of MagSafe power supplies,
+where any price lower than available from authorized resellers is an
+immediate warning flag.</p></blockquote>
+
+<p><a href="https://9to5mac.com/2016/10/19/amazon-fake-apple-chargers-cables/">Article at 9to5 Mac</a><br />
+<a href="http://www.patentlyapple.com/patently-apple/2016/10/apple-sues-mobile-star-for-selling-counterfeit-power-adapters-and-charging-cables-through-amazon.html">Patently Apple</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So Long Leo Beranek]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek/"/>
+    <updated>2016-10-23T06:54:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek</id>
+    <content type="html"><![CDATA[<p>&ldquo;Leo Leroy Beranek (September 15, 1914 – October 10, 2016) was an
+American acoustics expert, former MIT professor, and a founder and
+former president of Bolt, Beranek and Newman (now BBN Technologies).&rdquo;
+from Wikipedia.</p>
+
+<!-- More -->
+
+
+<blockquote><p>In 1969, the company he helped found, Bolt, Beranek &amp; Newman, won a
+contract from the Defense Department’s Advanced Research Projects
+Agency to build the first computer-based network, which came to be
+called Arpanet.</p>
+
+<p>By demonstrating the ability to share data and messages through vast
+computer networks, Arpanet, a product of government-sponsored
+research, paved the way for the creation of the internet. Among its
+many breakthrough achievements, his company sent the first email
+message that used the @ symbol, in 1972.</p></blockquote>
+
+<p>from The New York Times article &ldquo;Leo Beranek, Acoustics Designer and
+Internet Pioneer, Dies at 102&rdquo; by Glenn Rifkin, The New York Times, 2016-10-17.</p>
+
+<p><a href="http://www.nytimes.com/2016/10/18/business/leo-beranek-dead.html">Leo Beranek, Acoustics Designer and Internet Pioneer, Dies at 102</a><br />
+<a href="https://en.wikipedia.org/wiki/BBN_Technologies">BBN Technologies</a><br />
+<a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a><br />
+<a href="https://en.wikipedia.org/wiki/History_of_the_Internet">History of the Internet</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Whats Going On Inside Lithium Ion Batteries]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
+    <updated>2016-10-23T00:00:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
+    <content type="html"><![CDATA[<p>x&mdash;&ndash;
+layout: post
+title: &ldquo;What&rsquo;s going on inside Lithium Ion Batteries?&rdquo;
+date: 2016-10-23 07:32
+comments: true</p>
+
+<h2>categories: computing favorites</h2>
+
+<p>Steve Gibson from Security Now provided two excellent sources this
+week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
+
+<!-- More -->
+
+
+<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
+Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
+
+<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
+slight misalignment between the anode and cathode occurs during the
+assembly process. The same structure as above now has the anode layer
+shifted slightly to the right. At the misaligned edge, the requisite
+overlap of the anode relative to the cathode is now diminished or even
+possibly eliminated. The anode/cathode ratio at this spot drops below
+the requisite limit for ensuring safety. The result is the onset of
+lithium metal at this edge. The lithium metal forms on the anode
+edge. As the lithium metal grows in size and thickness, it ultimately
+punctures the separator and causes an electrical short between the
+anode and cathode. Boom! There is a catastrophic failure.</p>
+
+<p>The tolerance requirements in the manufacturing of lithium-ion
+batteries have risen sharply with increasing energy density. Short of
+using new materials (which still do not exist in commercial
+deployment), increasing the energy density means reducing all the
+extra space inside the battery that is not made of anode and cathode
+materials. These are the only two materials that store energy;
+n> everything else is just overhead. They are still needed for other
+functions and safety, but they do not contribute to storing electrical
+charge. Therefore, battery designers keep reducing this overhead and,
+in the process, make the manufacturing tolerances even tighter. That
+is a recipe for many disasters to come unless we start adding a lot
+more intelligence to the battery to avoid and mitigate these
+undesired situations.</p></blockquote>
+
+<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
+
+<p>From the Qnovo blog.</p>
+
+<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
+<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
+<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
+<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
+<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CisLunar 1000]]></title>
@@ -882,113 +1021,6 @@ The Story of Squeak, A Practical Smalltalk Written in Itself</p>
     <updated>2016-09-26T06:35:00-04:00</updated>
     <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/variable-fonts</id>
     <content type="html"><![CDATA[<p><a href="https://www.wired.com/2016/09/apple-google-adobe-microsoft-join-forces-make-typographic-history/?mbid=social_fb">Tech Giants Team Up to Fix Typography’s Biggest Problem | WIRED</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Microsoft FPGAs]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/microsoft-fpgas/"/>
-    <updated>2016-09-26T06:34:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/microsoft-fpgas</id>
-    <content type="html"><![CDATA[<p><a href="https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/?mbid=social_fb">Microsoft’s Internet Business Gets a New Kind of Processor | WIRED</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Latest iPhone Home Screen]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen/"/>
-    <updated>2016-09-25T16:46:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/25/latest-iphone-home-screen</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20160926.0559.iPhone_Homescreen.png"></p>
-
-<p>Here&rsquo;s the most recent image of my iPhone home screen as it continues
-to evolve.  I think the most recent, previous image was this one.</p>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a></p>
-
-<!-- More -->
-
-
-<h2>Vs. the Old Screen</h2>
-
-<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/20141109_iPhone.jpg"></p>
-
-<p>Instapaper is out.  I still use it on the desktop sometime but, since
-I switched to Safari (yep), it has reading mode which is easy and
-basically does the same thing.</p>
-
-<p>I really like Read Quick and I&rsquo;m a fan of Clayton and Natalie Morris,
-at least when they&rsquo;re on Twit.tv podcasts.  It&rsquo;s a neat idea and it
-actually works, but I just wasn&rsquo;t using it.  When I&rsquo;m commuting
-(driving) and at other times I&rsquo;m more often listening than reading.  I
-just stopped using it very much.</p>
-
-<p>The dreaded Facebook has arrived.  Yeah.  I finally decided to bite
-the bullet and try using Facebook for news as well as family goings on
-so I listened to Robert Scoble explain to Leo Laporte how to tune
-Facebook&rsquo;s news feed, groups, etc.  I&rsquo;ve been using it since February.</p>
-
-<p>I just removed Evernote and put Byword there a few minutes ago.  I&rsquo;m a
-fan of Evernote but they seem to be struggling (as the press puts it)
-and I decided it was a good time to move another one of my data sinks
-to the text-Markdown world.  So now I write notes using Drafts, save
-them to Dropbox (where they are titled and formatted) and access them
-using various Markdown formatters.  The formatter that allows both
-previewing the Markdown but also editing the notes within Dropbox is
-Byword.  On the Mac desktop I use Marked for previewing and, of
-course, just Emacs in a terminal window to edit.  This has been
-working surprisingly well.  The only thing missing right now is that
-Byword doesn&rsquo;t render included images.  There are some competing
-standards between apps on how that&rsquo;s done, i.e., how images are
-included.  There is Multi-markdown and I think it has a standard way,
-but Byword doesn&rsquo;t seem to use it.  I&rsquo;m not sure I&rsquo;ve done all of the
-required homework on that one, though.</p>
-
-<p>I still have my Evernote account and it&rsquo;s still on my phone, but just
-not on the home screen.  I also exported my notes and wrote an XML
-parser (well, I used the Python pre-existing XML library) to un-XML
-them.</p>
-
-<p>Drafts is a wonderful app I&rsquo;ve been using for a while.  As everyone
-that talks about it says, it&rsquo;s just for entering text.  It opens super
-fast and it&rsquo;s ready for you just to type.  I have it set up to take
-notes and save them to Dropbox with the formatting described above.
-It&rsquo;s where my notes went, even when I was using Evernote.  From other
-apps&#8217; Share sheets, I can send things to Drafts so it basically
-connects all of my apps together.</p>
-
-<p>Finally, Safari.  Chrome just keeps bloating in various ways and I
-heard that Safari handled battery life on the iPhone in a much better
-way.  That makes sense.  It seems secure enough (but note the most
-recent &ldquo;pwn&rdquo; (however you spell it) conference where Chrome withstood
-and Safari fell two or three times.  I tried switching to Safari quite
-a few months ago, both on the phone and desktop, and I&rsquo;ve been using
-it ever since.  There are some Google apps that Chrome handles better,
-mainly their finance stock charts, but usually Safari is fine.  Chrome
-is still on my phone and I still use it at work.  I wouldn&rsquo;t argue
-that Safari is better (except for the memory footprint, maybe faster
-and with better battery management where I <em>would</em> argue it&rsquo;s better),
-but it&rsquo;s seemed good enough so far.</p>
-
-<h2>References</h2>
-
-<p><a href="http://kmggh.github.io/m149daily-blog//blog/2014/11/09/ios-8-dot-1/">IOS 8.1</a><br />
-<a href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/">Tuning Facebook</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Triumph of the Nerds]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds/"/>
-    <updated>2016-09-24T14:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/24/triumph-of-the-nerds</id>
-    <content type="html"><![CDATA[<p>One of the best documentaries on the history of micro computing,
-covering 1975 to 1995, is Robert X. Cringley&rsquo;s &ldquo;Triumph of the Nerds.&rdquo;
-It&rsquo;s currently on YouTube.</p>
-
-<p><a href="https://youtu.be/sX5g0kidk3Y">Part 1</a><br />
-<a href="https://youtu.be/EiffgiRAYUI">Part 2</a><br />
-<a href="https://youtu.be/ZFUsYXZSMqs">Part 3</a></p>
 ]]></content>
   </entry>
   

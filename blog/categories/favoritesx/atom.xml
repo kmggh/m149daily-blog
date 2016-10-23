@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: favoritesx | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/favoritesx/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-10-23T07:55:35-04:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The C Programming Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language/"/>
+    <updated>2016-10-04T01:15:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language</id>
+    <content type="html"><![CDATA[<p>The classic &ldquo;The C Programming Language&rdquo; by Kernighan and Ritchie is
+online in full at the below link.  This is the second edition from
+1988.</p>
+
+<p><a href="https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf">The C Programming Language</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pictures of Telescopes by Telescopes]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
+    <updated>2016-09-23T23:23:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
+    <content type="html"><![CDATA[<p>This outstanding article by Emily Gilbert in Medium shows pictures of
+observatories made from orbiting telescopes.</p>
+
+<p><a href="https://medium.com/planet-stories/pictures-of-telescopes-by-telescopes-ed0d2bf387c1#.lb1abjpwi">Pictures of Telescopes by Telescopes</a></p>
+]]></content>
+  </entry>
+  
+</feed>
