@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T07:55:35-04:00</updated>
+  <updated>2016-10-23T08:04:12-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What's going on inside Lithium Ion Batteries?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
+    <updated>2016-10-23T07:32:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
+    <content type="html"><![CDATA[<p>Steve Gibson from Security Now provided two excellent sources this
+week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
+
+<!-- More -->
+
+
+<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
+Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
+
+<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
+slight misalignment between the anode and cathode occurs during the
+assembly process. The same structure as above now has the anode layer
+shifted slightly to the right. At the misaligned edge, the requisite
+overlap of the anode relative to the cathode is now diminished or even
+possibly eliminated. The anode/cathode ratio at this spot drops below
+the requisite limit for ensuring safety. The result is the onset of
+lithium metal at this edge. The lithium metal forms on the anode
+edge. As the lithium metal grows in size and thickness, it ultimately
+punctures the separator and causes an electrical short between the
+anode and cathode. Boom! There is a catastrophic failure.</p>
+
+<p>The tolerance requirements in the manufacturing of lithium-ion
+batteries have risen sharply with increasing energy density. Short of
+using new materials (which still do not exist in commercial
+deployment), increasing the energy density means reducing all the
+extra space inside the battery that is not made of anode and cathode
+materials. These are the only two materials that store energy;
+n> everything else is just overhead. They are still needed for other
+functions and safety, but they do not contribute to storing electrical
+charge. Therefore, battery designers keep reducing this overhead and,
+in the process, make the manufacturing tolerances even tighter. That
+is a recipe for many disasters to come unless we start adding a lot
+more intelligence to the battery to avoid and mitigate these
+undesired situations.</p></blockquote>
+
+<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
+
+<p>From the Qnovo blog.</p>
+
+<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
+<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
+<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
+<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
+<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Counterfeit Apple Cables from Amazon]]></title>
@@ -89,66 +141,6 @@ Internet Pioneer, Dies at 102&rdquo; by Glenn Rifkin, The New York Times, 2016-1
 <a href="https://en.wikipedia.org/wiki/BBN_Technologies">BBN Technologies</a><br />
 <a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a><br />
 <a href="https://en.wikipedia.org/wiki/History_of_the_Internet">History of the Internet</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Whats Going On Inside Lithium Ion Batteries]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
-    <updated>2016-10-23T00:00:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
-    <content type="html"><![CDATA[<p>x&mdash;&ndash;
-layout: post
-title: &ldquo;What&rsquo;s going on inside Lithium Ion Batteries?&rdquo;
-date: 2016-10-23 07:32
-comments: true</p>
-
-<h2>categories: computing favorites</h2>
-
-<p>Steve Gibson from Security Now provided two excellent sources this
-week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
-
-<!-- More -->
-
-
-<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
-Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
-
-<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
-slight misalignment between the anode and cathode occurs during the
-assembly process. The same structure as above now has the anode layer
-shifted slightly to the right. At the misaligned edge, the requisite
-overlap of the anode relative to the cathode is now diminished or even
-possibly eliminated. The anode/cathode ratio at this spot drops below
-the requisite limit for ensuring safety. The result is the onset of
-lithium metal at this edge. The lithium metal forms on the anode
-edge. As the lithium metal grows in size and thickness, it ultimately
-punctures the separator and causes an electrical short between the
-anode and cathode. Boom! There is a catastrophic failure.</p>
-
-<p>The tolerance requirements in the manufacturing of lithium-ion
-batteries have risen sharply with increasing energy density. Short of
-using new materials (which still do not exist in commercial
-deployment), increasing the energy density means reducing all the
-extra space inside the battery that is not made of anode and cathode
-materials. These are the only two materials that store energy;
-n> everything else is just overhead. They are still needed for other
-functions and safety, but they do not contribute to storing electrical
-charge. Therefore, battery designers keep reducing this overhead and,
-in the process, make the manufacturing tolerances even tighter. That
-is a recipe for many disasters to come unless we start adding a lot
-more intelligence to the battery to avoid and mitigate these
-undesired situations.</p></blockquote>
-
-<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
-
-<p>From the Qnovo blog.</p>
-
-<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
-<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
-<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
-<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
-<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
 ]]></content>
   </entry>
   

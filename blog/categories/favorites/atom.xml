@@ -4,7 +4,7 @@
   <title><![CDATA[Category: favorites | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/favorites/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T07:55:35-04:00</updated>
+  <updated>2016-10-23T08:04:12-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What's going on inside Lithium Ion Batteries?]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
+    <updated>2016-10-23T07:32:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
+    <content type="html"><![CDATA[<p>Steve Gibson from Security Now provided two excellent sources this
+week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
+
+<!-- More -->
+
+
+<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
+Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
+
+<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
+slight misalignment between the anode and cathode occurs during the
+assembly process. The same structure as above now has the anode layer
+shifted slightly to the right. At the misaligned edge, the requisite
+overlap of the anode relative to the cathode is now diminished or even
+possibly eliminated. The anode/cathode ratio at this spot drops below
+the requisite limit for ensuring safety. The result is the onset of
+lithium metal at this edge. The lithium metal forms on the anode
+edge. As the lithium metal grows in size and thickness, it ultimately
+punctures the separator and causes an electrical short between the
+anode and cathode. Boom! There is a catastrophic failure.</p>
+
+<p>The tolerance requirements in the manufacturing of lithium-ion
+batteries have risen sharply with increasing energy density. Short of
+using new materials (which still do not exist in commercial
+deployment), increasing the energy density means reducing all the
+extra space inside the battery that is not made of anode and cathode
+materials. These are the only two materials that store energy;
+n> everything else is just overhead. They are still needed for other
+functions and safety, but they do not contribute to storing electrical
+charge. Therefore, battery designers keep reducing this overhead and,
+in the process, make the manufacturing tolerances even tighter. That
+is a recipe for many disasters to come unless we start adding a lot
+more intelligence to the battery to avoid and mitigate these
+undesired situations.</p></blockquote>
+
+<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
+
+<p>From the Qnovo blog.</p>
+
+<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
+<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
+<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
+<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
+<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
@@ -158,51 +210,6 @@ blue once in a while.</p>
 by Joe Rao, SPACE.com, Skywatching Columnist, 2010-11-19 12:26:00 -0500</a></p>
 
 <p><a href="https://en.wikipedia.org/wiki/Blue_moon">Blue moon from Wikipedia</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
-    <updated>2015-03-20T05:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
-    <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
-answer to this question with a summary of the built-in security
-features of OS X 10.10 and the additional precautions you should take.</p>
-
-<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
-Mac malware in downloaded files, and to block insecure web
-plugins. This feature is transparent to the user. Internally Apple
-calls it &ldquo;XProtect.&rdquo;</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
-built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
-default, applications and Installer packages downloaded from the
-network will only run if they&rsquo;re digitally signed by a developer with
-a certificate issued by Apple. Software certified in this way hasn&rsquo;t
-necessarily been tested by Apple, but you can be reasonably sure that
-it hasn&rsquo;t been modified by anyone other than the developer. His
-identity is known to Apple, so he could be held legally responsible if
-he distributed malware. That may not mean much if the developer lives
-in a country with a weak legal system (see below.)</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
-added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
-background when you update the OS. It checks for, and removes, malware
-that may have evaded the other protections via a Java exploit (see
-below.) MRT also runs when you install or update the Apple-supplied
-Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
-effective against known threats, but not against unknown ones. It
-notifies you if it finds malware, but otherwise there&rsquo;s no user
-interface to MRT.</p></blockquote>
-
-<p>His answer is the third one down.</p>
-
-<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
 ]]></content>
   </entry>
   
