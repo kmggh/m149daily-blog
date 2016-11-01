@@ -4,7 +4,7 @@
   <title><![CDATA[Category: email | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/email/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T08:04:12-04:00</updated>
+  <updated>2016-11-01T00:31:56-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Email Phishing Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
+    <updated>2016-11-01T00:10:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
+    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
+According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
+Podesta&rsquo;s account was compromised.</p>
+
+<!-- More -->
+
+
+<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
+apparently clicked through to a fake website run by hackers. When he
+entered his account information, he handed over the keys to his
+Gmail.</p></blockquote>
+
+<p>This article by Ben Gilbert goes into some detail about how this was
+done.  It was an easy effort by the attacker and could have been
+avoided with a bit more care on the part of the user.  He even did the
+right thing in reporting it to his IT support but still clicked the
+dangerous link in the email.</p>
+
+<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
+in the book</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Its Email - Part 2]]></title>
@@ -241,176 +269,6 @@ lead, in some large part, to their downfall.</p>
 
 <p>I still like a lot about the Inbox app and it&rsquo;s interface and I&rsquo;ll
 keep experimenting with a much less important account.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dealing with Email]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email/"/>
-    <updated>2015-02-23T06:18:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/02/23/dealing-with-email</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve used email since the beginning of the early days of the
-Internet&rsquo;s explosion in the mid-80s.  It&rsquo;s gone through quite an
-evolution as have my methods of managing what is probably a massive
-flood of incoming information.  Since my methods work pretty well for
-me, I really wouldn&rsquo;t know.</p>
-
-<p>Lately I hear people either discussing how they fight their huge
-battle with email, sometimes winning and sometimes losing, and I&rsquo;m
-struck by how often they seem to miss some techniques I&rsquo;ve taken for granted
-for years now.</p>
-
-<p>In my current job I spend about 20 minutes reading email in the
-morning.  After that, all of the email labels (basically folders if
-that&rsquo;s the paradigm you use) are read, I&rsquo;m at what is sometimes called
-&ldquo;inbox zero.&rdquo;  Throughout the rest of the day, I watch for occasional
-emails from my team and the chain of people I report to.  That&rsquo;s
-basically it.  I never see an email message that I wouldn&rsquo;t want to.</p>
-
-<p>Here are the main techniques that I&rsquo;ve found success in using.</p>
-
-<!-- More -->
-
-
-<h2>Use Gmail</h2>
-
-<p>I&rsquo;ve used Gmail since it came out in 2004, both for personal and work
-email.  In all that time, I&rsquo;ve never deleted an email message.  That
-was an original idea of Gmail, you were never expected to.  Google&rsquo;s
-email service effectively deals with spam so that&rsquo;s immediately out of
-the equation.  I&rsquo;ve barely given a thought to spam in that many
-years. I don&rsquo;t check my spam folder.  There were maybe two times when
-I seemed to be missing a message and I found a false positive in
-there, but that&rsquo;s it.</p>
-
-<p>Some people seem to be mystified by or simply don&rsquo;t like the
-conversation view.  I can&rsquo;t imagine why this is.  It&rsquo;s the most
-effective and logical to view an exchange of messages.  The list of
-&ldquo;messages&rdquo; (actually conversations) in a mailbox is immediately
-shorter, you can see how many are unread by conversation, and the
-snippets show you a bit of context.</p>
-
-<p>I&rsquo;ve used or taken a careful look at most of the email programs,
-interfaces and services over it&rsquo;s history, particularly in roles of
-providing user support and also being a system administrator of email
-servers.  Please take my word for this, conversations in Gmail is the
-best way to read email.</p>
-
-<h2>Use Filters and Labels</h2>
-
-<p>I use lots of filters.  The filters themselves aren&rsquo;t terribly
-complicated.  Usually they either filter by who the email is from (one
-of my bosses), who it&rsquo;s to, typically an email list, e.g., my team,
-and sometimes the subject line.</p>
-
-<p>The filter usually skips the inbox which means the message won&rsquo;t
-appear there.  (Gmail tip:  There is no inbox.  There&rsquo;s nothing but a
-gigantic barrel of all of your email, but you typically view it by
-labels on the email. &ldquo;Inbox&rdquo; is just another label.  So is
-&ldquo;Spam&rdquo;. Etc.)  They usually go into a custom label and may be marked
-as read or not.</p>
-
-<p>When naming labels, I give them names so they are properly sorted in
-the left hand column.  Important filters start with the letter A,
-e.g., &ldquo;A Bosses&rdquo;, &ldquo;A Team&rdquo;, &ldquo;A Project XYZ.&rdquo;  The filters for those
-labels won&rsquo;t be marked as read so I can see how many unread messages
-there are from a boss, my team, on the project.</p>
-
-<p>After that come some less important labels like &ldquo;B Some Other
-Project&rdquo;, &ldquo;B Meeting X&rdquo;, etc.  Those might be unread or they might
-actually be marked as read.  They don&rsquo;t show up as bold with an
-unread count, but I can go look at that &ldquo;pile&rdquo; if I ever need to see
-what&rsquo;s been going on there.  Similarly, there are a few labels
-starting with &ldquo;C&rdquo; that are even farther down on the list.</p>
-
-<p>Below those, and probably off the screen, are labels without a special
-sorting letter in their name.  Usually all of those are marked as read
-(by the filter when the email arrives) and chances are I&rsquo;ll never look
-at them.  This is where things go like chatty notification services
-which is effectively noise.  There maybe tens of thousands of messages
-in these.  If there were some particular kinds of messages in there I
-needed so see, lost in that noise, then that means writing a more
-specific filter to put those messages in a more important label and
-leaving them unread.</p>
-
-<p>Finally, you can set each label to be shown or not.   If you mark it
-as not shown, then it won&rsquo;t even be in the left-hand list  when you
-scroll down.  At the end of the list it says &ldquo;More&rdquo; with a little
-arrow.  You click that to extend the list with the rest of the
-not-shown labels.  If there are labels of mail I don&rsquo;t even care to
-remember the existence of, I don&rsquo;t need to be reminded they are there,
-I put them in that list.  It&rsquo;s like the closet, or maybe even the
-trash heap.</p>
-
-<p>After all of the filtering is done, all that remains in my inbox is
-the general, uncategorized email, that I need to ready on a daily
-basis.  That&rsquo;s reduced down to the 20 or so messages I read each day.</p>
-
-<h2>Read Selectively</h2>
-
-<p>Now I can look at my labels in the morning and see what messages
-are there.  There are maybe 10 labels I read each morning but I don&rsquo;t
-go through each label reading messages one by one.</p>
-
-<p>I read the reporting chain label, team mail, and then typically the
-inbox next.  Note that I&rsquo;ve been a GTD advocate and user for some six
-years, so, of course, I don&rsquo;t spend more than a couple of minutes on a
-message.  If a message is a long read, or requires something to be
-done, I add an item to my Next Actions list, or some appropriate
-list.  I usually put a link back to the message in the action.</p>
-
-<p>(Gmail tip:  You can refer back to any particular conversation/message
-by copying the link from the browser.  That link will always work for
-that message.  I typically just add a word &ldquo;[Email]&rdquo; and link the
-&ldquo;Email&rdquo; part to the message so I can just click on it.)</p>
-
-<p>So I might have one or two new actions.</p>
-
-<p>(Gmail tip:  You can search using the search term &ldquo;label:<label name>
-is:unread&rdquo; to see all of the unread messages in a label.   This also
-works for seeing just the unread messages in your inbox, e.g.,
-&ldquo;label:inbox is:unread&rdquo;.  If I click on a label, the &ldquo;label:<label
-name>&rdquo; is already in the search box (because that&rsquo;s all clicking on a
-label does, it does that search).  Then, clicking in the search box
-drops down the &ldquo;is:unread&rdquo; added to it because it&rsquo;s been used before,
-so no typing is needed.</p>
-
-<p>For some chains, I just flip through the messages quickly to see what
-their content is.  If there&rsquo;s not a need to read it then or maybe
-ever, I don&rsquo;t.  This is different from just marking it as read.  I
-still open and look at each message to be sure I know what it&rsquo;s about.</p>
-
-<p>For some labels, I don&rsquo;t even do that.  I just open the label and look
-at the conversation subjects and snippets.  Often that&rsquo;s enough,
-because this label already represents reduced importance.  Then I just
-check all of the boxes by checking the one box up at the top of the
-list, go to the &ldquo;More&rdquo; menu button and select &ldquo;Mark all as read.&rdquo;
-Done for that label.</p>
-
-<p>For the rest of the day I keep my team&rsquo;s label selected and ignore
-most of the other labels, and the inbox, even though they accumulate
-new, unread messages through the day.  They&rsquo;ll be dealt with next
-morning.</p>
-
-<h2>Concluding</h2>
-
-<p>So, the basic idea is to tune the incoming email so I only see what I
-need to see, and only read what&rsquo;s important.  I&rsquo;ve found that most of
-this tuning can be done in four to six weeks of a new job, then there
-is a decreasing number of tweaks through out six months to a year.
-Beyond that, I only tweak a filter or add a label every three to six
-months probably.</p>
-
-<p>Some readers here may note that Gmail will automatically prioritize
-your messages and even sort it into major categories to help you read
-it.  I&rsquo;ve heard that these seem to work quite well.  I actually turn
-all of those features off since my email handling is already finely
-tuned.</p>
-
-<p>Note what I don&rsquo;t worry about:  mail quotas, deciding what messages to
-delete, organizing folders, spam.  Those are problems more than 10
-years in my past.  I&rsquo;m amazed people still have to battle them on a
-daily basis.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: security | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/security/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T08:04:12-04:00</updated>
+  <updated>2016-11-01T00:31:56-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DOS IOT Botnet Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack/"/>
+    <updated>2016-11-01T00:22:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of discussion about the insecurity of the internet
+of things (IOT) devices such as security cameras, DVRs, thermostats
+and more.  Frankly, many of these are Linux systems that are poorly
+prepared from a security standpoint and sometimes blatantly exposed.
+Such devices were used in the recent, massive attacks against the DNS
+service.</p>
+
+<!-- More -->
+
+
+<blockquote><p>&ldquo;We&rsquo;re seeing attacks coming from a number of different locations,&rdquo;
+Drew said. &ldquo;An Internet of Things botnet called Mirai that we
+identified is also involved in the attack.&rdquo;</p>
+
+<p>The botnet, made up of devices like home Wi-Fi routers and Internet
+protocol video cameras, is sending massive numbers of requests to
+Dyn&rsquo;s DNS service. Those requests look legitimate, so it&rsquo;s difficult
+for Dyn&rsquo;s systems to screen them out from normal domain name lookup
+requests.</p></blockquote>
+
+<p><a href="http://arstechnica.com/security/2016/10/double-dip-internet-of-things-botnet-attack-felt-across-the-internet/">Double-dip Internet-of-Things botnet attack felt across the Internet</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rowhammer]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer/"/>
+    <updated>2016-11-01T00:18:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer</id>
+    <content type="html"><![CDATA[<p>Rowhammer is a sophisticated, clever and dangerous way to attack
+computers and Android phones.  Dan Goodin reports in <em>Ars Technica.</em></p>
+
+<!-- More -->
+
+
+<blockquote><p>Researchers have devised an attack that gains unfettered &ldquo;root&rdquo; access
+to a large number of Android phones, exploiting a relatively new type
+of bug that allows adversaries to manipulate data stored in memory
+chips.</p></blockquote>
+
+<p><a href="http://arstechnica.com/security/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/">Using Rowhammer bitflips to root Android phones is now a thing</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Email Phishing Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
+    <updated>2016-11-01T00:10:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
+    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
+According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
+Podesta&rsquo;s account was compromised.</p>
+
+<!-- More -->
+
+
+<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
+apparently clicked through to a fake website run by hackers. When he
+entered his account information, he handed over the keys to his
+Gmail.</p></blockquote>
+
+<p>This article by Ben Gilbert goes into some detail about how this was
+done.  It was an easy effort by the attacker and could have been
+avoided with a bit more care on the part of the user.  He even did the
+right thing in reporting it to his IT support but still clicked the
+dangerous link in the email.</p>
+
+<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
+in the book</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Security Basics]]></title>
@@ -207,104 +284,6 @@ can see one of the first problems right there.  This growing &ldquo;ledger&rdquo
 just keeps, well, growing.  It doesn&rsquo;t seem to scale well as they say.</p>
 
 <p><a href="http://www.wired.co.uk/news/archive/2016-01/05/blockchain-is-the-new-signature">How the blockchain will enable self-service government</a> by Brian Forde and Michael Casey of Wired UK.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Is OS X Yosemite 10.10 is Safe Without Anti Virus?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/"/>
-    <updated>2015-03-20T05:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus</id>
-    <content type="html"><![CDATA[<p>In the Apple Support Communities, Linc Davis gives an excellent
-answer to this question with a summary of the built-in security
-features of OS X 10.10 and the additional precautions you should take.</p>
-
-<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
-Mac malware in downloaded files, and to block insecure web
-plugins. This feature is transparent to the user. Internally Apple
-calls it &ldquo;XProtect.&rdquo;</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
-built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
-default, applications and Installer packages downloaded from the
-network will only run if they&rsquo;re digitally signed by a developer with
-a certificate issued by Apple. Software certified in this way hasn&rsquo;t
-necessarily been tested by Apple, but you can be reasonably sure that
-it hasn&rsquo;t been modified by anyone other than the developer. His
-identity is known to Apple, so he could be held legally responsible if
-he distributed malware. That may not mean much if the developer lives
-in a country with a weak legal system (see below.)</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
-added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
-background when you update the OS. It checks for, and removes, malware
-that may have evaded the other protections via a Java exploit (see
-below.) MRT also runs when you install or update the Apple-supplied
-Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
-effective against known threats, but not against unknown ones. It
-notifies you if it finds malware, but otherwise there&rsquo;s no user
-interface to MRT.</p></blockquote>
-
-<p>His answer is the third one down.</p>
-
-<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SQRL!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl/"/>
-    <updated>2014-10-31T05:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/31/sqrl</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 21</a></p>
-
-<p>For several months now Steve Gibson of GRC.com and Security Now has
-been working on a new authentication protocol he named SQRL, the
-Secure Quick Reliable Login.  On his web site he describes what
-happens when you log into a site, say Amazon, using SQRL (assuming
-Amazon adopted it).</p>
-
-<p>The website displays a QR code, described as a &ldquo;SQRL code,&rdquo; beside the
-usual userid and password login prompt.</p>
-
-<blockquote><ul>
-<li>The user can tap or click directly on the SQRL code to login, or
-launch their smartphone&rsquo;s SQRL app, and scan the QR code.</li>
-<li>For verification, SQRL displays the domain name contained in the
-SQRL code.</li>
-<li>After verifying the domain, the user permits the SQRL app to
-authenticate their identity.</li>
-<li>Leaving the login information blank, the user clicks the “Log in”
-button&hellip; and is logged in.</li>
-</ul>
-</blockquote>
-
-<p>The approach is highly secure, difficult to attack, easy to implement,
-and easy to use.  He describes details at his site.</p>
-
-<p>This is an elegant solution to the problems that come from dealing
-with passwords and I hope it continues to climb since it&rsquo;s taken off!</p>
-
-<p><a href="https://www.grc.com/sqrl/sqrl.htm">SQRL at GRC.com</a><br />
-<a href="http://twit.tv/show/security-now">Security Now</a><br />
-<a href="http://twit.tv/show/security-now/424">Episode 424 on SQRL</a><br />
-<a href="http://sqrl.pl/guide/">Sqrl.pl Illustrated Guide</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google Authenticator for SSH Two-Factor Authentication]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication/"/>
-    <updated>2013-06-06T23:20:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/06/google-authenticator-for-ssh-two-factor-authentication</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Google-Authenticator.png"></p>
-
-<p><a href="http://scottlinux.com/2013/06/02/use-google-authenticator-for-two-factor-ssh-authentication-in-linux/">Use Google Authenticator For Two-Factor SSH Authentication in
-Linux</a> at scottlinux.com.</p>
 ]]></content>
   </entry>
   

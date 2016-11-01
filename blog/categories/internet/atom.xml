@@ -4,7 +4,7 @@
   <title><![CDATA[Category: internet | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T08:04:12-04:00</updated>
+  <updated>2016-11-01T00:31:56-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unreadable Web]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web/"/>
+    <updated>2016-11-01T00:27:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web</id>
+    <content type="html"><![CDATA[<p>Kevin Marks has written an excellent article on how web pages are
+being made very hard to read because it&rsquo;s the in-style thing to do.</p>
+
+<!-- More -->
+
+
+<blockquote><p>There’s a widespread movement in design circles to reduce the contrast
+between text and background, making type harder to read. Apple is
+guilty. Google is, too. So is Twitter.</p>
+
+<p>Typography may not seem like a crucial design element, but it is. One
+of the reasons the web has become the default way that we access
+information is that it makes that information broadly available to
+everyone. “The power of the Web is in its universality,” wrote Tim
+Berners-Lee, director of the World Wide Web consortium. “Access by
+everyone regardless of disability is an essential aspect.”</p></blockquote>
+
+<p><a href="https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.70urt9e64">How the Web Became Unreadable</a><br/></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DOS IOT Botnet Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack/"/>
+    <updated>2016-11-01T00:22:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of discussion about the insecurity of the internet
+of things (IOT) devices such as security cameras, DVRs, thermostats
+and more.  Frankly, many of these are Linux systems that are poorly
+prepared from a security standpoint and sometimes blatantly exposed.
+Such devices were used in the recent, massive attacks against the DNS
+service.</p>
+
+<!-- More -->
+
+
+<blockquote><p>&ldquo;We&rsquo;re seeing attacks coming from a number of different locations,&rdquo;
+Drew said. &ldquo;An Internet of Things botnet called Mirai that we
+identified is also involved in the attack.&rdquo;</p>
+
+<p>The botnet, made up of devices like home Wi-Fi routers and Internet
+protocol video cameras, is sending massive numbers of requests to
+Dyn&rsquo;s DNS service. Those requests look legitimate, so it&rsquo;s difficult
+for Dyn&rsquo;s systems to screen them out from normal domain name lookup
+requests.</p></blockquote>
+
+<p><a href="http://arstechnica.com/security/2016/10/double-dip-internet-of-things-botnet-attack-felt-across-the-internet/">Double-dip Internet-of-Things botnet attack felt across the Internet</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Email Phishing Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
+    <updated>2016-11-01T00:10:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
+    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
+According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
+Podesta&rsquo;s account was compromised.</p>
+
+<!-- More -->
+
+
+<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
+apparently clicked through to a fake website run by hackers. When he
+entered his account information, he handed over the keys to his
+Gmail.</p></blockquote>
+
+<p>This article by Ben Gilbert goes into some detail about how this was
+done.  It was an easy effort by the attacker and could have been
+avoided with a bit more care on the part of the user.  He even did the
+right thing in reporting it to his IT support but still clicked the
+dangerous link in the email.</p>
+
+<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
+in the book</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[So Long Leo Beranek]]></title>
@@ -212,102 +295,6 @@ security matter.</p>
 <h2>Next</h2>
 
 <p>I&rsquo;ll soon follow up with part 2, Bonus Tips.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tuning Facebook]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook/"/>
-    <updated>2016-02-06T12:29:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/02/06/tuning-facebook</id>
-    <content type="html"><![CDATA[<p>Okay, I&rsquo;ve decided to try using the dreaded Facebook a little more,
-particularly after hearing all of the talk about instant articles in
-news and more people using Messenger. I knew about this podcast of
-Robert Scoble (who&rsquo;s all in on Facebook) trying to teach Leo Laporte
-how to use it back in August but had never gotten around to checking
-it out.</p>
-
-<!-- More -->
-
-
-<p>If you want to learn how to &ldquo;really use&rdquo; Facebook in it&rsquo;s current
-form, I recommend watching it and even working through this stuff.</p>
-
-<p>So, starting around about 2016-01-30, I&rsquo;ve been trying most of what
-they discuss there over the past few days and I am seeing my FB
-experience much improved. There&rsquo;s a lot you can do to fine tune and
-control things. I&rsquo;ll see how the news feeds compare to my Twitter
-feed, etc.</p>
-
-<p><a href="https://www.youtube.com/watch?v=U53iO3b1K-c">Triangulation 169: Robert Scoble&rsquo;s Facebook Lesson</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Indie Web]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web/"/>
-    <updated>2014-11-17T08:22:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/11/17/indie-web</id>
-    <content type="html"><![CDATA[<p>Since I first began the 30-day blogging challenge the indie web
-movement was on my list of topics to discus.  My thinking on
-it, and related topics, is still unsettled.  I&rsquo;ve read some and, well,
-read some more.  Kevin Marks frequently appears on the Twit network
-and particularly on <em>This Week in Google</em>, and has talked about the
-indie web on many occasions.</p>
-
-<p>Here&rsquo;s a brief and early poll on where I am so far.  I like the basic
-principle of owning all of your content.  That&rsquo;s the foundation of
-this very site, this blog.  I don&rsquo;t like strongly coupling my various
-identities across sites, not that strongly.  I prefer that they be
-weakly coupled, if at all.  I&rsquo;m not that interested in discussions,
-engagement and feedback.  At least not in the usual way they occur on
-the web.</p>
-
-<p>Microformats comprise a clever and intriguing idea.  I think there&rsquo;s value
-in this evolved approach to (this part of) the so-called semantic
-web.</p>
-
-<p>The microformats movement has eschewed email and gone to using IRC
-(Internet Relay Chat) and a wiki for their communication.  This hits
-at the communication problems that I spend a lot of my
-internet-thinking time on.  Email seems terribly inadequate in many
-ways and yet insists being the best fit for many needs, particularly
-when Gmail is used.  I agree with not using email for long messages or
-long documents&mdash;I&rsquo;ve adopted a similar approach to communication.
-(For long documents and messages I email a Google document instead of
-a long email message).</p>
-
-<p>I loathe using IRC.  That in itself is worth at least one long blog
-post.  We use it at work since I&rsquo;ve been unable to stave off the push
-by the millennials (plus or minus) there to use IRC.</p>
-
-<p>There&rsquo;s a very nice &ldquo;indie web in a box,&rdquo; With Known, which you can
-even get a hosted account with.  At first, that seems anti-indie-web,
-but it&rsquo;s all very well done.  The source is open and you can start on
-their servers then move onto your own when you wish, similar to using
-Wordpress.</p>
-
-<p>So that&rsquo;s a quick update.  There should be more to come.</p>
-
-<p><a href="http://indiewebcamp.com/">Indie Web Camp</a><br />
-<a href="http://microformats.org/">Microformats</a><br />
-<a href="http://www.kevinmarks.com/">Kevin Marks</a><br />
-<a href="http://twit.tv/">Twit.tv</a><br />
-<a href="https://withknown.com/">Known</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A History of the Internet]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet/"/>
-    <updated>2014-10-01T08:19:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/01/a-history-of-the-internet</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/NSFNET-backbone-T3.png"></p>
-
-<p><a href="http://www.inetdaemon.com/tutorials/internet/history.shtml">History of the Internet</a> at InetDaemon.com is a brief and nice account of how the Internet
-began.</p>
-
-<p><em>Image credit: CC BY-SA 3.0 Merit Network, Inc.</em></p>
 ]]></content>
   </entry>
   

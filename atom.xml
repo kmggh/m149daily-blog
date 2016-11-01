@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-10-23T08:04:12-04:00</updated>
+  <updated>2016-11-01T00:31:56-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,109 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unreadable Web]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web/"/>
+    <updated>2016-11-01T00:27:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web</id>
+    <content type="html"><![CDATA[<p>Kevin Marks has written an excellent article on how web pages are
+being made very hard to read because it&rsquo;s the in-style thing to do.</p>
+
+<!-- More -->
+
+
+<blockquote><p>There’s a widespread movement in design circles to reduce the contrast
+between text and background, making type harder to read. Apple is
+guilty. Google is, too. So is Twitter.</p>
+
+<p>Typography may not seem like a crucial design element, but it is. One
+of the reasons the web has become the default way that we access
+information is that it makes that information broadly available to
+everyone. “The power of the Web is in its universality,” wrote Tim
+Berners-Lee, director of the World Wide Web consortium. “Access by
+everyone regardless of disability is an essential aspect.”</p></blockquote>
+
+<p><a href="https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.70urt9e64">How the Web Became Unreadable</a><br/></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DOS IOT Botnet Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack/"/>
+    <updated>2016-11-01T00:22:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of discussion about the insecurity of the internet
+of things (IOT) devices such as security cameras, DVRs, thermostats
+and more.  Frankly, many of these are Linux systems that are poorly
+prepared from a security standpoint and sometimes blatantly exposed.
+Such devices were used in the recent, massive attacks against the DNS
+service.</p>
+
+<!-- More -->
+
+
+<blockquote><p>&ldquo;We&rsquo;re seeing attacks coming from a number of different locations,&rdquo;
+Drew said. &ldquo;An Internet of Things botnet called Mirai that we
+identified is also involved in the attack.&rdquo;</p>
+
+<p>The botnet, made up of devices like home Wi-Fi routers and Internet
+protocol video cameras, is sending massive numbers of requests to
+Dyn&rsquo;s DNS service. Those requests look legitimate, so it&rsquo;s difficult
+for Dyn&rsquo;s systems to screen them out from normal domain name lookup
+requests.</p></blockquote>
+
+<p><a href="http://arstechnica.com/security/2016/10/double-dip-internet-of-things-botnet-attack-felt-across-the-internet/">Double-dip Internet-of-Things botnet attack felt across the Internet</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rowhammer]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer/"/>
+    <updated>2016-11-01T00:18:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer</id>
+    <content type="html"><![CDATA[<p>Rowhammer is a sophisticated, clever and dangerous way to attack
+computers and Android phones.  Dan Goodin reports in <em>Ars Technica.</em></p>
+
+<!-- More -->
+
+
+<blockquote><p>Researchers have devised an attack that gains unfettered &ldquo;root&rdquo; access
+to a large number of Android phones, exploiting a relatively new type
+of bug that allows adversaries to manipulate data stored in memory
+chips.</p></blockquote>
+
+<p><a href="http://arstechnica.com/security/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/">Using Rowhammer bitflips to root Android phones is now a thing</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Email Phishing Attack]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
+    <updated>2016-11-01T00:10:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
+    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
+According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
+Podesta&rsquo;s account was compromised.</p>
+
+<!-- More -->
+
+
+<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
+apparently clicked through to a fake website run by hackers. When he
+entered his account information, he handed over the keys to his
+Gmail.</p></blockquote>
+
+<p>This article by Ben Gilbert goes into some detail about how this was
+done.  It was an easy effort by the attacker and could have been
+avoided with a bit more care on the part of the user.  He even did the
+right thing in reporting it to his IT support but still clicked the
+dangerous link in the email.</p>
+
+<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
+in the book</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[What's going on inside Lithium Ion Batteries?]]></title>
@@ -965,54 +1068,6 @@ biggest complaint there is that Messages aren&rsquo;t threaded.</p>
 <h2>References</h2>
 
 <p><a href="http://kmggh.github.io/m149daily-blog//blog/2015/09/30/whence-the-chat-paradigm/">Whither the Chat Paradigm</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future/"/>
-    <updated>2016-09-26T06:45:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future</id>
-    <content type="html"><![CDATA[<p>I still love Squeak Smalltalk.  A pointer to this paper was posted on
-Hacker News Today.</p>
-
-<p>Back to the Future<br />
-The Story of Squeak, A Practical Smalltalk Written in Itself</p>
-
-<p>by</p>
-
-<p>Dan Ingalls, Ted Kaehler, John Maloney, Scott Wallace, Alan Kay</p>
-
-<p><a href="http://ftp.squeak.org/docs/OOPSLA.Squeak.html">Back to the Future</a></p>
-
-<p><a href="https://news.ycombinator.com/item?id=12577087">Hacker News posting</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Appropriate Uses for SQLite]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/appropriate-uses-for-sqlite/"/>
-    <updated>2016-09-26T06:41:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/appropriate-uses-for-sqlite</id>
-    <content type="html"><![CDATA[<p>From sqlite.org, <a href="https://sqlite.org/whentouse.html">Appropriate Uses For SQLite</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cosmic Distance Ladder]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder/"/>
-    <updated>2016-09-26T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder</id>
-    <content type="html"><![CDATA[<p>On Medium: <a href="https://medium.com/starts-with-a-bang/is-the-cosmic-distance-ladder-flawed-d4d6dc8b4ce5?source=userActivityShare-c61a82880cfd%E2%80%931474882244">Is the Cosmic Distance Ladder Flawed?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Variable Fonts]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/variable-fonts/"/>
-    <updated>2016-09-26T06:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/variable-fonts</id>
-    <content type="html"><![CDATA[<p><a href="https://www.wired.com/2016/09/apple-google-adobe-microsoft-join-forces-make-typographic-history/?mbid=social_fb">Tech Giants Team Up to Fix Typography’s Biggest Problem | WIRED</a></p>
 ]]></content>
   </entry>
   
