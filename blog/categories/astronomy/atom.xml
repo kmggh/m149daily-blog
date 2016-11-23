@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-01T00:31:56-04:00</updated>
+  <updated>2016-11-23T02:12:16-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,206 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Super Moon -  Super Story]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/super-moon-super-story/"/>
+    <updated>2016-11-15T06:01:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/super-moon-super-story</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/postimages/Moon-Earth_distance,_Moon_phases.gif"></p>
+
+<p>The hyped story about the &ldquo;Super Moon&rdquo; is near the top of our on-line
+news feeds.  I&rsquo;ll try to untangle the hype from some facts.  It&rsquo;s true
+that this <em>full Moon</em> will be the closest since 1948-01-26.</p>
+
+<p>The next closest super Moon will be in 2034, only four years before
+our UNIX calendars run out of steam.</p>
+
+<p>But how big a deal is this?  And what&rsquo;s really going on?</p>
+
+<!-- More -->
+
+
+<h2>Short version</h2>
+
+<p>If you don&rsquo;t want to dive into the details below, here&rsquo;s the long
+story short.  Every month the Moon is closer and farther from the
+Earth as it follows its elliptical orbit.  Due to the tidal force from
+the Sun, sometimes those distances are a little more extreme than
+others.</p>
+
+<p>The so-called  &ldquo;Super Moon&rdquo; occurs when the full Moon coincides very
+closely with the Moon&rsquo;s closest approach, apogee, to the Earth for the
+year.  But it&rsquo;s really only around 3% larger than any other close
+approach during the year, and these happen every year.  They just
+don&rsquo;t always occur when the Moon is almost exactly full.</p>
+
+<h2>Kepler&rsquo;s first law</h2>
+
+<p>Kepler&rsquo;s first law is that orbits have the shape of an ellipse with
+the primary body at one of the two foci.  In this case the Earth is at
+the focus.  The ellipse means the Moon moves closer to and farther
+away from the Earth as it goes around.  It&rsquo;s closest point is called
+the perigee, and the farthest point is the apogee.</p>
+
+<h2>Sun&rsquo;s tidal forces</h2>
+
+<p>Tidal forces stretch things.  The tidal force due to the Sun&rsquo;s and
+Moon&rsquo;s gravity stretch the Earth&rsquo;s oceans so they have high points and
+low points.  The tidal force of the Sun also stretches the Moon&rsquo;s
+orbit.  When the Sun is in the direction of the long ellipse, the Sun
+stretches it in a longer ellipse.  The extreme distances are even more
+extreme:</p>
+
+<p>apogee = 406,700 km, perigee = 356,400 km.</p>
+
+<p>When the Sun is at right angles to the major axis, the orbit is pulled
+into a less eccentric ellipse and the extremes are reduced.</p>
+
+<p>apogee = 404,000 km, perigee = 370,400 km.</p>
+
+<h2>Monthly motions</h2>
+
+<p>Every month the Moon passes apogee and perigee as it orbits the
+Earth.  In the excellent diagram above from the Wikipedia article on
+the &ldquo;Orbit of the Moon,&rdquo; you can see the varying distance of the
+Moon from the Earth plotted.  The minimum points are the perigee,
+closest, distance.  Each month, when the Moon is at perigee, it will appear
+a bit larger, than when it&rsquo;s farther away.</p>
+
+<p>Notice how the minimum and maximum distances are not as extreme in
+April as they are in August.  That&rsquo;s the Sun&rsquo;s tidal effect.</p>
+
+<p>In this diagram, which was for 2014, it looks like the Moon was closest
+to the Earth in about the second week of August at perigee.</p>
+
+<h2>Moon phases</h2>
+
+<p>The other thing in this diagram is the phase of the Moon.  The
+diagonal lines show the Moon going from new (phase = 0) to full (phase
+= 0.5) and back to new each month.  The vertical lines show when the
+new Moons occur.</p>
+
+<p>What we&rsquo;re really interested in here is the <em>full Moon</em> so it would
+have been nice if there were vertical lines halfway in between the new
+Moons to mark the phase = 0.5 full Moons.</p>
+
+<h2>The big deal</h2>
+
+<p>So now we have all the pieces to understand what the big deal is.
+It&rsquo;s this.  How close does the full Moon come to the closest perigee
+of the year?  Well, it almost never hits it perfectly, but it varies
+from year to year.  In the year in the diagram, it looks like the
+halfway full-Moon point would fall nearly on the mid-August closest
+perigee.</p>
+
+<p>Using the perigee-apogee calculator from below for 2014 we find the
+full Moon hit the closest perigee on 2014-08-10 almost exactly, zero
+hours difference!  The perigee distance was 356,896 km.</p>
+
+<p>In contrast, this year they missed by about 2 hours on 2016-11-14 at a
+distance of 356,511 km.  So the full Moon was off a bit, but the
+closest perigee this year was a bit closer.  Why a bit closer?  It has
+to do with the angle of the Sun to the ellipse of the Moon&rsquo;s orbit.</p>
+
+<h2>But it isn&rsquo;t really</h2>
+
+<p>So that timing of full Moon and closest perigee of the year is what
+it&rsquo;s all about.  But notice that the Moon gets this close every year!
+It&rsquo;s just not necessarily at, or exactly at, the time of the full
+Moon.  Further, the Moon gets almost that close every month!</p>
+
+<p>As we said above, the closet perigee distance is 356,400 km while the
+farthest perigee is 370,400.  That&rsquo;s 3.93% larger from the farthest
+perigee to closest.  That&rsquo;s how much the &ldquo;close&rdquo; Moon varies through
+the year.</p>
+
+<p>So where did the big 14% come from that I kept seeing in all of these
+articles.</p>
+
+<p>That&rsquo;s the difference in size between when the Moon is at apogee vs
+perigee, and that happens every month, two weeks apart.  Actually it&rsquo;s
+about 13.36% when the ellipse is stretched, and about 9.8% when it&rsquo;s
+not.</p>
+
+<p>So again, this happens <em>every</em> month, but just not when the Moon is
+full.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/SuperMoon">Wikipedia &ndash; SuperMoon</a><br /></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Orbit_of_the_Moon">Wikipedia &ndash; Orbit of the Moon</a><br /></p>
+
+<p><a href="https://www.fourmilab.ch/Earthview/Moon_ap_per.html">Inconstant Moon</a><br /></p>
+
+<p><a href="https://www.fourmilab.ch/Earthview/pacalc.html">Perigee Apogee Calculator</a><br /></p>
+
+<h2>Image credit</h2>
+
+<p>Distance and Moon phases in 2014, calculated using algorithms from:
+Jean Meeus, Astronomical algorithms, Willmann-Bell, Richmond,
+Virginia, 1991 Jean Meeus, Astronomical formulae for calculators,
+Willmann-Bell, Richmond, Virginia, 1988. Moon phases: 0 (1) &ndash; new Moon
+0.25 &ndash; first quarter 0.5 &ndash; full Moon 0.75 &ndash; last quarter</p>
+
+<p>CC BY-SA 3.0</p>
+
+<p>by Darekk2.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Five Classic Telescopes]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/14/five-classic-telescopes/"/>
+    <updated>2016-11-14T23:51:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/14/five-classic-telescopes</id>
+    <content type="html"><![CDATA[<p>Brian Ventrudo writes about five classic telescopes in this article on
+the <em>One-Minute Astronomer</em> blog.  Here&rsquo;s my own experience with these
+instruments.</p>
+
+<!-- More -->
+
+
+<h2>Unitron</h2>
+
+<p>We had a 2.4 at the museum observatory and it was a
+beautiful and delightful telescope.  I used it to observe, visually
+via projection, the 1984 annular solar eclipse when I saw the Sun&rsquo;s
+corona.</p>
+
+<h2>Questar</h2>
+
+<p>These portable little 3.5-inch Maksutovs were the beautiful jewels of
+astronomy.  My planetarium and astronomical mentor, Mike Hood, has
+collected Questars over the years.</p>
+
+<h2>Celestron</h2>
+
+<p>The leading Schmidt-Cassegrain brand ruled over our observatory.  We
+had a 10-inch model identical to the one in Ventrudo&rsquo;s article.  It
+was mounted on a permanent pier on the observatory floor.  There was
+also the 14-in Celestron and two 8-inch models which I hauled around
+to do observing programs.  I observed a large portion of the Messier
+catalog on those 8-inches.</p>
+
+<h2>RV-6 Dynascope</h2>
+
+<p>The classic Criterion 6-in f/8 is a telescope I never owned or used
+but I&rsquo;ve seen and looked through the RV-6.  I think there might have
+been one added to the observatory collection after my time.  This
+telescope and the corresponding Edmund Scientific 6-in f/8 Newtonian,
+were the telescopes I dreamed most about in my early, teen astronomer
+years.</p>
+
+<h2>Coulter Dobs</h2>
+
+<p>Dobsonian telescopes, which came to light around the turn of the
+decade to 1980, changed amateur astronomy.  Large apertures became
+affordable and usable.  I built my own 10-inch f/4.5 but bought the
+optics from Coulter.</p>
+
+<p><a href="http://oneminuteastronomer.com/918/5-classic-telescopes/">5 Classic Telescopes That Changed Amateur Astronomy</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Japanese Pictures from the Moon]]></title>
@@ -170,27 +370,6 @@ a spur that branches between the Local and Sagittarius spiral arms.</p></blockqu
 <p><a href="http://news.nationalgeographic.com/2016/09/milky-way-local-arm-four-times-bigger-than-expected/">Our Part of the Milky Way Is Four Times Bigger Than We Thought</a></p>
 
 <p><a href="http://advances.sciencemag.org/content/2/9/e1600878">The local spiral structure of the Milky Way</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cosmic Distance Ladder]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder/"/>
-    <updated>2016-09-26T06:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/cosmic-distance-ladder</id>
-    <content type="html"><![CDATA[<p>On Medium: <a href="https://medium.com/starts-with-a-bang/is-the-cosmic-distance-ladder-flawed-d4d6dc8b4ce5?source=userActivityShare-c61a82880cfd%E2%80%931474882244">Is the Cosmic Distance Ladder Flawed?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pictures of Telescopes by Telescopes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes/"/>
-    <updated>2016-09-23T23:23:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/pictures-of-telescopes-by-telescopes</id>
-    <content type="html"><![CDATA[<p>This outstanding article by Emily Gilbert in Medium shows pictures of
-observatories made from orbiting telescopes.</p>
-
-<p><a href="https://medium.com/planet-stories/pictures-of-telescopes-by-telescopes-ed0d2bf387c1#.lb1abjpwi">Pictures of Telescopes by Telescopes</a></p>
 ]]></content>
   </entry>
   

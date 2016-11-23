@@ -4,7 +4,7 @@
   <title><![CDATA[Category: space | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/space/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-01T00:31:56-04:00</updated>
+  <updated>2016-11-23T02:12:16-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GOES-R Weather Satellite]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite/"/>
+    <updated>2016-11-23T00:47:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite</id>
+    <content type="html"><![CDATA[<p>&ldquo;A new environmental-monitoring satellite poised to launch into space
+on Saturday (Nov. 19) will fly a lightning mapper higher than ever
+before, allowing for better severe-storm monitoring across the United
+States and in nearby regions, NASA officials said.&rdquo;</p>
+
+<p>from Elizabeth Howell on Space.com.</p>
+
+<!-- More -->
+
+
+<blockquote><p>The GOES-R instrument, called the Geostationary Lightning Mapper, is
+supposed to watch lightning around the Americas and nearby oceans to a
+resolution of about 6.2 miles (10 kilometers).</p>
+
+<p>An advanced baseline imager&hellip;will look at Earth in 16 different
+spectral bands (11 more than the current GOES series) to provide
+information on weather, climate and natural hazards.</p>
+
+<p>The satellite will monitor solar flares— and the influence of the
+sun&rsquo;s electromagnetic radiation in the Earth&rsquo;s upper atmosphere —
+using the Extreme Ultraviolet and X-ray Irradiance Sensors. GOES-R
+will also carry a telescope that can monitor the sun in extreme
+ultraviolet wavelengths.</p>
+
+<p>During solar events, GOES-R will predict the flux of charged particles
+near Earth, using the Space Environment In-Situ Suite instrument and a
+magnetometer.</p>
+
+<p>GOES-R will be renamed GOES-16 when it goes to geostationary
+orbit. The satellite will do a checkout and validation phase of about
+one year, and then will begin operations.</p></blockquote>
+
+<p>From the NOAA.gov page.</p>
+
+<blockquote><p>GOES-R will scan the skies five times faster than today’s GOES
+spacecraft, with four times greater image resolution and three times
+the spectral channels. It will provide high-resolution, rapid-refresh
+satellite imagery as often as every 30 seconds, allowing for a more
+detailed look at a storm to determine whether it is growing or decaying.</p>
+
+<p>There are four satellites in the GOES-R series: –R, –S, –T and –U,
+which will extend NOAA’s geostationary coverage through 2036.</p></blockquote>
+
+<p><a href="http://www.space.com/34764-goes-r-satellite-tracks-lightning-and-more.html">Powerful GOES-R Satellite to Map Earth&rsquo;s Lightning and Much More</a><br /></p>
+
+<p><a href="http://www.goes-r.gov">NOAA/NASA GOES-R</a><br /></p>
+
+<p><a href="http://www.goes-r.gov/spacesegment/instruments.html">Instruments Overview</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CisLunar 1000]]></title>
@@ -146,17 +202,6 @@ back down onto its launch pad.</p>
 loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
 Corporation of Dulles, Virginia, to build confidence in its ability to
 supply ISS cargo services to NASA.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fascinating Satellite Images]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/26/fascinating-satellite-images/"/>
-    <updated>2014-10-26T11:18:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/26/fascinating-satellite-images</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 16</a></p>
-
-<p>From <a href="http://www.businessinsider.com/striking-satellite-images-2014-10">Business Insider</a>.</p>
 ]]></content>
   </entry>
   

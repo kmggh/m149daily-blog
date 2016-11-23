@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-01T00:31:56-04:00</updated>
+  <updated>2016-11-23T02:12:16-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How it Feels to Learn Javascript]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/how-it-feels-to-learn-javascript/"/>
+    <updated>2016-11-15T00:08:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/how-it-feels-to-learn-javascript</id>
+    <content type="html"><![CDATA[<p>This article on Hacker Noon sounds too real.   It&rsquo;s depressing because
+it&rsquo;s true.</p>
+
+<p><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.vs20xmt4q">How it feels to learn JavaScript in 2016</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You Might Not Need Javascript ]]></title>
@@ -64,82 +76,6 @@ The Story of Squeak, A Practical Smalltalk Written in Itself</p>
     <updated>2016-09-26T06:41:00-04:00</updated>
     <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/appropriate-uses-for-sqlite</id>
     <content type="html"><![CDATA[<p>From sqlite.org, <a href="https://sqlite.org/whentouse.html">Appropriate Uses For SQLite</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[No Microservices?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices/"/>
-    <updated>2016-09-23T23:02:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/23/no-microservices</id>
-    <content type="html"><![CDATA[<p>An article titled &ldquo;Microservices – Please, don’t&rdquo; caught my eye, but I
-think the author has it wrong.  It&rsquo;s true we&rsquo;ve been using the micro
-service approach at work, building REST/JSON servers to provice APIs,
-and I have been questioning whether this is the best approach.</p>
-
-<!-- More -->
-
-
-<p>This author says that these are &ldquo;truths&rdquo; &ldquo;that people believe about
-this approach&hellip;.&rdquo;</p>
-
-<ol>
-<li>It keeps the code cleaner</li>
-<li>It’s easy to write things that only have one purpose</li>
-<li>They’re faster than monoliths</li>
-<li>It’s easy for engineers to not all work in the same codebase</li>
-<li>It’s the simplest way to handle autoscaling, plus Docker is in here somewhere</li>
-</ol>
-
-
-<p>None of these have ever been my motivation for micro services.   I
-never thought 1. was the case.  Clean code is the result of good style
-and discipline, and readability in writing code.</p>
-
-<p>Similarly, I&rsquo;m not sure what 2. has to do with micro services.  I can
-write modules, objects, or functions that have only one purpose.</p>
-
-<p>I never thought 3. was true but actually the opposite.  We&rsquo;re
-replacing a local function call with a network transaction.</p>
-
-<p>Similarly, 4. is also just not true.  Whether micro services are in
-the picture or not, I take it as a given that code is properly divided
-into reasonable components with well-defined interfaces and that are
-loosely coupled.</p>
-
-<p>I doubt that 5. is true, but it might be.  Scale has never been a
-consideration in my thinking about micro services.</p>
-
-<p>Here are some reasons that have been part of my thought process.</p>
-
-<ol>
-<li><p>The API is language independent.  A program written in Java can
-send an HTTP request as easily as a Python program, or a program in
-any other language can.</p></li>
-<li><p>The API is easy to test with something as simple as curl.</p></li>
-<li><p>The API and HTTP request can cross network boundaries and into
-different security domains, if permission is set up.</p></li>
-<li><p>If a component needs to be recompiled, the micro services don&rsquo;t
-need to be recompiled.</p></li>
-<li><p>The micro service can be updated independently of the using code and
-the clients all get the update immediately and with no changes.</p></li>
-</ol>
-
-
-<p>There are downsides I have worried about, though.  They include
-standing up and maintaining so many services along with a lot of extra
-network traffic.  It&rsquo;s also true that a well written library module is
-easier to use and test in many ways.  The recompiling is not
-necessarily a large cost.</p>
-
-<p>On a very recent project at work, we went back to using libraries for
-all of the application layers and components.  It&rsquo;s nice not to have
-to stand up those services, but I&rsquo;ll find out if I miss some of those
-advantages of the micro services.</p>
-
-<h2>References</h2>
-
-<p><a href="http://basho.com/posts/technical/microservices-please-dont/">Microservices – Please, don’t</a></p>
 ]]></content>
   </entry>
   

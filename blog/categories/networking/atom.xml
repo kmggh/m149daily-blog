@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: networking | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/networking/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-11-23T02:12:16-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The IOT Answer is the Hub]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/the-iot-answer-is-the-hub/"/>
+    <updated>2016-11-15T00:11:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/the-iot-answer-is-the-hub</id>
+    <content type="html"><![CDATA[<p>Steve Gibson said this on a recent episode of <em>Security Now</em>.  He
+says, the solution to the IOT security problem is the hub.</p>
+
+<!-- More -->
+
+
+<p>He goes on to point out that all IOT (Internet of things) devices
+should connect to a single device in your home that responsibly
+handles the communications and security.</p>
+
+<p>Recently, poorly secured, home IOT devices have been credited with
+being the medium for massive scale denial of service (DOS) attacks
+against well-known web sites.  The flood of cheap and inexpensive
+devices like home cameras, wifi-enabled light bulbs, into homes with
+very fast outbound network connections have enabled a huge force that
+can be used that want to engage in digital vandalism to those who want
+to bring a site under a full attack.</p>
+
+<p><a href="https://www.grc.com/securitynow.htm">Security Now at GRC.com</a><br />
+<a href="https://twit.tv/shows/security-now">Security Now at twit.tv</a><br /></p>
+]]></content>
+  </entry>
+  
+</feed>

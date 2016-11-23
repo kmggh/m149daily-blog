@@ -4,7 +4,7 @@
   <title><![CDATA[Category: weather | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/weather/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-01T00:31:56-04:00</updated>
+  <updated>2016-11-23T02:12:16-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Drought Update]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/drought-update/"/>
+    <updated>2016-11-23T00:59:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/drought-update</id>
+    <content type="html"><![CDATA[<p>Even though his coverage is centered on Birmingham, Alabama, James
+Spann&rsquo;s weather coverage is outstanding.  Here&rsquo;s his latest excellent
+drought update.</p>
+
+<p><a href="http://www.alabamawx.com/?p=107628">Drought Update – November 20</a><br /></p>
+
+<!-- More -->
+
+
+<blockquote><p>Droughts don’t start suddenly, and don’t end quickly either. It will
+take multiple long, soaking rain events for us to dig out of this. It
+will happen, but it takes time.</p>
+
+<p>In some cases, short term droughts turn into long term
+droughts. Alabama has had five major long term droughts since record
+keeping began: 1929-32, 1938-45, 1950-63, 1980-82, and 1984-88. No
+evidence this happens now, but it can’t be ruled out completely.</p></blockquote>
+
+<p><a href="http://www.alabamawx.com">Alabama WX Weather Blog</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GOES-R Weather Satellite]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite/"/>
+    <updated>2016-11-23T00:47:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite</id>
+    <content type="html"><![CDATA[<p>&ldquo;A new environmental-monitoring satellite poised to launch into space
+on Saturday (Nov. 19) will fly a lightning mapper higher than ever
+before, allowing for better severe-storm monitoring across the United
+States and in nearby regions, NASA officials said.&rdquo;</p>
+
+<p>from Elizabeth Howell on Space.com.</p>
+
+<!-- More -->
+
+
+<blockquote><p>The GOES-R instrument, called the Geostationary Lightning Mapper, is
+supposed to watch lightning around the Americas and nearby oceans to a
+resolution of about 6.2 miles (10 kilometers).</p>
+
+<p>An advanced baseline imager&hellip;will look at Earth in 16 different
+spectral bands (11 more than the current GOES series) to provide
+information on weather, climate and natural hazards.</p>
+
+<p>The satellite will monitor solar flares— and the influence of the
+sun&rsquo;s electromagnetic radiation in the Earth&rsquo;s upper atmosphere —
+using the Extreme Ultraviolet and X-ray Irradiance Sensors. GOES-R
+will also carry a telescope that can monitor the sun in extreme
+ultraviolet wavelengths.</p>
+
+<p>During solar events, GOES-R will predict the flux of charged particles
+near Earth, using the Space Environment In-Situ Suite instrument and a
+magnetometer.</p>
+
+<p>GOES-R will be renamed GOES-16 when it goes to geostationary
+orbit. The satellite will do a checkout and validation phase of about
+one year, and then will begin operations.</p></blockquote>
+
+<p>From the NOAA.gov page.</p>
+
+<blockquote><p>GOES-R will scan the skies five times faster than today’s GOES
+spacecraft, with four times greater image resolution and three times
+the spectral channels. It will provide high-resolution, rapid-refresh
+satellite imagery as often as every 30 seconds, allowing for a more
+detailed look at a storm to determine whether it is growing or decaying.</p>
+
+<p>There are four satellites in the GOES-R series: –R, –S, –T and –U,
+which will extend NOAA’s geostationary coverage through 2036.</p></blockquote>
+
+<p><a href="http://www.space.com/34764-goes-r-satellite-tracks-lightning-and-more.html">Powerful GOES-R Satellite to Map Earth&rsquo;s Lightning and Much More</a><br /></p>
+
+<p><a href="http://www.goes-r.gov">NOAA/NASA GOES-R</a><br /></p>
+
+<p><a href="http://www.goes-r.gov/spacesegment/instruments.html">Instruments Overview</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GeorgiaWeather.net]]></title>
@@ -68,46 +151,6 @@ immediately and disseminated via the world wide web.</p></blockquote>
 <p>Via <a href="https://twitter.com/USWeatherExpert/status/345222835515559937">@USWeatherExpert</a></p>
 
 <p>At <a href="http://meteorologicalmusings.blogspot.com/2013/06/updated-tornado-and-severe-thunderstorm.html?spref=tw">Mike Smith Enterprises Blog: Updated Tornado and Severe Thunderstorm Forecast</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Significant Severe Weather Threat today]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today/"/>
-    <updated>2013-06-13T12:42:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/13/significant-severe-weather-threat-today</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/20130613wx.png" title="" ></p>
-
-<p>Via <a href="https://twitter.com/wxbrad/status/345216731297492994">@wxbrad</a> in NC.
-Be watchful in GA.</p>
-
-<p><a href="http://youtu.be/dmOH6gUp_KI">Video</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[O2 from the Ocean?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean/"/>
-    <updated>2013-06-08T12:01:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/08/o2-from-the-ocean</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/postimages/745225main_image04292013_250m_1024-768.jpg"></p>
-
-<p>From <a href="https://twitter.com/earthskyscience/status/343396224805777409">@earthskyscience</a></p>
-
-<p><a href="http://earthsky.org/earth/how-much-do-oceans-add-to-worlds-oxygen">How much do oceans add to world’s oxygen?</a></p>
-
-<blockquote><p>Scientists agree that there’s oxygen from ocean plants in every breath
-we take. Most of this oxygen comes from tiny ocean plants – called
-phytoplankton – that live near the water’s surface and drift with the
-currents. Like all plants, they photosynthesize – that is, they use
-sunlight and carbon dioxide to make food. A byproduct of
-photosynthesis is oxygen.</p>
-
-<p>Scientists believe that phytoplankton contribute between 50 to 85
-percent of the oxygen in Earth’s atmosphere. They aren’t sure because
-it’s a tough thing to calculate.</p></blockquote>
-
-<p><em>Image credit: <a href="http://www.nasa.gov/multimedia/imagegallery/image_feature_2499.html">NASA GFSC</a></em></p>
 ]]></content>
   </entry>
   
