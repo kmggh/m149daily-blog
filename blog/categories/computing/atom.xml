@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-23T02:12:16-05:00</updated>
+  <updated>2016-12-20T15:19:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[USENIX Computing Systems]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems/"/>
+    <updated>2016-12-20T15:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems</id>
+    <content type="html"><![CDATA[<p>For many years I received the USENIX &ldquo;Computing Systems&rdquo; journal and
+recently, when doing I search, I discovered the entire archive is
+on-line.</p>
+
+<p><a href="https://www.usenix.org/publications/compsystems/computing-systems">Computing Systems</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Color Gamut]]></title>
@@ -130,51 +143,6 @@ undesired situations.</p></blockquote>
 <a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
 <a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
 <a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Counterfeit Apple Cables from Amazon]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon/"/>
-    <updated>2016-10-23T07:11:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/counterfeit-apple-cables-from-amazon</id>
-    <content type="html"><![CDATA[<p>This is why I only buy Lightning cables, chargers and batteries for
-Apple products from the Apple Store.  It&rsquo;s just too risky to buy them
-anywhere else.</p>
-
-<!-- More -->
-
-
-<p>It&rsquo;s been known for a long time that cheaply made Lithium Ion
-batteries are very dangerous and will short, catch fire and burn.  Now
-Samsung has made this abundantly clear.</p>
-
-<p>Ben Lovejoy of <em>9to5 Mac</em> writes &ldquo;More than 90% of &lsquo;genuine&rsquo; Apple
-chargers &amp; cables sold on Amazon are fake, says Apple.&rdquo;</p>
-
-<blockquote><p>There’s no shortage of third-party chargers and cables sold for Apple
-equipment, some of them claiming to be the genuine article, but Apple
-has found that even Amazon has been selling counterfeit products
-labelled as the real thing. The products concerned were sold by Amazon
-directly, and not by a third-party Marketplace seller.</p>
-
-<p>The items have now been removed from sale, and Apple is suing the
-company that made them …</p></blockquote>
-
-<p>Amazon responded.</p>
-
-<blockquote><p>Amazon responded, stating that the company ‘has zero tolerance for the
-sale of counterfeits on our site.  We work closely with manufacturers
-and brands, and pursue wrongdoers aggressively.’</p>
-
-<p>Given the number of fake Apple products available, we always urge
-caution where the price is significantly lower than the official
-price. This is especially true in the case of MagSafe power supplies,
-where any price lower than available from authorized resellers is an
-immediate warning flag.</p></blockquote>
-
-<p><a href="https://9to5mac.com/2016/10/19/amazon-fake-apple-chargers-cables/">Article at 9to5 Mac</a><br />
-<a href="http://www.patentlyapple.com/patently-apple/2016/10/apple-sues-mobile-star-for-selling-counterfeit-power-adapters-and-charging-cables-through-amazon.html">Patently Apple</a><br /></p>
 ]]></content>
   </entry>
   

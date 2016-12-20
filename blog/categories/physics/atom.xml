@@ -4,7 +4,7 @@
   <title><![CDATA[Category: physics | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/physics/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-23T02:12:16-05:00</updated>
+  <updated>2016-12-20T15:19:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hyperfine Spectrum of Antimatter H]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/hyperfine-spectrum-of-antimatter-h/"/>
+    <updated>2016-12-20T14:40:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/hyperfine-spectrum-of-antimatter-h</id>
+    <content type="html"><![CDATA[<p>From phys.org,</p>
+
+<p>&ldquo;In a paper published today in the journal Nature, the ALPHA
+collaboration reports the first ever measurement on the optical
+spectrum of an antimatter atom.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>&ldquo;Today&rsquo;s ALPHA result is the first observation of a spectral line in
+an antihydrogen atom, allowing the light spectrum of matter and
+antimatter to be compared for the first time. Within experimental
+limits, the result shows no difference compared to the equivalent
+spectral line in hydrogen. This is consistent with the Standard Model
+of particle physics, the theory that best describes particles and the
+forces at work between them, which predicts that hydrogen and
+antihydrogen should have identical spectroscopic characteristics.&rdquo;</p>
+
+<p><a href="http://phys.org/news/2016-12-alpha-spectrum-antimatter.html">ALPHA observes light spectrum of antimatter for first time</a><br /></p>
+
+<p><a href="http://phys.org/news/2014-01-cern-antihydrogen-atoms-hyperfine.html">CERN experiment produces first beam of antihydrogen atoms for
+hyperfine study</a><br /></p>
+
+<p><a href="http://www.nature.com/nature/journal/vaap/ncurrent/full/nature21040.html">Observation of the 1S–2S transition in trapped antihydrogen</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LIGO and the GW150914 Discovery]]></title>
@@ -96,32 +128,6 @@ other nuclides produced as they decay.</p></blockquote>
     <updated>2016-01-08T21:30:00-05:00</updated>
     <id>http://kmggh.github.io/m149daily-blog//blog/2016/01/08/atomic-energy-toys-from-the-50s</id>
     <content type="html"><![CDATA[<p><a href="http://www.orau.org/PTP/collection/atomictoys/GilbertU238Lab.htm">Gilbert U-238 Atomic Energy Lab (1950-1951)</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kilogram Conflict Resolved at Last]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last/"/>
-    <updated>2015-10-14T00:39:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2015/10/14/kilogram-conflict-resolved-at-last</id>
-    <content type="html"><![CDATA[<blockquote><p>For decades, metrologists have strived to retire ‘Le Grand K’ — the
-platinum and iridium cylinder that for 126 years has defined the
-kilogram from a high-security vault outside Paris. Now it looks as if
-they at last have the data needed to replace the cylinder with a
-definition based on mathematical constants.</p></blockquote>
-
-<p>&hellip;</p>
-
-<blockquote><p>One method, pioneered by an international team known as the Avogadro
-Project, involves counting the atoms in two silicon-28 spheres that
-each weigh the same as the reference kilogram. This allows them to
-calculate a value for Avogadro’s constant, which the researchers
-convert into a value for Planck’s constant. Another method uses a
-device called a watt balance to produce a value for Planck’s constant
-by weighing a test mass calibrated according to the reference kilogram
-against an eletromagnetic force.</p></blockquote>
-
-<p><a href="http://www.nature.com/news/kilogram-conflict-resolved-at-last-1.18550">Kilogram Conflict Resolved at Last</a></p>
 ]]></content>
   </entry>
   

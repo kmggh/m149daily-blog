@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-23T02:12:16-05:00</updated>
+  <updated>2016-12-20T15:19:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,160 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flight Gear]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/flight-gear/"/>
+    <updated>2016-12-20T15:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/flight-gear</id>
+    <content type="html"><![CDATA[<p>I just recently learned from Andy Ihnatko on &ldquo;Macbreak Weekly&rdquo; that
+there is an open source flight simulator called &ldquo;Flight Gear.&rdquo;  It
+seems quite capable with many add-ons provided.</p>
+
+<p><a href="http://www.flightgear.org">FlightGear.org</a><br />
+<a href="https://en.wikipedia.org/wiki/FlightGear">FlightGear on Wikipedia</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[USENIX Computing Systems]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems/"/>
+    <updated>2016-12-20T15:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems</id>
+    <content type="html"><![CDATA[<p>For many years I received the USENIX &ldquo;Computing Systems&rdquo; journal and
+recently, when doing I search, I discovered the entire archive is
+on-line.</p>
+
+<p><a href="https://www.usenix.org/publications/compsystems/computing-systems">Computing Systems</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NASA Made a Fundamental Mistake]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/nasa-made-a-fundamental-mistake/"/>
+    <updated>2016-12-20T14:55:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/nasa-made-a-fundamental-mistake</id>
+    <content type="html"><![CDATA[<p>On an ISS Power supply.</p>
+
+<p>&ldquo;The ISS is currently home to&hellip;four 14,000-pound payload-holders
+called ExPRESS Logistics Carriers. Experiments from Earth like the
+laser-communicator OPALS fly up to Station and Lego-attach to these
+carriers, which provide them with a place to stay and, just as
+importantly, the electrical power and data links they need to do their
+jobs. But since 2013, scientists sending up payloads have had trouble
+with the on-orbit utility grid.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>&ldquo;Right now, experiments need special power converters if they want to
+hook up with the carriers. And that’s because NASA made a mistake:
+Inside the carriers, some capacitors were installed incorrectly. &hellip;in
+the part of the carriers that powers payloads, engineers installed
+some capacitors backward.&rdquo;</p>
+
+<p>&ldquo;In designing the carrier, engineers had first planned to use
+capacitors that they could hook in any which way. But then they had
+changed the design, swapping in one-way capacitors. In between, no one
+had updated the blueprints. And so the circuit makers had made the
+circuits exactly as instructed, not paying attention to which way the
+capacitors faced. All four on-orbit carriers and the in-space spare
+turned out to have the same problem.&rdquo;</p>
+
+<p><a href="https://www.wired.com/2016/12/nasa-made-really-dumb-mistake-iss-power-supply/">NASA’s Power Supply Mistake on the ISS Was Totally Avoidable</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crash Course in Astronomy]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/crash-course-in-astronomy/"/>
+    <updated>2016-12-20T14:49:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/crash-course-in-astronomy</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m not always a fan of Phil Plait, but he usually does an outstanding
+job of explaining astronomy.  This course on Youtube of bite-sized
+topics are quite well done.</p>
+
+<!-- More -->
+
+
+<p>I&rsquo;m also not a fan of cramming all of Phil&rsquo;s statments together in a
+packed video.  It&rsquo;s frenetic and wears on me after a bit but, taken in
+small doses, the content is good and the editing is bearable.</p>
+
+<p><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL">Crash Course Astronomy</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hyperfine Spectrum of Antimatter H]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/hyperfine-spectrum-of-antimatter-h/"/>
+    <updated>2016-12-20T14:40:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/hyperfine-spectrum-of-antimatter-h</id>
+    <content type="html"><![CDATA[<p>From phys.org,</p>
+
+<p>&ldquo;In a paper published today in the journal Nature, the ALPHA
+collaboration reports the first ever measurement on the optical
+spectrum of an antimatter atom.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>&ldquo;Today&rsquo;s ALPHA result is the first observation of a spectral line in
+an antihydrogen atom, allowing the light spectrum of matter and
+antimatter to be compared for the first time. Within experimental
+limits, the result shows no difference compared to the equivalent
+spectral line in hydrogen. This is consistent with the Standard Model
+of particle physics, the theory that best describes particles and the
+forces at work between them, which predicts that hydrogen and
+antihydrogen should have identical spectroscopic characteristics.&rdquo;</p>
+
+<p><a href="http://phys.org/news/2016-12-alpha-spectrum-antimatter.html">ALPHA observes light spectrum of antimatter for first time</a><br /></p>
+
+<p><a href="http://phys.org/news/2014-01-cern-antihydrogen-atoms-hyperfine.html">CERN experiment produces first beam of antihydrogen atoms for
+hyperfine study</a><br /></p>
+
+<p><a href="http://www.nature.com/nature/journal/vaap/ncurrent/full/nature21040.html">Observation of the 1S–2S transition in trapped antihydrogen</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Oracle Is Collecting Java Charges]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/oracle-is-collecting-java-charges/"/>
+    <updated>2016-12-20T14:32:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/oracle-is-collecting-java-charges</id>
+    <content type="html"><![CDATA[<p>This doesn&rsquo;t really apply to personal use of Java but mainly if you
+develop and sell something.  (As far as I understand it).  The
+Register says,</p>
+
+<blockquote><p>Oracle is massively ramping up audits of Java customers it claims are
+in breach of its licences – six years after it bought Sun
+Microsystems.</p></blockquote>
+
+<!-- More -->
+
+
+<blockquote><p>A growing number of Oracle customers and partners have been approached
+by Larry Ellison’s firm, which claims they are out of compliance on Java.</p>
+
+<p>Java SE is free but Java SE Advanced Desktop, Advanced and Suite are
+not. Java SE Suite, for example, costs $300 per named user with a
+support bill of $66; there’s a per-processor option of $15,000 with a
+$3,300 support bill. Java SE comes with the free JDK and JRE, but
+Advanced Desktop, Advanced and Suite layer in additional capabilities
+such as Java Mission Control and Flight Recorder also known as JRockit
+Mission Control and JRockit Flight Recorder.</p>
+
+<p>Java SE is free for what Oracle defines as &ldquo;general purpose computing&rdquo;
+– devices that in the words of its licence cover desktops, notebooks,
+smartphones and tablets. It is not free for what Oracle’s licence
+defines as &ldquo;specialized embedded computers used in intelligent
+systems&rdquo;, which Oracle further defines as &ndash; among other things &ndash;
+mobile phones, hand-held devices, networking switches and Blu-Ray players.</p></blockquote>
+
+<p><a href="http://www.theregister.co.uk/2016/12/16/oracle_targets_java_users_non_compliance?mt=1481991081793">Oracle finally targets Java non-payers – six years after plucking Sun</a><br />
+<a href="https://java.com/en/">Java.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Color Gamut]]></title>
@@ -567,498 +721,6 @@ immediate warning flag.</p></blockquote>
 
 <p><a href="https://9to5mac.com/2016/10/19/amazon-fake-apple-chargers-cables/">Article at 9to5 Mac</a><br />
 <a href="http://www.patentlyapple.com/patently-apple/2016/10/apple-sues-mobile-star-for-selling-counterfeit-power-adapters-and-charging-cables-through-amazon.html">Patently Apple</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[So Long Leo Beranek]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek/"/>
-    <updated>2016-10-23T06:54:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/so-long-leo-beranek</id>
-    <content type="html"><![CDATA[<p>&ldquo;Leo Leroy Beranek (September 15, 1914 – October 10, 2016) was an
-American acoustics expert, former MIT professor, and a founder and
-former president of Bolt, Beranek and Newman (now BBN Technologies).&rdquo;
-from Wikipedia.</p>
-
-<!-- More -->
-
-
-<blockquote><p>In 1969, the company he helped found, Bolt, Beranek &amp; Newman, won a
-contract from the Defense Department’s Advanced Research Projects
-Agency to build the first computer-based network, which came to be
-called Arpanet.</p>
-
-<p>By demonstrating the ability to share data and messages through vast
-computer networks, Arpanet, a product of government-sponsored
-research, paved the way for the creation of the internet. Among its
-many breakthrough achievements, his company sent the first email
-message that used the @ symbol, in 1972.</p></blockquote>
-
-<p>from The New York Times article &ldquo;Leo Beranek, Acoustics Designer and
-Internet Pioneer, Dies at 102&rdquo; by Glenn Rifkin, The New York Times, 2016-10-17.</p>
-
-<p><a href="http://www.nytimes.com/2016/10/18/business/leo-beranek-dead.html">Leo Beranek, Acoustics Designer and Internet Pioneer, Dies at 102</a><br />
-<a href="https://en.wikipedia.org/wiki/BBN_Technologies">BBN Technologies</a><br />
-<a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a><br />
-<a href="https://en.wikipedia.org/wiki/History_of_the_Internet">History of the Internet</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CisLunar 1000]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/17/cislunar-1000/"/>
-    <updated>2016-10-17T04:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/17/cislunar-1000</id>
-    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of talk about space exploration and development.
-Here&rsquo;s a slightly more practical sounding vision from the United
-Launch Alliance (ULA).</p>
-
-<!-- More -->
-
-
-<p>If you&rsquo;re not familiar with ULA, it&rsquo;s &ldquo;a
-joint venture of Lockheed Martin Space Systems and Boeing Defense,
-Space &amp; Security. ULA was formed in December 2006 by combining the
-teams at these companies which provide spacecraft launch services to
-the government of the United States. U.S. government launch customers
-include both the Department of Defense and NASA, as well as other
-organizations. With ULA, Lockheed and Boeing held a monopoly on
-military launches for more than a decade, until the US Air Force
-awarded a GPS satellite contract to SpaceX in 2016.&rdquo;  That&rsquo;s a quote
-from Wikipedia.</p>
-
-<p>With all of the talk lately about going to Mars, particularly after
-Elon Musk&rsquo;s recent presentation of his Life to Mars vision, I&rsquo;ve been
-giving some thought to what I really think about space travel in the
-near future.  I&rsquo;ll write that up soon.  In the mean time, this
-video seems to ring a bit more in tune with my off the cuff, poorly
-informed, guesses.</p>
-
-<p><a href="https://youtu.be/uxftPmpt7aA">ULA Innovation: CisLunar-1000</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/United_Launch_Alliance">United Launch Alliance</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Security Basics]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/16/security-tips/"/>
-    <updated>2016-10-16T15:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/16/security-tips</id>
-    <content type="html"><![CDATA[<p>The information world is a dangerous place these days.  You can lose
-everything in an instant.  There&rsquo;s more at stake.  The biggest one is
-probably your personal and family pictures.  The next is personal
-financial and other important information, documents, etc.  I don&rsquo;t
-know if it&rsquo;s any more dangerous but more of us have more important
-information stored on our computers and other devices.</p>
-
-<p>Here&rsquo;s my own list of the basics.  There&rsquo;s nothing original here.  You
-should hear about the same thing from any security or IT professional.</p>
-
-<!-- More -->
-
-
-<h2>Summary</h2>
-
-<ul>
-<li>Don&rsquo;t open links and attachments in email, messages</li>
-<li>Keep systems and apps, everything, updated</li>
-<li>Keep Internet browsing on Main Street</li>
-<li>Make backups, 3, 2, 1 (three copies, two media, one off site)</li>
-<li>Use Google Chrome</li>
-<li>Use Gmail</li>
-<li>Use a password manager like LastPass or 1Password</li>
-<li>Never install something you weren&rsquo;t looking for</li>
-</ul>
-
-
-<h2>The Basics</h2>
-
-<h3>Don&rsquo;t open links and attachments in email, messages</h3>
-
-<p>This is one of the biggest threats today.  You click a link and
-download an attachment and you&rsquo;ve given malware, an attacking computer
-program, access to <em>your</em> computer.  Fortunately most of our systems
-today are secure enough that they can&rsquo;t be compromised unless you take
-the action yourself so the game is to trick you into running the
-evil code.  Sending you email that looks like a legitimate, important
-message from your bank or the IRS, or maybe telling you you&rsquo;ve won
-something or have an important message, maybe an unpaid bill.</p>
-
-<p>If the message is from a bank or some institution or business, see if
-you can get to the same information by going to their web site on your
-own, not by clicking in the email, and finding what they&rsquo;re talking
-about.  If nothing else, call them.</p>
-
-<p>If it&rsquo;s from a family member, text them or call them and ask if they
-sent it to you and if they&rsquo;re sure it&rsquo;s okay.</p>
-
-<p>Many of the largest company security breaches in recent news have been
-the result of finally tricking an employee to click on something in an
-email message.</p>
-
-<h3>Keep systems and apps, everything, updated</h3>
-
-<p>All software and, in fact, most hardware, is updated regularly.  These
-updates are important.  Many people are working hard to find and fix
-bugs that could expose you to attack.   On Windows, Mac OS, and Linux,
-you should turn on automatic updates so your system is updated on a
-regular basis.</p>
-
-<h3>Keep Internet browsing on Main Street</h3>
-
-<p>This means stick to well known and reputable sites: people,
-businesses, destinations.  Don&rsquo;t go down the side streets of the
-Internet and definitely don&rsquo;t stray into any dark alleys.  As in real
-life, it only leads to trouble.</p>
-
-<h2>Make backups, 3, 2, 1</h2>
-
-<p>That means three copies, two media, one off site.  This may be the
-second most important thing you can do, maybe the first.  First, this
-is just basic data stewardship.  It&rsquo;s gives you the best chance of not
-losing it all.  However, with the recent, dramatic rise in ransom
-ware, backups are even more important.  Ransom ware gets into your
-computer (e.g., by getting you to click a link in email) and encrypts
-all of your files.  Then you have to pay a web site anywhere from $100
-to $1000 for a key to unlock your files.  There&rsquo;s no other way to get
-them back.  However, if you have a recent enough backup then you can
-ignore the ransom ware attackers, wipe your computer clean and
-restore your files.</p>
-
-<p>Here is the simplest way to do this.  Buy a second, external USB hard
-drive which should cost from $60 to $90, attach it to your computer
-and use a program that backs up your files to it nightly.  Then
-subscribe to a service like Carbonite or Back Blaze. They both charge
-about $5 per month.</p>
-
-<h2>Use Google Chrome</h2>
-
-<p>As Internet browsers go, Chrome is the most secure.  This is proven
-often and Chrome was the clear winner at this year&rsquo;s annual &ldquo;Pwn to
-own&rdquo;
-security contest, as it usually is.  Chrome isn&rsquo;t perfect but it will
-help keep you safe.</p>
-
-<h2>Use Gmail</h2>
-
-<p>Gmail is the best email period and it&rsquo;s also very safe and will work
-hard to help keep you secure.  It&rsquo;s also not perfect, though, so you
-still have to follow all of the other guidelines here.  I&rsquo;ve used
-Gmail since it came out in 2004, that&rsquo;s 12 years, and it&rsquo;s sad when I
-hear people talk about email problems and issues that I haven&rsquo;t even
-thought about for those 12 years.</p>
-
-<h2>Use a password manager</h2>
-
-<p>Maybe the two biggest are LastPass and 1Password.  I personally prefer
-LastPass but pretty much everything I say here about LastPass applies
-to 1Password as well.  You put all of your passwords into LastPass for
-everything you use.  If you install it into your browser, it will log
-into sites for you automatically.  Make sure every site has a
-<em>different</em> and <em>long</em> password, at least 25 characters, usually with
-a mixture of upper case, lower case, numerals, and other special
-characters.  Lastpass will make up new passwords for you.  Remember,
-you won&rsquo;t be typing in these passwords.  Lastpass will do that for
-you.</p>
-
-<p>It&rsquo;s a good practice to use a different user name for each site and it
-can also be a random jumble of letters.  Similarly, if you have to
-answer security questions for the site, use a jumble of letters for
-that.  In other words, don&rsquo;t put your mother&rsquo;s maiden name as &ldquo;Smith&rdquo;
-but enter it as &ldquo;GAStiOnOgyRiVEnDETorpoyaL&rdquo;.  Use different answers
-for every site.  Put them in the Notes section of that account on
-LastPass.</p>
-
-<p>There is one important thing:  Lastpass (and 1Password) uses a master
-password to unlock access by you to the rest of your passwords.  You
-should make the master password easy to remember and key in, but also
-be absolutely sure to write it down and store it in a non-obvious,
-very safe place.</p>
-
-<h2>Never install something you weren&rsquo;t looking for</h2>
-
-<p>This is a rule from Steve Gibson of GRC.com and Security Now.  If you
-get a pop up message on your computer that says it&rsquo;s time to install
-an update or something else, don&rsquo;t do it.  It could be fine, but don&rsquo;t
-take the chance.  This is what we mean by &ldquo;something you weren&rsquo;t
-looking for.&rdquo;   Instead of clicking on the popup, go to the actual
-application or go to the web site and see if you can find whatever the
-popup was talking about there.  Maybe go to your system&rsquo;s app store
-and see if there are pending updates there.</p>
-
-<h2>What about virus software?</h2>
-
-<p>Did you notice I didn&rsquo;t mention virus software or anything to remove
-adware or malware.  Those days are pretty much over.  The types of
-attacks and the real problems usually aren&rsquo;t viruses any more.  If you
-have Windows, turn on Microsoft&rsquo;s own, built in virus scanning.  It&rsquo;s
-sufficient and free.  You definitely don&rsquo;t need anything scanning your
-email or web connections, especially if you use Chrome and Gmail.</p>
-
-<p>I do use ad blocking software, Ghostery on the desktop.  I&rsquo;m not
-qualified to recommend which ad blocking software is best right now.
-Anyway, ad blocking is more about avoiding browsing nuisances of ads
-covering a web page you&rsquo;re trying to read and are not so much a
-security matter.</p>
-
-<h2>Next</h2>
-
-<p>I&rsquo;ll soon follow up with part 2, Bonus Tips.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Pocket Computer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/16/a-pocket-computer/"/>
-    <updated>2016-10-16T06:20:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/16/a-pocket-computer</id>
-    <content type="html"><![CDATA[<p><em>This is a re-post of a blog post I wrote on 2004-08-31 17:48 on
-Monolith Daily about an idea of pocket computing that Jim K and I had.
-I&rsquo;ve made a couple of minor grammatical corrections.</em></p>
-
-<!-- More -->
-
-
-<h2>Computing in the Future</h2>
-
-<p>One day while walking in a mall, c. 1982, the idea of the tablet
-computer suddenly became very clear to me. It wasn&rsquo;t an original idea,
-I&rsquo;m sure. I wasn&rsquo;t exactly aware of Alan Kaye&rsquo;s ideas at the time, as
-far as I know, but I was always impressed by the newspads in Arthur
-C. Clarke&rsquo;s <em>2001: A Space Odyssey.</em>
-I had the full vision of a notepad-sized computer which would replace
-computers, books, HBO, and a portable music device.</p>
-
-<p><em>[Added Note:  I had read the book</em> The Mote In God&rsquo;s Eye <em>by Larry Niven and
- Jerry Pournelle but didn&rsquo;t remember that it also contained the idea
- of a pocket computer.]</em></p>
-
-<p>In recent years I&rsquo;ve watched DVD movies and digital videos on a laptop
-and I&rsquo;ve seen actual tablets finally come into use by people around me
-in the office.</p>
-
-<p>Today, in a discussion with Jim K, we had another vision that seems to
-be a reasonable direction for computing. Again, I doubt
-this is original and this certainly could be something that we&rsquo;ve read
-somewhere. Some of these ideas have probably floated around Xerox PARC
-for years and even Alvin Toffler, in Future Shock wrote about everyone
-carrying around a little personal computer/information device. (Also I
-know that some of these ideas, particularly about wireless access like
-Blue Tooth, have been around for a while and even implemented.)</p>
-
-<h3>A &ldquo;Pocket Computer,&rdquo; Literally</h3>
-
-<p>Think of the &ldquo;key-chain&rdquo; digital drives that have recently become
-popular. These are little fob-sized devices that plug into a USB port.
-Now, for the maybe-not-so-distant future, imagine a device about that
-size that has a whole computer built into it. This computer has
-memory, a fast CPU and wireless connectivity over a short range (say
-less than a meter or so), similar to Blue Tooth. You can just carry
-this computer around in your pocket.</p>
-
-<h3>The Desktop</h3>
-
-<p>On your desk is simply a keyboard and flat panel. When you sit down at
-your desk, your pocket computer automatically finds and links to your
-keyboard and screen. Voila! You have a desktop computer.</p>
-
-<p>This happens when you walk up to any desk top screen and
-keyboard. (There are appropriate security measures of course, so just
-any device can&rsquo;t grab your system).</p>
-
-<h3>A Laptop?</h3>
-
-<p>Notice there&rsquo;s no need for a laptop. You can carry around a tablet of
-sorts which is just an I/O device (display, pad, and maybe
-keyboard). When you activate this tablet, it links to your pocket
-computer.</p>
-
-<p>The same is true for a PDA. Again, this only needs to be an active I/O
-device.</p>
-
-<p>Add a linkable headset and you have a iPod-like device.</p>
-
-<h3>Really Portable</h3>
-
-<p>You don&rsquo;t have to carry a laptop home. All you do is get up from your
-desk and leave.</p>
-
-<p>When you get home and sit down in front of your desktop
-screen-keyboard-mouse station, your pocket computer links and
-activates it.</p>
-
-<h3>A New Sneakernet</h3>
-
-<p>Though sending output to a printer via the typical, networked way
-still has advantages, imagine printing a document so that it&rsquo;s spooled
-onto your pocket computer. You get up and walk to a printer. Your
-computer finds the printer, links to it and the printer prints your
-pages. (Yeah I know, this is an old idea).</p>
-
-<h3>It&rsquo;s All About Storage</h3>
-
-<p>These pocket devices would primarily be storage devices that just
-happen to have computers grafted onto them because the computers are
-so cheap and tiny, they are inconsequential. If you need more storage,
-you buy a new keychain-sized device and throw it into your pocket. You
-get another computer for free.</p>
-
-<p>With a little direction from you, the new device and old device could
-find each other and either transfer your files to the new one or link
-themselves together into storage/computing array.</p>
-
-<h3>Clusters galore</h3>
-
-<p>Throw several pocket computers in your pocket. They could link
-themselves together into a redundant storage array. Or into a
-computing cluster. Or both simultaneously.</p>
-
-<p>Fill a bucket with them and you have a high-performance computing
-cluster. They decide how to link themselves together in a useful
-topology.</p>
-
-<h3>Backups</h3>
-
-<p>With a pocket computer set up to be a backup device, whenever your
-pocket computer finds this &ldquo;backup buddy,&rdquo; it makes copies of all
-changed files. I think I&rsquo;d keep a backup buddy on the dresser and one
-in a desk drawer at the office.</p>
-
-<p>If your pocket device fails, just grab a backup buddy and and it
-becomes your new &ldquo;master.&rdquo;</p>
-
-<h3>ID, Security Badges, Wallets and Keys</h3>
-
-<p>Such pocket computers could fill the roll of smart id badges (doors
-unlock for you automatically because the device identifies you).</p>
-
-<p>They could be your electronic wallet. When you walk out of a store
-with a cart of goods, your pocket computer could check you out and pay
-for you. It could link to a display on the cart so you could confirm
-the purchases and okay the payment.</p>
-
-<p>Your pocket computer could even start your car, and unlock your house.</p>
-
-<p>(It could require some input from you so that just anyone that picks
-it up didn&rsquo;t have access to everything).</p>
-
-<h3>Books</h3>
-
-<p>When you pick up a book reader (if it&rsquo;s different from a tablet), the
-pocket computer would link in to give you access to books it stored.</p>
-
-<h3>Other Media</h3>
-
-<p>To buy media (music, movies, books, software) at a store you just
-select the media you want to buy and they are automatically downloaded
-to your pocket computer. If you buy them on-line, they are downloaded
-to your pocket computer from there.</p>
-
-<h3>On-line Access</h3>
-
-<p>When you are near a network access point, your pocket computer links
-in and connects you to the Internet.</p>
-
-<h3>Your Watch?</h3>
-
-<p>Just a linked display.</p>
-
-<h3>Do You Want to Play a Game?</h3>
-
-<p>Your kid sits down in your room with friends, with your wireless game
-controllers (with displays), and all your pocket computers link
-together in a network. With the right game software, you can all play
-a shared game.
-Software Distribution</p>
-
-<p>Here&rsquo;s one way to do it. This is actually an old idea but with fast
-enough and convenient enough I/O, it might become feasible.</p>
-
-<p>You buy your software on-line and it&rsquo;s stored on a central
-service. Your whole computing environment is virtual and on-line. When
-you want to use a new pocket computer, it links to an on-line access
-point and downloads all of your software. This lets you install your
-software transparently, including moving it to a new pocket device.</p>
-
-<p>You don&rsquo;t have to worry about media or proof of purchase.</p>
-
-<h3>Security Notes</h3>
-
-<p>Of course security for such a device would be critically
-important. You should be able to register devices you allow it to link
-to. This could be a white list and black list approach. Such a device
-could work like a child and ask, &ldquo;Can I link to that device?&rdquo;</p>
-
-<p>&ldquo;No, not that one. That&rsquo;s a stranger.&rdquo;</p>
-
-<p>Or, you could simply say, &ldquo;Don&rsquo;t ask me about linking to anyone
-else. I&rsquo;ll tell you when you can!&rdquo;</p>
-
-<h3>Where do these crazy ideas come from?</h3>
-
-<p>First, computers are shrinking. I don&rsquo;t think anything I&rsquo;ve described
-above needs more CPU power and memory than we have today. If computer
-technology continues to shrink the processor, then the power we have
-now will grow smaller.</p>
-
-<p>Server class machines are shrinking now to card-sized blades so
-desktop systems will continue to shrink, too.</p>
-
-<p>Wireless is becoming more and more common, from cell phones that link
-to each other with Blue Tooth, to wireless LANs, to wireless keyboards
-and mice.</p>
-
-<p>Storage continues to shrink. We have solid state storage today, in our
-cameras, in our iPods, and in our keychain drives.</p>
-
-<p>When computers shrink to become smaller than the storage device, and
-cheaper, an interesting thing happens. In the past, we used floppies,
-CDs and removing hard storage devices to move information from one
-computer to another (when not just transferring over a communications
-channel of some kind). What if the computer is small enough to be
-built into the storage device? -—cheap enough so that every storage
-device has it&rsquo;s own computer?</p>
-
-<h3>Some problems to overcome</h3>
-
-<p>One problem you would have to solve is power. The little pocket
-computer needs a good battery. Batteries are shrinking and getting
-better (look at cell phones).</p>
-
-<h2>Epilogue</h2>
-
-<p><em>One thing I clearly didn&rsquo;t anticipate in 2004 was the smart phone in
- its recent form.  It&rsquo;s actually played most of these roles.  It
- hadn&rsquo;t occurred to me how powerful an attached, high-resolution
- display screen would be.</em></p>
-
-<p><em>There&rsquo;s also one wireless technology that we still don&rsquo;t have,
-really.  Did you catch it?  We can&rsquo;t wirelessly connect a device to a
-high-resolution monitor. Yes, we have &ldquo;cast&rdquo; capability but that&rsquo;s to
-a receiver plugged into the display. I can&rsquo;t play a movie on my phone
-and have it display in HD on the TV withouth plugging an HDMI cable
-into my phone.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pi Dongle]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle/"/>
-    <updated>2016-10-13T07:40:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/pi-dongle</id>
-    <content type="html"><![CDATA[<p><a href="https://youtu.be/qbWYUFgLhSU">Turn The Raspberry Pi Zero Into A Mini Dongle Computer &ndash; Video</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[You Might Not Need Javascript ]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript/"/>
-    <updated>2016-10-13T07:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/you-might-not-need-javascript</id>
-    <content type="html"><![CDATA[<p><a href="http://hn.premii.com/#/article/12690842">You might not need JavaScript</a></p>
-
-<p><a href="http://youmightnotneedjquery.com">You Might Not Need Jquery</a></p>
 ]]></content>
   </entry>
   

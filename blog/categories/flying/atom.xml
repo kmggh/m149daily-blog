@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: flying | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/flying/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2016-12-20T15:19:32-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Flight Gear]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/flight-gear/"/>
+    <updated>2016-12-20T15:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/flight-gear</id>
+    <content type="html"><![CDATA[<p>I just recently learned from Andy Ihnatko on &ldquo;Macbreak Weekly&rdquo; that
+there is an open source flight simulator called &ldquo;Flight Gear.&rdquo;  It
+seems quite capable with many add-ons provided.</p>
+
+<p><a href="http://www.flightgear.org">FlightGear.org</a><br />
+<a href="https://en.wikipedia.org/wiki/FlightGear">FlightGear on Wikipedia</a><br /></p>
+]]></content>
+  </entry>
+  
+</feed>

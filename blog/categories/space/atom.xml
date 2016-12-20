@@ -4,7 +4,7 @@
   <title><![CDATA[Category: space | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/space/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-11-23T02:12:16-05:00</updated>
+  <updated>2016-12-20T15:19:32-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NASA Made a Fundamental Mistake]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/nasa-made-a-fundamental-mistake/"/>
+    <updated>2016-12-20T14:55:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/nasa-made-a-fundamental-mistake</id>
+    <content type="html"><![CDATA[<p>On an ISS Power supply.</p>
+
+<p>&ldquo;The ISS is currently home to&hellip;four 14,000-pound payload-holders
+called ExPRESS Logistics Carriers. Experiments from Earth like the
+laser-communicator OPALS fly up to Station and Lego-attach to these
+carriers, which provide them with a place to stay and, just as
+importantly, the electrical power and data links they need to do their
+jobs. But since 2013, scientists sending up payloads have had trouble
+with the on-orbit utility grid.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>&ldquo;Right now, experiments need special power converters if they want to
+hook up with the carriers. And that’s because NASA made a mistake:
+Inside the carriers, some capacitors were installed incorrectly. &hellip;in
+the part of the carriers that powers payloads, engineers installed
+some capacitors backward.&rdquo;</p>
+
+<p>&ldquo;In designing the carrier, engineers had first planned to use
+capacitors that they could hook in any which way. But then they had
+changed the design, swapping in one-way capacitors. In between, no one
+had updated the blueprints. And so the circuit makers had made the
+circuits exactly as instructed, not paying attention to which way the
+capacitors faced. All four on-orbit carriers and the in-space spare
+turned out to have the same problem.&rdquo;</p>
+
+<p><a href="https://www.wired.com/2016/12/nasa-made-really-dumb-mistake-iss-power-supply/">NASA’s Power Supply Mistake on the ISS Was Totally Avoidable</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GOES-R Weather Satellite]]></title>
@@ -179,29 +215,6 @@ starring Andy Griffith in 1979.</p>
 
 <p><a href="http://en.wikipedia.org/wiki/Robert_Truax">Wikipedia article on Robert Truax</a>.<br />
 <a href="https://www.youtube.com/watch?v=nuW9bsp3Z2w">Salvage 1 Series Pilot on Youtube</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rocket Explodes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes/"/>
-    <updated>2014-10-30T06:16:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2014/10/30/rocket-explodes</id>
-    <content type="html"><![CDATA[<p><a href="/blog/2014/10/11/blogging-for-30-days/">Day 20</a></p>
-
-<p>From <a href="http://www.newscientist.com/article/dn26475-cargo-rocket-explosion-is-a-blow-for-commercial-space.html">New Scientist</a>.</p>
-
-<p>The Orbital Sciences Antares rocket&hellip;</p>
-
-<blockquote><p>&hellip;flying cargo to the International Space Station
-exploded just 14 seconds after lift-off last night, creating a
-spectacular fireball and shockwave as the fully fuelled rocket crashed
-back down onto its launch pad.</p>
-
-<p>No one was hurt when the uncrewed spacecraft was destroyed, but the
-loss will dent attempts by the spacecraft&rsquo;s builder, Orbital Sciences
-Corporation of Dulles, Virginia, to build confidence in its ability to
-supply ISS cargo services to NASA.</p></blockquote>
 ]]></content>
   </entry>
   
