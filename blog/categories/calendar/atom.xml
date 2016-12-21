@@ -4,7 +4,7 @@
   <title><![CDATA[Category: calendar | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/calendar/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-20T15:19:32-05:00</updated>
+  <updated>2016-12-21T12:45:27-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Winter Solstice]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/21/happy-winter-solstice/"/>
+    <updated>2016-12-21T12:33:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/21/happy-winter-solstice</id>
+    <content type="html"><![CDATA[<p>Happy Winter Solstice!  It was at 5:44 EST this morning.</p>
+
+<pre><code>Wed 2016-12-21 10:44 +0000
+Wed 2016-12-21 05:44 -0500
+</code></pre>
+
+<p><a href="http://earthsky.org/earth/everything-you-need-to-know-december-solstice">December solstice 2016 is the 21st</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Vernal Equinox]]></title>
@@ -66,19 +81,6 @@ Sat 2014-06-21 06:51:00 -0400</p>
 Sun 2013-09-22 16:44:00 -0400</p>
 
 <p>(Times are to the nearest minute).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Summer Solstice!]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice/"/>
-    <updated>2013-06-20T15:35:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2013/06/20/happy-summer-solstice</id>
-    <content type="html"><![CDATA[<p>Happy summer solstice tonight at 1:04 AM EDT.</p>
-
-<p>Fri 2013-06-21 05:04:00 +0000<br/>
-Fri 2013-06-21 01:04:00 -0400<br/>
-Thu 2013-06-20 23:04:00 -0700</p>
 ]]></content>
   </entry>
   

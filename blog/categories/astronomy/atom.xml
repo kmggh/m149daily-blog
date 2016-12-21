@@ -4,7 +4,7 @@
   <title><![CDATA[Category: astronomy | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/astronomy/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-20T15:19:32-05:00</updated>
+  <updated>2016-12-21T12:45:27-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Winter Solstice]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/21/happy-winter-solstice/"/>
+    <updated>2016-12-21T12:33:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/21/happy-winter-solstice</id>
+    <content type="html"><![CDATA[<p>Happy Winter Solstice!  It was at 5:44 EST this morning.</p>
+
+<pre><code>Wed 2016-12-21 10:44 +0000
+Wed 2016-12-21 05:44 -0500
+</code></pre>
+
+<p><a href="http://earthsky.org/earth/everything-you-need-to-know-december-solstice">December solstice 2016 is the 21st</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crash Course in Astronomy]]></title>
@@ -258,89 +273,6 @@ the public.</p></blockquote>
 
 <p><a href="http://news.nationalgeographic.com/2016/10/moon-earth-pictures-japan-kaguya-hdtv-space-science/">Haunting Pictures Show Earth Rising Over the Moon</a><br />
 <a href="http://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en">Kaguya HDTV Data Publication System</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Dwarf Planet 2014 UZ224]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224/"/>
-    <updated>2016-10-13T05:54:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/13/new-dwarf-planet-2014-uz224</id>
-    <content type="html"><![CDATA[<p>A new trans-Neptunian object 2014 UZ224 has been annouced by the
-discoverers.  It&rsquo;s orbit has a semi-major axis of 109 AU with a
-current distance of 93 AU in the scattered disc.</p>
-
-<!-- More -->
-
-
-<p>Calla Cofield reports in Space.com,</p>
-
-<blockquote><p>The dwarf planet, called 2014 UZ224, measures about 330 miles (530
-kilometers) across and is located about 8.5 billion miles (13.7
-billion km) from the sun, NPR reported today (Oct. 11). For
-comparison, Pluto&rsquo;s largest moon, Charon, is about 750 miles (1,200
-km) in diameter, and reaches a maximum distance of about 4.5 billion
-miles (7.3 billion km) from the sun.</p>
-
-<p>A year on 2014 UZ224 (the time it takes the dwarf planet to orbit the
-sun) is about 1,100 Earth years. One Pluto year &hellip; is about 248
-Earth years.</p></blockquote>
-
-<p>The object was discovered using the Dark Energy Camera.</p>
-
-<blockquote><p>A project called the Dark Energy Survey is using observations from the
-DECam to create a map of the universe that provides information
-relevant to the study of dark energy. The DES maps have already been
-used to study dark matter (which makes up about eighty percent of all
-the mass in the universe but whose exact nature is still a mystery)
-and to find previously unidentified objects.</p>
-
-<p>Part of the DES includes taking images of a few small patches of the
-sky &ldquo;roughly&rdquo; once per week, according to the mission website, and
-that&rsquo;s what made this new discovery possible.</p></blockquote>
-
-<p>The interesting part of this article tells how undergraduate students
-made the discovery by analyzing data with software they wrote.</p>
-
-<p>Once again there&rsquo;s a minor crisis in naming.</p>
-
-<blockquote><p>The smallest object in the solar system that has earned the title of
-&ldquo;dwarf planet&rdquo; (prior to this new discovery) is Ceres, which lies in
-the asteroid belt between Jupiter and Mars. Ceres is 590 miles (950
-km) across. The object 2014 UZ224 might be too small to be considered
-a dwarf planet, Gerdes told NPR, but that will have to be decided by
-the International Astronomical Union (which made the controversial
-decision to demote Pluto to a dwarf planet). There are four other
-recognized dwarf planets in the solar system, but scientists think
-there could be dozens — or even more than 100 — objects that size that
-have yet to be discovered, according to NASA.</p></blockquote>
-
-<h2>Distances</h2>
-
-<p>I like it&rsquo;s easiest to think of solar system distances in terms of
-light travel time from the sun.  It takes sunlight about eight minutes
-to reach the Earth from the Sun.  It&rsquo;s 43 minutes to Jupiter, over
-five hours to Pluto on average, and 15 hours to UZ224.</p>
-
-<p>The chart below is based on the semi-major axis of each orbit which
-you can think of as the average of the maximum and minimum distances
-from the Sun.</p>
-
-<pre><code>Earth     1.0 AU =      8.3 min
-Jupiter   5.2 AU =     43   min
-Neptune  30   AU =   4h10m
-Pluto    39   AU =   5h25m
-UZ224   109   AU =  15h08m
-</code></pre>
-
-<h2>References</h2>
-
-<p><a href="http://www.space.com/34358-new-dwarf-planet-found-2014-uz224.html">New Dwarf Planet Found in Our Solar System &ndash; Space.com</a><br />
-<a href="http://www.minorplanetcenter.net/mpec/K16/K16TA4.html">Minor Planet Electronic Circular 2016-T104</a><br />
-<a href="https://en.wikipedia.org/wiki/Scattered_disc">Scattered disc</a><br />
-<a href="https://en.wikipedia.org/wiki/Trans-Neptunian_object">Trans-Neptunian object</a><br />
-<a href="http://www.ctio.noao.edu/noao/node/1033">Dark Energy Camera</a><br />
-<a href="https://en.wikipedia.org/wiki/2014_UZ224">2014 UZ224 on Wikipedia</a></p>
 ]]></content>
   </entry>
   
