@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: filesystems | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/filesystems/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2017-02-06T07:33:20-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[InterPlanetary File System]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/interplanetary-file-system/"/>
+    <updated>2017-01-27T04:55:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/interplanetary-file-system</id>
+    <content type="html"><![CDATA[<p>&ldquo;IPFS is a distributed file system that seeks to connect all computing
+devices with the same system of files. In some ways, this is similar
+to the original aims of the Web, but IPFS is actually more similar to
+a single bittorrent swarm exchanging git objects.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>According to the Github README, IPFS is a protocol, filesystem, web,
+it&rsquo;s modular, uses crypto, is p2p, is a cdn, and has a name service.</p>
+
+<p>&ldquo;Today, there is one main IPFS Protocol implementation (in Go) with
+more on the way (Javascript, and Python).&rdquo;</p>
+
+<p><a href="https://github.com/ipfs/ipfs">IPFS &ndash; The Permanent Web</a></p>
+]]></content>
+  </entry>
+  
+</feed>

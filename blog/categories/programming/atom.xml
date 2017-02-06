@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-21T12:45:27-05:00</updated>
+  <updated>2017-02-06T07:33:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scaling Git at Microsoft]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/scaling-git-at-microsoft/"/>
+    <updated>2017-02-06T07:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/scaling-git-at-microsoft</id>
+    <content type="html"><![CDATA[<p>&ldquo;A couple of years ago, Microsoft made the decision to begin a
+multi-year investment in revitalizing our engineering system across
+the company.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>Brian Harry discusses a single git repo with six million files.</p>
+
+<blockquote><p>So, fast forward to today.  It works!  We have all the code from 40+
+Windows Source Depot servers in a single Git repo hosted on VS Team
+Services – and it’s very usable.  You can enlist in a few minutes and
+do all your normal Git operations in seconds.  And, for all intents
+and purposes, it’s transparent.  It’s just Git.  Your devs keep
+working the way they work, using the tools they use.  Your builds just
+work.</p>
+
+<p>As a side effect, this approach also has some very nice
+characteristics for large binary files.  It doesn’t extend Git with a
+new mechanism like LFS does, no turds, etc.  It allows you to treat
+large binary files like any other file but it only downloads the blobs
+you actually ever touch.</p></blockquote>
+
+<p><a href="https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/">Scaling Git (and some back story)</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Oracle Is Collecting Java Charges]]></title>
@@ -85,27 +117,6 @@ online in full at the below link.  This is the second edition from
 1988.</p>
 
 <p><a href="https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf">The C Programming Language</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Squeak - Back to the Future]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future/"/>
-    <updated>2016-09-26T06:45:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/09/26/squeak-back-to-the-future</id>
-    <content type="html"><![CDATA[<p>I still love Squeak Smalltalk.  A pointer to this paper was posted on
-Hacker News Today.</p>
-
-<p>Back to the Future<br />
-The Story of Squeak, A Practical Smalltalk Written in Itself</p>
-
-<p>by</p>
-
-<p>Dan Ingalls, Ted Kaehler, John Maloney, Scott Wallace, Alan Kay</p>
-
-<p><a href="http://ftp.squeak.org/docs/OOPSLA.Squeak.html">Back to the Future</a></p>
-
-<p><a href="https://news.ycombinator.com/item?id=12577087">Hacker News posting</a></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: linux | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-21T12:45:27-05:00</updated>
+  <updated>2017-02-06T07:33:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Device Driver]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver/"/>
+    <updated>2017-01-27T05:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver</id>
+    <content type="html"><![CDATA[<p>I was looking to learn at least the basics of the ARM processor and
+found some wondeful references and tutorials to ARM assembly
+language.  The one thing left was how device I/O works.  Here&rsquo;s a
+simple device driver code project for Linux on ARM in, of course, the
+Raspberry Pi.</p>
+
+<p><a href="https://www.codeproject.com/Articles/1032794/Simple-I-O-device-driver-for-RaspberryPi">Simple I/O device driver for RaspberryPi</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Microcontainers and Alpine Linux]]></title>

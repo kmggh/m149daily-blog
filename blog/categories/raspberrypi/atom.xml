@@ -4,7 +4,7 @@
   <title><![CDATA[Category: raspberrypi | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/raspberrypi/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-21T12:45:27-05:00</updated>
+  <updated>2017-02-06T07:33:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ARM Processor Assembly Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language/"/>
+    <updated>2017-01-27T05:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language</id>
+    <content type="html"><![CDATA[<p>The ARM is one of the most popular processors today.  Think the
+iPhone, Raspberry Pi.  I decided I should learn more about it since I
+knew almost nothing about the ARM architecture.</p>
+
+<!-- More -->
+
+
+<p>From Wikipedia, &ldquo;In 2005, about 98% of all mobile phones sold used at
+least one ARM processor. In 2010, producers of chips based on ARM
+architectures reported shipments of 6.1 billion ARM-based processors,
+representing 95% of smartphones, 35% of digital televisions and
+set-top boxes and 10% of mobile computers. In 2011, the 32-bit ARM
+architecture was the most widely used architecture in mobile devices
+and the most popular 32-bit one in embedded systems. In 2013, 10
+billion were produced and &lsquo;ARM-based chips are found in nearly 60
+percent of the world’s mobile devices.&rsquo;&rdquo;</p>
+
+<p>The short version is the following.  The ARM 32-bit processor has 16
+general purpose 32-bit registers, though R14 and R15 are the stack
+pointer and program counter, with an orthogonal set of instructions.
+There&rsquo;s the so-called &ldquo;Thumb&rdquo; set of instructions.  If you use this
+subset, the instructions can be &ldquo;compressed&rdquo; into 16-bit instructions.</p>
+
+<p>Orthogonal means you don&rsquo;t need dedicated instructions for particular
+registers, e.g., &ldquo;LDA&rdquo; to load a value into the accumulator, or &ldquo;STX&rdquo;
+to store a value from an X index register into a memory location.
+These instructions look like &ldquo;MOV R2, R3&rdquo; to move a value from R3 into
+R2.</p>
+
+<p>At some point it occurred to me that it should be pretty
+straightforward to write and run assembler on a Raspberry Pi running
+Raspbian Linux.  Voilà!</p>
+
+<p>There&rsquo;s an excellent series called &ldquo;ARM Assembler in Raspberry Pi.&rdquo;
+The posts are broken out into small chapters.  This set of examples
+uses the gcc compiler to assemble .s files.  It pulls in the C
+overhead to make an executable file.</p>
+
+<h2>First Program</h2>
+
+<p>Here&rsquo;s my first program</p>
+
+<pre><code>.global main
+
+main:            
+    mov r0, #2  /* Put 2 in register r0. */
+    bx lr       /* Return from main. */
+</code></pre>
+
+<p>To assemble and build it:</p>
+
+<pre><code>as -o first.o first.s
+gcc -o first first.o
+
+pi&gt; ls -l
+total 20
+-rwxr-xr-x 1 pi pi 5564 Jan 14 21:38 first
+-rw-r--r-- 1 pi pi  640 Jan 14 21:37 first.o
+-rw-r--r-- 1 pi pi  193 Jan 14 21:37 first.s
+</code></pre>
+
+<p>Run.  The answer is the return code from the program.</p>
+
+<pre><code>pi&gt; ./first
+pi&gt; ./first ; echo $?
+2
+</code></pre>
+
+<p>I found another excellent tutorial by Derek Banas on YouTube which
+showed how to use the Linux &ldquo;ld(1)&rdquo; command to load (link) the
+assembled .o file which has much lower overhead than using the gcc
+compiler.  Of course, how could I have forgotten ld.</p>
+
+<p><a href="https://www.arm.com/products/processors/instruction-set-architectures/index.php">ARM Processor Architecture</a><br />
+<a href="https://en.wikipedia.org/wiki/ARM_architecture">Wikipedia: ARM architecture</a><br />
+<a href="http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter%E2%80%931/">ARM assembler in Raspberry Pi &ndash; Chapter 1</a><br />
+<a href="http://www.davespace.co.uk/arm/introduction-to-arm/">Introduction to ARM</a><br />
+<a href="https://youtu.be/ViNnfoE56V8">Assembly Language Tutorial (Video)</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Device Driver]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver/"/>
+    <updated>2017-01-27T05:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver</id>
+    <content type="html"><![CDATA[<p>I was looking to learn at least the basics of the ARM processor and
+found some wondeful references and tutorials to ARM assembly
+language.  The one thing left was how device I/O works.  Here&rsquo;s a
+simple device driver code project for Linux on ARM in, of course, the
+Raspberry Pi.</p>
+
+<p><a href="https://www.codeproject.com/Articles/1032794/Simple-I-O-device-driver-for-RaspberryPi">Simple I/O device driver for RaspberryPi</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pi Dongle]]></title>

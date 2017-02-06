@@ -4,7 +4,7 @@
   <title><![CDATA[Category: computing | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/computing/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-21T12:45:27-05:00</updated>
+  <updated>2017-02-06T07:33:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -14,135 +14,173 @@
 
   
   <entry>
-    <title type="html"><![CDATA[USENIX Computing Systems]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems/"/>
-    <updated>2016-12-20T15:02:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/12/20/usenix-computing-systems</id>
-    <content type="html"><![CDATA[<p>For many years I received the USENIX &ldquo;Computing Systems&rdquo; journal and
-recently, when doing I search, I discovered the entire archive is
-on-line.</p>
-
-<p><a href="https://www.usenix.org/publications/compsystems/computing-systems">Computing Systems</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Color Gamut]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/color-gamut/"/>
-    <updated>2016-11-23T01:06:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/color-gamut</id>
-    <content type="html"><![CDATA[<p>The phrase &ldquo;color gamut&rdquo; has been thrown around a lot lately.  What is
-it?  This blog post by Craig Hockenberry explains color gamut.</p>
-
-<blockquote><p>From your point-of-view, the important thing about DCI-P3 is that it
-can display a wider range of color. Apple’s promotional literature
-states that the new iPad Pro has &ldquo;up to 25% greater color saturation
-than previous models.&rdquo;</p></blockquote>
+    <title type="html"><![CDATA[Binary Candles]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/binary-candles/"/>
+    <updated>2017-02-06T07:18:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/binary-candles</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t remember where I read this last week, but the idea if binary
+candles is brilliant.  You can represent any age up to 127 with seven
+candles!  If you understand binary, you already know what to do.</p>
 
 <!-- More -->
 
 
-<p><a href="http://blog.iconfactory.com/2016/04/looking-at-the-future/">Looking at the Future</a><br /></p>
+<p>Each candle reprsents a number.  Just light the candles for numbers
+that add up to the age you want to represent.</p>
+
+<p>To label the candles, the first one on the right is 1.  The next is
+2.  Then you just keep doubling, 4, 8, 16, 32, 64.</p>
+
+<pre><code>    ()      ()
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+
+64  32  16   8   4   2   1
+</code></pre>
+
+<p>In the above illustration, we represent the age 40.</p>
+
+<pre><code>        ()      ()  ()  ()
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+
+64  32  16   8   4   2   1
+</code></pre>
+
+<p>This one is 23.  You get the idea.  And, yes, you can leave off the
+candles on the left if they aren&rsquo;t lit.</p>
+
+<p>This is how computers reprsent numbers, as &ldquo;bits&rdquo; (binary digits) that
+can be on or off.  Bits are typically stored as transistors acting
+like switches (on or off) or storing a charge on a tiny capacitor to
+represent a one, a lit candle.  When transmitting data the bits may be
+represented as different voltages or other signal level schemes.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Rowhammer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer/"/>
-    <updated>2016-11-01T00:18:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer</id>
-    <content type="html"><![CDATA[<p>Rowhammer is a sophisticated, clever and dangerous way to attack
-computers and Android phones.  Dan Goodin reports in <em>Ars Technica.</em></p>
+    <title type="html"><![CDATA[Pine 64]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/pine-64/"/>
+    <updated>2017-02-06T07:16:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/pine-64</id>
+    <content type="html"><![CDATA[<p>Another, small (some under $20) single board computer series.</p>
 
-<!-- More -->
-
-
-<blockquote><p>Researchers have devised an attack that gains unfettered &ldquo;root&rdquo; access
-to a large number of Android phones, exploiting a relatively new type
-of bug that allows adversaries to manipulate data stored in memory
-chips.</p></blockquote>
-
-<p><a href="http://arstechnica.com/security/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/">Using Rowhammer bitflips to root Android phones is now a thing</a><br /></p>
+<p><a href="https://www.pine64.org">Pine64</a><br /></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Email Phishing Attack]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
-    <updated>2016-11-01T00:10:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
-    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
-According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
-Podesta&rsquo;s account was compromised.</p>
+    <title type="html"><![CDATA[Flame Graphs]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/flame-graphs/"/>
+    <updated>2017-02-06T07:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/flame-graphs</id>
+    <content type="html"><![CDATA[<p>This post on flame graphs is an interesting data visualization used,
+in this case, for plotting disk usage.</p>
 
-<!-- More -->
-
-
-<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
-apparently clicked through to a fake website run by hackers. When he
-entered his account information, he handed over the keys to his
-Gmail.</p></blockquote>
-
-<p>This article by Ben Gilbert goes into some detail about how this was
-done.  It was an easy effort by the attacker and could have been
-avoided with a bit more care on the part of the user.  He even did the
-right thing in reporting it to his IT support but still clicked the
-dangerous link in the email.</p>
-
-<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
-in the book</a><br /></p>
+<p><a href="http://www.brendangregg.com/blog/2017-02-05/file-system-flame-graph.html">Flame graphs for file systems</a></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What's going on inside Lithium Ion Batteries?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
-    <updated>2016-10-23T07:32:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
-    <content type="html"><![CDATA[<p>Steve Gibson from Security Now provided two excellent sources this
-week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
+    <title type="html"><![CDATA[ARM Processor Assembly Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language/"/>
+    <updated>2017-01-27T05:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language</id>
+    <content type="html"><![CDATA[<p>The ARM is one of the most popular processors today.  Think the
+iPhone, Raspberry Pi.  I decided I should learn more about it since I
+knew almost nothing about the ARM architecture.</p>
 
 <!-- More -->
 
 
-<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
-Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
+<p>From Wikipedia, &ldquo;In 2005, about 98% of all mobile phones sold used at
+least one ARM processor. In 2010, producers of chips based on ARM
+architectures reported shipments of 6.1 billion ARM-based processors,
+representing 95% of smartphones, 35% of digital televisions and
+set-top boxes and 10% of mobile computers. In 2011, the 32-bit ARM
+architecture was the most widely used architecture in mobile devices
+and the most popular 32-bit one in embedded systems. In 2013, 10
+billion were produced and &lsquo;ARM-based chips are found in nearly 60
+percent of the world’s mobile devices.&rsquo;&rdquo;</p>
 
-<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
-slight misalignment between the anode and cathode occurs during the
-assembly process. The same structure as above now has the anode layer
-shifted slightly to the right. At the misaligned edge, the requisite
-overlap of the anode relative to the cathode is now diminished or even
-possibly eliminated. The anode/cathode ratio at this spot drops below
-the requisite limit for ensuring safety. The result is the onset of
-lithium metal at this edge. The lithium metal forms on the anode
-edge. As the lithium metal grows in size and thickness, it ultimately
-punctures the separator and causes an electrical short between the
-anode and cathode. Boom! There is a catastrophic failure.</p>
+<p>The short version is the following.  The ARM 32-bit processor has 16
+general purpose 32-bit registers, though R14 and R15 are the stack
+pointer and program counter, with an orthogonal set of instructions.
+There&rsquo;s the so-called &ldquo;Thumb&rdquo; set of instructions.  If you use this
+subset, the instructions can be &ldquo;compressed&rdquo; into 16-bit instructions.</p>
 
-<p>The tolerance requirements in the manufacturing of lithium-ion
-batteries have risen sharply with increasing energy density. Short of
-using new materials (which still do not exist in commercial
-deployment), increasing the energy density means reducing all the
-extra space inside the battery that is not made of anode and cathode
-materials. These are the only two materials that store energy;
-n> everything else is just overhead. They are still needed for other
-functions and safety, but they do not contribute to storing electrical
-charge. Therefore, battery designers keep reducing this overhead and,
-in the process, make the manufacturing tolerances even tighter. That
-is a recipe for many disasters to come unless we start adding a lot
-more intelligence to the battery to avoid and mitigate these
-undesired situations.</p></blockquote>
+<p>Orthogonal means you don&rsquo;t need dedicated instructions for particular
+registers, e.g., &ldquo;LDA&rdquo; to load a value into the accumulator, or &ldquo;STX&rdquo;
+to store a value from an X index register into a memory location.
+These instructions look like &ldquo;MOV R2, R3&rdquo; to move a value from R3 into
+R2.</p>
 
-<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
+<p>At some point it occurred to me that it should be pretty
+straightforward to write and run assembler on a Raspberry Pi running
+Raspbian Linux.  Voilà!</p>
 
-<p>From the Qnovo blog.</p>
+<p>There&rsquo;s an excellent series called &ldquo;ARM Assembler in Raspberry Pi.&rdquo;
+The posts are broken out into small chapters.  This set of examples
+uses the gcc compiler to assemble .s files.  It pulls in the C
+overhead to make an executable file.</p>
 
-<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
-<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
-<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
-<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
-<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
+<h2>First Program</h2>
+
+<p>Here&rsquo;s my first program</p>
+
+<pre><code>.global main
+
+main:            
+    mov r0, #2  /* Put 2 in register r0. */
+    bx lr       /* Return from main. */
+</code></pre>
+
+<p>To assemble and build it:</p>
+
+<pre><code>as -o first.o first.s
+gcc -o first first.o
+
+pi&gt; ls -l
+total 20
+-rwxr-xr-x 1 pi pi 5564 Jan 14 21:38 first
+-rw-r--r-- 1 pi pi  640 Jan 14 21:37 first.o
+-rw-r--r-- 1 pi pi  193 Jan 14 21:37 first.s
+</code></pre>
+
+<p>Run.  The answer is the return code from the program.</p>
+
+<pre><code>pi&gt; ./first
+pi&gt; ./first ; echo $?
+2
+</code></pre>
+
+<p>I found another excellent tutorial by Derek Banas on YouTube which
+showed how to use the Linux &ldquo;ld(1)&rdquo; command to load (link) the
+assembled .o file which has much lower overhead than using the gcc
+compiler.  Of course, how could I have forgotten ld.</p>
+
+<p><a href="https://www.arm.com/products/processors/instruction-set-architectures/index.php">ARM Processor Architecture</a><br />
+<a href="https://en.wikipedia.org/wiki/ARM_architecture">Wikipedia: ARM architecture</a><br />
+<a href="http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter%E2%80%931/">ARM assembler in Raspberry Pi &ndash; Chapter 1</a><br />
+<a href="http://www.davespace.co.uk/arm/introduction-to-arm/">Introduction to ARM</a><br />
+<a href="https://youtu.be/ViNnfoE56V8">Assembly Language Tutorial (Video)</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Device Driver]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver/"/>
+    <updated>2017-01-27T05:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver</id>
+    <content type="html"><![CDATA[<p>I was looking to learn at least the basics of the ARM processor and
+found some wondeful references and tutorials to ARM assembly
+language.  The one thing left was how device I/O works.  Here&rsquo;s a
+simple device driver code project for Linux on ARM in, of course, the
+Raspberry Pi.</p>
+
+<p><a href="https://www.codeproject.com/Articles/1032794/Simple-I-O-device-driver-for-RaspberryPi">Simple I/O device driver for RaspberryPi</a></p>
 ]]></content>
   </entry>
   

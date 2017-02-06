@@ -4,7 +4,7 @@
   <title><![CDATA[Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2016-12-21T12:45:27-05:00</updated>
+  <updated>2017-02-06T07:33:20-05:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,303 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binary Candles]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/binary-candles/"/>
+    <updated>2017-02-06T07:18:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/binary-candles</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t remember where I read this last week, but the idea if binary
+candles is brilliant.  You can represent any age up to 127 with seven
+candles!  If you understand binary, you already know what to do.</p>
+
+<!-- More -->
+
+
+<p>Each candle reprsents a number.  Just light the candles for numbers
+that add up to the age you want to represent.</p>
+
+<p>To label the candles, the first one on the right is 1.  The next is
+2.  Then you just keep doubling, 4, 8, 16, 32, 64.</p>
+
+<pre><code>    ()      ()
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+
+64  32  16   8   4   2   1
+</code></pre>
+
+<p>In the above illustration, we represent the age 40.</p>
+
+<pre><code>        ()      ()  ()  ()
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
+
+64  32  16   8   4   2   1
+</code></pre>
+
+<p>This one is 23.  You get the idea.  And, yes, you can leave off the
+candles on the left if they aren&rsquo;t lit.</p>
+
+<p>This is how computers reprsent numbers, as &ldquo;bits&rdquo; (binary digits) that
+can be on or off.  Bits are typically stored as transistors acting
+like switches (on or off) or storing a charge on a tiny capacitor to
+represent a one, a lit candle.  When transmitting data the bits may be
+represented as different voltages or other signal level schemes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pine 64]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/pine-64/"/>
+    <updated>2017-02-06T07:16:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/pine-64</id>
+    <content type="html"><![CDATA[<p>Another, small (some under $20) single board computer series.</p>
+
+<p><a href="https://www.pine64.org">Pine64</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The TTY Demystified]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/the-tty-demystified/"/>
+    <updated>2017-02-06T07:11:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/the-tty-demystified</id>
+    <content type="html"><![CDATA[<p>Though I&rsquo;d rather read a longer, more detailed history of the teletype
+(which is easy to find, see Wikipedia below), this is a nice overview
+of the UNIX/Linux TTY.</p>
+
+<p><a href="http://www.linusakesson.net/programming/tty/">The TTY demystified</a><br />
+<a href="https://en.wikipedia.org/wiki/Teleprinter">Teleprinter on Wikipedia</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scaling Git at Microsoft]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/scaling-git-at-microsoft/"/>
+    <updated>2017-02-06T07:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/scaling-git-at-microsoft</id>
+    <content type="html"><![CDATA[<p>&ldquo;A couple of years ago, Microsoft made the decision to begin a
+multi-year investment in revitalizing our engineering system across
+the company.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>Brian Harry discusses a single git repo with six million files.</p>
+
+<blockquote><p>So, fast forward to today.  It works!  We have all the code from 40+
+Windows Source Depot servers in a single Git repo hosted on VS Team
+Services – and it’s very usable.  You can enlist in a few minutes and
+do all your normal Git operations in seconds.  And, for all intents
+and purposes, it’s transparent.  It’s just Git.  Your devs keep
+working the way they work, using the tools they use.  Your builds just
+work.</p>
+
+<p>As a side effect, this approach also has some very nice
+characteristics for large binary files.  It doesn’t extend Git with a
+new mechanism like LFS does, no turds, etc.  It allows you to treat
+large binary files like any other file but it only downloads the blobs
+you actually ever touch.</p></blockquote>
+
+<p><a href="https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/">Scaling Git (and some back story)</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Flame Graphs]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/02/06/flame-graphs/"/>
+    <updated>2017-02-06T07:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/02/06/flame-graphs</id>
+    <content type="html"><![CDATA[<p>This post on flame graphs is an interesting data visualization used,
+in this case, for plotting disk usage.</p>
+
+<p><a href="http://www.brendangregg.com/blog/2017-02-05/file-system-flame-graph.html">Flame graphs for file systems</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ARM Processor Assembly Language]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language/"/>
+    <updated>2017-01-27T05:05:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language</id>
+    <content type="html"><![CDATA[<p>The ARM is one of the most popular processors today.  Think the
+iPhone, Raspberry Pi.  I decided I should learn more about it since I
+knew almost nothing about the ARM architecture.</p>
+
+<!-- More -->
+
+
+<p>From Wikipedia, &ldquo;In 2005, about 98% of all mobile phones sold used at
+least one ARM processor. In 2010, producers of chips based on ARM
+architectures reported shipments of 6.1 billion ARM-based processors,
+representing 95% of smartphones, 35% of digital televisions and
+set-top boxes and 10% of mobile computers. In 2011, the 32-bit ARM
+architecture was the most widely used architecture in mobile devices
+and the most popular 32-bit one in embedded systems. In 2013, 10
+billion were produced and &lsquo;ARM-based chips are found in nearly 60
+percent of the world’s mobile devices.&rsquo;&rdquo;</p>
+
+<p>The short version is the following.  The ARM 32-bit processor has 16
+general purpose 32-bit registers, though R14 and R15 are the stack
+pointer and program counter, with an orthogonal set of instructions.
+There&rsquo;s the so-called &ldquo;Thumb&rdquo; set of instructions.  If you use this
+subset, the instructions can be &ldquo;compressed&rdquo; into 16-bit instructions.</p>
+
+<p>Orthogonal means you don&rsquo;t need dedicated instructions for particular
+registers, e.g., &ldquo;LDA&rdquo; to load a value into the accumulator, or &ldquo;STX&rdquo;
+to store a value from an X index register into a memory location.
+These instructions look like &ldquo;MOV R2, R3&rdquo; to move a value from R3 into
+R2.</p>
+
+<p>At some point it occurred to me that it should be pretty
+straightforward to write and run assembler on a Raspberry Pi running
+Raspbian Linux.  Voilà!</p>
+
+<p>There&rsquo;s an excellent series called &ldquo;ARM Assembler in Raspberry Pi.&rdquo;
+The posts are broken out into small chapters.  This set of examples
+uses the gcc compiler to assemble .s files.  It pulls in the C
+overhead to make an executable file.</p>
+
+<h2>First Program</h2>
+
+<p>Here&rsquo;s my first program</p>
+
+<pre><code>.global main
+
+main:            
+    mov r0, #2  /* Put 2 in register r0. */
+    bx lr       /* Return from main. */
+</code></pre>
+
+<p>To assemble and build it:</p>
+
+<pre><code>as -o first.o first.s
+gcc -o first first.o
+
+pi&gt; ls -l
+total 20
+-rwxr-xr-x 1 pi pi 5564 Jan 14 21:38 first
+-rw-r--r-- 1 pi pi  640 Jan 14 21:37 first.o
+-rw-r--r-- 1 pi pi  193 Jan 14 21:37 first.s
+</code></pre>
+
+<p>Run.  The answer is the return code from the program.</p>
+
+<pre><code>pi&gt; ./first
+pi&gt; ./first ; echo $?
+2
+</code></pre>
+
+<p>I found another excellent tutorial by Derek Banas on YouTube which
+showed how to use the Linux &ldquo;ld(1)&rdquo; command to load (link) the
+assembled .o file which has much lower overhead than using the gcc
+compiler.  Of course, how could I have forgotten ld.</p>
+
+<p><a href="https://www.arm.com/products/processors/instruction-set-architectures/index.php">ARM Processor Architecture</a><br />
+<a href="https://en.wikipedia.org/wiki/ARM_architecture">Wikipedia: ARM architecture</a><br />
+<a href="http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter%E2%80%931/">ARM assembler in Raspberry Pi &ndash; Chapter 1</a><br />
+<a href="http://www.davespace.co.uk/arm/introduction-to-arm/">Introduction to ARM</a><br />
+<a href="https://youtu.be/ViNnfoE56V8">Assembly Language Tutorial (Video)</a><br /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi Device Driver]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver/"/>
+    <updated>2017-01-27T05:02:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/raspberry-pi-device-driver</id>
+    <content type="html"><![CDATA[<p>I was looking to learn at least the basics of the ARM processor and
+found some wondeful references and tutorials to ARM assembly
+language.  The one thing left was how device I/O works.  Here&rsquo;s a
+simple device driver code project for Linux on ARM in, of course, the
+Raspberry Pi.</p>
+
+<p><a href="https://www.codeproject.com/Articles/1032794/Simple-I-O-device-driver-for-RaspberryPi">Simple I/O device driver for RaspberryPi</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[InterPlanetary File System]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/interplanetary-file-system/"/>
+    <updated>2017-01-27T04:55:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/interplanetary-file-system</id>
+    <content type="html"><![CDATA[<p>&ldquo;IPFS is a distributed file system that seeks to connect all computing
+devices with the same system of files. In some ways, this is similar
+to the original aims of the Web, but IPFS is actually more similar to
+a single bittorrent swarm exchanging git objects.&rdquo;</p>
+
+<!-- More -->
+
+
+<p>According to the Github README, IPFS is a protocol, filesystem, web,
+it&rsquo;s modular, uses crypto, is p2p, is a cdn, and has a name service.</p>
+
+<p>&ldquo;Today, there is one main IPFS Protocol implementation (in Go) with
+more on the way (Javascript, and Python).&rdquo;</p>
+
+<p><a href="https://github.com/ipfs/ipfs">IPFS &ndash; The Permanent Web</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Flight Problems]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/flight-problems/"/>
+    <updated>2017-01-27T04:51:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/flight-problems</id>
+    <content type="html"><![CDATA[<p>Iain Thomson on &ldquo;This Week in Tech&rdquo; listed an amusing flight problem
+you don&rsquo;t want to experience:  &ldquo;A reduction in the number of wings.&rdquo;</p>
+
+<p><a href="https://twit.tv/shows/this-week-in-tech/episodes/598?autostart=false">TWiT Episode 598</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deep Seated Container Vulnerability]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/deep-seated-container-vulnerability/"/>
+    <updated>2017-01-27T04:40:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/deep-seated-container-vulnerability</id>
+    <content type="html"><![CDATA[<p>&ldquo;A vulnerability in container operations has been brought to light by
+Docker and other parties and illustrates why lack of multiple years of
+experience with containers makes some implementers cautious. A command
+to execute the RunC part of the Linux kernel under rare but
+exploitable circumstances can result in a container process getting a
+chance to inspect file descriptors on the host.&rdquo;</p>
+
+<p><a href="http://www.informationweek.com/cloud/infrastructure-as-a-service/deep-seated-container-vulnerability-found-corrected/d/d-id/1327917">Deep-Seated Container Vulnerability Found, Corrected</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Danger: Effective Gmail Phishing]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/16/danger-effective-gmail-phishing/"/>
+    <updated>2017-01-16T22:07:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/16/danger-effective-gmail-phishing</id>
+    <content type="html"><![CDATA[<p>&ldquo;Wide Impact: Highly Effective Gmail Phishing Technique Being Exploited
+by Mark Maunder&rdquo;</p>
+
+<p>This is pretty insidious.  You get a message from someome you know.
+It has an attachment.  You try to open it but up pops a Gmail login
+page asking you to enter your password again for security.  That Gmail
+login page is fake and your password is stolen as soon as you type it
+in.</p>
+
+<p><a href="https://www.wordfence.com/blog/2017/01/gmail-phishing-data-uri/">Effective Gmail Phishing</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon's Glacier Secret]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/16/amazons-glacier-secret/"/>
+    <updated>2017-01-16T22:03:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/16/amazons-glacier-secret</id>
+    <content type="html"><![CDATA[<p>BDXL.</p>
+
+<p><a href="https://storagemojo.com/2014/04/25/amazons-glacier-secret-bdxl/">Amazon’s Glacier secret: BDXL by Robin Harris, Storage Mojo</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Winter Solstice]]></title>
@@ -199,498 +496,6 @@ than previous models.&rdquo;</p></blockquote>
 
 
 <p><a href="http://blog.iconfactory.com/2016/04/looking-at-the-future/">Looking at the Future</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Drought Update]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/drought-update/"/>
-    <updated>2016-11-23T00:59:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/drought-update</id>
-    <content type="html"><![CDATA[<p>Even though his coverage is centered on Birmingham, Alabama, James
-Spann&rsquo;s weather coverage is outstanding.  Here&rsquo;s his latest excellent
-drought update.</p>
-
-<p><a href="http://www.alabamawx.com/?p=107628">Drought Update – November 20</a><br /></p>
-
-<!-- More -->
-
-
-<blockquote><p>Droughts don’t start suddenly, and don’t end quickly either. It will
-take multiple long, soaking rain events for us to dig out of this. It
-will happen, but it takes time.</p>
-
-<p>In some cases, short term droughts turn into long term
-droughts. Alabama has had five major long term droughts since record
-keeping began: 1929-32, 1938-45, 1950-63, 1980-82, and 1984-88. No
-evidence this happens now, but it can’t be ruled out completely.</p></blockquote>
-
-<p><a href="http://www.alabamawx.com">Alabama WX Weather Blog</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[GOES-R Weather Satellite]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite/"/>
-    <updated>2016-11-23T00:47:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/23/goes-r-weather-satellite</id>
-    <content type="html"><![CDATA[<p>&ldquo;A new environmental-monitoring satellite poised to launch into space
-on Saturday (Nov. 19) will fly a lightning mapper higher than ever
-before, allowing for better severe-storm monitoring across the United
-States and in nearby regions, NASA officials said.&rdquo;</p>
-
-<p>from Elizabeth Howell on Space.com.</p>
-
-<!-- More -->
-
-
-<blockquote><p>The GOES-R instrument, called the Geostationary Lightning Mapper, is
-supposed to watch lightning around the Americas and nearby oceans to a
-resolution of about 6.2 miles (10 kilometers).</p>
-
-<p>An advanced baseline imager&hellip;will look at Earth in 16 different
-spectral bands (11 more than the current GOES series) to provide
-information on weather, climate and natural hazards.</p>
-
-<p>The satellite will monitor solar flares— and the influence of the
-sun&rsquo;s electromagnetic radiation in the Earth&rsquo;s upper atmosphere —
-using the Extreme Ultraviolet and X-ray Irradiance Sensors. GOES-R
-will also carry a telescope that can monitor the sun in extreme
-ultraviolet wavelengths.</p>
-
-<p>During solar events, GOES-R will predict the flux of charged particles
-near Earth, using the Space Environment In-Situ Suite instrument and a
-magnetometer.</p>
-
-<p>GOES-R will be renamed GOES-16 when it goes to geostationary
-orbit. The satellite will do a checkout and validation phase of about
-one year, and then will begin operations.</p></blockquote>
-
-<p>From the NOAA.gov page.</p>
-
-<blockquote><p>GOES-R will scan the skies five times faster than today’s GOES
-spacecraft, with four times greater image resolution and three times
-the spectral channels. It will provide high-resolution, rapid-refresh
-satellite imagery as often as every 30 seconds, allowing for a more
-detailed look at a storm to determine whether it is growing or decaying.</p>
-
-<p>There are four satellites in the GOES-R series: –R, –S, –T and –U,
-which will extend NOAA’s geostationary coverage through 2036.</p></blockquote>
-
-<p><a href="http://www.space.com/34764-goes-r-satellite-tracks-lightning-and-more.html">Powerful GOES-R Satellite to Map Earth&rsquo;s Lightning and Much More</a><br /></p>
-
-<p><a href="http://www.goes-r.gov">NOAA/NASA GOES-R</a><br /></p>
-
-<p><a href="http://www.goes-r.gov/spacesegment/instruments.html">Instruments Overview</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Super Moon -  Super Story]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/super-moon-super-story/"/>
-    <updated>2016-11-15T06:01:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/super-moon-super-story</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://kmggh.github.io/m149daily-blog//postimages/Moon-Earth_distance,_Moon_phases.gif"></p>
-
-<p>The hyped story about the &ldquo;Super Moon&rdquo; is near the top of our on-line
-news feeds.  I&rsquo;ll try to untangle the hype from some facts.  It&rsquo;s true
-that this <em>full Moon</em> will be the closest since 1948-01-26.</p>
-
-<p>The next closest super Moon will be in 2034, only four years before
-our UNIX calendars run out of steam.</p>
-
-<p>But how big a deal is this?  And what&rsquo;s really going on?</p>
-
-<!-- More -->
-
-
-<h2>Short version</h2>
-
-<p>If you don&rsquo;t want to dive into the details below, here&rsquo;s the long
-story short.  Every month the Moon is closer and farther from the
-Earth as it follows its elliptical orbit.  Due to the tidal force from
-the Sun, sometimes those distances are a little more extreme than
-others.</p>
-
-<p>The so-called  &ldquo;Super Moon&rdquo; occurs when the full Moon coincides very
-closely with the Moon&rsquo;s closest approach, apogee, to the Earth for the
-year.  But it&rsquo;s really only around 3% larger than any other close
-approach during the year, and these happen every year.  They just
-don&rsquo;t always occur when the Moon is almost exactly full.</p>
-
-<h2>Kepler&rsquo;s first law</h2>
-
-<p>Kepler&rsquo;s first law is that orbits have the shape of an ellipse with
-the primary body at one of the two foci.  In this case the Earth is at
-the focus.  The ellipse means the Moon moves closer to and farther
-away from the Earth as it goes around.  It&rsquo;s closest point is called
-the perigee, and the farthest point is the apogee.</p>
-
-<h2>Sun&rsquo;s tidal forces</h2>
-
-<p>Tidal forces stretch things.  The tidal force due to the Sun&rsquo;s and
-Moon&rsquo;s gravity stretch the Earth&rsquo;s oceans so they have high points and
-low points.  The tidal force of the Sun also stretches the Moon&rsquo;s
-orbit.  When the Sun is in the direction of the long ellipse, the Sun
-stretches it in a longer ellipse.  The extreme distances are even more
-extreme:</p>
-
-<p>apogee = 406,700 km, perigee = 356,400 km.</p>
-
-<p>When the Sun is at right angles to the major axis, the orbit is pulled
-into a less eccentric ellipse and the extremes are reduced.</p>
-
-<p>apogee = 404,000 km, perigee = 370,400 km.</p>
-
-<h2>Monthly motions</h2>
-
-<p>Every month the Moon passes apogee and perigee as it orbits the
-Earth.  In the excellent diagram above from the Wikipedia article on
-the &ldquo;Orbit of the Moon,&rdquo; you can see the varying distance of the
-Moon from the Earth plotted.  The minimum points are the perigee,
-closest, distance.  Each month, when the Moon is at perigee, it will appear
-a bit larger, than when it&rsquo;s farther away.</p>
-
-<p>Notice how the minimum and maximum distances are not as extreme in
-April as they are in August.  That&rsquo;s the Sun&rsquo;s tidal effect.</p>
-
-<p>In this diagram, which was for 2014, it looks like the Moon was closest
-to the Earth in about the second week of August at perigee.</p>
-
-<h2>Moon phases</h2>
-
-<p>The other thing in this diagram is the phase of the Moon.  The
-diagonal lines show the Moon going from new (phase = 0) to full (phase
-= 0.5) and back to new each month.  The vertical lines show when the
-new Moons occur.</p>
-
-<p>What we&rsquo;re really interested in here is the <em>full Moon</em> so it would
-have been nice if there were vertical lines halfway in between the new
-Moons to mark the phase = 0.5 full Moons.</p>
-
-<h2>The big deal</h2>
-
-<p>So now we have all the pieces to understand what the big deal is.
-It&rsquo;s this.  How close does the full Moon come to the closest perigee
-of the year?  Well, it almost never hits it perfectly, but it varies
-from year to year.  In the year in the diagram, it looks like the
-halfway full-Moon point would fall nearly on the mid-August closest
-perigee.</p>
-
-<p>Using the perigee-apogee calculator from below for 2014 we find the
-full Moon hit the closest perigee on 2014-08-10 almost exactly, zero
-hours difference!  The perigee distance was 356,896 km.</p>
-
-<p>In contrast, this year they missed by about 2 hours on 2016-11-14 at a
-distance of 356,511 km.  So the full Moon was off a bit, but the
-closest perigee this year was a bit closer.  Why a bit closer?  It has
-to do with the angle of the Sun to the ellipse of the Moon&rsquo;s orbit.</p>
-
-<h2>But it isn&rsquo;t really</h2>
-
-<p>So that timing of full Moon and closest perigee of the year is what
-it&rsquo;s all about.  But notice that the Moon gets this close every year!
-It&rsquo;s just not necessarily at, or exactly at, the time of the full
-Moon.  Further, the Moon gets almost that close every month!</p>
-
-<p>As we said above, the closet perigee distance is 356,400 km while the
-farthest perigee is 370,400.  That&rsquo;s 3.93% larger from the farthest
-perigee to closest.  That&rsquo;s how much the &ldquo;close&rdquo; Moon varies through
-the year.</p>
-
-<p>So where did the big 14% come from that I kept seeing in all of these
-articles.</p>
-
-<p>That&rsquo;s the difference in size between when the Moon is at apogee vs
-perigee, and that happens every month, two weeks apart.  Actually it&rsquo;s
-about 13.36% when the ellipse is stretched, and about 9.8% when it&rsquo;s
-not.</p>
-
-<p>So again, this happens <em>every</em> month, but just not when the Moon is
-full.</p>
-
-<p><a href="https://en.wikipedia.org/wiki/SuperMoon">Wikipedia &ndash; SuperMoon</a><br /></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Orbit_of_the_Moon">Wikipedia &ndash; Orbit of the Moon</a><br /></p>
-
-<p><a href="https://www.fourmilab.ch/Earthview/Moon_ap_per.html">Inconstant Moon</a><br /></p>
-
-<p><a href="https://www.fourmilab.ch/Earthview/pacalc.html">Perigee Apogee Calculator</a><br /></p>
-
-<h2>Image credit</h2>
-
-<p>Distance and Moon phases in 2014, calculated using algorithms from:
-Jean Meeus, Astronomical algorithms, Willmann-Bell, Richmond,
-Virginia, 1991 Jean Meeus, Astronomical formulae for calculators,
-Willmann-Bell, Richmond, Virginia, 1988. Moon phases: 0 (1) &ndash; new Moon
-0.25 &ndash; first quarter 0.5 &ndash; full Moon 0.75 &ndash; last quarter</p>
-
-<p>CC BY-SA 3.0</p>
-
-<p>by Darekk2.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The IOT Answer is the Hub]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/the-iot-answer-is-the-hub/"/>
-    <updated>2016-11-15T00:11:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/the-iot-answer-is-the-hub</id>
-    <content type="html"><![CDATA[<p>Steve Gibson said this on a recent episode of <em>Security Now</em>.  He
-says, the solution to the IOT security problem is the hub.</p>
-
-<!-- More -->
-
-
-<p>He goes on to point out that all IOT (Internet of things) devices
-should connect to a single device in your home that responsibly
-handles the communications and security.</p>
-
-<p>Recently, poorly secured, home IOT devices have been credited with
-being the medium for massive scale denial of service (DOS) attacks
-against well-known web sites.  The flood of cheap and inexpensive
-devices like home cameras, wifi-enabled light bulbs, into homes with
-very fast outbound network connections have enabled a huge force that
-can be used that want to engage in digital vandalism to those who want
-to bring a site under a full attack.</p>
-
-<p><a href="https://www.grc.com/securitynow.htm">Security Now at GRC.com</a><br />
-<a href="https://twit.tv/shows/security-now">Security Now at twit.tv</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How it Feels to Learn Javascript]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/15/how-it-feels-to-learn-javascript/"/>
-    <updated>2016-11-15T00:08:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/15/how-it-feels-to-learn-javascript</id>
-    <content type="html"><![CDATA[<p>This article on Hacker Noon sounds too real.   It&rsquo;s depressing because
-it&rsquo;s true.</p>
-
-<p><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.vs20xmt4q">How it feels to learn JavaScript in 2016</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Five Classic Telescopes]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/14/five-classic-telescopes/"/>
-    <updated>2016-11-14T23:51:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/14/five-classic-telescopes</id>
-    <content type="html"><![CDATA[<p>Brian Ventrudo writes about five classic telescopes in this article on
-the <em>One-Minute Astronomer</em> blog.  Here&rsquo;s my own experience with these
-instruments.</p>
-
-<!-- More -->
-
-
-<h2>Unitron</h2>
-
-<p>We had a 2.4 at the museum observatory and it was a
-beautiful and delightful telescope.  I used it to observe, visually
-via projection, the 1984 annular solar eclipse when I saw the Sun&rsquo;s
-corona.</p>
-
-<h2>Questar</h2>
-
-<p>These portable little 3.5-inch Maksutovs were the beautiful jewels of
-astronomy.  My planetarium and astronomical mentor, Mike Hood, has
-collected Questars over the years.</p>
-
-<h2>Celestron</h2>
-
-<p>The leading Schmidt-Cassegrain brand ruled over our observatory.  We
-had a 10-inch model identical to the one in Ventrudo&rsquo;s article.  It
-was mounted on a permanent pier on the observatory floor.  There was
-also the 14-in Celestron and two 8-inch models which I hauled around
-to do observing programs.  I observed a large portion of the Messier
-catalog on those 8-inches.</p>
-
-<h2>RV-6 Dynascope</h2>
-
-<p>The classic Criterion 6-in f/8 is a telescope I never owned or used
-but I&rsquo;ve seen and looked through the RV-6.  I think there might have
-been one added to the observatory collection after my time.  This
-telescope and the corresponding Edmund Scientific 6-in f/8 Newtonian,
-were the telescopes I dreamed most about in my early, teen astronomer
-years.</p>
-
-<h2>Coulter Dobs</h2>
-
-<p>Dobsonian telescopes, which came to light around the turn of the
-decade to 1980, changed amateur astronomy.  Large apertures became
-affordable and usable.  I built my own 10-inch f/4.5 but bought the
-optics from Coulter.</p>
-
-<p><a href="http://oneminuteastronomer.com/918/5-classic-telescopes/">5 Classic Telescopes That Changed Amateur Astronomy</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hans Zimmer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/14/hans-zimmer/"/>
-    <updated>2016-11-14T23:39:00-05:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/14/hans-zimmer</id>
-    <content type="html"><![CDATA[<p>Trey Ratcliff writes about photographing Hans Zimmer, his crew, and an
-orchestra recording a score for one of the Batman movies.  The story
-is entertaining and amazing.  The photographs are exquisite.</p>
-
-<p><a href="http://www.stuckincustoms.com/2016/11/03/behind-the-scenes-with-hans-zimmer/">Behind The Scenes With Hans Zimmer</a><br />
-<a href="http://www.stuckincustoms.com">Stuck in Customs</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Unreadable Web]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web/"/>
-    <updated>2016-11-01T00:27:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/unreadable-web</id>
-    <content type="html"><![CDATA[<p>Kevin Marks has written an excellent article on how web pages are
-being made very hard to read because it&rsquo;s the in-style thing to do.</p>
-
-<!-- More -->
-
-
-<blockquote><p>There’s a widespread movement in design circles to reduce the contrast
-between text and background, making type harder to read. Apple is
-guilty. Google is, too. So is Twitter.</p>
-
-<p>Typography may not seem like a crucial design element, but it is. One
-of the reasons the web has become the default way that we access
-information is that it makes that information broadly available to
-everyone. “The power of the Web is in its universality,” wrote Tim
-Berners-Lee, director of the World Wide Web consortium. “Access by
-everyone regardless of disability is an essential aspect.”</p></blockquote>
-
-<p><a href="https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.70urt9e64">How the Web Became Unreadable</a><br/></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DOS IOT Botnet Attack]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack/"/>
-    <updated>2016-11-01T00:22:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/dos-iot-botnet-attack</id>
-    <content type="html"><![CDATA[<p>There&rsquo;s been a lot of discussion about the insecurity of the internet
-of things (IOT) devices such as security cameras, DVRs, thermostats
-and more.  Frankly, many of these are Linux systems that are poorly
-prepared from a security standpoint and sometimes blatantly exposed.
-Such devices were used in the recent, massive attacks against the DNS
-service.</p>
-
-<!-- More -->
-
-
-<blockquote><p>&ldquo;We&rsquo;re seeing attacks coming from a number of different locations,&rdquo;
-Drew said. &ldquo;An Internet of Things botnet called Mirai that we
-identified is also involved in the attack.&rdquo;</p>
-
-<p>The botnet, made up of devices like home Wi-Fi routers and Internet
-protocol video cameras, is sending massive numbers of requests to
-Dyn&rsquo;s DNS service. Those requests look legitimate, so it&rsquo;s difficult
-for Dyn&rsquo;s systems to screen them out from normal domain name lookup
-requests.</p></blockquote>
-
-<p><a href="http://arstechnica.com/security/2016/10/double-dip-internet-of-things-botnet-attack-felt-across-the-internet/">Double-dip Internet-of-Things botnet attack felt across the Internet</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rowhammer]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer/"/>
-    <updated>2016-11-01T00:18:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/rowhammer</id>
-    <content type="html"><![CDATA[<p>Rowhammer is a sophisticated, clever and dangerous way to attack
-computers and Android phones.  Dan Goodin reports in <em>Ars Technica.</em></p>
-
-<!-- More -->
-
-
-<blockquote><p>Researchers have devised an attack that gains unfettered &ldquo;root&rdquo; access
-to a large number of Android phones, exploiting a relatively new type
-of bug that allows adversaries to manipulate data stored in memory
-chips.</p></blockquote>
-
-<p><a href="http://arstechnica.com/security/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/">Using Rowhammer bitflips to root Android phones is now a thing</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Email Phishing Attack]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack/"/>
-    <updated>2016-11-01T00:10:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/11/01/email-phishing-attack</id>
-    <content type="html"><![CDATA[<p>Well, in my earlier post on security tips I mentioned links in email.
-According to an article in <em>Business Insider</em>, that&rsquo;s exactly how John
-Podesta&rsquo;s account was compromised.</p>
-
-<!-- More -->
-
-
-<blockquote><p>Simply put: Rather than clicking a legitimate link from Google, he
-apparently clicked through to a fake website run by hackers. When he
-entered his account information, he handed over the keys to his
-Gmail.</p></blockquote>
-
-<p>This article by Ben Gilbert goes into some detail about how this was
-done.  It was an easy effort by the attacker and could have been
-avoided with a bit more care on the part of the user.  He even did the
-right thing in reporting it to his IT support but still clicked the
-dangerous link in the email.</p>
-
-<p><a href="http://www.businessinsider.com/hillary-clinton-campaign-john-podesta-got-hacked-by-phishing-2016-10">Hillary Clinton&rsquo;s campaign got hacked by falling for the oldest trick
-in the book</a><br /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What's going on inside Lithium Ion Batteries?]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries/"/>
-    <updated>2016-10-23T07:32:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/23/whats-going-on-inside-lithium-ion-batteries</id>
-    <content type="html"><![CDATA[<p>Steve Gibson from Security Now provided two excellent sources this
-week explaining what&rsquo;s happening when lithium ion batteries fail.</p>
-
-<!-- More -->
-
-
-<p>From Paul O’Shea, Editor, <em>Power Electronics News</em> interviewing Nadim
-Maluf, CEO of Qnovo, and Robert Nalesnik, VP of Marketing for Qnovo.</p>
-
-<blockquote><p>Now, let’s examine one particular manufacturing defect in which a
-slight misalignment between the anode and cathode occurs during the
-assembly process. The same structure as above now has the anode layer
-shifted slightly to the right. At the misaligned edge, the requisite
-overlap of the anode relative to the cathode is now diminished or even
-possibly eliminated. The anode/cathode ratio at this spot drops below
-the requisite limit for ensuring safety. The result is the onset of
-lithium metal at this edge. The lithium metal forms on the anode
-edge. As the lithium metal grows in size and thickness, it ultimately
-punctures the separator and causes an electrical short between the
-anode and cathode. Boom! There is a catastrophic failure.</p>
-
-<p>The tolerance requirements in the manufacturing of lithium-ion
-batteries have risen sharply with increasing energy density. Short of
-using new materials (which still do not exist in commercial
-deployment), increasing the energy density means reducing all the
-extra space inside the battery that is not made of anode and cathode
-materials. These are the only two materials that store energy;
-n> everything else is just overhead. They are still needed for other
-functions and safety, but they do not contribute to storing electrical
-charge. Therefore, battery designers keep reducing this overhead and,
-in the process, make the manufacturing tolerances even tighter. That
-is a recipe for many disasters to come unless we start adding a lot
-more intelligence to the battery to avoid and mitigate these
-undesired situations.</p></blockquote>
-
-<p><a href="http://www.powerelectronicsnews.com/technology/pushing-to-the-very-edge-of-safe-li-ion-charging">Pushing to the very edge of safe Li-ion charging</a><br /></p>
-
-<p>From the Qnovo blog.</p>
-
-<p><a href="http://qnovo.com/104-perils-4-4-volts/">104. The Perils of 4.4 Volts</a><br />
-<a href="http://qnovo.com/103-real-science-behind-exploding-batteries/">103. The Real Science Behind Battery Safety</a><br />
-<a href="http://qnovo.com/102-easy-not-right-pick-samsung/">102. It’s Easy, but Not Right, to Pick on Samsung</a><br />
-<a href="http://qnovo.com/101-making-sense-100-kwh/">101. Making Sense of 100 kWh</a><br />
-<a href="http://qnovo.com/100-state-lithium-ion-battery/">100. The State of the Lithium Ion Battery</a><br /></p>
 ]]></content>
   </entry>
   

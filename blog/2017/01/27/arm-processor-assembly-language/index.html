@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>ARM Processor Assembly Language - Monolith149 Daily</title>
+  <meta name="author" content="Ken Guyton">
+
+  
+  <meta name="description" content="The ARM is one of the most popular processors today. Think the
+iPhone, Raspberry Pi. I decided I should learn more about it since I
+knew almost &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/arm-processor-assembly-language">
+  <link href="/m149daily-blog/favicon.png" rel="icon">
+  <link href="/m149daily-blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Monolith149 Daily" type="application/atom+xml">
+  <script src="/m149daily-blog/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/m149daily-blog/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Lato:regular,italic,bold,bolditalic,medium" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-42103463-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/m149daily-blog/">Monolith149 Daily</a></h1>
+  
+    <h2>Another place to see what KG is doing...</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:kmggh.github.io/m149daily-blog/" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/m149daily-blog/">Blog</a></li>
+  <li><a href="/m149daily-blog/blog/archives">Archives</a></li>
+  <li><a href="/m149daily-blog/about/">About</a></li>
+  <li><a href="/m149daily-blog/blog/categories/favorites//">Favorites</a></li>
+  <li><a href="/m149daily-blog/telescope/">Telescope</a></li>
+  <li><a href="/m149daily-blog/copyright">Copyright</a></li>
+  <li><a href="/m149daily-blog/atom.xml">RSS</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">ARM Processor Assembly Language</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2017-01-27T05:05:00-05:00" pubdate data-updated="true">Fri 27 Jan 2017  05:05 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>The ARM is one of the most popular processors today.  Think the
+iPhone, Raspberry Pi.  I decided I should learn more about it since I
+knew almost nothing about the ARM architecture.</p>
+
+<!-- More -->
+
+
+<p>From Wikipedia, &ldquo;In 2005, about 98% of all mobile phones sold used at
+least one ARM processor. In 2010, producers of chips based on ARM
+architectures reported shipments of 6.1 billion ARM-based processors,
+representing 95% of smartphones, 35% of digital televisions and
+set-top boxes and 10% of mobile computers. In 2011, the 32-bit ARM
+architecture was the most widely used architecture in mobile devices
+and the most popular 32-bit one in embedded systems. In 2013, 10
+billion were produced and &lsquo;ARM-based chips are found in nearly 60
+percent of the world’s mobile devices.&rsquo;&rdquo;</p>
+
+<p>The short version is the following.  The ARM 32-bit processor has 16
+general purpose 32-bit registers, though R14 and R15 are the stack
+pointer and program counter, with an orthogonal set of instructions.
+There&rsquo;s the so-called &ldquo;Thumb&rdquo; set of instructions.  If you use this
+subset, the instructions can be &ldquo;compressed&rdquo; into 16-bit instructions.</p>
+
+<p>Orthogonal means you don&rsquo;t need dedicated instructions for particular
+registers, e.g., &ldquo;LDA&rdquo; to load a value into the accumulator, or &ldquo;STX&rdquo;
+to store a value from an X index register into a memory location.
+These instructions look like &ldquo;MOV R2, R3&rdquo; to move a value from R3 into
+R2.</p>
+
+<p>At some point it occurred to me that it should be pretty
+straightforward to write and run assembler on a Raspberry Pi running
+Raspbian Linux.  Voilà!</p>
+
+<p>There&rsquo;s an excellent series called &ldquo;ARM Assembler in Raspberry Pi.&rdquo;
+The posts are broken out into small chapters.  This set of examples
+uses the gcc compiler to assemble .s files.  It pulls in the C
+overhead to make an executable file.</p>
+
+<h2>First Program</h2>
+
+<p>Here&rsquo;s my first program</p>
+
+<pre><code>.global main
+
+main:            
+    mov r0, #2  /* Put 2 in register r0. */
+    bx lr       /* Return from main. */
+</code></pre>
+
+<p>To assemble and build it:</p>
+
+<pre><code>as -o first.o first.s
+gcc -o first first.o
+
+pi&gt; ls -l
+total 20
+-rwxr-xr-x 1 pi pi 5564 Jan 14 21:38 first
+-rw-r--r-- 1 pi pi  640 Jan 14 21:37 first.o
+-rw-r--r-- 1 pi pi  193 Jan 14 21:37 first.s
+</code></pre>
+
+<p>Run.  The answer is the return code from the program.</p>
+
+<pre><code>pi&gt; ./first
+pi&gt; ./first ; echo $?
+2
+</code></pre>
+
+<p>I found another excellent tutorial by Derek Banas on YouTube which
+showed how to use the Linux &ldquo;ld(1)&rdquo; command to load (link) the
+assembled .o file which has much lower overhead than using the gcc
+compiler.  Of course, how could I have forgotten ld.</p>
+
+<p><a href="https://www.arm.com/products/processors/instruction-set-architectures/index.php">ARM Processor Architecture</a><br />
+<a href="https://en.wikipedia.org/wiki/ARM_architecture">Wikipedia: ARM architecture</a><br />
+<a href="http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter%E2%80%931/">ARM assembler in Raspberry Pi &ndash; Chapter 1</a><br />
+<a href="http://www.davespace.co.uk/arm/introduction-to-arm/">Introduction to ARM</a><br />
+<a href="https://youtu.be/ViNnfoE56V8">Assembly Language Tutorial (Video)</a><br /></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Ken Guyton</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2017-01-27T05:05:00-05:00" pubdate data-updated="true">Fri 27 Jan 2017  05:05 EST</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/m149daily-blog/blog/categories/arm/'>arm</a>, <a class='category' href='/m149daily-blog/blog/categories/computing/'>computing</a>, <a class='category' href='/m149daily-blog/blog/categories/raspberrypi/'>raspberrypi</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/m149daily-blog/blog/2017/01/27/raspberry-pi-device-driver/" title="Previous Post: Raspberry Pi Device Driver">&laquo; Raspberry Pi Device Driver</a>
+      
+      
+        <a class="basic-alignment right" href="/m149daily-blog/blog/2017/02/06/flame-graphs/" title="Next Post: Flame Graphs">Flame Graphs &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2017/02/06/binary-candles/">Binary Candles</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2017/02/06/pine-64/">Pine 64</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2017/02/06/the-tty-demystified/">The TTY Demystified</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2017/02/06/scaling-git-at-microsoft/">Scaling Git at Microsoft</a>
+      </li>
+    
+      <li class="post">
+        <a href="/m149daily-blog/blog/2017/02/06/flame-graphs/">Flame Graphs</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2017 - Ken Guyton All Rights Reserved -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

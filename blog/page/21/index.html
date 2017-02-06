@@ -9,7 +9,7 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="Via @HNTweets Fear And Loathing OF Silicon Valley by Alexia Tsotsis of TechCrunch.
+  <meta name="description" content=" At OpenSignal.com.
 ">
   
 
@@ -90,7 +90,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/18/fear-and-loathing-of-silicon-valley/">Fear and Loathing of Silicon Valley</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/08/05/android-fragmentation-visualized/">Android Fragmentation Visualized</a></h1>
     
     
       <p class="meta">
@@ -106,16 +106,16 @@
   
 
 
-<time datetime="2013-06-18T05:12:00-04:00" pubdate data-updated="true">Tue 18 Jun 2013  05:12 EDT</time>
+<time datetime="2013-08-05T06:40:00-04:00" pubdate data-updated="true">Mon  5 Aug 2013  06:40 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Via <a href="https://twitter.com/HNTweets/status/346905127430520833">@HNTweets</a></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/opensignal_android.png" title="" ></p>
 
-<p><a href="http://techcrunch.com/2013/06/18/no-sympathy-for-the-devil/">Fear And Loathing OF Silicon Valley</a> by Alexia Tsotsis of TechCrunch.</p>
+<p><a href="http://opensignal.com/reports/fragmentation-2013/">At OpenSignal.com</a>.</p>
 </div>
   
   
@@ -128,7 +128,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/18/a-very-helpful-apple-salesperson-helped-me-save-50/">A Very Helpful Apple Salesperson Helped Me Save $750</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/08/05/georgia-techs-massive-open-online-course/">Georgia Tech&#8217;s Massive Open Online Course</a></h1>
     
     
       <p class="meta">
@@ -144,20 +144,20 @@
   
 
 
-<time datetime="2013-06-18T00:03:00-04:00" pubdate data-updated="true">Tue 18 Jun 2013  00:03 EDT</time>
+<time datetime="2013-08-05T05:33:00-04:00" pubdate data-updated="true">Mon  5 Aug 2013  05:33 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130618_macbook_air.jpg" title="" ></p>
+  <div class="entry-content"><p><img class="centered" src="/m149daily-blog/postimages/gatech.jpg" title="" ></p>
 
-<p>Via <a href="https://twitter.com/HNTweets/status/346834662091534336">@HNTweets</a></p>
+<p><a href="http://mobile.slate.com/articles/technology/technology/2013/07/georgia_tech_s_computer_science_mooc_the_super_cheap_master_s_degree_that.html?fb_ref=sm_fb_share_toolbar&amp;original_referrer=http%3A%2F%2Ft.co%2FDDa79FtxK5">The MOOC That Roared</a>  How Georgia Tech’s new, super-cheap online master’s degree could radically change American higher education.
+By Gabriel Kahn at Slate.</p>
 
-<p><a href="http://virtualpants.com/post/53248259631/buying-the-new-macbook-air">Buying the new MacBook Air</a> at Virtual Pants.</p>
-
-<p><em>Image credit: <a href="http://www.flickr.com/photos/pahudson/5128395154/">Paul Hudson at Flickr</a>.  CC by 2.0.</em></p>
+<p><em>Image credit: Steam engine at Georgia Tech with the Tech Tower in the
+ background by Max Veers, 2007.  CC-BY-SA 2.5.</em></p>
 </div>
   
   
@@ -170,7 +170,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/16/want-a-job/">Want a Job?</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/07/13/kf-notation-for-big-numbers/">KF Notation for Big Numbers</a></h1>
     
     
       <p class="meta">
@@ -186,17 +186,39 @@
   
 
 
-<time datetime="2013-06-16T23:16:00-04:00" pubdate data-updated="true">Sun 16 Jun 2013  23:16 EDT</time>
+<time datetime="2013-07-13T12:28:00-04:00" pubdate data-updated="true">Sat 13 Jul 2013  12:28 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Via Quartz <a href="https://twitter.com/qz/status/346462368924049411">@qz</a></p>
+  <div class="entry-content"><p>As storage grows exponentially, it&rsquo;s getting harder to keep up with
+the specification of data capacity and other big numbers.  Even with
+kilobytes (KB), megabytes (MB), terabytes (TB), etc., by the time we
+get to petabytes (PB), exabytes (EB), zettabytes (ZB), and yottabytes
+(YB), we&rsquo;ve long lost any sense of relative size.</p>
 
-<p>Weekend read: Want a job? Stop complaining and start solving someone
-else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
+<p>I&rsquo;m proposing a notation called K-Factor (KF), which is a size
+converted to base-1024, i.e., it represents how
+many factors of 1024, factors of K, are multiplied together.  The
+K-Factor of a value is just the integer part of it&rsquo;s log-base-1024
+value.  It&rsquo;s easier than it sounds.</p>
+
+<p><img class="center" src="/m149daily-blog/postimages/kf_table.png" title="" ></p>
+
+<p>With such a notation in hand, we can cruise on beyond to 9 KF, 10 KF,
+etc.</p>
+
+<p>Using KF, you might specify a 2-TB disk as a  2-4KF disk and 4 GB of
+RAM as 4 3KF.  Storage space of 16 petabytes would be 16 5KF.</p>
+
+<p>As usual, one would have to recall that a <em>difference</em> between two
+sizes of 1 KF would mean a factor of 1024 larger, a difference of 2 KF
+would be roughly a factor of a million (1024<sup>2</sup>), 3 KF approximately a
+billion, etc.</p>
+
+<p>I have yet to find a similar scheme in the searching I&rsquo;ve done so far.</p>
 </div>
   
   
@@ -209,7 +231,7 @@ else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/16/best-emulators/">Best Emulators</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/26/whats-an-observing-run-really-like/">What&#8217;s an Observing Run Really Like?</a></h1>
     
     
       <p class="meta">
@@ -225,16 +247,29 @@ else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
   
 
 
-<time datetime="2013-06-16T22:22:00-04:00" pubdate data-updated="true">Sun 16 Jun 2013  22:22 EDT</time>
+<time datetime="2013-06-26T05:50:00-04:00" pubdate data-updated="true">Wed 26 Jun 2013  05:50 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Via <a href="https://twitter.com/HNTweets/status/339627174913011712">@HNTweets</a></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130626_Kitt_Peak.jpg" title="" ></p>
 
-<p><a href="http://www.digitaltrends.com/gaming/best-emulators/">NES, SNES, Genesis, N64, and more.</a></p>
+<p>Via <a href="https://twitter.com/universetoday/status/349191149413609474">@universetoday</a></p>
+
+<p><a href="http://www.universetoday.com/103082/behind-the-scenes-at-kitt-peak-observatory-what-is-an-observing-run-really-like/">Behind the Scenes at Kitt Peak Observatory: What is an Observing Run Really Like?</a>
+by Shannon Hall</p>
+
+<p>Kitt Peak used to be the premier US observatory.  Even though there
+are much larger telescopes and sites now, yet it remains an impressive
+place.</p>
+
+<blockquote><p>This is my third trip to Kitt Peak, but my first chance to observe
+on the Mayall 4-meter telescope. The first thing to know about the
+4-meter is that it is a colossal maze. Literally.  There are 16
+stories of rooms, now obsolete and out of date, before reaching the
+base of the telescope itself.</p></blockquote>
 </div>
   
   
@@ -247,7 +282,7 @@ else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/15/prism/">PRISM</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/26/what-was-that-super-moon/">What Was That Super Moon?</a></h1>
     
     
       <p class="meta">
@@ -263,24 +298,32 @@ else’s problems <a href="http://qz.com/92344">http://qz.com/92344</a></p>
   
 
 
-<time datetime="2013-06-15T13:55:00-04:00" pubdate data-updated="true">Sat 15 Jun 2013  13:55 EDT</time>
+<time datetime="2013-06-26T05:25:00-04:00" pubdate data-updated="true">Wed 26 Jun 2013  05:25 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130615prism.jpg"></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130626_Super_moon.jpg"></p>
 
-<p>Via <a href="https://twitter.com/SAI/status/345902162984972289">@SAI</a></p>
+<p>Via <a href="https://twitter.com/universetoday/status/348480134908612608">@universetoday</a></p>
 
-<p><a href="http://www.businessinsider.com/prism-is-just-the-start-of-nsa-spying-2013-6">This AP article</a> by Stephen Braun, Anne Flaherty, Jack Gillum, and Matt
-Apuzo,  seems to be the most reasonable and seemingly responsible report
-on PRISM that I&rsquo;ve seen yet.  It seems to be pretty much in line with my own
-limited understanding of what the relevant government agencies
-actually do, based on public information.</p>
+<p><a href="http://www.universetoday.com/102763/what-is-a-super-moon/?utm_content=buffer6915b&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">What is a Super Moon?</a></p>
 
-<p><em>Image credit: <a href="http://www.flickr.com/photos/mr_t_in_dc/3234940911/">Mr. T in DC on Flickr. CC BY-ND 2.0.</a></em></p>
+<p>David Dickinson does an excellent job of explaining the so-called
+super moon along with a nice bit of lunar orbital mechanics and
+effects.</p>
+
+<p>The bottom line is that it&rsquo;s not that big a deal.  You probably can&rsquo;t
+tell the difference by looking at the moon.  The weather and other
+local conditions, along with whether the moon is rising or high in the
+sky, have a much greater effect on what you see.</p>
+
+<p>The news buzz of the &ldquo;super moon&rdquo; also causes more people to stop
+and take a moment to look at the moon.  Then they notice, &ldquo;Wow!  That
+thing really is big and bright in the sky!&rdquo;  That&rsquo;s a nice thing that
+astronomers generally just to more often anyway.</p>
 </div>
   
   
@@ -293,7 +336,7 @@ actually do, based on public information.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/15/a-critical-look-at-the-new-mac-pro/">A Critical Look at the New Mac Pro</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/25/the-unix-tree/">The UNIX Tree</a></h1>
     
     
       <p class="meta">
@@ -309,18 +352,24 @@ actually do, based on public information.</p>
   
 
 
-<time datetime="2013-06-15T00:17:00-04:00" pubdate data-updated="true">Sat 15 Jun 2013  00:17 EDT</time>
+<time datetime="2013-06-25T23:06:00-04:00" pubdate data-updated="true">Tue 25 Jun 2013  23:06 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130615.Mac.Pro.png"></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130625_Ritchie_Thompson.jpg" title="" ></p>
 
-<p>Via <a href="https://twitter.com/arstechnica/status/344493459735994368">@arstechnica</a></p>
+<blockquote><p>Welcome to the <a href="http://minnie.tuhs.org/cgi-bin/utree.pl">Unix Tree</a>. Here you can browse the source code and
+manuals of various old versions of Unix. For every file, you can
+also find related files from other versions: this can help show how
+the different versions of Unix are related. Most of the Unix
+versions below come from the <a href="http://www.tuhs.org/wiki/Unix_Archive_Sites">Unix Archive</a>.</p></blockquote>
 
-<p>At <a href="http://arstechnica.com/apple/2013/06/a-critical-look-at-the-new-mac-pro/">Ars Technica</a>.</p>
+<p><em>Image: Dennis Ritchie and Ken Thompson at a pretty well maxed out DEC
+ PDP11 computer and two Teletype model 33 terminals.
+ <a href="http://www.flickr.com/photos/9479603@N02/3311745151/">PanelSwitchman at Flickr. CC BY-NC-ND 2.0</a></em></p>
 </div>
   
   
@@ -333,7 +382,7 @@ actually do, based on public information.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/14/stormy-night/">Stormy Night</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/25/new-football-stadium/">New Football Stadium</a></h1>
     
     
       <p class="meta">
@@ -349,18 +398,25 @@ actually do, based on public information.</p>
   
 
 
-<time datetime="2013-06-14T06:55:00-04:00" pubdate data-updated="true">Fri 14 Jun 2013  06:55 EDT</time>
+<time datetime="2013-06-25T22:55:00-04:00" pubdate data-updated="true">Tue 25 Jun 2013  22:55 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130614_Storm_Reports.gif"></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/june2013-concept-aerial.jpg" title="n" ></p>
 
-<p>Storm reports from the NOAA <a href="http://www.spc.noaa.gov/climo/reports/today.html">Storm Prediction Center</a>.</p>
+<p>The plans for the crazy new Falcons stadium were approved.  <a href="http://ftw.usatoday.com/2013/06/the-plans-for-the-crazy-falcons-stadium-were-approved/">Article</a> from USA Today.</p>
 
-<p><a href="http://www.weather.com/news/big-storm-threat-possible-derecho-20130612">Storms State-by-State</a> from The Weather Channel.</p>
+<blockquote><p>There is a giant, 360-degree, LED Twitter feed going around the top
+of the stadium.</p></blockquote>
+
+<p>Hmm.</p>
+
+<p><img class="center" src="/m149daily-blog/postimages/june2013-concept-southclub-cityview.jpg"></p>
+
+<p><em>Images credit: <a href="http://atlantafalcons.com/">AtlantaFalcons.com</a></em></p>
 </div>
   
   
@@ -373,7 +429,7 @@ actually do, based on public information.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/13/updated-tornado-and-severe-thunderstorm-forecast/">Updated Tornado and Severe Thunderstorm Forecast</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/25/how-does-a-vacuum-coffee-pot-work/">How Does a Vacuum Coffee Pot Work?</a></h1>
     
     
       <p class="meta">
@@ -389,18 +445,18 @@ actually do, based on public information.</p>
   
 
 
-<time datetime="2013-06-13T13:02:00-04:00" pubdate data-updated="true">Thu 13 Jun 2013  13:02 EDT</time>
+<time datetime="2013-06-25T22:46:00-04:00" pubdate data-updated="true">Tue 25 Jun 2013  22:46 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130613MikeSmith.png"></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/640px-Yama_Vac_Pot.JPG"></p>
 
-<p>Via <a href="https://twitter.com/USWeatherExpert/status/345222835515559937">@USWeatherExpert</a></p>
+<p>[VIDEO] <a href="http://www.youtube.com/watch?v=FxIs2GVsqgY">http://www.youtube.com/watch?v=FxIs2GVsqgY</a></p>
 
-<p>At <a href="http://meteorologicalmusings.blogspot.com/2013/06/updated-tornado-and-severe-thunderstorm.html?spref=tw">Mike Smith Enterprises Blog: Updated Tornado and Severe Thunderstorm Forecast</a></p>
+<p><em>Image credit: <a href="http://commons.wikimedia.org/wiki/File:Yama_Vac_Pot.JPG">Proshot04. CC by 3.0</a>.</em></p>
 </div>
   
   
@@ -413,7 +469,7 @@ actually do, based on public information.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/13/significant-severe-weather-threat-today/">Significant Severe Weather Threat Today</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/25/daft-pianists/">Daft Pianists</a></h1>
     
     
       <p class="meta">
@@ -429,19 +485,14 @@ actually do, based on public information.</p>
   
 
 
-<time datetime="2013-06-13T12:42:00-04:00" pubdate data-updated="true">Thu 13 Jun 2013  12:42 EDT</time>
+<time datetime="2013-06-25T06:41:00-04:00" pubdate data-updated="true">Tue 25 Jun 2013  06:41 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/20130613wx.png" title="" ></p>
-
-<p>Via <a href="https://twitter.com/wxbrad/status/345216731297492994">@wxbrad</a> in NC.
-Be watchful in GA.</p>
-
-<p><a href="http://youtu.be/dmOH6gUp_KI">Video</a></p>
+  <div class="entry-content"><p>Cdza cover Daft Punk&rsquo;s &ldquo;Get Lucky.&rdquo; [VIDEO]  <a href="https://www.youtube.com/watch?v=Wf68FTYoGKQ">https://www.youtube.com/watch?v=Wf68FTYoGKQ</a></p>
 </div>
   
   
@@ -454,7 +505,7 @@ Be watchful in GA.</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/12/mercury-farthest-from-sun-on-12-june/">Mercury Farthest From Sun on 12 June</a></h1>
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2013/06/22/first-electronically-stored-program-65-years-ago/">First Electronically Stored Program 65 Years Ago</a></h1>
     
     
       <p class="meta">
@@ -470,20 +521,30 @@ Be watchful in GA.</p>
   
 
 
-<time datetime="2013-06-12T08:37:00-04:00" pubdate data-updated="true">Wed 12 Jun 2013  08:37 EDT</time>
+<time datetime="2013-06-22T07:41:00-04:00" pubdate data-updated="true">Sat 22 Jun 2013  07:41 EDT</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/Mercury_13june12_430.jpg" title="" ></p>
+  <div class="entry-content"><p><img class="center" src="/m149daily-blog/postimages/Williams-tube.jpg" title="" ></p>
 
-<p>Via <a href="https://twitter.com/earthskyscience/status/344794904645480448">@earthskyscience</a></p>
+<p>Via <a href="https://twitter.com/slashdot/status/348387564174065665">@slashdot</a>.</p>
 
-<p>Mercury farthest from sun on sky’s dome on June 12.  <a href="http://earthsky.org/tonight/mercury-at-greatest-evening-elongation-from-sun-on-june-12">Article at EarthSky</a></p>
+<p>Sixty-five Years Ago, Manchester&rsquo;s &lsquo;Baby&rsquo; Ran Electronically Stored Program. <a href="http://hardware.slashdot.org/story/13/06/22/0247220/65-years-ago-manchesters-baby-ran-electronically-stored-program?utm_source=slashdot&amp;utm_medium=twitter">Posting at Slashdot</a>.</p>
+
+<blockquote><p>&ldquo;as the Manchester Small Scale Experimental Machine aka &lsquo;Baby&rsquo; became
+the world&rsquo;s first computer to run an electronically stored program on
+June 21, 1948. The &lsquo;Baby&rsquo; was developed by Frederic C. Williams, Tom
+Kilburn and Geoff Tootill at the University of Manchester.</p></blockquote>
+
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/m149daily-blog/blog/2013/06/22/first-electronically-stored-program-65-years-ago/">Read on &rarr;</a>
+    </footer>
   
 
 
@@ -514,23 +575,23 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2016/12/21/happy-winter-solstice/">Happy Winter Solstice</a>
+        <a href="/m149daily-blog/blog/2017/02/06/binary-candles/">Binary Candles</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2016/12/20/flight-gear/">Flight Gear</a>
+        <a href="/m149daily-blog/blog/2017/02/06/pine-64/">Pine 64</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2016/12/20/usenix-computing-systems/">USENIX Computing Systems</a>
+        <a href="/m149daily-blog/blog/2017/02/06/the-tty-demystified/">The TTY Demystified</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2016/12/20/nasa-made-a-fundamental-mistake/">NASA Made a Fundamental Mistake</a>
+        <a href="/m149daily-blog/blog/2017/02/06/scaling-git-at-microsoft/">Scaling Git at Microsoft</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2016/12/20/crash-course-in-astronomy/">Crash Course in Astronomy</a>
+        <a href="/m149daily-blog/blog/2017/02/06/flame-graphs/">Flame Graphs</a>
       </li>
     
   </ul>
@@ -542,7 +603,7 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2016 - Ken Guyton All Rights Reserved -
+  Copyright &copy; 2017 - Ken Guyton All Rights Reserved -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 

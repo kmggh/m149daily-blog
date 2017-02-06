@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: containers | Monolith149 Daily]]></title>
+  <link href="http://kmggh.github.io/m149daily-blog//blog/categories/containers/atom.xml" rel="self"/>
+  <link href="http://kmggh.github.io/m149daily-blog//"/>
+  <updated>2017-02-06T07:33:20-05:00</updated>
+  <id>http://kmggh.github.io/m149daily-blog//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Deep Seated Container Vulnerability]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/01/27/deep-seated-container-vulnerability/"/>
+    <updated>2017-01-27T04:40:00-05:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/01/27/deep-seated-container-vulnerability</id>
+    <content type="html"><![CDATA[<p>&ldquo;A vulnerability in container operations has been brought to light by
+Docker and other parties and illustrates why lack of multiple years of
+experience with containers makes some implementers cautious. A command
+to execute the RunC part of the Linux kernel under rare but
+exploitable circumstances can result in a container process getting a
+chance to inspect file descriptors on the host.&rdquo;</p>
+
+<p><a href="http://www.informationweek.com/cloud/infrastructure-as-a-service/deep-seated-container-vulnerability-found-corrected/d/d-id/1327917">Deep-Seated Container Vulnerability Found, Corrected</a></p>
+]]></content>
+  </entry>
+  
+</feed>
