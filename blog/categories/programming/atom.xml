@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Monolith149 Daily]]></title>
   <link href="http://kmggh.github.io/m149daily-blog//blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kmggh.github.io/m149daily-blog//"/>
-  <updated>2017-02-06T07:33:20-05:00</updated>
+  <updated>2017-03-28T08:03:41-04:00</updated>
   <id>http://kmggh.github.io/m149daily-blog//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[APL Life]]></title>
+    <link href="http://kmggh.github.io/m149daily-blog//blog/2017/03/28/apl-life/"/>
+    <updated>2017-03-28T07:38:00-04:00</updated>
+    <id>http://kmggh.github.io/m149daily-blog//blog/2017/03/28/apl-life</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s certainly true that Conway&rsquo;s Game of Life is one of those
+wonderful toys that&rsquo;s brings joy when you take it out of the drawer
+every once in a while.</p>
+
+<p>There was a post this morning based around a Youtube video of a full
+implementation of Life written in APL, as a single function of course.</p>
+
+<!-- More -->
+
+
+<p>In school we had the opportunity to dabble in APL in a survey of
+languages class that was part of the typical core of computer science
+classes.  There were one or two actual APL terminals in the terminal
+cluster.  APL uses Greek letters along with the usual alphabet to
+create a very concise and brief language and an actual APL terminal
+had all of those characters on the keyboard.  If you didn&rsquo;t have an
+APL terminal, then you had to resort to using short key words
+instead.  Another guy on the hall of my dorm, who was an actual computer
+science major (it was called information and computer science, ICS)
+would go over to the cluster and play around with APL.</p>
+
+<p>APL and LISP were the first purely functional programming languages I
+had any experience with.  I knew they weren&rsquo;t like regular procedural
+programs and everything was composed of functions, but I don&rsquo;t think
+the term functional programming even existed then.  I also don&rsquo;t think
+the dichotomy of functional programming vs. object-oriented
+programming.  Smalltalk was still working through it&rsquo;s early childhood
+at Xerox PARC.</p>
+
+<p>Leap to the present and this wonderful video of the development of the
+Game of Life using APL.  It&rsquo;s a joy to watch.  Don&rsquo;t be put off by the
+strange Greek operators.  Watch the matrices as they are formed.  You
+may feel like you&rsquo;re getting lost but, for Life enthusiasts, when he
+adds the offsets to get the neighbor counts I think you&rsquo;ll see what&rsquo;s
+happening.  It&rsquo;s incredibly brilliant.</p>
+
+<p>Then Curtis Autery posted this wonderful primer on APL after
+experiencing the difficulty of finding good APL information on-line.
+He&rsquo;s done a great service to the language.</p>
+
+<p><a href="https://youtu.be/a9xAKttWgP4">Conway&rsquo;s Game Of Life in APL</a><br />
+<a href="https://curtisautery.appspot.com/5776042744610816">A deep dive into APL</a><br /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scaling Git at Microsoft]]></title>
@@ -104,19 +154,6 @@ it&rsquo;s true.</p>
     <content type="html"><![CDATA[<p><a href="http://hn.premii.com/#/article/12690842">You might not need JavaScript</a></p>
 
 <p><a href="http://youmightnotneedjquery.com">You Might Not Need Jquery</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The C Programming Language]]></title>
-    <link href="http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language/"/>
-    <updated>2016-10-04T01:15:00-04:00</updated>
-    <id>http://kmggh.github.io/m149daily-blog//blog/2016/10/04/the-c-programming-language</id>
-    <content type="html"><![CDATA[<p>The classic &ldquo;The C Programming Language&rdquo; by Kernighan and Ritchie is
-online in full at the below link.  This is the second edition from
-1988.</p>
-
-<p><a href="https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf">The C Programming Language</a></p>
 ]]></content>
   </entry>
   
