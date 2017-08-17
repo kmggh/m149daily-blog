@@ -9,8 +9,9 @@
   <meta name="author" content="Ken Guyton">
 
   
-  <meta name="description" content="From Wired by Joao Medeiros. Hawking is very attached to his voice: in 1988, when Speech Plus gave
-him the new synthesizer, the voice was different &hellip;">
+  <meta name="description" content="The systemd-nspawn command runs a command or OS in a lightweight
+namespace container
+&ldquo;In many ways it is similar to chroot(1), but more &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -90,6 +91,642 @@ him the new synthesizer, the voice was different &hellip;">
       
   <header>
     
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/04/26/docker-without-docker/">Docker Without Docker</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-04-26T14:08:00-04:00" pubdate data-updated="true">Sun 26 Apr 2015  14:08 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><ul>
+<li><p>The systemd-nspawn command runs a command or OS in a lightweight
+namespace container</p></li>
+<li><p>&ldquo;In many ways it is similar to chroot(1), but more powerful since it
+fully virtualizes the file system hierarchy, as well as the process
+tree, the various IPC subsystems and the host and domain name.&rdquo;</p></li>
+</ul>
+</blockquote>
+
+<p>Trying it out (from the article):</p>
+
+<pre><code>systemd-nspawn -D debian-tree/ /bin/echo "hello, outside world!"
+$ systemd-nspawn -D debian-tree/ /bin/bash 
+$ systemd-nspawn -D debian-tree/ /sbin/init
+</code></pre>
+
+<blockquote><p>Some cool things you can do with systemd-nspawn:</p>
+
+<p>&ldquo;Execute this command on my root filesystem, but roll back any changes
+at the end&rdquo;</p>
+
+<p>&ldquo;Run nginx inside its own container on boot, but limit it to 512 MB of
+RAM and 200% CPU&rdquo;</p>
+
+<p>&ldquo;Give me a container that has its own private network and its own IP
+and MAC addresses, but map certain ports on the host to the container&rdquo;</p>
+
+<p>&ldquo;Run this container with its own daemons in it, and monitor them to
+make sure they don&rsquo;t fail&rdquo;</p>
+
+<p>&ldquo;Download this container from the Docker Hub and run it every time I
+boot, but without installing Docker&rdquo;</p></blockquote>
+
+<p><a href="https://chimeracoder.github.io/docker-without-docker/#1">Docker Without Docker</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/04/18/so-long-walter-h-haas/">So Long Walter H. Haas</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-04-18T15:11:00-04:00" pubdate data-updated="true">Sat 18 Apr 2015  15:11 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p>Haas devoted his entire life to the study of the Moon and planets.</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>At a time when professional astronomers held little regard for amateur
+observers beyond their meteor and variable-star reports, Haas changed
+the paradigm. First, he published (in 1938, at age 21) his in-depth
+observations of brightness changes around major lunar craters. Then,
+four years later, he followed with a four-part, 76-page opus titled
+&ldquo;Does Anything Ever Happen on the Moon?&rdquo; that appeared in the Journal
+of the Royal Astronomical Society of Canada. These became the opening
+salvo in a lifelong quest &ldquo;to arouse interest in a neglected branch of
+astronomy.&rdquo;</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>On March 1, 1947, while still at UNM, he dispatched a self-produced
+6-page newsletter titled The Strolling Astronomer. Haas already
+envisioned this simple missive becoming something bigger: it was
+subtitled &ldquo;Association of Lunar and Planetary Observers&rdquo; and branded
+with &ldquo;Volume 1, Number 1.&rdquo; By the second issue, a month later, the
+budding ALPO had grown to 41 members. Within six years, the
+association boasted 350 members from all around the world.</p></blockquote>
+
+<p><a href="http://www.skyandtelescope.com/astronomy-news/walter-haas-1917-2015-04072015/">Walter H. Haas (1917–2015) by Kelly Beatty</a><br /></p>
+
+<p><a href="http://www.alpo-astronomy.org/">ALPO</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/03/23/the-terrible-technical-interview/">The Terrible Technical Interview</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-03-23T08:40:00-04:00" pubdate data-updated="true">Mon 23 Mar 2015  08:40 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>An article from Tech Crunch by Jon Evans on how bad current interview
+practices are.  It&rsquo;s quite interesting and echoes a lot of my
+coworkers&#8217; and my recent sentiments.</p>
+
+<blockquote><p>Traditional technical interviews are terrible for everyone. They’re a
+bad way for companies to evaluate candidates. They’re a bad way for
+candidates to evaluate companies. They waste time and generate stress
+on both sides. Almost everyone, if pressed, will admit this. And yet
+they persist.</p></blockquote>
+
+<p>His solution:  Every candidate should bring with them a personal side
+project the have done (this assumes a programming project) that they
+can present in detail including code walk throughs and answering
+questions.  The interviewer should be prepared to look at this in lieu
+of asking white board questions and such.  This is a fascinating idea,
+an excellent use of everyone&rsquo;s time, and could really change the whole
+process for the better.  I don&rsquo;t hold a lot of hope this idea would
+ever be widely adopted, if even adopted at all, but maybe.</p>
+
+<p><a href="http://techcrunch.com/2015/03/21/the-terrible-technical-interview/">The Terrible Technical Interview</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/03/23/gmail-inbox-mistake/">Gmail Inbox Mistake</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-03-23T08:13:00-04:00" pubdate data-updated="true">Mon 23 Mar 2015  08:13 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Well, that was a mistake.  To a large degree I really like Gmail&rsquo;s new
+Inbox IOS app, and the desktop version doesn&rsquo;t look bad either.  I&rsquo;ve
+used it on a rarely-used account and recently added in anther,
+more-often-used account so I could try out more interaction.  I heard
+someone on a podcast say, It doesn&rsquo;t really affect your regular Gmail
+interface interactions so you can use both at the same time.  That
+seemed to be the case to me, so I thought, okay, I&rsquo;ll just fire it up
+on my main Gmail account.</p>
+
+<p>That was a mistake.</p>
+
+<p>So it does have an effect in a particular way.  I should have seen
+it.  The Gmail model is to treat messages like to do items and mark
+them as &ldquo;Done&rdquo; when you are finished with them, instead of marking
+them as &ldquo;Read.&rdquo;  Marking as &ldquo;Read&rdquo; is still there but it&rsquo;s
+independent.  Of course, &ldquo;Done&rdquo; is yet another label though it doesn&rsquo;t
+show up in the list of labels so maybe it&rsquo;s more a kind of state.
+However, you can search in the regular Gmail for &ldquo;label:done&rdquo; and it
+will find your done messages.  (That&rsquo;s giving away the ending).</p>
+
+<p>With the Inbox app, you can go through and use the little &ldquo;sweep&rdquo;
+icons to sweep away large collections of messages as &ldquo;Done,&rdquo; all in
+one, uh, swoop.  Fortunately, it didn&rsquo;t seem to let me do more than
+one month at a time.  I finally got tired of that, but then went back
+to check the Gmail view.</p>
+
+<p>My mistake was thinking &ldquo;Done&rdquo; in the Inbox app meant &ldquo;mark as Read&rdquo;
+in the Gmail app, which was wrong.  So I&rsquo;d moved hundreds of messages
+out of my Inbox to who knows where.  Well now we all know they no
+longer had the Inbox label and now had the Done label or state.  (And,
+yes, I&rsquo;m now going to stop using the quotes around all of these states
+and labels).  Also, as we all should know, in Gmail, you don&rsquo;t move
+anything but only ever add and remove labels.</p>
+
+<p>Well, that was a big change.  Part of my Gmail organization, written
+about recently, is how I keep some things in the Inbox and some bypass
+it and are only in labels.</p>
+
+<p>Now I&rsquo;d moved the Inbox-only items completely out of site, read or
+unread.</p>
+
+<p>Thinking quickly, too quickly, and acting too quickly, I realized I
+could try the search &ldquo;label:done&rdquo; and find them all.  So I just took
+that list, clicked the upper left box to check all on the screen, then
+checked the little link that always pops up that says, &ldquo;Select all
+messages that match this search&hellip;&rdquo; to select <em>all</em> of the Done
+items.  Then I just added the Inbox label back to them.</p>
+
+<p>Except now I move a lot of messages (again, hundreds) into the Inbox
+that formerly my filter had kept from ever being in the Inbox.  My
+levels of email importance, and the underlying sorting, are something
+like this:</p>
+
+<ul>
+<li>Only in the Inbox</li>
+<li>In the Inbox but with a label</li>
+<li>Only in a label (not in the Inbox)</li>
+<li>Only in a label and marked as read on delivery</li>
+</ul>
+
+
+<p>I should have included that list in my previous post.</p>
+
+<p>I was finally able to mostly clean up this mess by selecting the
+various labels, select all of the messages, which now had the Inbox
+label, and click the Archive operation.  Archive is Gmail-speak for
+special operation that just removes the Inbox label.</p>
+
+<p>I should never have believed that the Inbox app would be harmless and
+wouldn&rsquo;t have some effect on my regular Gmail account.  Gmail
+desperately wants to manage my email for me (to the point of just
+taking it over) and, as much as I really like Gmail and think it&rsquo;s by
+far the best email solution, I have to beat it down hard with a big
+stick every time it raises it&rsquo;s head and tries to attack my email with
+unwanted help.  It&rsquo;s exhausting.</p>
+
+<p>That&rsquo;s a metaphor for Google in general and will probably eventually
+lead, in some large part, to their downfall.</p>
+
+<p>I still like a lot about the Inbox app and it&rsquo;s interface and I&rsquo;ll
+keep experimenting with a much less important account.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/03/20/is-os-x-yosemite-10-dot-10-is-safe-without-anti-virus/">Is OS X Yosemite 10.10 Is Safe Without Anti Virus?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-03-20T05:11:00-04:00" pubdate data-updated="true">Fri 20 Mar 2015  05:11 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In the Apple Support Communities, Linc Davis gives an excellent
+answer to this question with a summary of the built-in security
+features of OS X 10.10 and the additional precautions you should take.</p>
+
+<blockquote><p>All versions of OS X since 10.6.7 have been able to detect known
+Mac malware in downloaded files, and to block insecure web
+plugins. This feature is transparent to the user. Internally Apple
+calls it &ldquo;XProtect.&rdquo;</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>Starting with OS X 10.7.5, there has been a second layer of
+built-in malware protection, designated &ldquo;Gatekeeper&rdquo; by Apple. By
+default, applications and Installer packages downloaded from the
+network will only run if they&rsquo;re digitally signed by a developer with
+a certificate issued by Apple. Software certified in this way hasn&rsquo;t
+necessarily been tested by Apple, but you can be reasonably sure that
+it hasn&rsquo;t been modified by anyone other than the developer. His
+identity is known to Apple, so he could be held legally responsible if
+he distributed malware. That may not mean much if the developer lives
+in a country with a weak legal system (see below.)</p></blockquote>
+
+<p>&hellip;</p>
+
+<blockquote><p>Starting with OS X 10.8.3, a third layer of protection has been
+added: a &ldquo;Malware Removal Tool&rdquo; (MRT). MRT runs automatically in the
+background when you update the OS. It checks for, and removes, malware
+that may have evaded the other protections via a Java exploit (see
+below.) MRT also runs when you install or update the Apple-supplied
+Java runtime (but not the Oracle runtime.) Like XProtect, MRT is
+effective against known threats, but not against unknown ones. It
+notifies you if it finds malware, but otherwise there&rsquo;s no user
+interface to MRT.</p></blockquote>
+
+<p>His answer is the third one down.</p>
+
+<p><a href="https://discussions.apple.com/thread/6624843">Is OS X Yosemite 10.10 is safe without anti virus?</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/03/20/happy-vernal-equinox/">Happy Vernal Equinox</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-03-20T05:00:00-04:00" pubdate data-updated="true">Fri 20 Mar 2015  05:00 EDT</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Happy vernal equinox, today at 18:45 EDT, 22:45 UTC.</p>
+
+<p>Fri 2015-03-20 18:45:00 -0400<br />
+Fri 2015-03-20 22:45:00 +0000<br /></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Equinox">Equinox</a><br />
+<a href="">Everything you need to know: September equinox</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/02/23/dealing-with-email/">Dealing With Email</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-02-23T06:18:00-05:00" pubdate data-updated="true">Mon 23 Feb 2015  06:18 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I&rsquo;ve used email since the beginning of the early days of the
+Internet&rsquo;s explosion in the mid-80s.  It&rsquo;s gone through quite an
+evolution as have my methods of managing what is probably a massive
+flood of incoming information.  Since my methods work pretty well for
+me, I really wouldn&rsquo;t know.</p>
+
+<p>Lately I hear people either discussing how they fight their huge
+battle with email, sometimes winning and sometimes losing, and I&rsquo;m
+struck by how often they seem to miss some techniques I&rsquo;ve taken for granted
+for years now.</p>
+
+<p>In my current job I spend about 20 minutes reading email in the
+morning.  After that, all of the email labels (basically folders if
+that&rsquo;s the paradigm you use) are read, I&rsquo;m at what is sometimes called
+&ldquo;inbox zero.&rdquo;  Throughout the rest of the day, I watch for occasional
+emails from my team and the chain of people I report to.  That&rsquo;s
+basically it.  I never see an email message that I wouldn&rsquo;t want to.</p>
+
+<p>Here are the main techniques that I&rsquo;ve found success in using.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/m149daily-blog/blog/2015/02/23/dealing-with-email/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/nixos-linux/">NixOS Linux</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T08:04:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  08:04 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I don&rsquo;t recall hearing of NixOS Linux until a tweet crossed my Twitter
+feed about a new release during the week between Christmas and New
+Year&rsquo;s.  I looked it up and was fascinating by the new ideas and
+approaches there.  Here&rsquo;s my awkward summar.</p>
+
+<ul>
+<li>Packages are immutable, like values in a functional language. Making configuration changes involves generating a new package.</li>
+<li>Each package instance, each version, is stored on the system in it&rsquo;s
+own directory.  Files aren&rsquo;t installed all over the place in /usr/local/lib, /usr/lib, /usr/local/bin, etc.</li>
+<li>Due to the above, aliases are much more important than search paths.</li>
+<li>Also, the dependency tree for a package is very straightforward.</li>
+<li>System configuration is via a functional language and is a single expression in one file.</li>
+<li>So you can easily boot and run any configuration, back out changes, etc.</li>
+</ul>
+
+
+<p>I installed it on a Virtual box VM and played with it briefly.  One of
+the first negative things I noticed was a ps listing.  Since each
+package instance is under a single nixos directory with a directory
+named by a long random hash, and since every running process is in a
+bin directory (or some such) in one of those, the path to any running
+program is a bear.</p>
+
+<p>I pulled down nginx.  That was easy.  But then I went to configure it
+and that&rsquo;s where I came face to face with NixOS&#8217; trade off.  You don&rsquo;t
+change files in a package.  As I understand it so far, you add code
+into the single configuration file that essentially edits, in this
+case, the nginx config file in a sort of sed-like way, and produces a
+new package instance that is used.  So a nice and simple config file
+from nginx was turned into a functional language expression that now
+requires me to go learn that language.</p>
+
+<p>I stopped at that point but I&rsquo;m still fascinated by the distribution
+and the ideas there.  There are some nice hard lines and properties of
+cleanliness here.  Once the investment is made in learning the Nix
+config language, it may be straightforward to move on and maintain
+systems.  For a simple server instance this may be something to try.</p>
+
+<p>So, I&rsquo;ll move on with it soon and see how it goes.</p>
+
+<p><a href="http://nixos.org/">Nixos.org</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/bazaar/">Bazaar</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-01-14T07:33:00-05:00" pubdate data-updated="true">Wed 14 Jan 2015  07:33 EST</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>From looking at my development directories, it appears that it was in
+early 2008 that I moved my personal source code control system from
+CVS to Bazaar.  (Before that I&rsquo;d used RCS and even SCCS) I learned
+about Bazaar from a coworker, John.  It was Python-based, the system
+used by Canonical for Ubuntu and I found it to work extremely well.
+Since then, for seven years now, I&rsquo;ve used it for my personal version
+management and also as a shadow version control system at work.</p>
+
+<p>It has been extremely stable for me, fast, and I can&rsquo;t think of any
+trouble I&rsquo;ve ever had with Bazaar.  However, lately I&rsquo;ve seen
+indications that Bazaar is no longer maintained and may be declining
+as a version control choice.  Maybe it was never that popular.</p>
+
+<p>Lately, Git seems to be the version control system of choice and it is
+the system I use every day for work.  I&rsquo;m wondering if I should start
+using it for my personal work.  The command set and, as they say, &ldquo;the
+workflow&rdquo; is different.  It&rsquo;s not friendly to large binary blobs.
+That&rsquo;s probably okay.</p>
+
+<p>I already like it less because, if I want to make a branch of a
+particular version or another branch to work on, there needs to be a
+root branch of sorts, a hub to clone the other branch from.  With
+Bazaar you can just branch any branch, merge changes from it, etc.  So
+now I&rsquo;ll have to make some local hub to clone, push and pull from.
+Yech.  That seems so archaic now.</p>
+
+<p>However, I found this blog post by Jelmer Vernooij who was a primary
+developer of Bazaar.  He basically tells the complete history and also
+how it&rsquo;s finally been abandoned for the most part.  So, I guess I
+should start moving on to git.</p>
+
+<p>I won&rsquo;t even try to convert over my current bzr projects.  There is
+Mercurial which may be worth a look.  Ah well.</p>
+
+<blockquote><p>Contributions from people outside of the Canonical Bazaar team had
+become rare by mid-2011. In early 2012 the members of the Canonical
+Bazaar team were assigned to other projects, though we would still fix
+the occasional bug in Bazaar. Martin left Canonical in April 2012.</p>
+
+<p>During my spare time in the first 6 months of 2012 I tried to finish
+my remaining in-progress branches. After that, I thought I would see
+how it would go.</p>
+
+<p>I think it&rsquo;s time to move on. There are still some things I don&rsquo;t like
+about it, but Git is a decent source code management system. Bazaar
+isn&rsquo;t going anywhere; no doubt there will be users for a few years to
+come, and people contributing fixes, but it hasn&rsquo;t been adopted to the
+level I was hoping.</p></blockquote>
+
+<p><a href="https://www.stationary-traveller.eu/pages/bzr-a-retrospective.html">Bazaar-NG: 7 years of hacking on a distributed version control system</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/m149daily-blog/blog/2015/01/14/how-intel-gave-stephen-hawking-a-voice/">How Intel Gave Stephen Hawking a Voice</a></h1>
     
     
@@ -134,471 +771,6 @@ voice.</p></blockquote>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/21/happy-winter-solstice-2014/">Happy Winter Solstice 2014</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-21T05:53:00-05:00" pubdate data-updated="true">Sun 21 Dec 2014  05:53 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Happy winter solstice!  The event occurs today 21 Dec 2014 at 18:03
-EST.</p>
-
-<p>Sun 2014-12-21 18:03:00 -0500<br />
-Sun 2014-12-21 23:03:00 +0000<br /></p>
-
-<p><a href="http://www.bbc.com/news/magazine-30549149">Why do mornings still get darker after the winter solstice? from BBC News</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/20/siracusa-on-swift/">Siracusa on Swift</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-20T13:05:00-05:00" pubdate data-updated="true">Sat 20 Dec 2014  13:05 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>John Siracusa&rsquo;s review of each OS X version are legendary, but the
-10.10 article has a nice dive down into some of the details of the new
-Swift language and how it&rsquo;s compiled.  There are some impressive
-features here.</p>
-
-<p><a href="http://arstechnica.com/apple/2014/10/os-x-10-10/21/#swift">OS X 10.10 Yosemite: The Ars Technica Review, Swift</a><br />
-<a href="https://developer.apple.com/swift/">Introducing Swift at Apple Developer</a><br /></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/10/buying-a-telescope/">Buying a Telescope</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-10T08:00:00-05:00" pubdate data-updated="true">Wed 10 Dec 2014  08:00 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>In November, during the 30-day blog challenge, I wrote a series of
-posts on buying a telescope.  With slight editing, I&rsquo;ve combined them
-into a single document which also has a link in the menu up top.</p>
-
-<p><a href="http://10.0.0.23/m149daily-blog/telescope/">Buying a Telescope</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/10/go-and-swift/">Go and Swift</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-10T07:57:00-05:00" pubdate data-updated="true">Wed 10 Dec 2014  07:57 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Scott Rosenberg writes &ldquo;Code of Ages, Go and Swift take another step
-up the programming-language ladder.&rdquo;</p>
-
-<p><a href="https://medium.com/backchannel/my-computer-language-is-better-than-yours-58d9c9523644">From Medium</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/10/apple-id-recovery-key/">Warning: Don&#8217;t Lose Your Apple ID Recovery Key</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-10T07:51:00-05:00" pubdate data-updated="true">Wed 10 Dec 2014  07:51 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Setting up two-factor authentication is a good idea, but it&rsquo;s
-important to carefully save your recovery key in a safe place where
-you won&rsquo;t lose it.</p>
-
-<p>This story by Owen Williams makes this point clear.</p>
-
-<p><a href="http://thenextweb.com/apple/2014/12/08/lost-apple-id-learnt-hard-way-careful-two-factor-authentication/">From The Next Web, The dark side of Apple’s two-factor authentication</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/12/05/robert-truax-rocketeer/">Robert Truax - Rocketeer</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-05T06:07:00-05:00" pubdate data-updated="true">Fri  5 Dec 2014  06:07 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>In a time of Richard Branson and Virgin Galactic, along with
-impressive amateur rocketeers and commercial space ventures, we might
-have forgotten about Bob Truax, one of the first commercial, private
-rocket jockeys.</p>
-
-<p>From Wikipedia,</p>
-
-<blockquote><p>Truax also designed the Skycycle X-2, which he unsuccessfully tested
-on April 15, 1972 and June 24, 1973, and which Evel Knievel
-unsuccessfully used at the Snake River Canyon in 1974.</p></blockquote>
-
-<p>And also,</p>
-
-<blockquote><p>The X-3 Volksrocket (other names: Arriba One, Skycycle X-3) was a
-reusable space tourism rocket planned by Robert Truax after Evel
-Knievel provided a $1,000 research grant for a pilot study. Truax
-was looking for volunteers with enough money to help fund the effort
-and who wished to fly aboard his rocket. He got thousands of
-volunteers, but few of them had the financial resources.</p>
-
-<p>The rocket used surplus components and was tested through 1991.</p></blockquote>
-
-<p>There was actually a TV show based on Truax called <em>Salvage 1</em> and
-starring Andy Griffith in 1979.</p>
-
-<p><a href="http://en.wikipedia.org/wiki/Robert_Truax">Wikipedia article on Robert Truax</a>.<br />
-<a href="https://www.youtube.com/watch?v=nuW9bsp3Z2w">Salvage 1 Series Pilot on Youtube</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/21/can-you-cross-a-wormhole/">Can You Cross a Wormhole?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-21T08:04:00-05:00" pubdate data-updated="true">Fri 21 Nov 2014  08:04 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Do worm holes even exist?  At Smithsonian.com, Victoria Jaggard
-writes the article &ldquo;Would Astronauts Survive an Interstellar Trip Through a
-Wormhole?&rdquo;</p>
-
-<p>Given the state of current physics the answer is, No.  The idea of
-worm holes has come and gone in the science world, though it never
-quite leaves.  The Kerr metric solution to Einstein&rsquo;s general
-relativity equations applies to &ldquo;rotating&rdquo; black holes and adds new
-twists, however there&rsquo;s still not really a way for humans to get
-through.</p>
-
-<p>Just like crossing an event horizon is beyond the edge of our
-universe, these ideas are beyond the edge of our science.  Of course
-we don&rsquo;t know everything and I have no doubt there are amazing things
-still to be discovered.  I&rsquo;d never say it can&rsquo;t happen, just that we
-don&rsquo;t have a good mechanism in our current astrophysics toolbox unless
-we toss in a little magic.  Just like it is with faster-than-light
-travel.</p>
-
-<blockquote><p>Despite his ties to the film, [cosmologist Kip] Thorne is also
-pessimistic that a traversable wormhole is even possible, much less
-survivable. &ldquo;If they can exist, I doubt very much that they can form
-naturally in the astrophysical universe,&rdquo; he writes in the book. But
-Thorne appreciates that Christopher and Jonah Nolan, who wrote
-Interstellar, were so keen to tell a story that is grounded in
-science.</p></blockquote>
-
-<p>There&rsquo;s more to come on this topic and other folks have weighed in.</p>
-
-<p><a href="http://www.smithsonianmag.com/science-nature/would-astronauts-survive-interstellar-trip-through-wormhole-180953269/">Would Astronauts Survive an Interstellar Trip Through a Wormhole?</a><br /></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/19/sudden-galaxies/">Sudden Galaxies</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-19T08:12:00-05:00" pubdate data-updated="true">Wed 19 Nov 2014  08:12 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p>A team of astronomers using the Subaru Telescope&rsquo;s Suprime-Cam to
-perform the Subaru Ultra-Deep Survey for Lyman-alpha Emitters have
-looked back more than [<em>z=7</em>] to find 7 early galaxies that
-appeared quite suddenly within 700 million years of the Big Bang. The
-team, led by graduate student Akira Konno and Dr. Masami Ouchi
-(Associate Professor at the University of Tokyo&rsquo;s ICRR) was looking
-for a specific kind of galaxy called a Lyman-alpha emitter (LAE), to
-understand the role such galaxies may have played in an event called
-&ldquo;cosmic reionization&rdquo;.</p></blockquote>
-
-<p>The team looked at distant galaxies that primarily emit Lyman-alpha
-radiation, &ldquo;Lyman-alpha emitters&rdquo; or LAE, and saw fewer than expected,
-further back in time.  There&rsquo;s an apparent sudden cutoff at that
-redshift.  The redshift corresponds to a distance and time in history
-that&rsquo;s model dependent.  The standard big bang model would put this at
-about 13.1 billion years and only 700 million years after the big bang
-itself.  The cosmological-history implication is that these galaxies
-&ldquo;suddenly&rdquo; appear.</p>
-
-<p>One thing is pretty certain.  A cosmological redshift of seven
-indicates the universe was about 1/8 it&rsquo;s current size at the time the
-light they observed was emitted.  That&rsquo;s 1 / (<em>z</em> + 1).</p>
-
-<blockquote><p>According to the team&rsquo;s analysis, one reason that LAEs appeared very
-quickly is cosmic reionization. LAEs in the epoch of cosmic
-reionization became darker than the actual luminosity due to the
-presence of the neutral hydrogen fog. In the team&rsquo;s analysis of their
-observations, they suggest the possibility that the neutral fog
-filling the universe was cleared about 13.0 billion years ago and LAEs
-suddenly appeared in sight for the first time.&#8221;</p>
-
-<p>&ldquo;However, there are other possibilities to explain why LAEs appeared
-suddenly,&rdquo; said Dr. Ouchi, who is the principal investigator of this
-program. &ldquo;One is that clumps of neutral hydrogen around LAEs
-disappeared. Another is that LAEs became intrinsically bright. The
-reason of the intrinsic brightening is that the Lyman-alpha emission
-is not efficiently produced by the ionized clouds in a LAE due to the
-significant escape of ionizing photons from the galaxy. In either
-case, our discovery is an important key to understanding cosmic
-reionization and the properties of the LAEs in early universe.&rdquo;</p></blockquote>
-
-<p><a href="http://phys.org/news/2014-11-subaru-telescope-sudden-galaxies-early.html">Subaru Telescope detects sudden appearance of galaxies in the early universe at phys.org</a><br />
-<a href="http://www.icrr.u-tokyo.ac.jp/2014/11/19120001.html">Press release from ICRR</a><br />
-<a href="http://arxiv.org/pdf/1404.6066v2.pdf">PDF of paper &ldquo;Accelerated Evolution Of The Lyα Luminosity Function At z >~ 7 Revealed By The Subaru Ultra-Deep Survey For Lyα Emitters AT z = 7.3&rdquo;</a><br /></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Dark and Stormy</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-11-18T07:09:00-05:00" pubdate data-updated="true">Tue 18 Nov 2014  07:09 EST</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>While looking for earlier posts about kids and programming, I came
-across this from a 2005-02-08 post.  Someone sent this to me and I
-don&rsquo;t know if it&rsquo;s real or not.  In any event, I enjoyed these.</em></p>
-
-<hr />
-
-<p>These came from the annual &ldquo;Dark and Stormy Night&rdquo; competition. Actual
-analogies and metaphors found in high school essays:</p>
-
-<ol>
-<li>Her face was a perfect oval, like a circle that had its two sides
-gently compressed by a Thigh Master.</li>
-</ol>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/m149daily-blog/blog/2014/11/18/dark-and-stormy/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/m149daily-blog/blog/page/13/">&larr; Older</a>
@@ -624,23 +796,23 @@ be clues about what I&#8217;m thinking. New things learned will also appear.
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2017/04/01/qam/">QAM</a>
+        <a href="/m149daily-blog/blog/2017/08/17/eclipse-resources/">Eclipse Resources</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2017/04/01/robot-arm/">Robot Arm</a>
+        <a href="/m149daily-blog/blog/2017/08/17/eclipse-corona-prediction/">Eclipse Corona Prediction</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2017/04/01/plutos-blue-sky/">Pluto&#8217;s Blue Sky</a>
+        <a href="/m149daily-blog/blog/2017/08/17/eclipse-mechanics/">Eclipse Mechanics</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2017/04/01/event-horizon-telescope/">Event Horizon Telescope</a>
+        <a href="/m149daily-blog/blog/2017/08/17/complete-history-of-ibm-pc/">Complete History of IBM PC</a>
       </li>
     
       <li class="post">
-        <a href="/m149daily-blog/blog/2017/03/28/apl-life/">APL Life</a>
+        <a href="/m149daily-blog/blog/2017/08/17/eclipse-maps-wrong/">Eclipse Maps Wrong</a>
       </li>
     
   </ul>
